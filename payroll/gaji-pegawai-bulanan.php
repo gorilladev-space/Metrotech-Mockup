@@ -156,11 +156,12 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tahun</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Periode Gaji</th>
-											  <th width="3%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Salary</th>
-											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Potongan</th>
+											  <th width="3%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Gaji</th>
+											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Potongan</th>
 											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Pengeluaran</th>
+											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Terbayar</th>
 											  <th colspan="4" bgcolor="#f7fcff">Status</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff">Dibuat</th>
@@ -180,10 +181,12 @@
 												<td width="3%" style="text-align:right" nowrap>500.000,-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
 												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap>Rp.</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -241,10 +244,12 @@
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap>Rp.</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -302,10 +307,12 @@
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap>Rp.</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -363,14 +370,16 @@
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Verified<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+												<td width="1%" style="text-align:center" nowrap>Rp.</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>SPV Keuangan<hr>31 Desember 2018 - 14:30 WITA">
 								<i class="fa flaticon2-check-mark"></i>
 							</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Manager Keuangan<hr>31 Desember 2018 - 14:30 WITA">
 								<i class="fa flaticon2-check-mark"></i>
 							</span></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Terbayar<hr>Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-money-bill-alt"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
