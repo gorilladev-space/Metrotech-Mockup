@@ -220,7 +220,7 @@ function goBack() {
                           <label>Tujuan :</label>
                       <div class="form-group">
 
-					                         <select class="form-control kt-selectpicker form-control" name="param">
+					                         <select class="form-control kt-selectpicker form-control-sm" name="param">
 					 															<optgroup label="Jayapura">
 					 																<option value="AK" selected>Sorong</option>
 					 																<option value="HI">Bantaeng</option>
