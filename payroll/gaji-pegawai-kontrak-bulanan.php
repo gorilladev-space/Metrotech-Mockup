@@ -32,7 +32,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="gaji-pegawai-bulanan-add.php" class="btn btn-info btn-sm">
+                <a href="gaji-pegawai-kontrak-bulanan-add.php" class="btn btn-info btn-sm">
                     <i class="fa fa-plus"></i> Setup Gaji</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
