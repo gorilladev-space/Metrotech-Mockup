@@ -72,6 +72,7 @@
 																</ul>
 															</div>
 														</li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-honor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pegawai Honor</span></a></li>
 										</ul>
 									</div>
 								</li>

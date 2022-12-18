@@ -94,7 +94,7 @@
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Tetap</option>
 						                              <option value="3">Kontrak</option>
-						                              <option value="3">Harian</option>
+						                              <option value="3">Honor</option>
 
 						                          </select>
 						                        </div>
@@ -388,7 +388,7 @@
 																<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par" data-html="true">
 																		<img src="../assets/media/users/100_10.jpg" alt="image">
 																	</a></td>
-																<td width="1%" align="center" valign="middle" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
+																<td width="1%" align="center" valign="middle" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--success kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Jam Masuk : 08:00:00 </br> Jam Pulang : 17:00:00 </br> Jam Kerja : 10:00:00 <hr> Masuk Lembur : -</br> Pulang Lembur : - </br> Jumlah Lembur : -" data-html="true"></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--success kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Jam Masuk : 08:00:00 </br> Jam Pulang : 17:00:00 </br> Jam Kerja : 10:00:00 <hr> Masuk Lembur : -</br> Pulang Lembur : - </br> Jumlah Lembur : -" data-html="true"></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--danger kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Jam Masuk : - </br> Jam Pulang : 17:00:35 </br> Jam Kerja : 06:30:00 <hr> Masuk Lembur : - </br> Pulang Lembur : - </br> Jumlah Lembur : -" data-html="true"></button></td>

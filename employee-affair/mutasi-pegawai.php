@@ -111,6 +111,7 @@
 																			<select class="form-control kt-selectpicker" data-live-search="true">
 			                                      <option value="2" selected="">Pegawai Tetap</option>
 			                                      <option value="2">Pegawai Kontrak</option>
+			                                      <option value="2">Pegawai Honor</option>
 
 			                                  </select>
 						                        </div>
@@ -287,7 +288,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Kontrak</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td style="text-align:center">Mutasi Jabatan</td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center">General Affair Staff</td>
@@ -344,7 +345,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Kontrak</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td style="text-align:center">Mutasi Kantor</td>
 												<td style="text-align:center">Electrical Engineer </td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
@@ -406,7 +407,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Kontrak</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
 												<td style="text-align:center">Mutasi Department</td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center">General Affair Staff</td>
@@ -465,7 +466,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Kontrak</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td style="text-align:center">Mutasi Department</td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center">General Affair Staff</td>

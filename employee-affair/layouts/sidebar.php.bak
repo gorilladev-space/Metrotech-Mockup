@@ -72,6 +72,7 @@
 																</ul>
 															</div>
 														</li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pegawai Honor</span></a></li>
 										</ul>
 									</div>
 								</li>
@@ -144,7 +145,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="tipe-resign.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tipe Resign</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="bank.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Bank</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="provinsi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Provinsi</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="bank.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jenis Peringatan Pegawai</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="peringatan-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jenis Peringatan Pegawai</span></a></li>
 
 										</ul>
 									</div>

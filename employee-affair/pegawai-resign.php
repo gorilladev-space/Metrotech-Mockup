@@ -86,7 +86,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Cari Pegawai :</label>
 												  <select class="form-control kt-selectpicker" data-live-search="true">
 
@@ -133,6 +133,14 @@
 						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
 						                        </div>
 						                      </div>
+						                        </div>
+												<div class="col-lg-1">
+						                          <label class="">Tipe Pegawai :</label>
+						                          <select class="form-control kt-selectpicker" data-live-search="true">
+																							<option value="AK" selected>Tetap</option>
+																							<option value="HI">Kontrak</option>
+																							<option value="HI">Honor</option>
+																						</select>
 						                        </div>
 												<div class="col-lg-1">
 						                          <label class="">Kantor :</label>
@@ -291,7 +299,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -351,7 +359,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -412,7 +420,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Honor</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -475,7 +483,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>

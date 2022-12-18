@@ -86,7 +86,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Pemberi Tugas :</label>
 												  <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -95,7 +95,7 @@
     		                        </span>
     		                    </div>
     		                    </div>
-								<div class="col-lg-3">
+								<div class="col-lg-2">
 						                          <label>Pegawai Pelaksana :</label>
 												  <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -104,6 +104,15 @@
     		                        </span>
     		                    </div>
     		                    </div>
+								<div class="col-lg-2">
+						                          <label>Tipe Pegawai :</label>
+																		<select class="form-control kt-selectpicker" data-live-search="true">
+						                              <option value="2">Pegawai Tetap</option>
+						                              <option value="3">Pegawai Kontrak</option>
+						                              <option value="3">Pegawai Honor</option>
+
+						                          </select>
+						                        </div>
 
 												<div class="col-lg-2">
 						                          <label class="">Tanggal Pengajuan :</label>
@@ -297,7 +306,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="7%" id="kt_table_1">110 201 900</td>
-												<td width="3%" style="text-align:center">Tetap</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="16%" style="text-align:center">Commercial & Business Development</td>
 												<td width="7%" style="text-align:center">Cabang</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -357,7 +366,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Tetap</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="16%" style="text-align:center">Commercial & Business Development</td>
 												<td width="7%" style="text-align:center">Cabang</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -415,7 +424,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td width="16%" style="text-align:center">Commercial & Business Development</td>
 												<td width="7%" style="text-align:center">Pusat</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -479,7 +488,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Honor</span></td>
 												<td width="16%" style="text-align:center">Umum</td>
 												<td width="7%" style="text-align:center">Cabang</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>

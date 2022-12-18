@@ -89,12 +89,18 @@
 						                      <div class="form-group row">
 						                        <div class="col-lg-3">
 						                          <label>Nama Pegawai :</label>
-												  <input type="text" class="form-control form-control-sm" placeholder="9130037 - Maghfirah Sharifudin Andy Omar S.Psi">
+												  <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
 						                        </div>
 						                        <div class="col-lg-2">
 						                          <label>Tipe Pegawai :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Pegawai Tetap</option>
+						                              <option value="3">Pegawai Kontrak</option>
 						                              <option value="3">Pegawai Kontrak</option>
 
 						                          </select>
@@ -284,7 +290,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Tetap</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="3%" style="text-align:center">Pusat</td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="10%">Datang</td>
@@ -338,7 +344,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Tetap</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="3%" style="text-align:center">Pusat</td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="10%">Pulang</td>
@@ -396,7 +402,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td width="3%" style="text-align:center">Cabang Sulawesi Barat</td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="10%">Lembur Masuk</td>
@@ -454,7 +460,7 @@
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
 												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="3%" style="text-align:center">Kontrak</td>
+												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Honor</span></td>
 												<td width="3%" style="text-align:center">Cabang Sulawesi Barat</td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="10%">Lembur Keluar</td>
