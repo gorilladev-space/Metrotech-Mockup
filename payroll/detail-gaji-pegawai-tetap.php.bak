@@ -12,43 +12,28 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Setup Gaji Pegawai Tetap
+											Detail Gaji Pegawai Tetap
 
 									</h3>
+<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Sri Suhartini, SE </span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
 
 								</div>
            <div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="gaji-pegawai-bulanan.php" class="btn btn-label-primary btn-sm">
+				<a href="data-gaji-pegawai-tetap.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
 				&nbsp;
 			</div>
-                <div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Save</span>
-				</button>
-				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				</button>
-				<div class="dropdown-menu dropdown-menu-right">
-					<ul class="kt-nav">
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-reload"></i>
-								<span class="kt-nav__link-text">Simpan Sebagai Draft</span>
-							</a>
-						</li>
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-power"></i>
-								<span class="kt-nav__link-text">Simpan & Keluar</span>
-							</a>
-						</li>
-					</ul>
-				</div>
-			</div>
+                
 
             </div>
         </div>
@@ -186,10 +171,7 @@
 												
 													<div class="col-lg-12">
 														<label>Periode Gaji :</label>
-														<div class="input-group">
-<input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
-<div class="input-group-append">
- <span class="input-group-text"><i class="la la-calendar-check-o"></i></span></div> </div>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1/12/2022 - 28/12/2022">
 													</div>
 
 
@@ -223,10 +205,7 @@
 												
 													<div class="col-lg-6">
 														<label>Nama Pegawai :</label>
-														<select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                              <option value="HI">9130014 - Nurul Insani Budhi Artha, A. Md</option>
-                            </select>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
 													</div>
 													<div class="col-lg-6">
 														<label>NIP :</label>

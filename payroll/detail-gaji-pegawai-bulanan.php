@@ -1,5 +1,6 @@
 <?php require '../layouts/head.php' ?>
 <?php require 'layouts/header.php' ?>
+<link href="../assets/css/pages/invoices/invoice-2.css" rel="stylesheet" type="text/css" />
 
     <!-- begin:: Content Head -->
     <div class="kt-subheader   kt-grid__item" id="kt_subheader">
@@ -11,13 +12,13 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Detail Gaji Pegawai Bulanan
+											Detail Gaji Pegawai Tetap
 
 									</h3>
-								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
 										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											Periode Januari 2019 </span>
+											Sri Suhartini, SE </span>
 										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 
 										</form>
@@ -26,414 +27,733 @@
 								</div>
            <div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="gaji-pegawai-bulanan.php" class="btn btn-label-primary btn-sm">
+				<a href="data-gaji-pegawai-tetap.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
-				<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
-                    <i class="flaticon2-printer"></i> Export Data</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
-                <div class="dropdown-menu dropdown-menu-fit dropdown-menu-md dropdown-menu-right">
-                    <!--begin::Nav-->
-                    <ul class="kt-nav">
-                        <li class="kt-nav__item">
-                            <a href="#" class="kt-nav__link">
-                                <i class="kt-nav__link-icon fa fa-file-pdf"></i><span class="kt-nav__link-text">PDF</span>
-                            </a>
-                          </li>
-                        <li class="kt-nav__item">
-                            <a href="#" class="kt-nav__link">
-                                <i class="kt-nav__link-icon fa fa-file-excel"></i><span class="kt-nav__link-text">Excel</span>
-                            </a>
-                        </li>
-                    </ul>
-                    <!--end::Nav-->
-                </div>
+				&nbsp;
 			</div>
                 
-                
+
             </div>
         </div>
     </div>
     <!-- end:: Content Head -->
 
 	<!-- begin:: Content -->
-	<div class="row">
-		<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
-            <!-- begin:: Alert -->
-            <div class="alert alert-elevate alert-solid-warning alert-bold" role="alert">
-                <div class="alert-icon"><i class="fa fa-info-circle"></i></div>
-                <div class="alert-text">A simple primary alert—check it out!</div>
-                <div class="alert-close">
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                        <span aria-hidden="true"><i class="la la-close"></i></span>
-                    </button>
-                </div>
-            </div>
-            <!-- end:: Alert -->
+<div class="row">
+						<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
+<div class="alert alert-elevate alert-solid-warning alert-bold" role="alert">
+														<div class="alert-icon"><i class="fa fa-info-circle"></i></div>
+														<div class="alert-text">A simple primary alert—check it out!</div>
+														<div class="alert-close">
+															<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+																<span aria-hidden="true"><i class="la la-close"></i></span>
+															</button>
+														</div>
+													</div>
+							<!--begin:: Portlet-->
+              <div class="row">
+              <div class="col-lg-12">
+                <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
 
-            <!--begin::Filter-->
-			<div class="kt-portlet" id = "login_Box_Div" >
-				<div class="kt-portlet__head">
-					<div class="kt-portlet__head-label">
-						<h3 class="kt-portlet__head-title">
-							Filter Data
-						</h3>
-					</div>
-				</div>
+                    <div class="kt-portlet__body">
+                      <div class="row">
+					<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
+							<div class="kt-wizard-v4" id="kt_wizard_v4" data-ktwizard-state="step-first">
 
-				<!--begin::Form-->
-				<form class="kt-form">
-					<div class="kt-portlet__body">
-                        <div class="form-group row">
-						<div class="col-lg-2">
-                                <label class="">Periode Gaji :</label>
-                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Januari</option>
-                                      <option value="2">Februari</option>
-                                      <option value="2">Maret</option>
-                                     
-                                  </select>
-                            </div>
-							<div class="col-lg-1">
-                                <label class="">Tahun :</label>
-                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">2019</option>
-                                      <option value="2">2018</option>
-                                      <option value="2">2017</option>
-                                     
-                                  </select>
-                            </div>
-                            <div class="col-lg-3">
-                                <label>Nama Pegawai :</label>
-    	                       
-        							<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                                      <option value="3" selected="">9130038 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                                      
-                                  </select>
-        					
-                            </div>
-                            <div class="col-lg-2">
-                                <label>Departemen :</label>
+								<!--begin: Form Wizard Nav -->
+								<div class="kt-wizard-v4__nav">
+									<div class="kt-wizard-v4__nav-items">
+
+										<!--doc: Replace A tag with SPAN tag to disable the step link click -->
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-browser"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Setup Gaji
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Setup Penggajian
+													</div>
+												</div>
+													<div class="kt-wizard-v4__nav-number kt-block-center">
+														1
+													</div>
+											</div>
+										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-coins"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Rincian Penghasilan
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Detail Penghasilan Pegawai
+													</div>
+												</div>
+													<div class="kt-wizard-v4__nav-number kt-block-center">
+														2
+													</div>
+											</div>
+										</div>
+										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-rocket"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Rincian Potongan
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Potongan Gaji Pegawai
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													3
+												</div>
+											</div>
+										</div>-->
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-list-1"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Review
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Preview Slip Gaji
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													3
+												</div>
+											</div>
+										</div>
+
+									</div>
+								</div>
+
+								<!--end: Form Wizard Nav -->
+								<div class="kt-portlet">
+									<div class="kt-portlet__body kt-portlet__body--fit">
+										<div class="kt-grid">
+											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
+
+												<!--begin: Form Wizard Form-->
+												<form class="kt-form" id="kt_form">
+
+													<!--begin: Form Wizard Step 1-->
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
+														<div class="kt-form__section kt-form__section--first">
+
+											<div class="row">
+								<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Periode Penggajian</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											<div class="form-group row">
+
+												
+												
+													<div class="col-lg-12">
+														<label>Periode Gaji :</label>
+														<div class="input-group">
+<input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
+<div class="input-group-append">
+ <span class="input-group-text"><i class="la la-calendar-check-o"></i></span></div> </div>
+													</div>
+
+
+
+
+												</div>
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+
+
+												</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								<div class="col-xl-6">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pegawai</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											<div class="form-group row">
+
+												
+												
+													<div class="col-lg-6">
+														<label>Nama Pegawai :</label>
+														<select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
+                              <option value="HI">9130014 - Nurul Insani Budhi Artha, A. Md</option>
+                            </select>
+													</div>
+													<div class="col-lg-6">
+														<label>NIP :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+													</div>
+
+
+
+
+												</div>
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+
+												
+												
+													<div class="col-lg-6">
+														<label>Jabatan :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+													</div>
+													<div class="col-lg-6">
+														<label>Department :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+													</div>
+
+
+
+
+												</div>
+												
+												
+
+
+												</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Petugas</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											
+												
+												
+													<div class="col-lg-12">
+														<label>Nama Pegawai :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+													</div>
+													</div>
+													 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+													<div class="col-lg-12">
+														<label>NIP :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+													</div>
+
+									</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								</div>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Direksi</option>
-                                      <option value="3">Finance</option>
-                                      <option value="4">SDM & UMUM</option>
-                                      <option value="5" selected="">Infrastruktur</option>
-                                      <option value="6">Information Technology</option>
-                                      <option value="12">Creative</option>
-                                      <option value="12" >Commercial & Business Development</option>
-                                  </select>
-                            </div>
-                            <div class="col-lg-2">
-                                <label class="">Jabatan :</label>
-								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Electrical Engineering Supervisor</option>
-                                      <option value="2" selected="">Electrical Engineering Supervisor Assistant</option>
-                                      <option value="2">Electrical Engineering</option>
-                                     
-                                  </select>
-                             
-                            </div>
-							<div class="col-lg-2">
-                                <label class="">Kantor :</label>
-                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Pusat</option>
-                                      <option value="2">Cabang Sulawesi Barat</option>
-                                      <option value="2">Cabang Bandung</option>
-                                     
-                                  </select>
-                            </div>
-							
-							
-                        </div>
-                    </div>
-					<div class="kt-portlet__foot text-center">
-						<div class="kt-form__actions">
-							<button type="reset" class="btn btn-outline-brand btn-sm">Reset</button>
-							<button type="reset" class="btn btn-primary btn-sm"><i class="flaticon-interface-6"></i>Filter Data</button>
+								</div>
+								</div>
+
+
+
+												<!--end: Form Wizard Step 1-->
+
+													<!--begin: Form Wizard Step 2-->
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
+														<div class="kt-form__section kt-form__section--first">
+
+											<div class="row">
+								<div class="col-xl-7">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pendapatan</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+
+											<div id="kt_repeater_1">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																									<td width="5%" bgcolor="#f7fcff">Parameter Pendapatan</td>
+																									<td width="3%" bgcolor="#f7fcff">Hari Kerja</td>
+																									<td width="8%" bgcolor="#f7fcff">Upah Harian</td>
+																									<td width="8%" bgcolor="#f7fcff">Nominal</td>
+																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								</tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Harian"></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<input type="text" class="form-control form-control-sm" placeholder="1" disabled="disabled" aria-describedby="basic-addon2">
+														<div class="input-group-append"><span class="input-group-text " id="basic-addon2">Hari</span></div>
+													</div></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:center">
+																										<select class="form-control kt-selectpicker" data-live-search="true">
+						                              <option value="2">- Pilih Parameter -</option>
+													  <optgroup label="Pendapatan">
+						                              <option value="3">Gaji Harian</option>
+						                              <option value="3">Tunjangan Hari Raya</option>
+
+
+													  </optgroup>
+																					<option data-content="<a href='#' class='btn btn-facebook btn-sm m-button-add'><i class='flaticon-add-circular-button text-white'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
+						                          </select></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<input type="text" class="form-control form-control-sm" placeholder="1" disabled="disabled" aria-describedby="basic-addon2">
+														<div class="input-group-append"><span class="input-group-text " id="basic-addon2">Hari</span></div>
+													</div></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm"  placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" placeholder="" disabled="disabled" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													<table class="table table-responsive  table-hover table-checkable" id="kt_table_2">
+  <tr>
+    <td width="24%" style="text-align:right" bgcolor="#f7fcff"><b>TOTAL PENDAPATAN</b></td>
+    <td width="12%" bgcolor="#f7fcff" colspan="-4" style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Calculation" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    </tr>
+  <tr>
+    <td colspan="3" style="text-align:center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
+  </tr>
+</table>
+									</div>
+									</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								<div class="col-xl-5">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Potongan</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+
+                        <div id="kt_repeater_6">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_6">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																									<td width="10%" bgcolor="#f7fcff">Parameter Potongan</td>
+																									<td width="10%" bgcolor="#f7fcff">Nominal</td>
+																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								</tr>
+																								<tr>
+																								</thead>
+                                                <tbody data-repeater-list="">
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Absen"></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.947.100" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Cicilan Kasbon"></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.947.100" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+
+
+
+
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">4</td>
+																									<td style="text-align:center">
+																										<select class="form-control kt-selectpicker" data-live-search="true">
+						                              <option value="2">- Pilih Parameter -</option>
+													  <optgroup label="Potongan Penghasilan">
+						                              <option value="3">Keterlambatan</option>
+						                              <option value="3">Absen</option>
+						                              <option value="3">Cicilan Kasbon</option>
+
+
+													  </optgroup>
+																					<option data-content="<a href='#' class='btn btn-facebook btn-sm m-button-add'><i class='flaticon-add-circular-button text-white'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
+						                          </select></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="4">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													<table class="table table-responsive  table-hover table-checkable" id="kt_table_2">
+  <tr>
+    <td width="13%" bgcolor="#f7fcff" style="text-align:right"><b>TOTAL POTONGAN</b></td>
+    <td width="12%" bgcolor="#f7fcff" colspan="-4" style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Calculation" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    </tr>
+  <tr>
+    <td colspan="3" style="text-align:center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
+  </tr>
+</table>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								</div>
+								</div>
+								</div>
+								<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Grand Total</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+
+
+												<table class="table table-bordered table-hover table-checkable">
+
+																							<tbody data-repeater-list="">
+																							<thead>
+																								<tr style="text-align:center">
+																								  <td width="20%" bgcolor="#f7fcff">Total Pendapatan</td>
+																									<td width="20%" bgcolor="#f7fcff">Total Potongan</td>
+																									<td width="20%" bgcolor="#f7fcff">Gaji Diterima</td>
+																								</tr>
+																								</thead>
+																								<tbody>
+																								<tr>
+																								  <td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center" bgcolor="#0abb87"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																								</tr>
+																								<tr>
+																								  <td colspan="3" style="text-align:left">&nbsp;</td>
+																							  </tr>
+																								<tr>
+																								  <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
+																							  </tr>
+																							</tbody>
+																							<tfoot>
+																							</tfoot>
+																						</table>
+
+									</div>
+									</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+
+								</div>
+								</div>
+								</div>
+
+
+
+
+												<!--end: Form Wizard Step 2-->
+
+
+
+													<!--begin: Form Wizard Step 3-->
+												<div class="kt-wizard-v3__content" data-ktwizard-type="step-content">
+													<div class="kt-invoice-2">
+										<div class="kt-invoice__head">
+											<div class="kt-invoice__container">
+												<div class="kt-invoice__brand">
+													<h1 class="kt-invoice__title">INVOICE</h1>
+													<div href="#" class="kt-invoice__logo">
+														<a href="#"><img src="../assets/media/company-logos/logo_client_color.png"></a>
+														<span class="kt-invoice__desc">
+															<span>Cecilia Chapman, 711-2880 Nulla St, Mankato</span>
+															<span>Mississippi 96522</span>
+														</span>
+													</div>
+												</div>
+												<div class="kt-invoice__items">
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">DATA</span>
+														<span class="kt-invoice__text">Dec 12, 2017</span>
+													</div>
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">INVOICE NO.</span>
+														<span class="kt-invoice__text">GS 000014</span>
+													</div>
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">INVOICE TO.</span>
+														<span class="kt-invoice__text">Iris Watson, P.O. Box 283 8562 Fusce RD.<br>Fredrick Nebraska 20620</span>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__body">
+											<div class="kt-invoice__container">
+												<div class="table-responsive">
+													<table class="table">
+														<thead>
+															<tr>
+																<th>DESCRIPTION</th>
+																<th>HOURS</th>
+																<th>RATE</th>
+																<th>AMOUNT</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>Creative Design</td>
+																<td>80</td>
+																<td>$40.00</td>
+																<td class="kt-font-danger kt-font-lg">$3200.00</td>
+															</tr>
+															<tr>
+																<td>Front-End Development</td>
+																<td>120</td>
+																<td>$40.00</td>
+																<td class="kt-font-danger kt-font-lg">$4800.00</td>
+															</tr>
+															<tr>
+																<td>Back-End Development</td>
+																<td>210</td>
+																<td>$60.00</td>
+																<td class="kt-font-danger kt-font-lg">$12600.00</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__footer">
+											<div class="kt-invoice__container">
+												<div class="table-responsive">
+													<table class="table">
+														<thead>
+															<tr>
+																<th>BANK</th>
+																<th>ACC.NO.</th>
+																<th>DUE DATE</th>
+																<th>TOTAL AMOUNT</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>BARCLAYS UK</td>
+																<td>12345678909</td>
+																<td>Jan 07, 2018</td>
+																<td class="kt-font-danger kt-font-xl kt-font-boldest">20,600.00</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__actions">
+											<div class="kt-invoice__container">
+												<button type="button" class="btn btn-label-brand btn-bold" onclick="window.print();">Download Slip Gaji</button>
+												<button type="button" class="btn btn-brand btn-bold" onclick="window.print();">Print Slip Gaji</button>
+											</div>
+										</div>
+									</div>
+
+</div>
+
+
+
+												<!--end: Form Wizard Step 3-->
+													<div>&nbsp;</div>
+													<!--begin: Form Actions -->
+													<div class="kt-form__actions">
+														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
+															Previous
+														</button>
+														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
+															Submit
+														</button>
+														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
+															Next Step
+														</button>
+													</div>
+
+													<!--end: Form Actions -->
+												</form>
+
+												<!--end: Form Wizard Form-->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
+
+
+                    </div>
+
+									</div>
+									</div>
+
+							<!--end:: Portlet-->
+
+
+          </div>
+        </div>
+            </div>
+
+
+									<!--End::Portlet-->
+								</div>
+
+									<!--end:: Widgets/Notifications-->
+								</div>
+							</div>
+						</div>
+
+						<!-- end:: Content -->
 					</div>
-				</form>
-				<!--end::Form-->
-			</div>
-            <!--begin::End-->
-
-			
-
-			<div class="kt-portlet kt-portlet--mobile ">
-				<div class="kt-portlet__body">
-					<!--begin: Datatable -->
-					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead>
-											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tahun</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Periode Gaji</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIP</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal Mulai Kerja</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
-											  <th width="3%" colspan="2" rowspan="2" bgcolor="#f7fcff">Pendapatan Kotor</th>
-											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Potongan</th>
-											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Pendapatan Bersih</th>
-											 
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
-										  </tr>
-											<tr style="text-align:center">
-							              </tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td id="kt_table_1">1</td>
-												<td nowrap="nowrap" style="text-align:center">2019</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-								
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center" nowrap>9130001</td>
-												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td nowrap="nowrap" style="text-align:center">Direksi</td>
-												<td style="text-align:left" nowrap>Direktur Utama</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap>Pusat</td>
-												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>5.000.000,-</td>
-												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>500.000,-</td>
-												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="print-slip-gaji.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Print Slip Gaji</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-											<tr>
-												<td id="kt_table_1">2</td>
-												<td nowrap="nowrap" style="text-align:center">2019</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-									
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_7.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center" nowrap>9130002</td>
-												<td style="text-align:left" nowrap>Maghfirah Sharifudin Andy Omar S.Psi</td>
-												<td nowrap="nowrap" style="text-align:center">HR &amp; GA</td>
-												<td style="text-align:left" nowrap>HR Staff</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap>Pusat</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">500.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="print-slip-gaji.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Print Slip Gaji</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-											<tr>
-												<td id="kt_table_1">3</td>
-												<td nowrap="nowrap" style="text-align:center">2019</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_8.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center" nowrap>9130003</td>
-												<td style="text-align:left" nowrap>Ade Rismawan</td>
-												<td nowrap="nowrap" style="text-align:center">Infrastructure</td>
-												<td style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap>Pusat</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">500.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-slip-gaji.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Print Slip Gaji</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td id="kt_table_1">4</td>
-												<td nowrap="nowrap" style="text-align:center">2019</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center" nowrap>9130004</td>
-												<td style="text-align:left" nowrap>Nur Achfiah Budhi Artha, S. ST</td>
-												<td nowrap="nowrap" style="text-align:center">Creative</td>
-												<td style="text-align:left" nowrap>General Affair Staff</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap>Sulawesi Barat</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">500.000,-</td>
-												<td width="1%" nowrap style="text-align:center">Rp.</td>
-												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="print-slip-gaji.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Print Slip Gaji</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-										    <td colspan="10" id="kt_table_3" style="text-align:center" bgcolor="#fdfdec"><strong>GRAND TOTAL</strong></td>
-										    <td width="1%" nowrap="nowrap" style="text-align:center" bgcolor="#fdfdec"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right" bgcolor="#fdfdec"><strong>20.000.000,-</strong></td>
-										    <td width="1%" nowrap="nowrap" style="text-align:center" bgcolor="#fdfdec"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right" bgcolor="#fdfdec"><strong>2.000.000,-</strong></td>
-										    <td width="1%" nowrap="nowrap" style="text-align:center" bgcolor="#fdfdec"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right" bgcolor="#fdfdec"><strong>18.000.000-</strong></td>
-										    <td colspan="5" nowrap style="text-align:center" bgcolor="#fdfdec">&nbsp;</td>
-									      </tr>
-										</tbody>
-									</table>
-                    <!--end: Datatable -->
-
-                    
-
-                </div>
             </div>
         </div>
     </div>
