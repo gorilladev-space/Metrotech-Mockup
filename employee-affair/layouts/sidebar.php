@@ -105,18 +105,24 @@
         <path d="M18.2641169,18 L9.90940412,10.9507111 C8.24477845,9.54618316 8.03392756,7.05814259 9.43845547,5.39351691 C10.1267688,4.57773816 11.1163612,4.07580669 12.1811979,4.00236967 C14.1700425,3.86520797 15.8935112,5.36629356 16.0306728,7.35513817 C16.1048325,8.43045309 15.6945681,9.48264626 14.9120861,10.223945 L13.5365968,8.77203961 C13.8855318,8.44146963 14.0684825,7.97226137 14.0354122,7.49274235 C13.9742472,6.60584978 13.2056947,5.93646532 12.3188021,5.99763033 C11.7939961,6.03382384 11.3062744,6.28120132 10.9670384,6.68325879 C10.2748153,7.5036714 10.3787334,8.72990496 11.199146,9.4221281 L20.5993649,17.3535628 C20.9371521,17.6385708 21.1320585,18.0580387 21.1320585,18.5 C21.1320585,19.3284271 20.4604856,20 19.6320585,20 L4.0273216,20 C3.54950629,20 3.10027672,19.7723581 2.81771411,19.3870455 C2.32781241,18.7189977 2.47222833,17.7802942 3.14027611,17.2903925 L9.40863634,12.693595 L10.5913637,14.306405 L5.5546432,18 L18.2641169,18 Z" fill="#000000" fill-rule="nonzero"/>
     </g>
 </svg></span><span class="kt-menu__link-text">Pegawai Pensiun</span></a></li>
-<li class="kt-menu__item " aria-haspopup="true"><a href="./pegawai-kontrak-expired.php" class="kt-menu__link "><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="24" height="24"/>
-        <path d="M18.2641169,18 L9.90940412,10.9507111 C8.24477845,9.54618316 8.03392756,7.05814259 9.43845547,5.39351691 C10.1267688,4.57773816 11.1163612,4.07580669 12.1811979,4.00236967 C14.1700425,3.86520797 15.8935112,5.36629356 16.0306728,7.35513817 C16.1048325,8.43045309 15.6945681,9.48264626 14.9120861,10.223945 L13.5365968,8.77203961 C13.8855318,8.44146963 14.0684825,7.97226137 14.0354122,7.49274235 C13.9742472,6.60584978 13.2056947,5.93646532 12.3188021,5.99763033 C11.7939961,6.03382384 11.3062744,6.28120132 10.9670384,6.68325879 C10.2748153,7.5036714 10.3787334,8.72990496 11.199146,9.4221281 L20.5993649,17.3535628 C20.9371521,17.6385708 21.1320585,18.0580387 21.1320585,18.5 C21.1320585,19.3284271 20.4604856,20 19.6320585,20 L4.0273216,20 C3.54950629,20 3.10027672,19.7723581 2.81771411,19.3870455 C2.32781241,18.7189977 2.47222833,17.7802942 3.14027611,17.2903925 L9.40863634,12.693595 L10.5913637,14.306405 L5.5546432,18 L18.2641169,18 Z" fill="#000000" fill-rule="nonzero"/>
+<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+    <g id="Stockholm-icons-/-Files-/-User-folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M3.5,21 L20.5,21 C21.3284271,21 22,20.3284271 22,19.5 L22,8.5 C22,7.67157288 21.3284271,7 20.5,7 L10,7 L7.43933983,4.43933983 C7.15803526,4.15803526 6.77650439,4 6.37867966,4 L3.5,4 C2.67157288,4 2,4.67157288 2,5.5 L2,19.5 C2,20.3284271 2.67157288,21 3.5,21 Z" id="Combined-Shape" fill="#000000" opacity="0.3"></path>
+        <path d="M12,13 C10.8954305,13 10,12.1045695 10,11 C10,9.8954305 10.8954305,9 12,9 C13.1045695,9 14,9.8954305 14,11 C14,12.1045695 13.1045695,13 12,13 Z" id="Mask" fill="#000000" opacity="0.3"></path>
+        <path d="M7.00036205,18.4995035 C7.21569918,15.5165724 9.36772908,14 11.9907452,14 C14.6506758,14 16.8360465,15.4332455 16.9988413,18.5 C17.0053266,18.6221713 16.9988413,19 16.5815,19 C14.5228466,19 11.463736,19 7.4041679,19 C7.26484009,19 6.98863236,18.6619875 7.00036205,18.4995035 Z" id="Mask-Copy" fill="#000000" opacity="0.3"></path>
     </g>
-</svg></span><span class="kt-menu__link-text">Pegawai Kontrak Expired</span></a></li>
-<li class="kt-menu__item " aria-haspopup="true"><a href="./pegawai-honor-expired.php" class="kt-menu__link "><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="24" height="24"/>
-        <path d="M18.2641169,18 L9.90940412,10.9507111 C8.24477845,9.54618316 8.03392756,7.05814259 9.43845547,5.39351691 C10.1267688,4.57773816 11.1163612,4.07580669 12.1811979,4.00236967 C14.1700425,3.86520797 15.8935112,5.36629356 16.0306728,7.35513817 C16.1048325,8.43045309 15.6945681,9.48264626 14.9120861,10.223945 L13.5365968,8.77203961 C13.8855318,8.44146963 14.0684825,7.97226137 14.0354122,7.49274235 C13.9742472,6.60584978 13.2056947,5.93646532 12.3188021,5.99763033 C11.7939961,6.03382384 11.3062744,6.28120132 10.9670384,6.68325879 C10.2748153,7.5036714 10.3787334,8.72990496 11.199146,9.4221281 L20.5993649,17.3535628 C20.9371521,17.6385708 21.1320585,18.0580387 21.1320585,18.5 C21.1320585,19.3284271 20.4604856,20 19.6320585,20 L4.0273216,20 C3.54950629,20 3.10027672,19.7723581 2.81771411,19.3870455 C2.32781241,18.7189977 2.47222833,17.7802942 3.14027611,17.2903925 L9.40863634,12.693595 L10.5913637,14.306405 L5.5546432,18 L18.2641169,18 Z" fill="#000000" fill-rule="nonzero"/>
-    </g>
-</svg></span><span class="kt-menu__link-text">Pegawai Honor Expired</span></a></li>
+</svg></span><span class="kt-menu__link-text">Pegawai Expired</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
+									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
+                                    </a>
+
+										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-kontrak-expired.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pegawai Kontrak Expired</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-honor-expired.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pegawai Honor Expired</span></a></li>
+											
+										</ul>
+									</div>
+								</li>
 
 								<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
