@@ -287,7 +287,7 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
 												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 												<td style="text-align:center">Sekertaris Pribadi</td>
@@ -337,7 +337,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
-												<td id="kt_table_1">002MUHRXI2022</td>
+												<td id="kt_table_1">087/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
@@ -401,7 +401,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td id="kt_table_1">003MUHRXI2022</td>
+												<td id="kt_table_1">086/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
@@ -460,7 +460,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td id="kt_table_1">004MUHRXI2022</td>
+												<td id="kt_table_1">085/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maghfirah Sharifudin Andy Omar S.Psi<hr>HR Supervisor" data-html="true">
 														<img src="../assets/media/users/100_2.jpg" alt="image">
 													</a></td>

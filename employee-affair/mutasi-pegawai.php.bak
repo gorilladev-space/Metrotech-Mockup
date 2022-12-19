@@ -252,7 +252,7 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="16%" bgcolor="#f7fcff" rowspan="2">No. Mutasi</th>
+												<th width="16%" bgcolor="#f7fcff" rowspan="2">No. SK Mutasi</th>
 												<th width="1%" rowspan="2" bgcolor="#f7fcff">Dibuat Oleh</th>
 												<th colspan="3" bgcolor="#f7fcff">Penerima Mutasi</th>
 												<th colspan="3" bgcolor="#f7fcff">Jabatan</th>
@@ -337,7 +337,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
-												<td id="kt_table_1">002MUHRXI2022</td>
+												<td id="kt_table_1">087/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
@@ -401,7 +401,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td id="kt_table_1">003MUHRXI2022</td>
+												<td id="kt_table_1">086/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
@@ -460,7 +460,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td id="kt_table_1">004MUHRXI2022</td>
+												<td id="kt_table_1">085/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maghfirah Sharifudin Andy Omar S.Psi<hr>HR Supervisor" data-html="true">
 														<img src="../assets/media/users/100_2.jpg" alt="image">
 													</a></td>
