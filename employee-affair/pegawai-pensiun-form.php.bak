@@ -152,7 +152,7 @@ function goBack() {
 														<div class="kt-form__section kt-form__section--first">
 
 											<div class="row">
-								<div class="col-xl-6">
+								<div class="col-xl-7">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -250,7 +250,7 @@ function goBack() {
 
 
 										</div>
-										<div class="col-xl-3">
+										<div class="col-xl-2">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
