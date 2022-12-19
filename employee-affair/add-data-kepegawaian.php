@@ -296,10 +296,10 @@
 																						<label>Department :</label>
 																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Direksi</option>
-														<option>Bagian Umum</option>
-														<option>Bagian Keuangan & Asset</option>
-														<option>Bagian Operasional</option>
-														<option>Bagian Pengembangan Usaha & Kerja Sama</option>
+														<option>Umum</option>
+														<option>Keuangan & Asset</option>
+														<option>Operasional</option>
+														<option>Pengembangan Usaha dan Kerjasama</option>
 														
 														</select>
 																					</div>
@@ -324,7 +324,18 @@
 									
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-12">
+						<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Direksi</option>
+														<option>Bagian Umum</option>
+														<option>Bagian Keuangan & Asset</option>
+														<option>Bagian Operasional</option>
+														<option>Bagian Pengembangan Usaha & Kerja Sama</option>
+														
+														</select>
+																					</div>
+																					<div class="col-lg-6">
 																						<label>Atasan Langsung :</label>
 																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
 					 															<optgroup label="Direksi">

@@ -154,6 +154,7 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="kantor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kantor</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="tipe-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tipe Pegawai</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pangkat-golongan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pangkat / Golongan</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="agama.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Agama</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="department.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Department</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="jabatan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jabatan</span></a></li>
