@@ -282,11 +282,13 @@ function goBack() {
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="3%" bgcolor="#f7fcff">ID Tasking</th>
-												<th width="2%" bgcolor="#f7fcff">Pemberi Tugas</th>
+												<th width="2%" bgcolor="#f7fcff">ID Tasking</th>
+												<th width="1%" bgcolor="#f7fcff">Pemberi<br>Tugas</th>
+												<th width="2%" bgcolor="#f7fcff">NIP</th>
+												<th width="5%" bgcolor="#f7fcff">Department</th>
 												<th width="8%" bgcolor="#f7fcff">Uraian Tasking</th>
-												<th width="8%" bgcolor="#f7fcff">Tanggal Tugas</th>
-												<th width="8%" bgcolor="#f7fcff">Deadline</th>
+												<th width="2%" bgcolor="#f7fcff">Tanggal Tugas</th>
+												<th width="2%" bgcolor="#f7fcff">Deadline</th>
 												<th width="6%" bgcolor="#f7fcff">Progress Tasking</th>
 												<th width="2%" bgcolor="#f7fcff">Aksi</th>
 											</tr>
@@ -297,12 +299,14 @@ function goBack() {
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
 												<td style="text-align:center;">2/IM-TASKING/XI/2019</td>
-												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Muhammad Nasrullah, S.Kom<hr>24 September 2019 - 08:00" data-html="true">
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian<hr>24 September 2019 - 08:00" data-html="true">
+														<img src="../assets/media/users/100_2.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left;">000 000 000</td>
+												<td style="text-align:left;">Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left;">&nbsp;</td>
-												<td style="text-align:left;">12 Oktober 2019 - 09:00 WITA</td>
-												<td style="text-align:left">13 Oktober 2019 - 09:00 WITA</td>
+												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap><div class="progress">
 												  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">8 dari 10</div>
 </div></td>
@@ -327,12 +331,14 @@ function goBack() {
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
 												<td style="text-align:center;">2/IM-TASKING/XI/2019</td>
-												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Muhammad Nasrullah, S.Kom<hr>24 September 2019 - 08:00" data-html="true">
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian<hr>24 September 2019 - 08:00" data-html="true">
+														<img src="../assets/media/users/100_2.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left;">000 000 000</td>
+												<td style="text-align:left;">Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left;">&nbsp;</td>
-												<td style="text-align:left;">12 Oktober 2019 - 09:00 WITA</td>
-												<td style="text-align:left">13 Oktober 2019 - 09:00 WITA</td>
+												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap><div class="progress">
 												  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">8 dari 10</div>
 </div></td>
@@ -357,12 +363,14 @@ function goBack() {
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
 												<td style="text-align:center;">2/IM-TASKING/XI/2019</td>
-												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Muhammad Nasrullah, S.Kom<hr>24 September 2019 - 08:00" data-html="true">
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian<hr>24 September 2019 - 08:00" data-html="true">
+														<img src="../assets/media/users/100_2.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left;">000 000 000</td>
+												<td style="text-align:left;">Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left;">&nbsp;</td>
-												<td style="text-align:left;">12 Oktober 2019 - 09:00 WITA</td>
-												<td style="text-align:left">13 Oktober 2019 - 09:00 WITA</td>
+												<td style="text-align:center;">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:center">13 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap><div class="progress">
 												  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">8 dari 10</div>
 </div></td>
