@@ -70,7 +70,7 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-2">
+                            <div class="col-lg-3">
                                 <label>Nama Pegawai :</label>
     	                       
         							<select class="form-control kt-selectpicker" data-live-search="true">
@@ -122,7 +122,7 @@
 						                        </div>
 						                      </div>
                             </div>
-							<div class="col-lg-2">
+							<div class="col-lg-1">
                                 <label class="">Kantor :</label>
                                 <select class="form-control kt-selectpicker" name="param">
 																							<option value="AK" selected>Pusat</option>
@@ -171,7 +171,7 @@
 											Pegawai Honor Pria
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Pegawai Honor Pria
+											Jumlah Pegawai Honor Pria
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -188,7 +188,7 @@
 											Pegawai Honor Wanita
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Pegawai Honor Wanita
+											Jumlah Pegawai Honor Wanita
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">

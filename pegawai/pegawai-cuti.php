@@ -269,8 +269,8 @@
 						<th width="2%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 					</tr>
 					<tr>
-						<th width="5%" bgcolor="#f7fcff">Awal </th>
-						<th width="5%" bgcolor="#f7fcff">Akhir </th>
+						<th width="6%" bgcolor="#f7fcff">Awal </th>
+						<th width="6%" bgcolor="#f7fcff">Akhir </th>
 						<th width="3%" bgcolor="#f7fcff">Atasan Langsung</th>
 						<th width="3%" bgcolor="#f7fcff">Kabag Terkait </th>
 						<th width="3%" bgcolor="#f7fcff">Direksi Terkait</th>
