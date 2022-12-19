@@ -75,6 +75,13 @@ function goBack() {
 						<!-- end:: Content Head -->
 
 						<!-- begin:: Content -->
+						
+
+							<!--Begin::App-->
+
+								<!--Begin:: App Content-->
+								
+								
 						<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
 <div class="alert alert-elevate alert-solid-warning alert-bold" role="alert">
 														<div class="alert-icon"><i class="fa fa-info-circle"></i></div>
@@ -84,14 +91,10 @@ function goBack() {
 																<span aria-hidden="true"><i class="la la-close"></i></span>
 															</button>
 														</div>
-														</div>
-							<!--Begin::App-->
-
-								<!--Begin:: App Content-->
-
-								<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
-									<div class="row">
-									<div class="col-lg-12">
+													</div>
+							<!--begin:: Portlet-->
+              <div class="row">
+              <div class="col-lg-12">
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
 
                     <div class="kt-portlet__body">
@@ -114,7 +117,7 @@ function goBack() {
 														Setup Mutasi
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Setup Surat Mutasi
+														Setup Surat Mutasi Pegawai
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -129,17 +132,17 @@ function goBack() {
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Preview Surat
+														Preview
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Lihat SK Mutasi
+														Surat Mutasi Pegawai
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
 														2
 													</div>
 											</div>
-										</div>-->
+										</div>
 										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
@@ -172,7 +175,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													3
+													4
 												</div>
 											</div>
 										</div>-->
@@ -319,15 +322,19 @@ function goBack() {
 								</div>
 								
 								</div>
+								
+								
+								</div>
+								<div class="row">
 								<div class="col-xl-12">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Penerima Mutasi</div><br>
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Penerima Mutasi</div>
+							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
-
-                     <div id="kt_repeater_1">
+											<div id="kt_repeater_1">
 												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
@@ -394,28 +401,24 @@ function goBack() {
 																						</table>
                                           </div>
 													
-									</div>
-									</div>
+									
 						
+						
+												
+												</div>
+									</div>
 
-                        </div>
-                        </div>
+									<!--end::Portlet-->
 
 
 
-
-
-
+								</div>
 								
 								
 								
-
+								</div>
 								
-
-								
-								
-
-							</div>
+								</div>
 								</div>
 								</div>
 
@@ -424,7 +427,197 @@ function goBack() {
 												<!--end: Form Wizard Step 1-->
 
 													<!--begin: Form Wizard Step 2-->
-													<div class="kt-wizard-v3__content" data-ktwizard-type="step-content">
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
+														<div class="kt-form__section kt-form__section--first">
+
+											<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pendapatan</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+
+											<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
+								<div class="bg-white w-50 ml-auto mr-auto">
+	<img src="../assets/img/header.png" style="width:600px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
+		<table align="center" border="0" cellpadding="1" style="width: 600px;">
+			<tbody>
+
+				<tr>
+					<td colspan="2" valign="top">
+							<table border="0" class="mb-5" style="width: 600px; line-height:18px;font-weight:bold;">
+								<tbody>
+									<tr>
+										<td width="10"><span style="font-size: 11px;">Nomor</span></td>
+										<td width="5"><span style="font-size: 11px;">:</span></td>
+										<td width="80"><span style="font-size: 11px;">032/IM-HRD/X/2019</span></td>
+									</tr>
+									<tr>
+										<td><span style="font-size: 11px;">Lampiran</span></td>
+										<td><span style="font-size: 11px;">:</span></td>
+										<td><span style="font-size: 11px;">-</span></td>
+									</tr>
+									<tr>
+										<td><span style="font-size: 11px;">Perihal</span></td>
+										<td><span style="font-size: 11px;">:</span></td>
+										<td><span style="font-size: 11px;">Surat Keterangan Bekerja </span></td>
+									</tr>
+								</tbody>
+							</table>
+							</td>
+						</tr>
+
+						<tr>
+							<td width="50"><span style="font-size: 11px;">Yang Bertanda Tangan dibawah ini : </span></td>
+						</tr>
+
+						<tr>
+							<td colspan="2" valign="top">
+									<table border="0" class="mt-3 mb-3" style="width: 600px; line-height:18px">
+										<tbody>
+											<tr>
+												<td width="10"><span style="font-size: 11px;">Nama</span></td>
+												<td width="5"><span style="font-size: 11px;">:</span></td>
+												<td width="80"><span style="font-size: 11px;">Oklan Zulkifli, SE</span></td>
+											</tr>
+											<tr>
+												<td><span style="font-size: 11px;">Jabatan</span></td>
+												<td><span style="font-size: 11px;">:</span></td>
+												<td><span style="font-size: 11px;">HR & GA Director	</span></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+
+								<tr>
+									<td width="50"><span style="font-size: 11px;">Menyatakan Bahwa : </span></td>
+								</tr>
+
+								<tr>
+									<td valign="top">
+											<table border="0" class="mt-3" style="width: 600px; line-height:18px">
+												<tbody>
+													<tr>
+														<td width="5"><span style="font-size: 11px;">Nama</span></td>
+														<td width="10"><span style="font-size: 11px;">:</span></td>
+														<td width="80"><span style="font-size: 11px;">Amar Ma’ruf DM S.Kom</span></td>
+													</tr>
+													<tr>
+														<td><span style="font-size: 11px;">No. Identitas</span></td>
+														<td><span style="font-size: 11px;">:</span></td>
+														<td><span style="font-size: 11px;">7302042211940001</span></td>
+													</tr>
+													<tr>
+														<td><span style="font-size: 11px;">NIK</span></td>
+														<td><span style="font-size: 11px;">:</span></td>
+														<td><span style="font-size: 11px;">9130042</span></td>
+													</tr>
+													<tr>
+														<td><span style="font-size: 11px;">Jabatan</span></td>
+														<td><span style="font-size: 11px;">:</span></td>
+														<td><span style="font-size: 11px;">Mobile Apps Developer	</span></td>
+													</tr>
+												</tbody>
+											</table>
+											</td>
+										</tr>
+
+										<tr>
+											<td colspan="2" valign="top">
+													<table border="0" class="mt-3" style="width: 600px; line-height:18px; text-align:justify">
+														<tbody>
+															<tr>
+																<td><span style="font-size: 11px;">Adalah benar pegawai PT. Ilugroup Multimedia Indonesia terhitung sejak tanggal 10 Oktober 2019 hingga saat ini.</span></td>
+															</tr>
+														</tbody>
+													</table>
+													</td>
+												</tr>
+
+				<tr>
+					<td colspan="2" valign="top">
+							<table border="0" class="mt-3" style="width: 600px; line-height:18px; text-align:justify">
+								<tbody>
+									<tr>
+										<td><span style="font-size: 11px;">Demikian surat peringatan ini dibuat untuk dijadikan acuan untuk melakukan instropeksi. Atas perhatian Saudara(i), kami ucapkan terima kasih.</span></td>
+									</tr>
+								</tbody>
+							</table>
+							</td>
+						</tr>
+
+						<tr><td colspan="1" valign="top">
+													<div align="right">
+														<table border="0" style="width: 200px;line-height:18px;margin-bottom:3em">
+															<tbody>
+																<tr>
+																	<td><span style="font-size: 11px;">Ditetapkan</span></td>
+																	<td><span style="font-size: 11px;">:</span></td>
+																	<td><span style="font-size: 11px;">di Makassar</span></td>
+																</tr>
+																<tr>
+																	<td><span style="font-size: 11px;">Tanggal</span></td>
+																	<td><span style="font-size: 11px;">:</span></td>
+																	<td><span style="font-size: 11px;">4 September 2019</span></td>
+																</tr>
+																<tr>
+																	<td colspan="3"><span style="font-size: 11px;">PT. Ilugroup Multimedia Indonesia</span></td>
+																</tr>
+															</tbody>
+														</table>
+														</div></td></tr>
+														<tr>
+																							<td colspan="3" valign="top">
+																							<div align="right" style="margin-top: 5em;">
+																							<table border="0" style="width: 150px;line-height:18px">
+																								<tbody>
+																									<tr>
+																										<td colspan="3"><span style="font-size: 11px;"><u><b>Oklan Zulkifli  SE</b></u></span></td>
+																									</tr>
+																									<tr>
+																										<td colspan="3"><span style="font-size: 11px;">HR &amp; GA Director</span></td>
+																									</tr>
+																								</tbody>
+																							</table>
+																							</div></td>
+																					</tr>
+
+
+			</tbody>
+		</table>
+		<img src="../assets/img/footer.png" style="width:600px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px"/>
+</div>
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								
+								</div>
+								
+
+									<!--begin::Portlet-->
+										
+
+							
+								</div>
+								</div>
+
+
+
+
+												<!--end: Form Wizard Step 2-->
+
+
+
+													<!--begin: Form Wizard Step 3-->
+												<div class="kt-wizard-v3__content" data-ktwizard-type="step-content">
 													<div class="kt-invoice-2">
 										<div class="kt-invoice__head">
 											<div class="kt-invoice__container">
@@ -523,48 +716,52 @@ function goBack() {
 									</div>
 
 </div>
-									</div>
-								</div>
-							</div>
-						</div>
 
 
-                    </div>
 
-									</div>
-									</div>
+												<!--end: Form Wizard Step 3-->
+													
+
+										
+
+
+												<!--end: Form Wizard Step 2-->
+
+
+
+													<!--begin: Form Wizard Step 3-->
+												
+
+
+
+												<!--end: Form Wizard Step 3-->
+													
+												</form>
+
+												<!--end: Form Wizard Form-->
+											</div>
+										</div>
+								
 
 							<!--end:: Portlet-->
 
 
-          </div>
-        </div>
-            </div>
 
 
-									<!--End::Portlet-->
-								</div>
-										
-
-
-
-								</div>
-
-								<!--End:: App Content-->
-							</div>
-
-							<!--End::App-->
-						</div>
-
-						<!-- end:: Content -->
-					</div>
-
+							
 
   </div>
 </div>
 
 									<!--end: Datatable -->
 								</div>
+							</div>
+							</div>
+							</div>
+							</div>
+							</div>
+							</div>
+							</div>
 							</div>
 
             </div>
