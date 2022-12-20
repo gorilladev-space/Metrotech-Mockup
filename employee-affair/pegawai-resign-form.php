@@ -134,6 +134,24 @@ function goBack() {
 												</div>
 											</div>
 										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon2-box-1"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Preview Surat
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Cetak Surat Pemberhentian
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													5
+												</div>
+											</div>
+										</div>
 									</div>
 								</div>
 
@@ -216,6 +234,7 @@ function goBack() {
                           <label>Tipe Resign :</label>
                       <select class="form-control kt-selectpicker" data-live-search="true">
                               <option value="2">Kontrak Selesai</option>
+                              <option value="2">Diberhentikan Dengan Hormat</option>
                               <option value="3">Dipecat</option>
                               <option value="3">Permintaan Sendiri</option>
 
@@ -264,8 +283,12 @@ function goBack() {
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-12">
-                          <label>Keterangan :</label>
-                          <textarea class="form-control" id="exampleTextarea" rows="7"></textarea>
+                          <label>Dasar Pertimbangan :</label>
+                          <textarea class="form-control" id="exampleTextarea" rows="10" placeholder="1.	Berdasarkan Permintaan sendiri mundur sebagai Tenaga Kontrak PERUMDA Parkir Makassar Raya,
+
+2.	Atas maksud Point 1 diatas, maka dengan ini  Direksi PERUMDA Parkir Makassar Raya memutuskan untuk “Memberhentikan dengan Hormat“ Saudara selaku tenaga Kontrak PERUMDA Parkir Makassar Raya terhitung mulai tanggal 23 September 2022, sekaligus mengucapkan terimakasih atas pengabdian dan kerjasamanya selama bekerja di PERUMDA Parkir Makassar Raya.
+
+"></textarea>
                         </div>
                       </div>
                       </div>
