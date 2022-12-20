@@ -344,7 +344,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">110 201 900</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
 												<td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td style="text-align:center">Electrical Engineer </td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
@@ -408,7 +408,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">110 201 900</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
 												<td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center">General Affair Staff</td>
@@ -467,7 +467,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">110 201 900</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
 												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center">General Affair Staff</td>
