@@ -275,7 +275,7 @@
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Pengajuan</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Resign</th>
 												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan Resign</th>
-												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
+												<th colspan="4" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status Resign</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
@@ -283,9 +283,10 @@
 											  <th bgcolor="#f7fcff">Pegawai</th>
 											  <th bgcolor="#f7fcff">Nip</th>
 											  <th bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="1%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="1%" bgcolor="#f7fcff">HR Manager</th>
-												<th width="1%" bgcolor="#f7fcff">HR Director</th>
+											  <th width="1%" bgcolor="#f7fcff">Atasan Langsung</th>
+												<th width="1%" bgcolor="#f7fcff">Direksi Terkait</th>
+												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
+												<th width="1%" bgcolor="#f7fcff">Kepegawaian</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -307,6 +308,7 @@
 												<td style="text-align:left">Permintaan Sendiri </td>
 
 													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -371,6 +373,7 @@
 														</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 
 
@@ -433,8 +436,15 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-info"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 
 
 
@@ -490,7 +500,8 @@
 												<td width="8%" style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 
-													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Pegawai Potensial<hr>23 Desember 2022<br>09:00:00 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>

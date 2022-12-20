@@ -170,11 +170,40 @@ function goBack() {
 					 														</select>
                         </div>
 <div class="col-lg-4">
+                          <label>NIP :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
+                        </div>
+
+                        <div class="col-lg-2">
+                          <label class="">Tipe Pegawai :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kontrak">
+                      </div>
+                        </div>
+						
+						<div class="col-lg-2">
+                          <label class="">Kantor :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                      </div>
+                        </div>
+						
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       
+<div class="col-lg-4">
                           <label>Jabatan :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
                         </div>
 
                         <div class="col-lg-4">
+                          <label class="">Pangkat / Golongan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Development">
+                      </div>
+                        </div>
+						<div class="col-lg-4">
                           <label class="">Departemen :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Development">
@@ -221,6 +250,7 @@ function goBack() {
                       </div>
 
                       </div>
+					  
                     </div>
 							<!--end:: Portlet-->
 
