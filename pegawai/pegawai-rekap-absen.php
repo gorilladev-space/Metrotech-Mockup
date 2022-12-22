@@ -133,7 +133,7 @@
 							<div class="kt-portlet">
 								<div class="kt-portlet__body  kt-portlet__body--fit">
 									<div class="row row-no-padding row-col-separator-lg">
-										<div class="col-md-12 col-lg-6 col-xl-3">
+										<div class="col-md-12 col-lg-6 col-xl-2">
 
 											<!--begin::Total Profit-->
 											<div class="kt-widget24">
@@ -143,7 +143,7 @@
 															Alpa
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Alpa Bulan ini
+															Total Alpa Anda Bulan ini
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-brand">
@@ -155,7 +155,7 @@
 
 											<!--end::Total Profit-->
 										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
+										<div class="col-md-12 col-lg-6 col-xl-2">
 
 											<!--begin::New Feedbacks-->
 											<div class="kt-widget24">
@@ -165,7 +165,7 @@
 															Izin
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Izin Bulan ini
+															Total Izin Anda Bulan ini
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-success">
@@ -177,7 +177,7 @@
 
 											<!--end::New Feedbacks-->
 										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
+										<div class="col-md-12 col-lg-6 col-xl-2">
 
 											<!--begin::New Orders-->
 											<div class="kt-widget24">
@@ -187,7 +187,7 @@
 															Cuti
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Cuti Bulan ini
+															Total Cuti Anda Bulan ini
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-danger">
@@ -199,7 +199,7 @@
 
 											<!--end::New Orders-->
 										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
+										<div class="col-md-12 col-lg-6 col-xl-2">
 
 											<!--begin::New Users-->
 											<div class="kt-widget24">
@@ -209,7 +209,51 @@
 															Sakit
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Sakit Bulan ini
+															Total Sakit Anda Bulan ini
+														</span>
+													</div>
+													<span class="kt-widget24__stats kt-font-warning">
+														2
+													</span>
+												</div>
+
+											</div>
+
+											<!--end::New Users-->
+										</div>
+										<div class="col-md-12 col-lg-6 col-xl-2">
+
+											<!--begin::New Users-->
+											<div class="kt-widget24">
+												<div class="kt-widget24__details">
+													<div class="kt-widget24__info">
+														<h4 class="kt-widget24__title">
+															Tidak Absen Datang
+														</h4>
+														<span class="kt-widget24__desc">
+															Total Tidak Absen Datang Bulan ini
+														</span>
+													</div>
+													<span class="kt-widget24__stats kt-font-warning">
+														2
+													</span>
+												</div>
+
+											</div>
+
+											<!--end::New Users-->
+										</div>
+										<div class="col-md-12 col-lg-6 col-xl-2">
+
+											<!--begin::New Users-->
+											<div class="kt-widget24">
+												<div class="kt-widget24__details">
+													<div class="kt-widget24__info">
+														<h4 class="kt-widget24__title">
+															Tidak Absen Pulang
+														</h4>
+														<span class="kt-widget24__desc">
+															Total Tidak Absen Pulang Bulan ini
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-warning">

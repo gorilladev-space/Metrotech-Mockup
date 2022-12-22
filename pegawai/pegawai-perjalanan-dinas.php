@@ -95,17 +95,7 @@
     		                        </span>
     		                    </div>
 						                        </div>
-												<div class="col-lg-2">
-						                          <label class="">Tanggal Pengajuan :</label>
-						                          <div class="input-group date">
-													<input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" value="05/20/2017">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar"></i>
-														</span>
-													</div>
-												</div>
-						                        </div>
+												
 						                        <div class="col-lg-2">
 						                          <label class="">Tanggal Perjalanan Dinas :</label>
 						                          <div class="input-group">
@@ -160,101 +150,7 @@
 															</div>
 
 							<!--begin:: Widgets/Stats-->
-							<div class="kt-portlet">
-								<div class="kt-portlet__body  kt-portlet__body--fit">
-									<div class="row row-no-padding row-col-separator-lg">
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::Total Profit-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															<span class="kt-font-info">Total</span>
-														</h4>
-														<span class="kt-widget24__desc">
-															Perjalanan Dinas
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-brand">
-														4
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::Total Profit-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Feedbacks-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															<span class="kt-font-success">Disetujui</span>
-														</h4>
-														<span class="kt-widget24__desc">
-															Perjalanan Dinas Disetujui
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-success">
-														1
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Feedbacks-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Orders-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															<span class="kt-font-danger">Ditolak</span>
-														</h4>
-														<span class="kt-widget24__desc">
-															Perjalanan Dinas Ditolak
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-danger">
-														1
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Orders-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Users-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															<span class="kt-font-warning">Pending</span>
-														</h4>
-														<span class="kt-widget24__desc">
-															Perjalanan Dinas Menunggu Persetujuan
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-warning">
-														2
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Users-->
-										</div>
-									</div>
-								</div>
-								</div>
-
+							
 							<!--end:: Widgets/Stats-->
 
 							<div class="kt-portlet kt-portlet--mobile ">
@@ -265,13 +161,14 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">ID</th>
+												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
-												<th width="30%" bgcolor="#f7fcff" rowspan="2">Uraian Perjalanan Dinas</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Pengajuan</th>
+												<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
 												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
-												<th colspan="3" bgcolor="#f7fcff">Finance</th>
+												<th colspan="1" bgcolor="#f7fcff">Finance</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
@@ -281,19 +178,20 @@
 												<th width="8%" bgcolor="#f7fcff">Mulai </th>
 												<th width="8%" bgcolor="#f7fcff">Hingga </th>
 												<th width="3%" bgcolor="#f7fcff">Atasan</th>
-												<th width="3%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="3%" bgcolor="#f7fcff">HR Manager</th>
-												<th width="3%" bgcolor="#f7fcff">SPV</th>
-												<th width="3%" bgcolor="#f7fcff">Manager</th>
+												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
+												<th width="3%" bgcolor="#f7fcff">Kepegawaian</th>
 												<th width="3%" bgcolor="#f7fcff">Bend. Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
-												<td width="1%" id="kt_table_1">004ODHRXI2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+												<td width="1%" id="kt_table_1">001ODHRXI2022</td>
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -305,21 +203,14 @@
 															<i class="fa fa-eye"></i>
 														</span></td>
 
-													<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="belum Direview<hr>Fadli, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diinformasikan" data-html="true">
 															<i class="fa fa-eye-slash"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Pembayaran" data-html="true">
 															<i class="fa fa-coins kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
+												
 												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
@@ -335,14 +226,9 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		
 																		<li class="kt-nav__item">
-																			<a href="hr-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Kas Keluar</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
 																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
 																			</a>
@@ -353,27 +239,19 @@
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
-												<td width="1%" id="kt_table_1">003ODHRXI2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+												<td width="1%" id="kt_table_1">002ODHRXI2022</td>
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -385,100 +263,11 @@
 															<i class="fa fa-eye"></i>
 														</span></td>
 
-													<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true" id="kt_sweetalert_demo_9"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="belum Direview<hr>Fadli, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye-slash"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+													<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Yulianti Tomu, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Pembayaran" data-html="true">
-															<i class="fa fa-coins kt_sweetalert_demo_9" data-html="true"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true" id="kt_sweetalert_demo_9"></i>
-
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Kas Keluar</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
-																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%" id="kt_table_1">3</td>
-												<td width="1%" id="kt_table_1">002ODHRXI2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Sorong</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Balikpapan</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
-														</span></td>
-
-													<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Sudah Direview<hr>Fadli, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
@@ -498,14 +287,9 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		
 																		<li class="kt-nav__item">
-																			<a href="hr-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Kas Keluar</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
 																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
 																			</a>
@@ -516,94 +300,13 @@
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
 										  </tr>
-										  <tr>
-												<td width="1%" id="kt_table_1">4</td>
-												<td width="1%" id="kt_table_1">001ODHRXI2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Samarinda</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Bitung</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-
-													<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-eye"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Oklan Zulkifli,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Kas Keluar</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
-																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
+										  
+										  
 										</tbody>
 									</table>
 
