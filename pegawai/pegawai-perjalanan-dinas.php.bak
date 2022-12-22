@@ -95,17 +95,7 @@
     		                        </span>
     		                    </div>
 						                        </div>
-												<div class="col-lg-2">
-						                          <label class="">Tanggal Pengajuan :</label>
-						                          <div class="input-group date">
-													<input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" value="05/20/2017">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar"></i>
-														</span>
-													</div>
-												</div>
-						                        </div>
+												
 						                        <div class="col-lg-2">
 						                          <label class="">Tanggal Perjalanan Dinas :</label>
 						                          <div class="input-group">
@@ -209,7 +199,7 @@
 												<td width="5%" align="center" valign="middle" style="text-align:center">Ambon</td>
 											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td width="3%" style="text-align:center" nowrap><span class="btn btn-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 
@@ -269,14 +259,14 @@
 												<td width="5%" align="center" valign="middle" style="text-align:center">Samarinda</td>
 											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td width="3%" style="text-align:center" nowrap><span class="btn btn-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 
 													<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Yulianti Tomu, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td width="3%" style="text-align:center" nowrap><span class="btn btn-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
