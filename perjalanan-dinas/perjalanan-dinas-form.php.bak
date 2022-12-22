@@ -105,8 +105,7 @@ function goBack() {
 								</div>
 
 								<!--end: Form Wizard Nav -->
-								<div class="kt-portlet">
-									<div class="kt-portlet__body kt-portlet__body--fit">
+								
 										<div class="kt-grid">
 											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
 
@@ -397,7 +396,6 @@ function goBack() {
 
 								</div>
 														</div>
-													</div>
 
 													<!--end: Form Wizard Step 1-->
 
@@ -1436,12 +1434,12 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm" >
 														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
     <td><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
     <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>

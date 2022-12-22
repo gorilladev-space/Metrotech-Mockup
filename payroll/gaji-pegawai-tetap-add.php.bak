@@ -136,7 +136,7 @@
 								</div>
 
 								<!--end: Form Wizard Nav -->
-								<div class="kt-portlet">
+								<div class="row">
 									<div class="kt-portlet__body kt-portlet__body--fit">
 										<div class="kt-grid">
 											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
@@ -244,7 +244,7 @@
 												<td id="kt_table_1">238 004 032</td>
 												<td id="kt_table_1" style="text-align:center">IV/A</td>
 												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Umum</td>
+												<td style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
 												
@@ -261,7 +261,7 @@
 												<td id="kt_table_1">238 004 032</td>
 												<td id="kt_table_1" style="text-align:center">IV/A</td>
 												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Umum</td>
+												<td style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
 												
@@ -277,7 +277,7 @@
 												<td id="kt_table_1">238 004 032</td>
 												<td id="kt_table_1" style="text-align:center">IV/A</td>
 												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Umum</td>
+												<td style="text-align:left">Umum</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
 												
@@ -293,7 +293,7 @@
 												<td id="kt_table_1">238 004 032</td>
 												<td id="kt_table_1" style="text-align:center">IV/A</td>
 												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
 												
@@ -311,6 +311,7 @@
 
 								</div>
 
+								</div>
 								</div>
 								</div>
 								</div>

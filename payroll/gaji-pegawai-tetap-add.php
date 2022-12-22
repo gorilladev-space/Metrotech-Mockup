@@ -136,7 +136,7 @@
 								</div>
 
 								<!--end: Form Wizard Nav -->
-								<div class="kt-portlet">
+								
 									<div class="kt-portlet__body kt-portlet__body--fit">
 										<div class="kt-grid">
 											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
