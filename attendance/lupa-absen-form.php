@@ -129,18 +129,34 @@
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-5">
-                          <label class="">Department :</label>
+                          <label class="">NIP :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130036">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                       </div>
                         </div>
 						<div class="col-lg-7">
                           <label class="">Jabatan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Engineering Supervisor Assistant">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian">
                       </div>
                         </div>
 
+                        </div>
+
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-5">
+                          <label class="">Type Pegawai :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap">
+                      </div>
+                        </div>
+						<div class="col-lg-7">
+                          <label class="">Department :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+                      </div>
                         </div>
 
                         </div>
