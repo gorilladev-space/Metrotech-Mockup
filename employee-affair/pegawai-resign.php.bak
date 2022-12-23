@@ -281,7 +281,7 @@
 											</tr>
 											<tr>
 											  <th bgcolor="#f7fcff">Pegawai</th>
-											  <th bgcolor="#f7fcff">Nip</th>
+											  <th width="5%" bgcolor="#f7fcff">Nip</th>
 											  <th bgcolor="#f7fcff">Tipe Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Atasan Langsung</th>
 												<th width="1%" bgcolor="#f7fcff">Direksi Terkait</th>
@@ -299,7 +299,7 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
+												<td width="2%" id="kt_table_1">110 201 900</td>
 												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
@@ -360,7 +360,7 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
+												<td width="2%" id="kt_table_1">110 201 900</td>
 												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Tetap</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
@@ -422,7 +422,7 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
+												<td width="2%" id="kt_table_1">110 201 900</td>
 												<td width="3%" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Honor</span></td>
 												<td width="15%" style="text-align:center">Commercial & Business Development</td>
 												<td width="5%" style="text-align:center">Pusat</td>
@@ -500,7 +500,7 @@
 												<td width="8%" style="text-align:center">12 Oktober 2019</td>
 												<td style="text-align:left">Permintaan Sendiri </td>
 
-													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Pegawai Potensial<hr>23 Desember 2022 - 09:00:00 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Pegawai Potensial<hr>23 Desember 2022<br>09:00:00 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
