@@ -280,21 +280,21 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Tembusan Surat</td>
-																								  <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Walikota Makassar"></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pertinggal"></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									
                                             
                                                                                                     
 																								</tr>
@@ -348,7 +348,7 @@ function goBack() {
 																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">NIP</td>
 																								  <td width="7%" rowspan="2" bgcolor="#f7fcff">Pangkat<br>/ Golongan</td>
 																								  <td colspan="6" bgcolor="#f7fcff">Mutasi Tugas</td>
-																								  <td width="1%" rowspan="2" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								 
 																								  </tr>
 																								<tr style="text-align:center">
 																								  <td width="10%" bgcolor="#f7fcff">Jabatan Lama</td>
@@ -372,7 +372,7 @@ function goBack() {
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sekertaris Direksi"></td>
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerjasama"></td>
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-                                                                                                    <td style="text-align:center">&nbsp;</td>
+                                                                                                   
                                             
                                                                                                     
 																								</tr>

@@ -68,7 +68,85 @@ function goBack() {
 							<div class="kt-wizard-v4" id="kt_wizard_v4" data-ktwizard-state="step-first">
 
 								<!--begin: Form Wizard Nav -->
-								
+								<div class="kt-wizard-v4__nav">
+									<div class="kt-wizard-v4__nav-items">
+
+										<!--doc: Replace A tag with SPAN tag to disable the step link click -->
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-browser"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Setup Mutasi
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Setup Surat Mutasi Pegawai
+													</div>
+												</div>
+													<div class="kt-wizard-v4__nav-number kt-block-center">
+														1
+													</div>
+											</div>
+										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-list-1"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Preview
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Surat Mutasi Pegawai
+													</div>
+												</div>
+													<div class="kt-wizard-v4__nav-number kt-block-center">
+														2
+													</div>
+											</div>
+										</div>
+										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-rocket"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Rincian Potongan
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Potongan Gaji Pegawai
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													3
+												</div>
+											</div>
+										</div>-->
+										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-list-1"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Review
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Preview Slip Gaji
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													4
+												</div>
+											</div>
+										</div>-->
+
+									</div>
+								</div>
 
 								<!--end: Form Wizard Nav -->
 								<div class="kt-portlet">
@@ -202,21 +280,21 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Tembusan Surat</td>
-																								  <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Walikota Makassar"></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pertinggal"></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									
                                             
                                                                                                     
 																								</tr>
