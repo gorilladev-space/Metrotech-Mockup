@@ -755,7 +755,7 @@
 											<th width="18%" rowspan="2" bgcolor="#f7fcff">Alamat Instansi</th>
 											<th colspan="2" bgcolor="#f7fcff">Lama Bekerja</th>
 											<th width="14%" rowspan="2" bgcolor="#f7fcff">Jabatan Terakhir</th>
-											<th width="4%" rowspan="2" bgcolor="#f7fcff">File</th>
+											<th width="5%" rowspan="2" bgcolor="#f7fcff">File</th>
 											<th width="2%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										</tr>
 										<tr style="text-align:center">
