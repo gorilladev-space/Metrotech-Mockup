@@ -32,7 +32,10 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_kantor"><i class="fa fa-plus"></i>Tambah Data</button>
+				<a href="pegawai-resign-form.php" class="btn btn-info btn-sm">
+												<i class="fa fa-plus"></i> Tambah Data</button>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
                 
 				
             </div>
@@ -107,17 +110,42 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" bgcolor="#f7fcff">Nama Kantor</th>
-											  <th width="7%" bgcolor="#f7fcff">Alamat Kantor</th>
-											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="8%" rowspan="2" bgcolor="#f7fcff">JABATAN / GOLONGAN</th>
+											  <th colspan="4" bgcolor="#f7fcff">SATUAN BIAYA PERHARI</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
+											<tr style="text-align:center">
+											  <th bgcolor="#f7fcff">UANG SAKU</th>
+											  <th width="7%" bgcolor="#f7fcff">UANG MAKAN</th>
+											  <th width="7%" bgcolor="#f7fcff">ANGKUTAN SETEMPAT</th>
+											  <th width="7%" bgcolor="#f7fcff">BIAYA BERANGKAT DAN KEPULANGAN</th>
+							              </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td width="0.5%">1</td>
-												<td width="1%" align="left" valign="left" style="text-align:left">Pusat</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas Blok J/9</td>
+												<td width="1%">1</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Utama</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -143,10 +171,367 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
+											
+										  <tr>
 												<td width="1%">2</td>
-												<td width="1%" align="left" valign="left" style="text-align:left">Cabang</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas Blok I/14</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Umum</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">3</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Operasional</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">4</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Keuangan dan Asset</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">5</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Pengembangan Usaha dan Kerjasama</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">6</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  
+										  <tr>
+												<td width="1%">7</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Kepala Bagian</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">8</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Kepala Seksi / Bendahara</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%">9</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Staff</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -436,7 +821,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH KANTOR</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH BIAYA PERJALANAN DINAS LUAR KOTA</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -445,24 +830,74 @@
 										<div class="kt-portlet__body">
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
-													<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nama Kantor:</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
-
-												</div>
-<div class="col-lg-8">
-														<label>Alamat Kantor:</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
-
-												</div>
+													<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+										<thead>
+											<tr style="text-align:center">
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="8%" rowspan="2" bgcolor="#f7fcff">JABATAN / GOLONGAN</th>
+											  <th colspan="4" bgcolor="#f7fcff">SATUAN BIAYA PERHARI</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+										  </tr>
+											<tr style="text-align:center">
+											  <th bgcolor="#f7fcff">UANG SAKU</th>
+											  <th width="7%" bgcolor="#f7fcff">UANG MAKAN</th>
+											  <th width="7%" bgcolor="#f7fcff">ANGKUTAN SETEMPAT</th>
+											  <th width="7%" bgcolor="#f7fcff">BIAYA BERANGKAT DAN KEPULANGAN</th>
+							              </tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td width="1%">1</td>
+												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Utama</td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
 												
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												
-												
-												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+											
+										  
+										</tbody>
+									</table>
 									<div class="kt-portlet__foot kt-align-right">
 												<div class="">
 

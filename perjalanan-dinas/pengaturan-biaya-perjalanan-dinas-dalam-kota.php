@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Pengaturan Biaya Perjalanan Dinas Pegawai Luar Sulawesi Selatan
+                    Pengaturan Biaya Perjalanan Dinas Dalam Kota
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -32,7 +32,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<a href="add-biaya-perjalanan-dinas.php" class="btn btn-info btn-sm">
+				<a href="add-biaya-perjalanan-dinas-dalam-kota.php" class="btn btn-info btn-sm">
 												<i class="fa fa-plus"></i> Tambah Data</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
@@ -119,7 +119,7 @@
 											  <th bgcolor="#f7fcff">UANG SAKU</th>
 											  <th width="7%" bgcolor="#f7fcff">UANG MAKAN</th>
 											  <th width="7%" bgcolor="#f7fcff">ANGKUTAN SETEMPAT</th>
-											  <th width="7%" bgcolor="#f7fcff">BIAYA BERANGKAT DAN KEPULANGAN</th>
+											  <th width="7%" bgcolor="#f7fcff">PENGINAPAN</th>
 							              </tr>
 										</thead>
 										<tbody>
@@ -128,22 +128,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Utama</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -177,22 +177,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Umum</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -225,22 +225,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Operasional</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -273,22 +273,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Keuangan dan Asset</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -321,22 +321,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Direktur Pengembangan Usaha dan Kerjasama</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -369,22 +369,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -418,22 +418,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Kepala Bagian</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="150.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="350.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -466,22 +466,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Kepala Seksi / Bendahara</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="150.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="75.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												
@@ -514,22 +514,22 @@
 												<td width="1%" align="left" valign="left" style="text-align:left">Staff</td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="75.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												<td width="7%" align="left" valign="left" style="text-align:left"><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
 												

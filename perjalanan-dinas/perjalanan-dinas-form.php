@@ -155,8 +155,8 @@ function goBack() {
 						<div class="col-lg-2">
                           <label>Jenis Perjalanan Dinas :</label>
                       <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Dalam Daerah Sulawesi Selatan</option>
-                              <option value="3">Luar Daerah Sulawesi Selatan</option>
+                              <option value="2">Dalam Kota</option>
+                              <option value="3">Luar Kota</option>
                               <option value="3">Luar Negeri</option>
 
                           </select>
@@ -1786,44 +1786,7 @@ function goBack() {
     <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
   
-  <tr>
-    <td style="text-align:center">4</td>
-    <td colspan="2"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Komunikasi</option>
-                              <option value="HI">Transportasi</option>
-                              <option value="HI">Uang Saku</option>
-                              <option value="HI">Lainnya</option>
-                            </select></td>
-    <td><div class="form-group">
-      <select class="form-control form-control-sm" id="exampleSelects">
-        <option>Hari</option>
-        <option>Ls</option>
-        <option>Pieces</option>
-        <option>Roll</option>
-        <option>Box</option>
-        </select>
-    </div></td>
-    <td><div class="form-group">
-      <select class="form-control form-control-sm kt-selectpicker" id="exampleSelects">
-        <option>1</option>
-        <option>2</option>
-        <option>3</option>
-        </select>
-    </div></td>
-    <td><div class="form-group">
-      <select class="form-control form-control-sm kt-selectpicker" id="exampleSelects">
-        <option>Hari</option>
-        <option>Ls</option>
-        <option>Pieces</option>
-        <option>Roll</option>
-        <option>Box</option>
-        </select>
-    </div></td>
-    <td><input type="text" class="form-control form-control-sm"></td>
-    <td><input type="text" class="form-control form-control-sm" ></td>
-
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+  
   <tr>
     <td colspan="9" style="text-align:center">&nbsp;</td>
   </tr>
