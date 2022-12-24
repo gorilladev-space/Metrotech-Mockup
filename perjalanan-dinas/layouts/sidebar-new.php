@@ -73,12 +73,9 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-transportasi-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Transportasi</span></a></li>
-														<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-penginapan-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Penginapan</span></a></li>
-														<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-uang-saku-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Uang Saku</span></a></li>
-														<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-uang-makan-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Uang Makan</span></a></li>
-														<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-angkutan-setempat-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Angkutan Setempat</span></a></li>
-														<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-transportpp-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Keberangkatan & Kepulangan</span></a></li>
+											<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-biaya-perjalanan-dinas-luar-kota.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Biaya Dinas Luar Kota</span></a></li>
+											<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-biaya-perjalanan-dinas-dalam-kota.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Biaya Dinas Dalam Kota</span></a></li>
+											<li class="kt-menu__item " aria-haspopup="true"><a href="pengaturan-biaya-perjalanan-dinas-luar-negeri.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Biaya Dinas Luar Negeri</span></a></li>
 										</ul>
 									</div>
 								</li>

@@ -1830,14 +1830,14 @@ function goBack() {
   <tr>
     <td colspan="9" style="text-align:center">&nbsp;</td>
   </tr>
-  <tr>
-    <td colspan="7" style="text-align:right" bgcolor="#feffed"><strong>TOTAL </strong></td>
-    <td bgcolor="#feffed"><b>Rp.</b></td>
-    <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
-  </tr>
+  
   <tr>
     <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>GRAND TOTAL </b></td>
-    <td bgcolor="#feffed"><b>Rp.</b></td>
+    <td bgcolor="#feffed"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
     <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
   </tr>
   <tr>

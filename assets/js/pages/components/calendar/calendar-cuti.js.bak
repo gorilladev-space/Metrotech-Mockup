@@ -48,7 +48,7 @@ var KTCalendarBasic = function() {
                         start: YESTERDAY,
                         end: TOMORROW,
                         description: '<div class="kt-widget kt-widget--user-profile-4">	<div class="kt-widget__head"><div class="kt-widget__media"><img class="kt-widget__img kt-hidden-" src="../assets/media/users/100_16.jpg" alt="image"></div><div class="kt-widget__content text-center"><div class="kt-widget__section mb-3"><a href="#" class="kt-widget__username">Sri Suhartini,SE\
-</a><span class="kt-badge kt-badge--danger kt-badge--inline">Kepala Seksi Administrasi Kepegawaian</span></div><span>Tanggal Perjalanan Dinas<br>23 Desember 2022 - 24 Desember 2022</br></span></div></div></div>',
+</a><span class="kt-badge kt-badge--danger kt-badge--inline">Kepala Seksi Administrasi Kepegawaian</span></div><span>Tanggal Perjalanan Dinas<br>20 Oktober 2019 - 21 Oktober 2019</br></span></div></div></div>',
                         className: "fc-event-brand"
                     }
                 ],
