@@ -19,7 +19,7 @@
 								</div>
            <div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="data-gaji-pegawai-tetap.php" class="btn btn-label-primary btn-sm">
+				<a href="penilaian-kinerja-pegawai.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
@@ -153,7 +153,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Anda</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Pegawai yang dinilai</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
@@ -370,7 +370,7 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Penilaian Kinerja</span>
 																			</a>
