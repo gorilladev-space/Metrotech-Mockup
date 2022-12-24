@@ -266,7 +266,7 @@
 												<th width="3%" bgcolor="#f7fcff">Atasan</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
 												<th width="3%" bgcolor="#f7fcff">Kepegawaian</th>
-												<th width="3%" bgcolor="#f7fcff">Bend. Pengeluaran</th>
+												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -380,7 +380,7 @@
 												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui" data-html="true">
+												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
