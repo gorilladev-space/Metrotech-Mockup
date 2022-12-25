@@ -159,220 +159,45 @@
 										
  <div class="kt-portlet__body">
  <div>&nbsp;</div>
- <table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead>
-											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="2%" bgcolor="#f7fcff">Hubungan<br>Keluarga</th>
-											  <th width="5%" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="1%" bgcolor="#f7fcff">Jenis<br>Kelamin</th>
-											  <th width="3%" bgcolor="#f7fcff">Tanggal Lahir</th>
-											  <th width="1%" bgcolor="#f7fcff">Pendidikan<br>Terakhir</th>
-											  <th width="5%" bgcolor="#f7fcff">Pekerjaan </th>
-											  <th width="5%" bgcolor="#f7fcff" rowspan="2">Upload File<br> ( Akta Nikah / Akta Kelahiran )</th>
-											  <th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
-
-										  </tr>
-										</thead>
+ <table width="1305" class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<tbody>
 											<tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-											<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-
+											  <td width="11%" rowspan="3" id="kt_table_1" style="text-align:center"><img src="../assets/media/users/100_16.jpg" alt="image"></td>
+												<td width="2%" rowspan="3" id="kt_table_1" style="text-align:center">&nbsp;</td>
+												<td width="13%" nowrap style="text-align:left">Nama Pegawai</td>
+												<td width="2%" nowrap style="text-align:left">:</td>
+												<td width="10%" nowrap style="text-align:left">Sri Suhartini, SE</td>
+												<td width="1%" rowspan="3" nowrap style="text-align:left">&nbsp;</td>
+												<td width="15%" nowrap style="text-align:left">Pangkat / Golongan</td>
+												<td width="2%" nowrap style="text-align:left">:</td>
+												<td width="12%" nowrap style="text-align:left">X / IV A</td>
+											  <td width="2%" rowspan="3" nowrap style="text-align:left">&nbsp;</td>
+												<td width="14%" nowrap style="text-align:left">Periode Penilaian</td>
+												<td width="2%" nowrap style="text-align:center">:</td>
+												<th width="12%"><strong>1/12/2022 - 31/12/2022</strong></th>
 										  </tr>
 											<tr>
-												<td style="text-align:center" id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+											  <td style="text-align:left" nowrap>NIP Pegawai</td>
+												<td style="text-align:left" nowrap>:</td>
+												<td style="text-align:left" nowrap>238 004 032</td>
+												<td style="text-align:left" nowrap>Department</td>
+												<td style="text-align:left" nowrap>:</td>
+												<td style="text-align:left" nowrap>Umum</td>
+												<td colspan="3" rowspan="2" nowrap style="text-align:center">&nbsp;</td>
 										  </tr>
 										  <tr>
-												<td style="text-align:center" id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-										  </tr>
-										  <tr>
-												<td style="text-align:center" id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+										    <td nowrap>Jabatan</td>
+												<td style="text-align:left" nowrap>:</td>
+												<td style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
+												<td style="text-align:left" nowrap>Kantor</td>
+												<td style="text-align:left" nowrap>:</td>
+												<td style="text-align:left" nowrap>Pusat</td>
 										  </tr>
 
 										</tbody>
 									</table>
 									<div>&nbsp;</div>
-											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+											<table cellspacing="1" class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
 											  <th colspan="2" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">ELEMENT INDIKATOR PENILAIAN</th>
@@ -380,8 +205,6 @@
 											  <th colspan="2" bgcolor="#f7fcff">Rentang Skor</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Nilai Hasil</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">% Skor</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
-
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff">Atribut Pengukur</th>
@@ -390,7 +213,7 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td colspan="8" bgcolor="#feffed" id="kt_table_1" style="text-align:left">Tingkat Kehadiran</td>
+												<td colspan="7" bgcolor="#feffed" id="kt_table_1" style="text-align:left">Tingkat Kehadiran</td>
 										  </tr>
 											<tr>
 											  <td width="1%" rowspan="4" id="kt_table_1" style="text-align:center">1</td>
@@ -400,7 +223,6 @@
 											  <td style="text-align:center" nowrap>3</td>
 											  <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
 											  <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-											  <td rowspan="4" nowrap style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" nowrap>70% - 90%</td>
@@ -415,45 +237,222 @@
 										    <td style="text-align:center" nowrap>0</td>
 									      </tr>
 										  <tr>
-										    <td style="text-align:center" id="kt_table_6">&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
+										    <td rowspan="4" id="kt_table_6" style="text-align:center">2</td>
+										    <td rowspan="4" nowrap style="text-align:left">Jumlah Keterlambatan</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">&lt;15%</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
 									      </tr>
 										  <tr>
-										    <td style="text-align:center" id="kt_table_5">&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
+										    <td nowrap="nowrap" style="text-align:center">15% - 30%</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
 									      </tr>
 										  <tr>
-										    <td style="text-align:center" id="kt_table_4">&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:left" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
+										    <td nowrap="nowrap" style="text-align:center">31% - 50%</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
 									      </tr>
 										  <tr>
-												<td style="text-align:center" id="kt_table_1">&nbsp;</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
-												<td style="text-align:left" nowrap>&nbsp;</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
-												<td style="text-align:left" nowrap>&nbsp;</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center">&gt;50%</td>
+												<td nowrap="nowrap" style="text-align:center">0</td>
 										  </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_13" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:left">Meninggalkan Tugas Selama Jam Kerja Tanpa Ijin</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td style="text-align:center" nowrap>Tidak Pernah</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+									      </tr>
+										  <tr>
+										    <td style="text-align:center" nowrap>Kadang - Kadang</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td style="text-align:center" nowrap>Seringkali</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td style="text-align:center" nowrap>Sangat Sering</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_9" style="text-align:center">4</td>
+										    <td rowspan="4" nowrap style="text-align:left">Tidak Mengikuti Kegiatan yang ditentukan</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">Tidak Pernah</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder=""></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Kadang - Kadang</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Seringkali</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Sangat Sering</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td colspan="7" id="kt_table_27" style="text-align:center">&nbsp;</td>
+									      </tr>
+										  <tr>
+										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_26" style="text-align:left">TOTAL SKOR</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center">12</td>
+										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder=""></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+									      </tr>
+										  <tr>
+										    <td colspan="7" id="kt_table_25" style="text-align:center">&nbsp;</td>
+									      </tr>
+										  <tr>
+										    <td colspan="7" bgcolor="#feffed" id="kt_table_24" style="text-align:left"><strong>Efektifitas &amp; Efisiensi Kerja</strong><span style="text-align: left"></span></td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_23" style="text-align:center">1</td>
+										    <td rowspan="4" nowrap style="text-align:left">Jumlah Pekerjaan yang Diselesaikan Tepat Waktu</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">&gt;90%</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">70% - 90%</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">50% - 69%</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">&lt;50%</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_19" style="text-align:center">2</td>
+										    <td rowspan="4" nowrap style="text-align:left">Keakuratan Pengerjaan Tugas</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">&gt;90%</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">70% - 90%</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">50% - 69%</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">&lt;50%</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_15" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:left">Inovasi Kerja</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">Sangat Inovatif</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Cukup Inovatif</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Biasa Saja</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Tidak Ada Inovasi</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_17" style="text-align:center">4</td>
+										    <td rowspan="4" nowrap style="text-align:left">Kerjasama</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">Sangat Baik</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Baik</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Biasa Saja</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Tidak Baik</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td rowspan="4" id="kt_table_10" style="text-align:center">5</td>
+										    <td rowspan="4" nowrap style="text-align:left">Efisiensi Sumber Data ( Penggunaan Anggaran Ops )</td>
+										    <td rowspan="4" nowrap style="text-align:center">3</td>
+										    <td nowrap="nowrap" style="text-align:center">Efisiensi &gt;25%</td>
+										    <td nowrap="nowrap" style="text-align:center">3</td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Efisiensi 11-25%</td>
+										    <td nowrap="nowrap" style="text-align:center">2</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Efisiensi 0-10%</td>
+										    <td nowrap="nowrap" style="text-align: center">1</td>
+									      </tr>
+										  <tr>
+										    <td nowrap="nowrap" style="text-align:center">Tidak Ada Efisiensi</td>
+										    <td nowrap="nowrap" style="text-align:center">0</td>
+									      </tr>
+										  <tr>
+										    <td colspan="7" id="kt_table_11" style="text-align:center">&nbsp;</td>
+									      </tr>
+										  <tr>
+										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_5" style="text-align:left">TOTAL SKOR</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center">15</td>
+										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="15"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_4" style="text-align:left">GRAND TOTAL SKOR PENILAIAN KINERJA</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center">27</td>
+										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="27"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+									      </tr>
+										  <tr>
+										    <td colspan="7" id="kt_table_7" style="text-align:center">&nbsp;</td>
+									      </tr>
+										  <tr>
+										    <td colspan="3" bgcolor="#f7fcff" id="kt_table_3" style="text-align:left">TUNJANGAN KINERJA YANG DITERIMA</td>
+										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" style="text-align:right" disabled="disabled" placeholder="5.000.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+										    <td colspan="2" nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" class="form-control form-control-sm" style="text-align:right" disabled="disabled" placeholder="5.000.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+									      </tr>
 
 										</tbody>
 									</table>
