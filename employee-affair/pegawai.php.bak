@@ -229,11 +229,12 @@
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="1%" bgcolor="#f7fcff">Foto</th>
-											  <th width="1%" bgcolor="#f7fcff">NIP</th>
 											  <th width="3%" bgcolor="#f7fcff">Nama Pegawai</th>
+											  <th width="1%" bgcolor="#f7fcff">NIP</th>
+											  <th width="3%" bgcolor="#f7fcff">Department</th>
+											  <th width="3%" bgcolor="#f7fcff">Bagian</th>
 											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="3%" bgcolor="#f7fcff">Pangkat / Golongan</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
 											  <th width="3%" bgcolor="#f7fcff">Kantor</th>
 											  <th width="3%" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th width="3%" bgcolor="#f7fcff">Status<br>Pernikahan</th>
@@ -249,13 +250,15 @@
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td width="1%" style="text-align:center" nowrap>9130001</td>
-												<td width="3%" style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
+
+												<td width="3%" style="text-align:left" nowrap>Yulianti Tomu, SE</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 001</td>
+												<td width="1%" style="text-align:center" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Utama</td>
-												<td width="3%" style="text-align:left" nowrap>Pelaksana TK I/B4</td>
-														<td width="3%" style="text-align:center" nowrap>Pengembangan Usaha dan Kerjasama</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td width="3%" style="text-align:left" nowrap>Menikah</td>
@@ -302,16 +305,18 @@
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/dirum.jpg" alt="image">
 													</a></td>
-												<td width="1%" style="text-align:center" nowrap>9130001</td>
-												<td width="3%" style="text-align:left" nowrap>Maghfirah Sharifudin Andy Omar S.Psi</td>
-												<td width="3%" style="text-align:left" nowrap>HR Staff</td>
-												<td width="3%" style="text-align:left" nowrap>Pelaksana TK I/B4</td>
-														<td width="3%" style="text-align:center" nowrap>HR & GA</td>
+
+												<td width="3%" style="text-align:left" nowrap>Rizal Asjadad</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 002</td>
+												<td width="1%" style="text-align:center" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direktur Umum</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
-												<td width="3%" style="text-align:left" nowrap>Makassar, 18 November 1993</td>
-												<td width="3%" style="text-align:left" nowrap>Single</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -355,17 +360,18 @@
 											<tr>
 												<td width="1%" id="kt_table_1">3</td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/dirops.jpg" alt="image">
 													</a></td>
-												<td width="1%" style="text-align:center" nowrap>9130001</td>
-												<td width="3%" style="text-align:left" nowrap>Ade Rismawan</td>
-												<td width="3%" style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
-												
-												<td width="3%" style="text-align:left" nowrap>Pelaksana TK I/B4</td>
-														<td width="3%" style="text-align:center" nowrap>Teknik</td>
+
+												<td width="3%" style="text-align:left" nowrap>Christofher Rio Aviary</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 003</td>
+												<td width="1%" style="text-align:center" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direktur Operasional</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
-												<td width="3%" style="text-align:left" nowrap>Embalut, 30 Desember 1998</td>
-												<td width="3%" style="text-align:left" nowrap>Single</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -409,14 +415,183 @@
 										  <tr>
 												<td width="1%" id="kt_table_1">4</td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/dirkeu.jpg" alt="image">
 													</a></td>
-												<td width="1%" style="text-align:center" nowrap>9130001</td>
-												<td width="3%" style="text-align:left" nowrap>Nur Achfiah Budhi Artha, S. ST</td>
-												<td width="3%" style="text-align:left" nowrap>General Affair Staff</td>
-														<td width="3%" style="text-align:center" nowrap>HR & GA</td>
-												<td width="3%" style="text-align:center" nowrap>Sulawesi Barat</td>
-												<td width="3%" style="text-align:left" nowrap>Makassar, 15 Mei 1996</td>
+
+												<td width="3%" style="text-align:left" nowrap>Mu’amar Nor Amin</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
+												<td width="1%" style="text-align:center" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direktur Keuangan dan Asset</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td width="3%" style="text-align:left" nowrap>Menikah</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="pegawai-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+
+																		<li class="kt-nav__item">
+																			<a href="pegawai-edit.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+
+<tr>
+												<td width="1%" id="kt_table_1">5</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirjasa.jpg" alt="image">
+													</a></td>
+
+												<td width="3%" style="text-align:left" nowrap>Zulfadli Syahrir</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
+												<td width="1%" style="text-align:center" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td width="3%" style="text-align:left" nowrap>Menikah</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="pegawai-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+
+																		<li class="kt-nav__item">
+																			<a href="pegawai-edit.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+<tr>
+												<td width="1%" id="kt_table_1">6</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/300_21.jpg" alt="image">
+													</a></td>
+
+												<td width="3%" style="text-align:left" nowrap>Ir. Asrarudin Mamonto, MM</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
+												<td width="1%" style="text-align:center" nowrap>Umum</td>
+												<td width="3%" style="text-align:left" nowrap>Umum</td>
+												<td width="3%" style="text-align:left" nowrap>Kepala Bagian Umum</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td width="3%" style="text-align:left" nowrap>Menikah</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="pegawai-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+
+																		<li class="kt-nav__item">
+																			<a href="pegawai-edit.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+<tr>
+												<td width="1%" id="kt_table_1">7</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+
+												<td width="3%" style="text-align:left" nowrap>Sri Suhartini, SE</td>
+												<td width="1%" style="text-align:center" nowrap>238 004 032</td>
+												<td width="1%" style="text-align:center" nowrap>Umum</td>
+												<td width="3%" style="text-align:left" nowrap>Umum & Kepegawaian</td>
+												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
