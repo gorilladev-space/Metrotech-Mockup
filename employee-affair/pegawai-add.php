@@ -83,7 +83,7 @@
 												</li>
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_5" role="tab">
-														<i class="fa fa-medal"></i>Data Sertifikat
+														<i class="fa fa-copy"></i>Data Sertifikat
 													</a>
 												</li>
 												<li class="nav-item m-tabs__item">
