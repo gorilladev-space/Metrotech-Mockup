@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Pegawai Kontrak Harian
+											Data Pegawai Kontrak
 
 									</h3>
 
@@ -51,7 +51,7 @@
 												<!--end::Nav-->
 											</div>
 
-											<a href="pegawai-kontrak-harian-add.php" class="btn btn-info btn-sm">
+											<a href="pegawai-kontrak-add.php" class="btn btn-info btn-sm">
 												<i class="fa fa-user-plus"></i> Tambah Data</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
@@ -182,7 +182,7 @@
 															Total
 														</h4>
 														<span class="kt-widget24__desc">
-															Kontrak Harian
+															Pegawai Kontrak
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-brand">
@@ -201,7 +201,7 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Kontrak Harian
+															Pegawai Kontrak
 														</h4>
 														<span class="kt-widget24__desc">
 															Pria
@@ -223,7 +223,7 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Kontrak Harian
+															Pegawai Kontrak
 														</h4>
 														<span class="kt-widget24__desc">
 															Wanita
@@ -245,7 +245,7 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Kontrak Harian
+															Pegawai Kontrak
 														</h4>
 														<span class="kt-widget24__desc">
 															Hampir Berakhir
@@ -711,7 +711,7 @@
 												<td style="text-align:left" nowrap>000 000 000</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left" nowrap>Kerjasama</td>
-												<td wstyle="text-align:left" nowrap>Staff Administrasi Kerjasama</td>
+												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengembangan</td>
 												<td style="text-align:center" nowrap>Cabang</td>
 												<td style="text-align:left" nowrap>Makassar, 15 Mei 1996</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>

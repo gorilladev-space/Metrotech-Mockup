@@ -313,7 +313,7 @@ function goBack() {
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);"></div>background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);"></div>
 																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
 																													<i class="fa fa-pen"></i>
 																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
@@ -341,7 +341,7 @@ function goBack() {
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/finger.jpg&quot;);"></div>
 																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
 																													<i class="fa fa-pen"></i>
 																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
@@ -369,7 +369,7 @@ function goBack() {
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/finger.jpg&quot;);"></div>
 																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
 																													<i class="fa fa-pen"></i>
 																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
