@@ -251,12 +251,12 @@
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="2%" bgcolor="#f7fcff">Hubungan<br>Keluarga</th>
-											  <th width="5%" bgcolor="#f7fcff">Nama Lengkap</th>
+											  <th width="6%" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="1%" bgcolor="#f7fcff">Jenis<br>Kelamin</th>
-											  <th width="3%" bgcolor="#f7fcff">Tanggal Lahir</th>
+											  <th width="4%" bgcolor="#f7fcff">Tanggal Lahir</th>
 											  <th width="1%" bgcolor="#f7fcff">Pendidikan<br>Terakhir</th>
 											  <th width="5%" bgcolor="#f7fcff">Pekerjaan </th>
-											  <th width="5%" bgcolor="#f7fcff" rowspan="2">Upload File<br> ( Akta Nikah / Akta Kelahiran )</th>
+											  <th width="4%" bgcolor="#f7fcff" rowspan="2">Upload File<br> ( Akta Nikah / Akta Kelahiran )</th>
 											  <th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 
 										  </tr>
