@@ -33,41 +33,13 @@ function goBack() {
 
 										</div>
 										<div class="btn-group">
-													<button type="button" class="btn btn-brand">
-														<i class="la la-check"></i>
-														<span class="kt-hidden-mobile">Save</span>
-													</button>
-													<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-													</button>
-													<div class="dropdown-menu dropdown-menu-right">
-														<ul class="kt-nav">
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-reload"></i>
-																	<span class="kt-nav__link-text">Save & continue</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-power"></i>
-																	<span class="kt-nav__link-text">Save & exit</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-edit-interface-symbol-of-pencil-tool"></i>
-																	<span class="kt-nav__link-text">Save & edit</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-add-1"></i>
-																	<span class="kt-nav__link-text">Save & add new</span>
-																</a>
-															</li>
-														</ul>
-													</div>
-												</div>
+				<button type="button" class="btn btn-brand">
+					<i class="la la-check"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
 										</div>
 										</div>
 						</div>

@@ -18,18 +18,30 @@
 
 								</div>
 								<div class="kt-subheader__toolbar">
-									<div class="dropdown dropdown-inline" data-placement="left">
-											<a href="#" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
-												<i class="flaticon-reply"></i> Kembali
-                        <script>
+									<div class="dropdown dropdown-inline" ddata-placement="left">
+											<a href="mutasi-pegawai.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
 function goBack() {
   window.history.back();
 }
 </script>
+												<!--<i class="flaticon2-plus"></i>-->
 											</a>
+											&nbsp;
+
+
 										</div>
-								</div>
-							</div>
+										<div class="btn-group">
+				<button type="button" class="btn btn-brand">
+					<i class="la la-check"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
+										</div>
+										</div>
 						</div>
 
 						<!-- end:: Content Head -->

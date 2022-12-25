@@ -131,7 +131,7 @@
 						<div class="col-lg-5">
                           <label class="">NIP :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130036">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                       </div>
                         </div>
 						<div class="col-lg-7">
