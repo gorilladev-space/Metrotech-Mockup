@@ -296,6 +296,7 @@
 																						<label>Department :</label>
 																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Direksi</option>
+														<option>Dewan Pengawas</option>
 														<option>Umum</option>
 														<option>Keuangan & Asset</option>
 														<option>Operasional</option>
@@ -303,40 +304,25 @@
 														
 														</select>
 																					</div>
-						<div class="col-lg-6">
-																						<label>Jabatan :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>Direktur Utama</option>
-					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
-					 																<option value="AK" selected>Direktur Operasional</option>
-					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
-					 															</optgroup>
-
-					 														</select>
-																					</div>
-						
-                        </div>
-						
-                     
-					  
-									</div>
-									
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-6">
-																						<label>Pangkat / Golongan :</label>
+<div class="col-lg-6">
+																						<label>Bagian :</label>
 																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Direksi</option>
-														<option>Bagian Umum</option>
-														<option>Bagian Keuangan & Asset</option>
-														<option>Bagian Operasional</option>
-														<option>Bagian Pengembangan Usaha & Kerja Sama</option>
+														<option>Umum dan Kepegawaian</option>
+														<option>Hukum dan Humas</option>
+														<option>Keuangan</option>
+														<option>Asset</option>
+														<option>Pengelolaan</option>
+														<option>Produksi</option>
+														<option>Pengembangan</option>
+														<option>Kerja Sama</option>
 														
 														</select>
 																					</div>
-																					<div class="col-lg-6">
-																						<label>Atasan Langsung :</label>
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Jabatan :</label>
 																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
 					 															<optgroup label="Direksi">
 					 																<option value="AK" selected>Direktur Utama</option>
@@ -347,7 +333,43 @@
 
 					 														</select>
 																					</div>
+<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
+					 															<optgroup label="Direksi">
+					 																<option value="AK" selected>X / IV A</option>
+					 															</optgroup>
+
+					 														</select>
+																					</div>
 						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Atasan Langsung :</label>
+																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
+					 															<optgroup label="Direksi">
+					 																<option value="AK" selected>Direktur Utama</option>
+					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
+					 																<option value="AK" selected>Direktur Operasional</option>
+					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
+					 															</optgroup>
+
+					 														</select>
+																					</div>
+<div class="col-lg-6">
+																						<label>Kantor :</label>
+																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Pusat</option>
+														<option>Cabang</option>
+														
+														</select>
+																					</div>
 						
                         </div>
 
