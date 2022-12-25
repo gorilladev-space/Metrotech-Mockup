@@ -385,7 +385,7 @@
 												<div class="form-group row">
 
 						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
+                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
                          <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
@@ -404,7 +404,7 @@
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                         <div class="col-lg-6">
-                          <label class="">Kota :</label>
+                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
 					 															<optgroup label="Sulawesi Selatan">
 					 																<option value="AK" selected>Kota Makassar</option>
@@ -420,7 +420,7 @@
 					 														</select>
                       </div>
 						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
+                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
                       </div>
