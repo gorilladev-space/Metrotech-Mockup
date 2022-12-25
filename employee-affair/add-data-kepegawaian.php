@@ -383,12 +383,12 @@
 																					<div class="col-lg-12">
 																						<label>Cari Pegawai :</label>
 																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_4" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>Direktur Utama</option>
-					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
-					 																<option value="AK" selected>Direktur Operasional</option>
-					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
-					 															</optgroup>
+					 																<option value="AK" selected>000 000 001 - Yulianti Tomu, SE</option>
+					 																<option value="AK">000 000 002 - Rizal Asjadad</option>
+					 																<option value="AK">000 000 003 - Christofher Rio Aviary</option>
+					 																<option value="AK">000 000 004 - Mu’amar Nor Amin</option>
+					 																<option value="AK">000 000 005 - Zulfadli Syahrir</option>
+					 																<option value="AK">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
 
 					 														</select>
 																					</div>

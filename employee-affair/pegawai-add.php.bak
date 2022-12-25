@@ -25,26 +25,10 @@
 			<div class="btn-group">
 				<button type="button" class="btn btn-brand">
 					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Save</span>
+					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
-				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				</button>
-				<div class="dropdown-menu dropdown-menu-right">
-					<ul class="kt-nav">
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-reload"></i>
-								<span class="kt-nav__link-text">Save as Draf</span>
-							</a>
-						</li>
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-power"></i>
-								<span class="kt-nav__link-text">Save & Exit</span>
-							</a>
-						</li>
-					</ul>
-				</div>
+				
+				
 			</div>
 		</div>
 	</div>
@@ -251,12 +235,12 @@
 												<div class="form-group row">
 						
 						<div class="col-lg-6">
-                          <label>Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="Maghfirah Sharifuddin Andy Omar">
+                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="">
                         </div>
                        <div class="col-lg-3">
                           <label>Gelar Depan :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="-">
+                          <input type="text" class="form-control form-control-sm" placeholder="Ir">
                         </div>
 						<div class="col-lg-3">
                           <label>Gelar Belakang :</label>
@@ -268,11 +252,11 @@
 						<div class="col-lg-6">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="Fira"  >
+                        <input type="text" class="form-control form-control-sm" placeholder=""  >
                       </div>
                         </div>
 						<div class="col-lg-3">
-                          <label>Jenis Kelamin :</label>
+                          <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
                          <select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Pria</option>
 														<option>Wanita</option>
@@ -280,7 +264,7 @@
 													</select>
                         </div>
 						<div class="col-lg-3">
-                          <label>Status :</label>
+                          <label><span style="color:#ff0000">*</span> Status :</label>
                          <select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Single</option>
 														<option>Menikah</option>
@@ -293,8 +277,8 @@
                      <div class="form-group row">
 
 <div class="col-lg-6">
-					                           <label class="">Tempat Kelahiran :</label>
-					                            <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
+					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
+					                            <select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
 					 															<optgroup label="Sulawesi Selatan">
 					 																<option value="AK" selected>Kota Makassar</option>
 					 																<option value="AK" selected>Kota Pare-Pare</option>
@@ -309,8 +293,17 @@
 					 														</select>
 					                         </div>
 						<div class="col-lg-6">
-                          <label class="">Tanggal Kelahiran :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="18 November 1993">
+                          <label class=""><span style="color:#ff0000">*</span> Tanggal Kelahiran :</label>
+                          <div class="form-group">
+                         <div class="input-group date">
+													<input type="text" class="form-control form-control-sm" readonly="" placeholder="== Pilih Tanggal ==" id="kt_datepicker_2">
+													<div class="input-group-append">
+														<span class="input-group-text">
+															<i class="la la-calendar-check-o"></i>
+														</span>
+													</div>
+												</div>
+                      </div>
 
                         </div>
 
@@ -321,7 +314,7 @@
 
 
 						<div class="col-lg-6">
-					                           <label>Agama :</label>
+					                           <label><span style="color:#ff0000">*</span> Agama :</label>
                          <select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Islam</option>
 														<option>Kristen Protestan</option>
@@ -332,7 +325,7 @@
 														</select>
 					                         </div>
 						<div class="col-lg-6">
-                          <label class="">No. KTP :</label>
+                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
                       </div>
@@ -345,7 +338,7 @@
 
 
 						<div class="col-lg-6">
-					                           <label>NPWP :</label>
+					                           <label><span style="color:#ff0000">*</span> NPWP :</label>
                          <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
 					                         </div>
 					                         </div>
@@ -372,7 +365,7 @@
                       </div>
 						<div class="col-lg-6">
 					                           <label>Nama Pemilik Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Maghfirah Sharifuddin Andy Omar">
+                         <input type="text" class="form-control form-control-sm" placeholder="Isikan Nama Pemilik Rekening">
 					                         </div>
 
 									</div>
@@ -412,7 +405,7 @@
 						  <div class="form-group row">
                         <div class="col-lg-6">
                           <label class="">Kota :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
+                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
 					 															<optgroup label="Sulawesi Selatan">
 					 																<option value="AK" selected>Kota Makassar</option>
 					 																<option value="AK" selected>Kota Pare-Pare</option>
