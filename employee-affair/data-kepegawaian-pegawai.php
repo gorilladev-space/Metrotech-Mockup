@@ -88,7 +88,7 @@ function goBack() {
 												<div class="kt-widget__body">
 													<div>&nbsp;</div>
 													<div class="kt-widget__items">
-														<a href="pegawai-detail.php" class="kt-widget__item kt-widget__item--active">
+														<a href="pegawai-detail.php" class="kt-widget__item">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -103,7 +103,7 @@ function goBack() {
 																</span>
 															</span>
 														</a>
-														<a href="data-kepegawaian-pegawai.php" class="kt-widget__item ">
+														<a href="data-kepegawaian-pegawai.php" class="kt-widget__item kt-widget__item--active">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -222,208 +222,169 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-8">
+								<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Diri</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kepegawaian</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-						<div class="col-lg-2">
-                          <label>NIP Pegawai :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 0001">
-                        </div>
-						<div class="col-lg-4">
-                          <label>Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
-                        </div>
-                       <div class="col-lg-3">
-                          <label>Gelar Depan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="-">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Gelar Belakang :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="SE">
-                        </div>
+																					<div class="col-lg-6">
+																						<label>Tipe Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-6">
+																						<label>NIP Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Masuk Kerja :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						<div class="col-lg-6">
+																						<label>SK Pegawai Tetap :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-6">
-                          <label class="">Nama Panggilan :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="Yanti" disabled="disabled" >
-                      </div>
-                        </div>
-						<div class="col-lg-3">
-                          <label>Jenis Kelamin :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Wanita">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Status :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Menikah">
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Direksi" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
 <div class="col-lg-6">
-					                           <label class="">Tempat Kelahiran :</label>
-					                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
-					                         </div>
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Direksi" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
 						<div class="col-lg-6">
-                          <label class="">Tanggal Kelahiran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18 November 1993">
-
+																						<label>Jabatan :</label>
+																						<input type="text" class="form-control form-control-sm" value="Direktur Utama" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<input type="text" class="form-control form-control-sm" value="X / IV A" placeholder="X / IV A" id="kt_datepicker_2" disabled>
+																					</div>
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Atasan Langsung :</label>
+																					<input type="text" class="form-control form-control-sm" value="Dewan Pengawas" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+<div class="col-lg-6">
+																						<label>Kantor :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pusat" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
                         </div>
 
-
-                      </div>
-					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label>Agama :</label>
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Islam">
-					                         </div>
-						<div class="col-lg-6">
-                          <label class="">No. KTP :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7371122301870002" >
-                      </div>
-                      </div>
+									
 
 									</div>
-									</div>
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label>NPWP :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="917345100801000">
-					                         </div>
-					                         </div>
-
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-3">
-					                           <label>No. Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1520017942547">
-					                         </div>
-						<div class="col-lg-3">
-					                           <label class="">Bank :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mandiri">
-                      </div>
-						<div class="col-lg-6">
-					                           <label>Nama Pemilik Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
-					                         </div>
-
-									</div>
-									</div>
+									
 
 
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-4">
+<div class="col-xl-2">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Korespondensi</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="90233">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                        <div class="col-lg-6">
-                          <label class="">Kota :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
-                      </div>
-						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);"></div>
+																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
+																													<i class="fa fa-pen"></i>
+																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
+																												</label>
+																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
+																													<i class="fa fa-times"></i>
+																												</span>
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
 
 									</div>
-<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Darurat</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
+<div class="col-xl-2">
 
-						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="90233">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                        <div class="col-lg-6">
-                          <label class="">Kota :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
-                      </div>
-						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
+																													<i class="fa fa-pen"></i>
+																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
+																												</label>
+																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
+																													<i class="fa fa-times"></i>
+																												</span>
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
 
 									</div>
+<div class="col-xl-2">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
+																													<i class="fa fa-pen"></i>
+																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
+																												</label>
+																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
+																													<i class="fa fa-times"></i>
+																												</span>
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+
 									</div>
 
 

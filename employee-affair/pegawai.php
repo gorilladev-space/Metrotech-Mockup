@@ -199,22 +199,7 @@
 							</div>
 						</div>
 						<div class="col-md-12 col-lg-6 col-xl-3">
-							<div class="kt-widget24">
-								<div class="kt-widget24__details">
-									<div class="kt-widget24__info">
-										<h4 class="kt-widget24__title">
-											Total
-										</h4>
-										<span class="kt-widget24__desc">
-											Pegawai Kontrak
-										</span>
-									</div>
-									<span class="kt-widget24__stats kt-font-warning">
-										4
-									</span>
-								</div>
-
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -475,7 +460,7 @@
 													</a></td>
 
 												<td width="3%" style="text-align:left" nowrap>Zulfadli Syahrir</td>
-												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 005</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
@@ -530,7 +515,7 @@
 													</a></td>
 
 												<td width="3%" style="text-align:left" nowrap>Ir. Asrarudin Mamonto, MM</td>
-												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
+												<td width="1%" style="text-align:center" nowrap>000 000 006</td>
 												<td width="1%" style="text-align:center" nowrap>Umum</td>
 												<td width="3%" style="text-align:left" nowrap>Umum</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Bagian Umum</td>
