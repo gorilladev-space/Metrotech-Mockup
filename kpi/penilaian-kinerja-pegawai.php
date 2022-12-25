@@ -252,54 +252,55 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="16%" bgcolor="#f7fcff" rowspan="2">No. SK Mutasi</th>
-												<th width="1%" rowspan="2" bgcolor="#f7fcff">Dibuat Oleh</th>
-												<th colspan="3" bgcolor="#f7fcff">Penerima Mutasi</th>
-												<th colspan="3" bgcolor="#f7fcff">Jabatan</th>
-												<th colspan="2" bgcolor="#f7fcff">Department</th>
-												<th width="16%" bgcolor="#f7fcff" colspan="2">Kantor</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Pengajuan</th>
-												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
-												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
+												
+												<th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+												<th colspan="7" bgcolor="#f7fcff">Pegawai yang Dinilai</th>
+												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Penilaian</th>
+												<th bgcolor="#f7fcff">Verifikasi</th>
+												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="2%" bgcolor="#f7fcff">Pegawai</th>
-											  <th width="7%" bgcolor="#f7fcff">Nip</th>
-											  <th width="2%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="10%" bgcolor="#f7fcff">Asal</th>
-											  <th width="10%" bgcolor="#f7fcff">Tujuan</th>
-											  <th width="2%" bgcolor="#f7fcff">Atasan Baru</th>
-											  <th width="10%" bgcolor="#f7fcff">Asal</th>
-											  <th width="10%" bgcolor="#f7fcff">Tujuan</th>
-												<th width="5%" bgcolor="#f7fcff">Asal </th>
-												<th width="5%" bgcolor="#f7fcff">Tujuan </th>
-												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
+											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="5%" bgcolor="#f7fcff">Pegawai</th>
+											  <th width="3%" bgcolor="#f7fcff">NIP</th>
+											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
+											  <th width="3%" bgcolor="#f7fcff">Department</th>
+											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
+											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+												<th width="5%" bgcolor="#f7fcff">Pegawai</th>
+												<th width="3%" bgcolor="#f7fcff">NIP </th>
+												<th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
+												<th width="5%" bgcolor="#f7fcff">Department</th>
+												<th width="5%" bgcolor="#f7fcff">Jabatan</th>
+												<th width="1%" bgcolor="#f7fcff">Kantor</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td id="kt_table_1">088/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamal Delapan<hr>Creative Manager" data-html="true">
-														<img src="../assets/media/users/100_13.jpg" alt="image">
-													</a></td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Sekertaris Pribadi</td>
-												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_8.jpg" alt="image">
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+												<td style="text-align:center">Pusat</td>
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center">Umum</td>
-												<td style="text-align:center">Umum</td>
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -308,15 +309,15 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="print-mutasi.php" class="kt-nav__link">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Cetak SK Mutasi</span>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -335,188 +336,7 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
-												<td id="kt_table_1">2</td>
-												<td id="kt_table_1">087/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
-														<img src="../assets/media/users/100_5.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Kontrak</span></td>
-												<td style="text-align:center">Electrical Engineer </td>
-												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
-												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center">Pengembangan Usaha & Kerjasama</td>
-												<td style="text-align:center">HR & GA</td>
-
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td align="center" valign="middle" style="text-align:center">Sulawesi Barat</td>
-											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											 <td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-mutasi.php" class="kt-nav__link">
-
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Cetak SK Mutasi</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td id="kt_table_1">3</td>
-												<td id="kt_table_1">086/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Oklan Zulkifli,SE<hr>HR & GA Director" data-html="true">
-														<img src="../assets/media/users/100_5.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
-												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
-												<td style="text-align:center">General Affair Staff</td>
-												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center">Teknik</td>
-												<td style="text-align:center">HR & GA</td>
-
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Cetak SK Mutasi</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td id="kt_table_1">4</td>
-												<td id="kt_table_1">085/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Maghfirah Sharifudin Andy Omar S.Psi<hr>HR Supervisor" data-html="true">
-														<img src="../assets/media/users/100_2.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td style="text-align:center">Electrical Engineer Supervisor Assistant</td>
-												<td style="text-align:center">General Affair Staff</td>
-												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td style="text-align:center">Teknik</td>
-												<td style="text-align:center">HR & GA</td>
-
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td align="center" valign="middle" style="text-align:center">Pusat</td>
-											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											 <td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Cetak SK Mutasi</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
+											
 										</tbody>
 									</table>
 

@@ -222,7 +222,14 @@
 											  <td style="text-align:center" nowrap>&gt;90%</td>
 											  <td style="text-align:center" nowrap>3</td>
 											  <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-											  <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+											  <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" nowrap>70% - 90%</td>
@@ -243,7 +250,14 @@
 										    <td nowrap="nowrap" style="text-align:center">&lt;15%</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">15% - 30%</td>
@@ -264,7 +278,14 @@
 										    <td style="text-align:center" nowrap>Tidak Pernah</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td style="text-align:center" nowrap>Kadang - Kadang</td>
@@ -285,7 +306,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Tidak Pernah</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder=""></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">Kadang - Kadang</td>
@@ -307,7 +335,14 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">12</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder=""></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_25" style="text-align:center">&nbsp;</td>
@@ -322,7 +357,14 @@
 										    <td nowrap="nowrap" style="text-align:center">&gt;90%</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">70% - 90%</td>
@@ -343,7 +385,14 @@
 										    <td nowrap="nowrap" style="text-align:center">&gt;90%</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">70% - 90%</td>
@@ -364,7 +413,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Sangat Inovatif</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">Cukup Inovatif</td>
@@ -385,7 +441,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Sangat Baik</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">Baik</td>
@@ -406,7 +469,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Efisiensi &gt;25%</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
 										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">Efisiensi 11-25%</td>
@@ -428,14 +498,28 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">15</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="15"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_4" style="text-align:left">GRAND TOTAL SKOR PENILAIAN KINERJA</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">27</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="27"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_7" style="text-align:center">&nbsp;</td>
@@ -556,7 +640,14 @@
 											  <td style="text-align:center" nowrap>Tidak Ada</td>
 											  <td style="text-align:center" nowrap>0</td>
 											  <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-											  <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+											  <td rowspan="7" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" nowrap>1-2 Jam</td>
@@ -589,7 +680,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Tidak Ada</td>
 										    <td nowrap="nowrap" style="text-align:center">0</td>
 										    <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-										    <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="7" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">1-2 Jam</td>
@@ -623,7 +721,14 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">12</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_25" style="text-align:center">&nbsp;</td>
@@ -638,7 +743,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Tidak Ada</td>
 										    <td nowrap="nowrap" style="text-align:center">0</td>
 										    <td rowspan="7" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="7" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">1-2 Kegiatan</td>
@@ -671,7 +783,14 @@
 										    <td nowrap="nowrap" style="text-align:center">Tidak Ada</td>
 										    <td nowrap="nowrap" style="text-align:center">0</td>
 										    <td rowspan="7" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
-										    <td rowspan="7" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td rowspan="7" nowrap style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td nowrap="nowrap" style="text-align:center">s/d 5% dari Total Belanja</td>
@@ -705,14 +824,28 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">12</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="15"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_4" style="text-align:left">GRAND TOTAL SKOR PENILAIAN KINERJA</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">24</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="27"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_7" style="text-align:center">&nbsp;</td>
