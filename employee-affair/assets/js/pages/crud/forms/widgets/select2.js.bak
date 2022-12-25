@@ -170,7 +170,7 @@ var KTSelect2 = function() {
                 allowClear: true
             }); 
 			 // basic
-            $('#kt_select2_8_modal').select2({
+            $('#kt_select2_4_modal').select2({
                 placeholder: "Select a state",
                 allowClear: true
             }); 

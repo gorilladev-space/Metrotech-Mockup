@@ -25,10 +25,26 @@
 			<div class="btn-group">
 				<button type="button" class="btn btn-brand">
 					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Simpan</span>
+					<span class="kt-hidden-mobile">Save</span>
 				</button>
-				
-				
+				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				</button>
+				<div class="dropdown-menu dropdown-menu-right">
+					<ul class="kt-nav">
+						<li class="kt-nav__item">
+							<a href="#" class="kt-nav__link">
+								<i class="kt-nav__link-icon flaticon2-reload"></i>
+								<span class="kt-nav__link-text">Save as Draf</span>
+							</a>
+						</li>
+						<li class="kt-nav__item">
+							<a href="#" class="kt-nav__link">
+								<i class="kt-nav__link-icon flaticon2-power"></i>
+								<span class="kt-nav__link-text">Save & Exit</span>
+							</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -89,7 +105,7 @@
 												<div class="kt-widget__body">
 													
 													<div class="kt-widget__items">
-														<a href="pegawai-add.php" class="kt-widget__item">
+														<a href="pegawai-add.php" class="kt-widget__item kt-widget__item--active">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -104,7 +120,7 @@
 																</span>
 															</span>
 														</a>
-														<a href="add-data-kepegawaian.php" class="kt-widget__item kt-widget__item--active">
+														<a href="add-data-kepegawaian.php" class="kt-widget__item ">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -225,285 +241,264 @@
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-5">
+								<div class="col-xl-8">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kepegawaian</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Diri</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-6">
-																						<label>Tipe Pegawai :</label>
-																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-6">
-																						<label>NIP Pegawai :</label>
-																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
-																					</div>
-																					
-																					
-																				</div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-6">
-																						<label>Masuk Kerja :</label>
-																						<div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-						<div class="col-lg-6">
-																						<label>SK Pegawai Tetap :</label>
-																						<div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div>
-																					</div>
 						
+						<div class="col-lg-6">
+                          <label>Nama Lengkap :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="Maghfirah Sharifuddin Andy Omar">
+                        </div>
+                       <div class="col-lg-3">
+                          <label>Gelar Depan :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="-">
+                        </div>
+						<div class="col-lg-3">
+                          <label>Gelar Belakang :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="S.Psi">
+                        </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-6">
-																						<label>Department :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Direksi</option>
-														<option>Dewan Pengawas</option>
-														<option>Umum</option>
-														<option>Keuangan & Asset</option>
-														<option>Operasional</option>
-														<option>Pengembangan Usaha dan Kerjasama</option>
+                          <label class="">Nama Panggilan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="Fira"  >
+                      </div>
+                        </div>
+						<div class="col-lg-3">
+                          <label>Jenis Kelamin :</label>
+                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Pria</option>
+														<option>Wanita</option>
 														
+													</select>
+                        </div>
+						<div class="col-lg-3">
+                          <label>Status :</label>
+                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Single</option>
+														<option>Menikah</option>
+														<option>Janda</option>
+														<option>Duda</option>
 														</select>
-																					</div>
-<div class="col-lg-6">
-																						<label>Bagian :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Umum dan Kepegawaian</option>
-														<option>Hukum dan Humas</option>
-														<option>Keuangan</option>
-														<option>Asset</option>
-														<option>Pengelolaan</option>
-														<option>Produksi</option>
-														<option>Pengembangan</option>
-														<option>Kerja Sama</option>
-														
-														</select>
-																					</div>
-																					</div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
+
 <div class="col-lg-6">
-																						<label>Pangkat / Golongan :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>X / IV A</option>
+					                           <label class="">Tempat Kelahiran :</label>
+					                            <select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
+					 															<optgroup label="Sulawesi Selatan">
+					 																<option value="AK" selected>Kota Makassar</option>
+					 																<option value="AK" selected>Kota Pare-Pare</option>
+					 																<option value="AK" selected>Maros</option>
+					 															</optgroup>
+																				<optgroup label="Sulawesi Barat">
+					 																<option value="AK" selected>Mamuju</option>
+					 																<option value="AK" selected>Majene</option>
+					 																<option value="AK" selected>Polman</option>
 					 															</optgroup>
 
 					 														</select>
-																					</div>
+					                         </div>
 						<div class="col-lg-6">
-																						<label>Kantor :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Pusat</option>
-														<option>Cabang</option>
-													
-														
-														</select>
-																					</div>
+                          <label class="">Tanggal Kelahiran :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="18 November 1993">
 
-						
                         </div>
-                        </div>
-						
-                     
-					  
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+
+
+                      </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-12">
-																						<label>Jabatan :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>Direktur Utama</option>
-					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
-					 																<option value="AK" selected>Direktur Operasional</option>
-					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
-					 															</optgroup>
 
-					 														</select>
-																					</div>
-						
-                        </div>
 
-									
+						<div class="col-lg-6">
+					                           <label>Agama :</label>
+                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Islam</option>
+														<option>Kristen Protestan</option>
+														<option>Kristen Katholik</option>
+														<option>Hindu</option>
+														<option>Budha</option>
+														<option>Konghucu</option>
+														</select>
+					                         </div>
+						<div class="col-lg-6">
+                          <label class="">No. KTP :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
+                      </div>
+                      </div>
 
 									</div>
-									
+									</div>
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+
+
+						<div class="col-lg-6">
+					                           <label>NPWP :</label>
+                         <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
+					                         </div>
+					                         </div>
+
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+<div class="form-group row">
+
+						<div class="col-lg-3">
+					                           <label>No. Rekening :</label>
+                         <input type="text" class="form-control form-control-sm" placeholder="1520017942547">
+					                         </div>
+						<div class="col-lg-3">
+					                           <label class="">Bank :</label>
+                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Mandiri</option>
+														<option>BNI</option>
+														<option>BRI</option>
+														<option>BTN</option>
+														<option>Bukopin</option>
+														<option>Mega</option>
+														<option>BCA</option>
+														
+														</select>
+                      </div>
+						<div class="col-lg-6">
+					                           <label>Nama Pemilik Rekening :</label>
+                         <input type="text" class="form-control form-control-sm" placeholder="Maghfirah Sharifuddin Andy Omar">
+					                         </div>
+
+									</div>
+									</div>
 
 
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-3">
+<div class="col-xl-4">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
-																							<div class="kt-portlet__body">
+									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Korespondensi</div><br>
+										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-12">
-																						<label>Cari Pegawai :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
-					 																<option value="AK" selected>000 000 001 - Yulianti Tomu, SE</option>
-					 																<option value="AK">000 000 002 - Rizal Asjadad</option>
-					 																<option value="AK">000 000 003 - Christofher Rio Aviary</option>
-					 																<option value="AK">000 000 004 - Mu’amar Nor Amin</option>
-					 																<option value="AK">000 000 005 - Zulfadli Syahrir</option>
-					 																<option value="AK">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+
+						<div class="col-lg-9">
+                          <label>Alamat Lengkap :</label>
+                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
+
+                        </div>
+						<div class="col-lg-3">
+                          <label>Kode Pos :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="90233">
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+                       <div class="col-lg-12">
+                         <input type="text" class="form-control form-control-sm"  placeholder="Kompleks Villa Surya Mas Blok J/9">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+                        <div class="col-lg-6">
+                          <label class="">Kota :</label>
+                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
+					 															<optgroup label="Sulawesi Selatan">
+					 																<option value="AK" selected>Kota Makassar</option>
+					 																<option value="AK" selected>Kota Pare-Pare</option>
+					 																<option value="AK" selected>Maros</option>
+					 															</optgroup>
+																				<optgroup label="Sulawesi Barat">
+					 																<option value="AK" selected>Mamuju</option>
+					 																<option value="AK" selected>Majene</option>
+					 																<option value="AK" selected>Polman</option>
+					 															</optgroup>
 
 					 														</select>
-																					</div>
-																					
-																					
-																					
-																				</div>
+                      </div>
+						<div class="col-lg-6">
+                          <label class="">No. Handphone :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
+                      </div>
+                        </div>
+
+                        </div>
+
+
+
+
+											</div>
+
+										</div>
+
+									</div>
+<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Darurat</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+
+						<div class="col-lg-9">
+                          <label>Alamat Lengkap :</label>
+                         <input type="text" class="form-control form-control-sm" placeholder="Jl. Toddopuli Raya Timur">
+
+                        </div>
+						<div class="col-lg-3">
+                          <label>Kode Pos :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="90233">
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+                       <div class="col-lg-12">
+                         <input type="text" class="form-control form-control-sm" placeholder="Kompleks Villa Surya Mas Blok J/9">
+
+                        </div>
+                        </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-12">
-																						<label>NIP :</label>
-																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-						
-						
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-12">
-																						<label>Department :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
+						  <div class="form-group row">
+                        <div class="col-lg-6">
+                          <label class="">Kota :</label>
+                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
+					 															<optgroup label="Sulawesi Selatan">
+					 																<option value="AK" selected>Kota Makassar</option>
+					 																<option value="AK" selected>Kota Pare-Pare</option>
+					 																<option value="AK" selected>Maros</option>
+					 															</optgroup>
+																				<optgroup label="Sulawesi Barat">
+					 																<option value="AK" selected>Mamuju</option>
+					 																<option value="AK" selected>Majene</option>
+					 																<option value="AK" selected>Polman</option>
+					 															</optgroup>
 
-																					</div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-12">
-																						<label>Bagian :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-						
-                        </div>
-                        </div>
-						
-                     
-					  
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-12">
-																						<label>Jabatan :</label>
-																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-						
+					 														</select>
+                      </div>
+						<div class="col-lg-6">
+                          <label class="">No. Handphone :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="082244444436">
+                      </div>
                         </div>
 
-									
+                        </div>
 
-									</div>
-																						</div>
 
-									</div>
-									<div class="col-xl-2">
 
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Pegawai</div><br>
-																							<div class="kt-portlet__body">
-																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
-																										<div class="col-lg-12">
-																											<div>&nbsp;</div>
-																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
-																											</div>
-																										</div>
-																										
-																									</div>
-																								</div>
-																							</div>
-																						</div>
-<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
-																							<div class="kt-portlet__body">
-																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
-																										<div class="col-lg-12">
-																											<div>&nbsp;</div>
-																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
-																											</div>
-																										</div>
-																										
-																									</div>
-																								</div>
-																							</div>
-																						</div>
 
-									</div>
+											</div>
 
-									<div class="col-xl-2">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Pegawai</div><br>
-																							<div class="kt-portlet__body">
-																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
-																										<div class="col-lg-12">
-																											<div>&nbsp;</div>
-																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Tanda Tangan">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
-																											</div>
-																										</div>
-																										
-																									</div>
-																								</div>
-																							</div>
-																						</div>
+										</div>
 
 									</div>
 									</div>

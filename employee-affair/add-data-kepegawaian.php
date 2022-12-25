@@ -366,7 +366,7 @@
 												<div class="form-group row">
 																					<div class="col-lg-12">
 																						<label>Cari Pegawai :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_4" name="param">
+																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
 					 																<option value="AK" selected>000 000 001 - Yulianti Tomu, SE</option>
 					 																<option value="AK">000 000 002 - Rizal Asjadad</option>
 					 																<option value="AK">000 000 003 - Christofher Rio Aviary</option>

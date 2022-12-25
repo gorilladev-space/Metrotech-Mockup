@@ -596,11 +596,11 @@ button.active.blue-migrate:before, #data-migration-personalised-container .onboa
 }
 
 .nav-tabs .nav-item .nav-link.produk {
-  border-color: #dee2e6;
+  border-color: #0092dd;
 }
 
 .nav-tabs .nav-item .nav-link.active, .nav-tabs .nav-item .nav-link:active, .nav-tabs .nav-item .nav-link:hover{
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #0092dd #0092dd #fff;
 }
 
 .nav-tabs .nav-link.produk {

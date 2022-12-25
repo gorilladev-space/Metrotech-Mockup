@@ -600,7 +600,7 @@ button.active.blue-migrate:before, #data-migration-personalised-container .onboa
 }
 
 .nav-tabs .nav-item .nav-link.active, .nav-tabs .nav-item .nav-link:active, .nav-tabs .nav-item .nav-link:hover{
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #0092dd #0092dd #fff;
 }
 
 .nav-tabs .nav-link.produk {
@@ -1124,7 +1124,7 @@ padding:2rem 1rem 0 2rem;
 
 .m-footer {
   display: block;
-	padding: 15px 30px;
+	padding: 10px 30px;
 	min-height: 30px;
 	background: #28156e;
 	-webkit-box-shadow: -2px -8px 41px -14px rgba(41, 50, 66, 0.05);
