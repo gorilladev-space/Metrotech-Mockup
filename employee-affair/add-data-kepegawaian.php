@@ -241,7 +241,7 @@
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-6">
+								<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -321,7 +321,34 @@
 																					</div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
+<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
+					 															<optgroup label="Direksi">
+					 																<option value="AK" selected>X / IV A</option>
+					 															</optgroup>
+
+					 														</select>
+																					</div>
 						<div class="col-lg-6">
+																						<label>Kantor :</label>
+																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Pusat</option>
+														<option>Cabang</option>
+													
+														
+														</select>
+																					</div>
+
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
 																						<label>Jabatan :</label>
 																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
 					 															<optgroup label="Direksi">
@@ -332,43 +359,6 @@
 					 															</optgroup>
 
 					 														</select>
-																					</div>
-<div class="col-lg-6">
-																						<label>Pangkat / Golongan :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>X / IV A</option>
-					 															</optgroup>
-
-					 														</select>
-																					</div>
-						
-                        </div>
-                        </div>
-						
-                     
-					  
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-6">
-																						<label>Atasan Langsung :</label>
-																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" selected>Direktur Utama</option>
-					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
-					 																<option value="AK" selected>Direktur Operasional</option>
-					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
-					 															</optgroup>
-
-					 														</select>
-																					</div>
-<div class="col-lg-6">
-																						<label>Kantor :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Pusat</option>
-														<option>Cabang</option>
-														
-														</select>
 																					</div>
 						
                         </div>
@@ -382,10 +372,80 @@
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-2">
+<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-12">
+																						<label>Cari Pegawai :</label>
+																						<select class="form-control kt-select2 form-control-sm" id="kt_select2_4" name="param">
+					 															<optgroup label="Direksi">
+					 																<option value="AK" selected>Direktur Utama</option>
+					 																<option value="AK" selected>Direktur Keuangan & Asset</option>
+					 																<option value="AK" selected>Direktur Operasional</option>
+					 																<option value="AK" selected>Direktur Pengembangan Usaha & Kerja Sama</option>
+					 															</optgroup>
+
+					 														</select>
+																					</div>
+																					
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>NIP :</label>
+																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+
+									
+
+									</div>
+																						</div>
+
+									</div>
+									<div class="col-xl-2">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
@@ -394,7 +454,7 @@
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
 																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
+																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
 																													<i class="fa fa-pen"></i>
 																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
 																												</label>
@@ -408,12 +468,7 @@
 																								</div>
 																							</div>
 																						</div>
-
-									</div>
-									<div class="col-xl-2">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
@@ -438,10 +493,11 @@
 																						</div>
 
 									</div>
+
 									<div class="col-xl-2">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
