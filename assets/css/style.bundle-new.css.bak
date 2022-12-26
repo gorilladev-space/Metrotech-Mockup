@@ -11156,7 +11156,7 @@ code {
       vertical-align: middle;
       line-height: 0;
       display: inline-block;
-      margin-right: 0.5rem; }
+      margin-right: 1rem; }
     .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link:active, .nav-pills .nav-item .nav-link:hover,
     .nav-tabs .nav-item .nav-link.active,
     .nav-tabs .nav-item .nav-link:active,

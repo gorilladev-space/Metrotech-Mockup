@@ -69,33 +69,15 @@ function goBack() {
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Form
+														Form Pengangkatan 
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Detail Surat Keputusan
+														Calon Pegawai
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
 														1
 													</div>
-											</div>
-										</div>
-										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
-											<div class="kt-wizard-v4__nav-body">
-												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-grid-menu-v2"></i>
-												</div>
-												<div class="kt-wizard-v4__nav-label">
-													<div class="kt-wizard-v4__nav-label-title">
-														Atribut
-													</div>
-													<div class="kt-wizard-v4__nav-label-desc">
-														Surat Keputusan
-													</div>
-												</div>
-												<div class="kt-wizard-v4__nav-number kt-block-center">
-													2
-												</div>
 											</div>
 										</div>
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
@@ -112,46 +94,29 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													3
+													2
 												</div>
 											</div>
 										</div>
-										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
 													<i class="flaticon-interface-10"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Preview Surat
+														Preview SK
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Keputusan Calon Pegawai
+														Calon Pegawai
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													4
+													3
 												</div>
 											</div>
 										</div>
-										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
-											<div class="kt-wizard-v4__nav-body">
-												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon2-box-1"></i>
-												</div>
-												<div class="kt-wizard-v4__nav-label">
-													<div class="kt-wizard-v4__nav-label-title">
-														Preview Surat
-													</div>
-													<div class="kt-wizard-v4__nav-label-desc">
-														Cetak Surat Pemberhentian
-													</div>
-												</div>
-												<div class="kt-wizard-v4__nav-number kt-block-center">
-													5
-												</div>
-											</div>
-										</div>-->
+
 									</div>
 								</div>
 
@@ -169,11 +134,12 @@ function goBack() {
 														<div class="kt-form__section kt-form__section--first">
 
 											<div class="row">
-								<div class="col-xl-3">
+											<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Surat</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail SK</div>
+							<br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-12">
@@ -212,283 +178,86 @@ function goBack() {
 						
 						
                       </div>
-					  
                     </div>
 							<!--end:: Portlet-->
 
 
 										</div>
-										<div class="col-xl-4">
+								<div class="col-xl-3">
+
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Surat</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Calon Pegawai</div><br>
 										 <div class="kt-portlet__body">
+										 
                       <div class="form-group row">
                        <div class="col-lg-12">
-                          <label>Memperhatikan :</label>
-						  <div id="kt_repeater_2">
-												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_2">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="10px" bgcolor="#f7fcff">No</td>
-																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								  </tr>
-																								<thead>
-																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Masa Kerja Calon Pegawai yang sudah mencapai 15  (lima belas) tahun dalam Status Tenaga Kontrak"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													
-									
-						
-						
-
-                        </div>
-                      </div>
-
-                      </div>
-                    </div>
-							<!--end:: Portlet-->
-
-
-										</div>
-										<div class="col-xl-5">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tembusan</div><br>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div id="kt_repeater_2">
-												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_3">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="10px" bgcolor="#f7fcff">No</td>
-																								  <td width="700px" bgcolor="#f7fcff">Tembusan Surat</td>
-																								  <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								  </tr>
-																								<thead>
-																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">238 004 032 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                              <option value="HI">238 004 032 - Nurul Insani Budhi Artha, A. Md</option>
-                            </select></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													
-									
-						
-						
-												
-												</div>
-									</div>
-									
-                      </div>
-
-							<!--end:: Portlet-->
-										</div>
-										
-
-
-
-								</div>
-														</div>
-													</div>
-
-													<!--end: Form Wizard Step 1-->
-
-													<!--begin: Form Wizard Step 2-->
-													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
-														<div class="kt-form__section kt-form__section--first">
-
-											<div class="row">
-								
-										<div class="col-xl-4">
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Surat</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>Menetapkan :</label>
-						  <div id="kt_repeater_2">
-												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_4">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="10px" bgcolor="#f7fcff">No</td>
-																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								  </tr>
-																								<thead>
-																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="KEPUTUSAN DIREKSI PERUSAHAAN DAERAH PARKIR MAKASSAR RAYA TENTANG PENGANGKATAN CALON PEGAWAI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA."></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													
-									
-						
-						
-
-                        </div>
-                      </div>
-
-                      </div>
-                    </div>
-							<!--end:: Portlet-->
-
-
-										</div>
-										<div class="col-xl-8">
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Menetapkan</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div class="col-lg-12">
-                          <label></label>
-						  <div id="kt_repeater_3">
-												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_5">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="1%" bgcolor="#f7fcff">No</td>
-																								  <td width="800px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="10px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								  </tr>
-																								<thead>
-																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="Mengangkat yang namanya tersebut dalam Lajur 2 menjadi Calon Pegawai PERUMDA Parkir Makassar Raya dengan Masa Percobaan dalam Golongan Ruang Gaji sebagaimana tersebut pada Lajur 8 dengan Gaji Pokok Bulanan sebagaimana tersebut dalam Lajur 10, ditambah dengan Penghasilan lainnya yang sah berdasarkan Peraturan Perundang-undangan yang berlaku disesuaikan dengan kemampuan Perusahaan Daerah, terhitung mulai tanggal sebagaimana tersebut dalam Lajur 11 dan Tempat Bekerja sebagaimana tersebut dalam Lajur 12 Lampiran Keputusan ini.   "></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													
-									
-						
-						
-
-                        </div>
-                      </div>
-                      </div>
-                      </div>
-                      </div>
-                      </div>
-							<!--end:: Portlet-->
-
-  </div>
-  </div>
-													<!--end: Form Wizard Step 2-->
-
-													<!--begin: Form Wizard Step 3-->
-													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
-														<div class="kt-form__section kt-form__section--first">
-
-											<div class="row">
-								<div class="col-xl-6">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Calon Pegawai</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div class="col-lg-6">
                           <label>Cari Nama Pegawai Kontrak :</label>
 						  <select class="form-control kt-selectpicker" data-live-search="true">
 								<optgroup label="- Bagian Umum">
                               <option value="AK">Sri Suhartini, SE</option>
                               <option value="HI">Muhammad Nasrullah, S.Kom</option>
                             </select>
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Nomor Pokok Pegawai :</label>
-						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2381980022062">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kantor :</label>
-						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Department :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+						<div class="col-lg-8">
+                          <label class="">NIK Pegawai Kontrak :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2381980022062">
+                      </div>
                         </div>
-						<div class="col-lg-6">
-                          <label class="">Bagian :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Pangkat / Golongan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Muda / C.1">
-                        </div>
-						<div class="col-lg-6">
-                          <label class="">Jabatan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Administrasi Kepegawaian">
+<div class="col-lg-4">
+                          <label class="">Kantor :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                      </div>
                         </div>
 
                         </div>
-						
-						
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Department :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian">
                       </div>
+                        </div>
+
+
+
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+					 <div class="col-lg-12">
+                          <label class="">Pangkat / Golongan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Muda / C.1">
+                      </div>
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Jabatan :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Administrasi Kepegawaian">
+                        </div>
+						
+						
+
+
+
+                        </div>
+                        </div>
+					 
 					  
                     </div>
 							<!--end:: Portlet-->
@@ -496,16 +265,17 @@ function goBack() {
 
 										</div>
 										
-										<div class="col-xl-6">
+										<div class="col-xl-3">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-					  <div class="col-lg-6">
-                      <label>Cari Pegawai :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">\
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-12">
+																						<label>Cari Pegawai :</label>
+																						<select class="form-control kt-selectpicker" data-live-search="true">\
 																						<optgroup label="- Direksi">
                               <option value="2">000 000 001 - Yulianti Tomu, SE</option>
                               <option value="2">000 000 002 - Rizal Asjadad</option>
@@ -517,52 +287,499 @@ function goBack() {
                               <option value="3">238 004 032 - Sri Suhartini, SE</option>
 
                           </select>
+																						
+																					</div>
+																					
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>NIP :</label>
+																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
+						
                         </div>
-								<div class="col-lg-3">
-                          <label>NIP Pegawai :</label>
-						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kantor :</label>
-						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
-                        </div>	
-                      </div>
-					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Department :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
-                        </div>
-						<div class="col-lg-6">
-                          <label class="">Bagian :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian">
-                        </div>
-                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+																					</div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+
+									
+
+									</div>
+																						</div>
+
+									</div>
+										<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Posisi Baru</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+												<div class="col-lg-12">
+                          <label class="">Terhitung Mulai Tanggal :</label>
+                          <div class="form-group">
+                         <div class="input-group date">
+													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
+													<div class="input-group-append">
+														<span class="input-group-text">
+															<i class="la la-calendar-check-o"></i>
+														</span>
+													</div>
+												</div>
+                      </div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Pangkat / Golongan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Ahli / C.1">
+																					<div class="col-lg-12">
+                          <label>Department :</label>
+						  <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="HI">Umum</option>
+                            </select>
+                        </div>				
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
+                          <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Umum dan Kepegawaian</option>
+                              <option value="AK">Hukum dan Humas</option>
+                             
+                            </select>
                         </div>
-						<div class="col-lg-6">
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
                           <label class="">Jabatan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian">
+                          <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Staff Hukum dan Perundang Undangan</option>
+                              <option value="AK">Hukum dan Humas</option>
+                             
+                            </select>
                         </div>
 
-                        </div>
-						
-						
-                      </div>
-                      </div>
+																					</div>
 
-							<!--end:: Portlet-->
-										</div>
+						
+                     
+					  
+									
+																						</div>
+
+									</div>
 										
 
 
 
 								</div>
+								
 														</div>
+
+
+
+								</div>
+								
+														</div>
+														
+													</div>
+
+													<!--end: Form Wizard Step 1-->
+
+													<!--begin: Form Wizard Step 2-->
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
+														<div class="kt-form__section kt-form__section--first">
+															<div class="kt-wizard-v4__form">
+											<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail SK</div>
+							<br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Nomor Surat :</label>
+						  <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/20-S.Kep.Dir/PERUMDA-PMR/XI/2022">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Ditetapkan Di :</label>
+                          <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Makassar</option>
+                              <option value="HI">Jakarta</option>
+                            </select>
+                        </div>
+                        </div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Tanggal Surat :</label>
+                          <div class="form-group">
+                         <div class="input-group date">
+													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
+													<div class="input-group-append">
+														<span class="input-group-text">
+															<i class="la la-calendar-check-o"></i>
+														</span>
+													</div>
+												</div>
+                      </div>
+                        </div>
+
+                        </div>
+						
+						
+                      </div>
+                    </div>
+							<!--end:: Portlet-->
+
+
+										</div>
+								<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Calon Pegawai</div><br>
+										 <div class="kt-portlet__body">
+										 
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Cari Nama Pegawai Kontrak :</label>
+						  <select class="form-control kt-selectpicker" data-live-search="true">
+								<optgroup label="- Bagian Umum">
+                              <option value="AK">Sri Suhartini, SE</option>
+                              <option value="HI">Muhammad Nasrullah, S.Kom</option>
+                            </select>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-8">
+                          <label class="">NIK Pegawai Kontrak :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2381980022062">
+                      </div>
+                        </div>
+<div class="col-lg-4">
+                          <label class="">Kantor :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                      </div>
+                        </div>
+
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Department :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian">
+                      </div>
+                        </div>
+
+
+
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+					 <div class="col-lg-12">
+                          <label class="">Pangkat / Golongan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Muda / C.1">
+                      </div>
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Jabatan :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Administrasi Kepegawaian">
+                        </div>
+						
+						
+
+
+
+                        </div>
+                        </div>
+					 
+					  
+                    </div>
+							<!--end:: Portlet-->
+
+
+										</div>
+										
+										<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-12">
+																						<label>Cari Pegawai :</label>
+																						<select class="form-control kt-selectpicker" data-live-search="true">\
+																						<optgroup label="- Direksi">
+                              <option value="2">000 000 001 - Yulianti Tomu, SE</option>
+                              <option value="2">000 000 002 - Rizal Asjadad</option>
+                              <option value="3">000 000 003 - Christofher Rio Aviary</option>
+                              <option value="3">000 000 004 - Mu’amar Nor Amin</option>
+                              <option value="3">000 000 005 - Zulfadli Syahrir</option>
+							  <optgroup label="- Umum dan Kepegawaian">
+                              <option value="3">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+                              <option value="3">238 004 032 - Sri Suhartini, SE</option>
+
+                          </select>
+																						
+																					</div>
+																					
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>NIP :</label>
+																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+
+									
+
+									</div>
+																						</div>
+
+									</div>
+										<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Posisi Baru</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+												<div class="col-lg-12">
+                          <label class="">Terhitung Mulai Tanggal :</label>
+                          <div class="form-group">
+                         <div class="input-group date">
+													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
+													<div class="input-group-append">
+														<span class="input-group-text">
+															<i class="la la-calendar-check-o"></i>
+														</span>
+													</div>
+												</div>
+                      </div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+																					<div class="col-lg-12">
+                          <label>Department :</label>
+						  <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="HI">Umum</option>
+                            </select>
+                        </div>				
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
+                          <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Umum dan Kepegawaian</option>
+                              <option value="AK">Hukum dan Humas</option>
+                             
+                            </select>
+                        </div>
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Jabatan :</label>
+                          <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Staff Hukum dan Perundang Undangan</option>
+                              <option value="AK">Hukum dan Humas</option>
+                             
+                            </select>
+                        </div>
+
+																					</div>
+
+						
+                     
+					  
+									
+																						</div>
+
+									</div>
+										
+
+
+
+								</div>
+								
+														</div>
+
+
+
+								</div>
+								
+															</div>
+														</div>
+													</div>
+
+													<!--end: Form Wizard Step 2-->
+
+													<!--begin: Form Wizard Step 3-->
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
+														<div class="kt-form__section kt-form__section--first">
+															<div class="kt-wizard-v4__form">
+														<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+										<thead style="text-align:center">
+											<tr>
+												<th width="1%" bgcolor="#f7fcff">#</th>
+												<th width="5%" bgcolor="#f7fcff">ID Kasbon</th>
+												<th width="7%" bgcolor="#f7fcff">Waktu<br>Pengajuan</th>
+												<th width="6%" colspan="2" bgcolor="#f7fcff">Nilai Pinjaman</th>
+												<th width="1%" bgcolor="#f7fcff">Bunga</th>
+												<th width="3%" bgcolor="#f7fcff">Tenor</th>
+												<th width="4%" colspan="2" bgcolor="#f7fcff">Angsuran</th>
+												<th width="6%" colspan="2" bgcolor="#f7fcff">Sisa Pinjaman</th>
+												<th width="6%" bgcolor="#f7fcff">Progress Angsuran</th>
+												<th width="1%" bgcolor="#f7fcff">Status Permohonan</th>
+												<th width="2%" bgcolor="#f7fcff">Aksi</th>
+											</tr>
+										</thead>
+										<tbody>
+
+
+										  <tr>
+												<td style="text-align:center" id="kt_table_1">1</td>
+												<td style="text-align:center;">2/IM-KASBON/III/2019</td>
+												<td style="text-align:center">12 Oktober 2019 - 09:00 WITA</td>
+												<td style="text-align:left; border-right-color:#fff">Rp.</td>
+												<td style="text-align:right">1.000.000,-</td>
+												<td style="text-align:right">0 %</td>
+												<td style="text-align:right">10 Bulan</td>
+												<td style="text-align:left; border-right-color:#fff">Rp.</td>
+												<td style="text-align:right">100.000,-</td>
+												<td style="text-align:left; border-right-color:#fff">Rp.</td>
+												<td style="text-align:right">200.000,-</td>
+												<td style="text-align:center" nowrap><div class="progress">
+												  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">8 dari 10</div>
+</div></td>
+											  <td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui" data-html="true">
+													    <i class="fa flaticon2-check-mark"></i>
+												    </span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_angsuran">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Angsuran</span>
+																			</div>
+																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_pelunasan">
+																				<i class="kt-nav__link-icon fa fa-money-bill-wave"></i>
+																				<span class="kt-nav__link-text">Ajukan Pelunasan</span>
+																			</div>
+																		</li>
+
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+									    </tbody>
+									</table>
+													</div>
+													</div>
 													</div>
 
 													<!--end: Form Wizard Step 3-->
