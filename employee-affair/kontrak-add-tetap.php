@@ -19,7 +19,7 @@
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" data-placement="left">
-											<a href="pegawai-resign.php" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
+											<a href="pegawai-kontrak.php" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali
                         <script>
 function goBack() {
@@ -571,61 +571,19 @@ function goBack() {
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 													<div class="kt-form__section kt-form__section--first">
 															<div class="kt-wizard-v4__form">
-														<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead style="text-align:center">
-											<tr>
-												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="3%" bgcolor="#f7fcff">ID Asset</th>
-                                                <th width="2%" bgcolor="#f7fcff">QR Code</th>
-                                                <th width="10%" bgcolor="#f7fcff">Nama Barang</th>
-                                                <th width="7%" bgcolor="#f7fcff">Tipe Produk</th>
-                                                <th width="7%" bgcolor="#f7fcff">Kategori Produk</th>
-                                                <th width="7%" bgcolor="#f7fcff">Diserahkan Oleh</th>
-												<th width="7%" bgcolor="#f7fcff">Waktu<br>Penyerahan</th>
-												<th width="1%" bgcolor="#f7fcff">Status Penyerahan</th>
-												<th width="2%" bgcolor="#f7fcff">Aksi</th>
-											</tr>
-										</thead>
-										<tbody>
-
-
-										  <tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:center;">2/IM-KASBON/III/2019</td>
-                                                <td style="text-align:center;"><i class="fa fa-qrcode"></i></td>
-                                                <td style="text-align:left;">Laptop Asus Core i5</td>
-                                                <td style="text-align:center">Elektronik</td>
-                                                <td style="text-align:center">Laptop</td>
-                                                <td style="text-align:center">&nbsp;</td>
-												<td style="text-align:left">12 Oktober 2019 - 09:00 WITA</td>
-											  <td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui" data-html="true">
-													    <i class="fa flaticon2-check-mark"></i>
-												    </span></td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_detail_asset">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_serah_terima_asset">
-																				<i class="kt-nav__link-icon fa fa-luggage-cart"></i>
-																				<span class="kt-nav__link-text">Serah Terima Barang</span>
-																			</div>
-																		</li>
-
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-									    </tbody>
-									</table>
+														 <div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
+							<div class="kt-portlet">
+										<div class="kt-portlet__head kt-portlet__head--noborder  kt-ribbon kt-ribbon--danger kt-ribbon--shadow kt-ribbon--left kt-ribbon--round">
+											
+											<div class="kt-portlet__head-label">
+												
+											</div>
+										</div>
+										<div class="kt-portlet__body kt-portlet__body--fit-top">
+										<embed src="../assets/img/sk-pengangkatan-calon-pegawai.pdf" type="application/pdf" width="100%" height="600px" />
+										</div>
+									</div>
+						</div>
 													</div>
 													</div>
 													</div>
@@ -635,13 +593,13 @@ function goBack() {
 													<!--begin: Form Actions -->
 													<div class="kt-form__actions">
 														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
-															Previous
+															Kembali
 														</button>
 														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Submit
+															Simpan
 														</button>
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
-															Next Step
+															Selanjutnya
 														</button>
 													</div>
 
