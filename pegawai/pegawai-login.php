@@ -70,7 +70,7 @@
 																	<div class="col-lg-12">
 														
 														<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);"></div>
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_15.jpg&quot;);"></div>
 																			
 																			<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Cancel Foto">
 																				<i class="fa fa-times"></i>

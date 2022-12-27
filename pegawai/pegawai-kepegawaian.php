@@ -69,7 +69,7 @@ function goBack() {
 																	<div class="col-lg-12">
 														
 														<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_20.jpg&quot;);"></div>
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_15.jpg&quot;);"></div>
 																			
 																			<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Cancel Foto">
 																				<i class="fa fa-times"></i>
@@ -231,7 +231,7 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-5">
+								<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -311,6 +311,7 @@ function goBack() {
 <div class="col-xl-4">
 
 									<!--begin::Portlet-->
+
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
 																							<div class="kt-portlet__body">
@@ -369,7 +370,9 @@ function goBack() {
 
 									</div>
 																						</div>
+																						
 
+									</div>
 									</div>
 
 
