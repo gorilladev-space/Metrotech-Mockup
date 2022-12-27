@@ -64,7 +64,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pegawai</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pegawai</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-4">
@@ -128,28 +128,17 @@ function goBack() {
                               <option value="2">Izin Jam Kantor</option>
                           </select>
                         </div>
-                        <div class="col-lg-2">
-                          <label class="">Tanggal Izin :</label>
-                          <div class="input-group date">
-													<input type="text" class="form-control form-control-sm kt_datepicker_3" readonly="" value="05/20/2017">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar"></i>
-														</span>
-													</div>
-												</div>
+                        <div class="col-lg-4">
+                          <label class="">Tanggal Izin:</label>
+                         
+												<div class='input-group' >
+                        <input type='text' class="form-control kt_daterangepicker_2" readonly placeholder="Select date range" />
+                        <div class="input-group-append">
+                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
                         </div>
-						<div class="col-lg-2">
-                          <label class="">Jam :</label>
-                          <div class="input-group timepicker">
-													<div class="input-group-prepend">
-														<span class="input-group-text">
-															<i class="la la-exclamation-circle"></i>
-														</span>
-													</div>
-													<input class="form-control form-control-sm" id="kt_timepicker_1" readonly value="10:30:20 AM" type="text" />
-												</div>
+                      </div>
                         </div>
+						
                         <div class="col-lg-4">
                           <label class="">Tujuan Izin :</label>
                           <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
@@ -226,7 +215,7 @@ function goBack() {
 								<div class="col-xl-3">
 
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div><br>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-12">
