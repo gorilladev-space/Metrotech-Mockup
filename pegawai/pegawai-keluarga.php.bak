@@ -246,7 +246,7 @@ function goBack() {
 												<td style="text-align:center" nowrap>S1</td>
 												<td style="text-align:center" nowrap>Ibu Rumah Tangga</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Akta Nikah"> <i class="fa flaticon-download-1"></i> </span></td>
-
+												
 										  </tr>
 											<tr>
 												<td style="text-align:center" id="kt_table_1">2</td>

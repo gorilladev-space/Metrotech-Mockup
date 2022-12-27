@@ -58,7 +58,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="col-lg-3">
 													<div class="kt-section__content">
 															<a href="#" class="kt-media">
-																<img src="../assets/img/users/300_20.jpg" alt="image" style="max-width:100px !important;height:auto">
+																<img src="../assets/img/users/100_16.jpg" alt="image" style="max-width:100px !important;height:auto">
 															</a>
 														</div>
 												</div>
@@ -110,7 +110,6 @@ License: You must have a valid license purchased only from themeforest(the above
 												</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
-<div class="m-scrollable" data-scrollable="true" data-height="400" style="height: 400px; overflow: hidden;">
 												<ul class="nav nav-pills nav-pills-sm nav-pills-label nav-pills-bold" role="tablist">
 													<li class="nav-item">
 														<a class="nav-link active" data-toggle="tab" href="#kt_widget6_tab1_content" role="tab">
@@ -133,7 +132,6 @@ License: You must have a valid license purchased only from themeforest(the above
 														</a>
 													</li>
 												</ul>
-											</div>
 											</div>
 										</div>
 										<div class="kt-portlet__body">

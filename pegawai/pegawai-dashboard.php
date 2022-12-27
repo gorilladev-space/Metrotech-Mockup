@@ -58,7 +58,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="col-lg-3">
 													<div class="kt-section__content">
 															<a href="#" class="kt-media">
-																<img src="../assets/img/users/300_20.jpg" alt="image" style="max-width:100px !important;height:auto">
+																<img src="../assets/img/users/100_15.jpg" alt="image" style="max-width:100px !important;height:auto">
 															</a>
 														</div>
 												</div>

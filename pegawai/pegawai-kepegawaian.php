@@ -13,22 +13,22 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Pendidikan
+											Profil Anda
 									</h3>
-
+									
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" ddata-placement="left">
 											<a href="#" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali</button>
-													<script>
-													function goBack() {
-													  window.history.back();
-													}
-													</script>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-
+											
 										</div>
 										</div>
 										</div>
@@ -38,7 +38,6 @@
 
 						<!-- begin:: Content -->
 						<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
-						
 
 							<!--Begin::App-->
 							<div class="kt-grid kt-grid--desktop kt-grid--ver kt-grid--ver-desktop kt-app">
@@ -82,7 +81,7 @@
 												<div class="kt-widget__body">
 													<div>&nbsp;</div>
 													<div class="kt-widget__items">
-														<a href="pegawai-profil.php" class="kt-widget__item">
+														<a href="pegawai-profil.php" class="kt-widget__item kt-widget__item">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -97,7 +96,7 @@
 																</span>
 															</span>
 														</a>
-														<a href="pegawai-kepegawaian.php" class="kt-widget__item kt-widget__item">
+														<a href="pegawai-kepegawaian.php" class="kt-widget__item kt-widget__item--active">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -112,7 +111,7 @@
 																</span>
 															</span>
 														</a>
-														<a href="pegawai-karir.php" class="kt-widget__item">
+														<a href="pegawai-karir.php" class="kt-widget__item ">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -148,15 +147,14 @@
 																</span>
 															</span>
 														</a>
-														<a href="pegawai-pendidikan.php" class="kt-widget__item  kt-widget__item--active">
+														<a href="pegawai-pendidikan.php" class="kt-widget__item ">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
-                                                                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                                            <polygon points="0 0 24 0 24 24 0 24"/>
-                                                                            <rect fill="#000000" opacity="0.3" x="2" y="3" width="7" height="14" rx="1"/>
-                                                                            <path d="M16.6236387,13.0538007 C18.8273383,13.8579339 20.1826034,13.7956508 21,14 C21.5844894,14.1461224 22.1049236,14.4525789 22.5613025,14.9193695 C22.8220479,15.1860635 23.0030223,15.5203564 23.0837834,15.8844876 C23.3229559,16.9628548 22.6426541,18.0309317 21.5642858,18.2700997 C20.2740329,18.5562665 18.7433451,18.7531138 16.9722222,18.8606416 C13.9910551,19.0416332 8.86226533,19.0463278 1.5858528,18.8747253 C1.26005876,18.867042 0.999953435,18.6007302 0.999953435,18.2748455 L1,18.2748455 C1,15.4124758 1,13.3451074 1,12.0727406 C5.24980707,11.6622656 8.09783699,10.5071287 9.54408978,8.60732991 C9.56481367,8.58010699 9.58782802,8.55470651 9.6128812,8.53140618 C9.85553488,8.30572983 10.2351914,8.31949268 10.4608598,8.56215378 C10.8762386,9.00878105 11.2674202,9.41538104 11.6344046,9.78195376 C11.6101853,9.81416566 11.5876475,9.84819014 11.5669873,9.8839746 L10.0669873,12.4820508 C9.79084492,12.9603434 9.95472008,13.5719338 10.4330127,13.8480762 C10.9113053,14.1242186 11.5228957,13.9603434 11.7990381,13.4820508 L13.1335582,11.1705941 C13.630492,11.5858319 14.0581948,11.8865474 14.4166667,12.0727406 C14.5381042,12.1358162 14.6576898,12.1965218 14.7754507,12.2549561 L14.0669873,13.4820508 C13.7908449,13.9603434 13.9547201,14.5719338 14.4330127,14.8480762 C14.9113053,15.1242186 15.5228957,14.9603434 15.7990381,14.4820508 L16.6236387,13.0538007 Z" fill="#000000"/>
-                                                                        </g>
+                                                                       <g id="Stockholm-icons-/-Communication-/-Archive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4.5,3 L19.5,3 C20.3284271,3 21,3.67157288 21,4.5 L21,19.5 C21,20.3284271 20.3284271,21 19.5,21 L4.5,21 C3.67157288,21 3,20.3284271 3,19.5 L3,4.5 C3,3.67157288 3.67157288,3 4.5,3 Z M8,5 C7.44771525,5 7,5.44771525 7,6 C7,6.55228475 7.44771525,7 8,7 L16,7 C16.5522847,7 17,6.55228475 17,6 C17,5.44771525 16.5522847,5 16,5 L8,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
                                                                     </svg>
                                                                 </span>
 																<span class="kt-widget__desc">
@@ -216,93 +214,165 @@
 													</div>
 												</div>
 											</div>
+
 											<!--end::Widget -->
 										</div>
 									</div>
+
 									<!--end:: Widgets/Applications/User/Profile1-->
 								</div>
-                                <!--End:: App Aside-->
+
+								<!--End:: App Aside-->
 
 								<!--Begin:: App Content-->
 								<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
 									<div class="row">
 										<div class="col-lg-12">
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
-
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-12">
+								<div class="col-xl-5">
+
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">History Pendidikan</div>
-							<div>&nbsp;</div>
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kepegawaian</div><br>
 										<div class="kt-portlet__body">
-											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead>
-											<tr style="text-align:center">
-											  <th width="2%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="5%" bgcolor="#f7fcff">Jenjang<br>Pendidikan</th>
-											  <th width="10%" bgcolor="#f7fcff">Jurusan / Fakultas</th>
-											  <th width="5%" bgcolor="#f7fcff">Tahun Masuk</th>
-											  <th width="5%" bgcolor="#f7fcff">Tahun Lulus</th>
-											  <th width="30%" bgcolor="#f7fcff">Nama Sekolah / Universitas</th>
-											  <th width="2%" bgcolor="#f7fcff">Aksi</th>
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-6">
+																						<label>Tipe Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-6">
+																						<label>NIP Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Masuk Kerja :</label>
+																						<input type="text" class="form-control form-control-sm" value="28/12/2022" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+						<div class="col-lg-6">
+																						<label>SK Pegawai Tetap :</label>
+																						<input type="text" class="form-control form-control-sm" value="28/12/2022" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Department :</label>
+																						<<input type="text" class="form-control form-control-sm" value="Umum" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+<div class="col-lg-6">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<input type="text" class="form-control form-control-sm" value="Penata Muda / IV A" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+						<div class="col-lg-6">
+																						<label>Kantor :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pusat" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
 
-										  </tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap>SD</td>
-												<td style="text-align:center" nowrap>-</td>
-												<td style="text-align:center" nowrap>1992</td>
-												<td style="text-align:center" nowrap>1998</td>
-												<td style="text-align:left" nowrap>SD INPRES 10 PERUMNAS BAIRO PITE</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Ijazah"> <i class="fa flaticon-download-1"></i> </span></td>
-										  </tr>
-											<tr>
-												<td style="text-align:center" id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap>SMP</td>
-												<td style="text-align:center" nowrap>-</td>
-												<td style="text-align:center" nowrap>1998</td>
-												<td style="text-align:center" nowrap>2001</td>
-												<td style="text-align:left" nowrap>SMP NEGERI 5 MAKASSAR</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Ijazah"> <i class="fa flaticon-download-1"></i> </span></td>
-										  </tr>
-											<tr>
- 												<td style="text-align:center" id="kt_table_1">3</td>
- 												<td style="text-align:center" nowrap>SMA</td>
- 												<td style="text-align:left" nowrap>IPA</td>
- 												<td style="text-align:center" nowrap>2001</td>
- 												<td style="text-align:center" nowrap>2004</td>
- 												<td style="text-align:left" nowrap>SMA NEGERI 2 MAKASSAR</td>
- 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Ijazah"> <i class="fa flaticon-download-1"></i> </span></td>
- 										  </tr>
-											<tr>
-												<td style="text-align:center" id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap>S1</td>
-												<td style="text-align:left" nowrap>ILMU KOMPUTER</td>
-												<td style="text-align:center" nowrap>2004</td>
-												<td style="text-align:center" nowrap>2008</td>
-												<td style="text-align:left" nowrap>TELEMATIKA OF SCHOOL - INSTITUT TEKNOLOGI HARAPAN BANGSA</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Ijazah"> <i class="fa flaticon-download-1"></i> </span></td>
-											</tr>
-											<tr>
-											  <td style="text-align:center" id="kt_table_3">5</td>
-											  <td style="text-align:center" nowrap>S2</td>
-											  <td style="text-align:left" nowrap>MAGISTER TEKNIK</td>
-											  <td style="text-align:center" nowrap>2008</td>
-												<td style="text-align:center" nowrap>2010</td>
-											  <td style="text-align:left" nowrap>HARVARD UNIVERSITY</td>
-											  <td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Ijazah"> <i class="fa flaticon-download-1"></i> </span></td>
-										  </tr>
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Jabatan :</label>
+																						<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																					</div>
+						
+                        </div>
 
-										</tbody>
-									</table>
+									
 
-                      </div>
-                    </div>
+									</div>
+									
+
+
+									</div>
 							<!--end:: Portlet-->
+</div>
+<div class="col-xl-4">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-12">
+																						<label>Nama Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="Ir. Asraruddin Mamonto, MM" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																						
+																					</div>
+																					
+																					
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>NIP :</label>
+																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+                        </div>
+						
+                     
+					  
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Bagian Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+
+						
+                        </div>
+
+									
+
+									</div>
+																						</div>
+
+									</div>
+
+
 										</div>
 
 
@@ -330,8 +400,8 @@
 
 						<!-- end:: Content -->
 					</div>
-
-
+						
+                
   </div>
 </div>
 

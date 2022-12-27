@@ -96,6 +96,21 @@ function goBack() {
 																</span>
 															</span>
 														</a>
+														<a href="pegawai-kepegawaian.php" class="kt-widget__item kt-widget__item">
+															<span class="kt-widget__section">
+																<span class="kt-widget__icon">
+																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+																		  <g id="Stockholm-icons-/-Communication-/-Adress-book#2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18,2 L20,2 C21.6568542,2 23,3.34314575 23,5 L23,19 C23,20.6568542 21.6568542,22 20,22 L18,22 L18,2 Z" id="Rectangle-161-Copy" fill="#000000" opacity="0.3"></path>
+        <path d="M5,2 L17,2 C18.6568542,2 20,3.34314575 20,5 L20,19 C20,20.6568542 18.6568542,22 17,22 L5,22 C4.44771525,22 4,21.5522847 4,21 L4,3 C4,2.44771525 4.44771525,2 5,2 Z M12,11 C13.1045695,11 14,10.1045695 14,9 C14,7.8954305 13.1045695,7 12,7 C10.8954305,7 10,7.8954305 10,9 C10,10.1045695 10.8954305,11 12,11 Z M7.00036205,16.4995035 C6.98863236,16.6619875 7.26484009,17 7.4041679,17 C11.463736,17 14.5228466,17 16.5815,17 C16.9988413,17 17.0053266,16.6221713 16.9988413,16.5 C16.8360465,13.4332455 14.6506758,12 11.9907452,12 C9.36772908,12 7.21569918,13.5165724 7.00036205,16.4995035 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+																	</svg> </span>
+																<span class="kt-widget__desc">
+																	Data Kepegawaian
+																</span>
+															</span>
+														</a>
 														<a href="pegawai-karir.php" class="kt-widget__item ">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
@@ -136,11 +151,10 @@ function goBack() {
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
-                                                                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                                            <polygon points="0 0 24 0 24 24 0 24"/>
-                                                                            <rect fill="#000000" opacity="0.3" x="2" y="3" width="7" height="14" rx="1"/>
-                                                                            <path d="M16.6236387,13.0538007 C18.8273383,13.8579339 20.1826034,13.7956508 21,14 C21.5844894,14.1461224 22.1049236,14.4525789 22.5613025,14.9193695 C22.8220479,15.1860635 23.0030223,15.5203564 23.0837834,15.8844876 C23.3229559,16.9628548 22.6426541,18.0309317 21.5642858,18.2700997 C20.2740329,18.5562665 18.7433451,18.7531138 16.9722222,18.8606416 C13.9910551,19.0416332 8.86226533,19.0463278 1.5858528,18.8747253 C1.26005876,18.867042 0.999953435,18.6007302 0.999953435,18.2748455 L1,18.2748455 C1,15.4124758 1,13.3451074 1,12.0727406 C5.24980707,11.6622656 8.09783699,10.5071287 9.54408978,8.60732991 C9.56481367,8.58010699 9.58782802,8.55470651 9.6128812,8.53140618 C9.85553488,8.30572983 10.2351914,8.31949268 10.4608598,8.56215378 C10.8762386,9.00878105 11.2674202,9.41538104 11.6344046,9.78195376 C11.6101853,9.81416566 11.5876475,9.84819014 11.5669873,9.8839746 L10.0669873,12.4820508 C9.79084492,12.9603434 9.95472008,13.5719338 10.4330127,13.8480762 C10.9113053,14.1242186 11.5228957,13.9603434 11.7990381,13.4820508 L13.1335582,11.1705941 C13.630492,11.5858319 14.0581948,11.8865474 14.4166667,12.0727406 C14.5381042,12.1358162 14.6576898,12.1965218 14.7754507,12.2549561 L14.0669873,13.4820508 C13.7908449,13.9603434 13.9547201,14.5719338 14.4330127,14.8480762 C14.9113053,15.1242186 15.5228957,14.9603434 15.7990381,14.4820508 L16.6236387,13.0538007 Z" fill="#000000"/>
-                                                                        </g>
+                                                                       <g id="Stockholm-icons-/-Communication-/-Archive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4.5,3 L19.5,3 C20.3284271,3 21,3.67157288 21,4.5 L21,19.5 C21,20.3284271 20.3284271,21 19.5,21 L4.5,21 C3.67157288,21 3,20.3284271 3,19.5 L3,4.5 C3,3.67157288 3.67157288,3 4.5,3 Z M8,5 C7.44771525,5 7,5.44771525 7,6 C7,6.55228475 7.44771525,7 8,7 L16,7 C16.5522847,7 17,6.55228475 17,6 C17,5.44771525 16.5522847,5 16,5 L8,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
                                                                     </svg>
                                                                 </span>
 																<span class="kt-widget__desc">
@@ -227,11 +241,11 @@ function goBack() {
 												<div class="form-group row">
 						<div class="col-lg-2">
                           <label>NIP Pegawai :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130036">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                         </div>
 						<div class="col-lg-4">
                           <label>Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Maghfirah Sharifuddin Andy Omar">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
                         </div>
                        <div class="col-lg-3">
                           <label>Gelar Depan :</label>
@@ -239,7 +253,7 @@ function goBack() {
                         </div>
 						<div class="col-lg-3">
                           <label>Gelar Belakang :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="S.Psi">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="SE">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -247,7 +261,7 @@ function goBack() {
 						<div class="col-lg-6">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="Fira" disabled="disabled" >
+                        <input type="text" class="form-control form-control-sm" placeholder="Yanti" disabled="disabled" >
                       </div>
                         </div>
 						<div class="col-lg-3">
