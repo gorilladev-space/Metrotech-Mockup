@@ -264,7 +264,7 @@ function goBack() {
 						 <div class="form-group row">
 						<div class="col-lg-6">
                           <label>Pangkat / Golongan :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Penata Muda / IV A">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pena">
                         </div>
 						<div class="col-lg-6">
                           <label>Kantor :</label>
