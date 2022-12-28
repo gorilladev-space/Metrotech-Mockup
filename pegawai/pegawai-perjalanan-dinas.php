@@ -227,12 +227,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
-																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
@@ -288,12 +283,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
-																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>

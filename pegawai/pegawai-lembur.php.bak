@@ -431,9 +431,9 @@
 												<td style="text-align:center">18:00 WITA</td>
 												<td style="text-align:center">21:00 WITA</td>
 												<td style="text-align:left">Lembur IM System</td>
-											  <td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+											  <td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Tidak ada pekerjaan yang bersangkutan<hr>31 Desember 2018 - 14:30 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Tidak ada pekerjaan yang bersangkutan<hr>31 Desember 2018 - 14:30 WITA" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>

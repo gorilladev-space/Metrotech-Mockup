@@ -255,7 +255,7 @@
 											  <th width="16%" bgcolor="#f7fcff">Department</th>
 											  <th width="8%" bgcolor="#f7fcff">Mulai Lembur</th>
 											  <th width="8%" bgcolor="#f7fcff">Selesai Lembur</th>
-												<th width="3%" bgcolor="#f7fcff">Atasan Langsunng</th>
+												<th width="3%" bgcolor="#f7fcff">Atasan Langsung</th>
 												<th width="3%" bgcolor="#f7fcff">Kepegawaian</th>
 											</tr>
 										</thead>
