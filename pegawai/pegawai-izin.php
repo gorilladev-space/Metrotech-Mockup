@@ -314,6 +314,12 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
+											<a href="hr-cetak-izin.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon2-print"></i>
+												<span class="kt-nav__link-text">Print</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
 											<a href="edit-izin.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
@@ -362,6 +368,12 @@
 											<a href="detail-izin.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa fa-eye"></i>
 												<span class="kt-nav__link-text">Lihat Detail</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
+											<a href="hr-cetak-izin.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon2-print"></i>
+												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
@@ -428,6 +440,12 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
+											<a href="hr-cetak-izin.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon2-print"></i>
+												<span class="kt-nav__link-text">Print</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
 											<a href="edit-izin.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
@@ -471,6 +489,12 @@
 											<a href="detail-izin.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa fa-eye"></i>
 												<span class="kt-nav__link-text">Lihat Detail</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
+											<a href="hr-cetak-izin.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon2-print"></i>
+												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
