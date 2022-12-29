@@ -265,7 +265,8 @@
 												<th width="2%" rowspan="2" bgcolor="#f7fcff">Waktu Input</th>
 												
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Jenis Surat</th>
-												<th colspan="7" bgcolor="#f7fcff"><b>Detail Surat</b></th>
+												<th colspan="6" bgcolor="#f7fcff"><b>Detail Surat</b></th>
+												<th width="1%" bgcolor="#f7fcff" rowspan="2">Status<br>Disposisi</th>
 												
 												
 												
@@ -280,15 +281,14 @@
 											  <th width="6%" bgcolor="#f7fcff">Pengirim</th>
 											  <th width="8%" bgcolor="#f7fcff">Perihal</th>
 											  <th width="2%" bgcolor="#f7fcff" rowspan="2">Tujuan Surat</th>
-											  <th width="2%" bgcolor="#f7fcff" rowspan="2">Status Surat</th>
 											 
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Kamal Delapan<hr>Creative Manager" data-html="true">
-														<img src="../assets/media/users/100_13.jpg" alt="image">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Trie<hr>Sekertaris" data-html="true">
+														<img src="../assets/media/users/100_11.jpg" alt="image">
 													</a></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" id="kt_table_1">Surat Dinas</td>
@@ -298,7 +298,8 @@
 												<td style="text-align:left">Walikota Makassar</td>
 												<td style="text-align:left">UNDANGAN RAPAT PANITIA PERINGATAN HUT PROKLAMASI RI</td>
 												<td style="text-align:center">Direktur Utama</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Terbaca</span></td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tidak Ada</span></td>
+												
 												
 											
 												
@@ -324,6 +325,12 @@
 																			<a href="korespondensi-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Korespondensi Surat</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="add-disposisi-surat-masuk.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-paper-plane"></i>
+																				<span class="kt-nav__link-text">Buat Disposisi</span>
 																			</a>
 																		</li>
 																		
@@ -356,7 +363,8 @@
 												<td style="text-align:left">Walikota Makassar</td>
 												<td style="text-align:left">UNDANGAN RAPAT PANITIA PERINGATAN HUT PROKLAMASI RI</td>
 												<td style="text-align:center">Direktur Utama</td>
-												<td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Belum dibaca</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sudah Disposisi</span></td>
+												
 												
 											
 												
@@ -367,32 +375,38 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="detail-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="ekspedisi-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Ekspedisi Surat</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="korespondensi-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Korespondensi Surat</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#modal-disposisi" class="kt-nav__link" data-toggle="modal" data-target="#modal-disposisi">
+																				<i class="kt-nav__link-icon flaticon-paper-plane"></i>
+																				<span class="kt-nav__link-text">Buat Disposisi</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
+																			<a href="edit-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
+																			<a href="hapus-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
 																				<span class="kt-nav__link-text">Hapus Data</span>
 																			</a>
@@ -617,7 +631,7 @@
 							</div>
 							<!--End::Modal 1-->
 							<!--begin::Modal 2-->
-									<div class="modal fade" id="kt_modal_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal-disposisi" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 

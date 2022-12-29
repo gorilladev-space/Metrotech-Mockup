@@ -177,17 +177,12 @@ function goBack() {
 									<!--begin::Portlet-->
 										<div class="kt-portlet">
 										<div class="kt-portlet__head kt-portlet__head--noborder  kt-ribbon kt-ribbon--danger kt-ribbon--shadow kt-ribbon--left kt-ribbon--round">
-											<div class="kt-ribbon__target" style="top: 12px; right: -2px;">
-												 Last Update 2022
-											</div>
+											<img src="../assets/img/header.png" style="width:650px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
 											<div class="kt-portlet__head-label">
 												
 											</div>
 										</div>
-										<div class="kt-portlet__body kt-portlet__body--fit-top">
-											<embed type="application/pdf" src="../assets/pdf/spk.pdf" width="900" height="700"></embed>
-											<img src="../assets/img/surat.png" />
-										</div>
+										
 									</div>
 							<!--end:: Portlet-->
 
@@ -222,25 +217,11 @@ function goBack() {
                       <div class="form-group row">
                        <div class="col-lg-6">
                           <label>Jenis Surat :</label>
-                          <select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
-                              <option value="2">Pribadi</option>
-                              <option value="3">Surat Dinas</option>
-                              <option value="3">Surat Edaran</option>
-                              <option value="3">Surat Pemberitahuan</option>
-                              <option value="3">Surat Pengantar</option>
-                              <option value="3">Umum</option>
-                              <option value="3">Undangan</option>
-                          </select>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Surat Edaran">
                         </div>
 <div class="col-lg-6">
                           <label>Sifat Surat :</label>
-                          <select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
-                              <option value="2">Biasa</option>
-                              <option value="3">Penting</option>
-                              <option value="3">Rahasia</option>
-                              <option value="3">Sangat Penting</option>
-                              <option value="3">Segera</option>
-                          </select>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biasa">
                         </div>
                        
                         </div>
@@ -249,29 +230,11 @@ function goBack() {
 						  <div class="form-group row">
                        <div class="col-lg-6">
                           <label>Asal Surat :</label>
-                          <select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
-                              <option value="2">External</option>
-                              <option value="3">Internal</option>
-                              
-                          </select>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="External">
                         </div>
 <div class="col-lg-6">
-                          <label>Klasifikasi Surat :</label>
-                         <select class="form-control kt-select2 form-control-sm" id="kt_select2_4" name="param" disabled="disabled">
-					 															<optgroup label="Hukum">
-					 																<option value="AK">HK.001 - Undang Undang Dasar (UUD)/PERPU</option>
-					 																<option value="AK">HK.002 - Peraturan Pemerintah</option>
-					 																<option value="AK" selected>HK.101 - Peraturan Direksi</option>
-					 																<option value="AK">HK.102 - Keputusan Direksi</option>
-					 																
-					 															</optgroup>
-<optgroup label="Kesekretariatan dan Kehumasan">
-					 																<option value="AK">Ketatausahaan</option>
-					 																<option value="AK">Perpustakaan</option>
-					 																
-					 															</optgroup>
-																				
-					 														</select>
+                          <label>Klasifikasi Surat :</label>HK.001 - Undang Undang Dasar (UUD)/PERPU
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HK.001 - Undang Undang Dasar (UUD)/PERPU">
                         </div>
                        
                         </div>
@@ -327,16 +290,7 @@ function goBack() {
                         </div>
 <div class="col-lg-6">
                           <label class="">Tanggal Surat :</label>
-                          <div class="form-group">
-                         <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" disabled="disabled" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-                      </div>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Generate">
                         </div>
                        
                         </div>
@@ -349,53 +303,7 @@ function goBack() {
                         </div>
 <div class="col-lg-6">
                           <label>Tujuan Surat :</label>
-                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param" disabled="disabled">
-					 															<optgroup label="Direksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-<optgroup label="Bagian Umum dan Kepegawaian">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Hukum dan Humas">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Keuangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Asset">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengelolaan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Produksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengembangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Kerjasama">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-					 														</select>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama">
                         </div>
                        
                         </div>
@@ -480,10 +388,12 @@ function goBack() {
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="4%" bgcolor="#f7fcff">Nama</th>
-												<th width="2%" bgcolor="#f7fcff">NIP</th>
-												<th width="2%" bgcolor="#f7fcff">Jabatan</th>
-												<th width="2%" bgcolor="#f7fcff">Divisi</th>
+												<th width="3%" bgcolor="#f7fcff">Nama</th>
+												<th width="1%" bgcolor="#f7fcff">NIP</th>
+												<th width="3%" bgcolor="#f7fcff">Department</th>
+												<th width="3%" bgcolor="#f7fcff">Bagian</th>
+												<th width="3%" bgcolor="#f7fcff">Jabatan</th>
+												<th width="1%" bgcolor="#f7fcff">Kantor</th>
 												<th width="2%" bgcolor="#f7fcff">Tanggal Terima</th>
 												
 											</tr>
@@ -493,18 +403,20 @@ function goBack() {
 											<tr>
 												<td style="text-align:center">1</td>
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:center">220187222222<td>
-												<td style="text-align:center">Direksi</td>
-												<td style="text-align:center">Jumat, 28 Juli 2017</td>
-												
+												<td style="text-align:left">220187222222<td><span style="text-align:center">Umum dan Kepegawaian</span>
+												<td style="text-align:left">Umum
+											    <td><span style="text-align:left">Kepala Seksi Administrasi Kepegawaian</span>
+											    <td><span style="text-align:left">Pusat</span>
+												<td style="text-align:left">Jumat, 28 Juli 2017</td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:center">220187222222<td>
-												<td style="text-align:center">Direksi</td>
-												<td style="text-align:center">Jumat, 28 Juli 2017</td>
-												
+												<td style="text-align:left">220187222222<td><span style="text-align:center">Pengembangan Usaha &amp; Kerja Sama</span>
+												<td style="text-align:left">Pengembangan
+											    <td><span style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</span>
+											    <td><span style="text-align:left">Pusat</span>
+												<td style="text-align:left">Jumat, 28 Juli 2017</td>
 										  </tr>
 										</tbody>
 									</table>
@@ -520,10 +432,13 @@ function goBack() {
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="4%" bgcolor="#f7fcff">Nama</th>
-												<th width="2%" bgcolor="#f7fcff">NIP</th>
-												<th width="2%" bgcolor="#f7fcff">Jabatan</th>
-												<th width="2%" bgcolor="#f7fcff">Divisi</th>
+												<th width="3%" bgcolor="#f7fcff">Nama</th>
+												<th width="1%" bgcolor="#f7fcff">NIP</th>
+												<th width="3%" bgcolor="#f7fcff">Department</th>
+												<th width="3%" bgcolor="#f7fcff">Bagian</th>
+												<th width="3%" bgcolor="#f7fcff">Jabatan</th>
+												<th width="1%" bgcolor="#f7fcff">Kantor</th>
+												<th width="2%" bgcolor="#f7fcff">Tanggal Terima</th>
 												
 											</tr>
 											
@@ -532,11 +447,21 @@ function goBack() {
 											<tr>
 												<td style="text-align:center">1</td>
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:center">220187222222<td>
-												<td style="text-align:center">Direksi</td>
-												
+												<td style="text-align:left">220187222222<td><span style="text-align:center">Umum dan Kepegawaian</span>
+												<td style="text-align:left">Umum
+											    <td><span style="text-align:left">Kepala Seksi Administrasi Kepegawaian</span>
+											    <td><span style="text-align:left">Pusat</span>
+												<td style="text-align:left">Jumat, 28 Juli 2017</td>
 										  </tr>
-											
+											<tr>
+												<td style="text-align:center" >2</td>
+												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td style="text-align:left">220187222222<td><span style="text-align:center">Pengembangan Usaha &amp; Kerja Sama</span>
+												<td style="text-align:left">Pengembangan
+											    <td><span style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</span>
+											    <td><span style="text-align:left">Pusat</span>
+												<td style="text-align:left">Jumat, 28 Juli 2017</td>
+										  </tr>
 										</tbody>
 									</table>
 
