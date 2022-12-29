@@ -69,7 +69,7 @@
 												
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_3" role="tab">
-														<i class="fa fa-users"></i>Disposisi
+														<i class="fa fa-users"></i>Lembar Disposisi
 													</a>
 												</li>
 												<li class="nav-item m-tabs__item">
@@ -103,258 +103,18 @@
 								<div class="col-xl-8">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Diri</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-						
-						<div class="col-lg-6">
-                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
-                        </div>
-                       <div class="col-lg-3">
-                          <label>Gelar Depan :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="Ir">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Gelar Belakang :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="S.Psi">
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Nama Panggilan :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder=""  >
-                      </div>
-                        </div>
-						<div class="col-lg-3">
-                          <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Pria</option>
-														<option>Wanita</option>
-														
-													</select>
-                        </div>
-						<div class="col-lg-3">
-                          <label><span style="color:#ff0000">*</span> Status :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Single</option>
-														<option>Menikah</option>
-														<option>Janda</option>
-														<option>Duda</option>
-														</select>
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-<div class="col-lg-6">
-					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
-					                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_2_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                         </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> Tanggal Kelahiran :</label>
-                          <div class="form-group">
-                         <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" readonly="" placeholder="== Pilih Tanggal ==" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-                      </div>
-
-                        </div>
-
-
-                      </div>
-					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> Agama :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Islam</option>
-														<option>Kristen Protestan</option>
-														<option>Kristen Katholik</option>
-														<option>Hindu</option>
-														<option>Budha</option>
-														<option>Konghucu</option>
-														</select>
-					                         </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
-                      </div>
-                      </div>
-
-									</div>
-									</div>
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> NPWP :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
-					                         </div>
-					                         </div>
-
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-3">
-					                           <label><span style="color:#ff0000">*</span> No. Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="1520017942547">
-					                         </div>
-						<div class="col-lg-3">
-					                           <label class=""><span style="color:#ff0000">*</span> Bank :</label>
-                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Mandiri</option>
-														<option>BNI</option>
-														<option>BRI</option>
-														<option>BTN</option>
-														<option>Bukopin</option>
-														<option>Mega</option>
-														<option>BCA</option>
-														
-														</select>
-                      </div>
-						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> Nama Pemilik Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Isikan Nama Pemilik Rekening">
-					                         </div>
-
-									</div>
-									</div>
-
-
-									</div>
+										<div class="kt-portlet__head kt-portlet__head--noborder  kt-ribbon kt-ribbon--danger kt-ribbon--shadow kt-ribbon--left kt-ribbon--round">
+											
+											<div class="kt-portlet__head-label">
+												
+											</div>
+										</div>
+										<div class="kt-portlet__body kt-portlet__body--fit-top">
+										<embed src="../assets/img/sk-pengangkatan-calon-pegawai.pdf" type="application/pdf" width="100%" height="600px" />
+										</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-4">
 
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Korespondensi</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-9">
-                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="90233">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm"  placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                        <div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                         <select class="form-control kt-select2 form-control-sm" id="kt_select2_1_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-                      </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Darurat</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Jl. Toddopuli Raya Timur">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="90233">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm" placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                        <div class="col-lg-6">
-                          <label class="">Kota :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_3_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-                      </div>
-						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="082244444436">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-									</div>
 
 
 										</div>
@@ -675,252 +435,196 @@
           </div>
 											</div>
 											<div class="tab-pane" id="m_tabs_6_3" role="tabpanel">
-												<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
-									<div class="row">
-										<div class="col-lg-12">
-                <div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Keluarga</div>
-                   
-                      <div class="row">
-								<div class="col-xl-12">
+												<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
+														<div class="kt-form__section kt-form__section--first">
 
- <div class="kt-portlet__body">
- <div>&nbsp;</div>
-											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead>
-											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="2%" bgcolor="#f7fcff">Hubungan<br>Keluarga</th>
-											  <th width="6%" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="1%" bgcolor="#f7fcff">Jenis<br>Kelamin</th>
-											  <th width="4%" bgcolor="#f7fcff">Tanggal Lahir</th>
-											  <th width="1%" bgcolor="#f7fcff">Pendidikan<br>Terakhir</th>
-											  <th width="5%" bgcolor="#f7fcff">Pekerjaan </th>
-											  <th width="4%" bgcolor="#f7fcff" rowspan="2">Upload File<br> ( Akta Nikah / Akta Kelahiran )</th>
-											  <th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
+											<div class="row">
+								<div class="col-xl-3">
 
-										  </tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-											<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Surat Masuk</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Surat Dari :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
+                        </div>
+                      </div>
+                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
 
-										  </tr>
-											<tr>
-												<td style="text-align:center" id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-										  </tr>
-										  <tr>
-												<td style="text-align:center" id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-										  </tr>
-										  <tr>
-												<td style="text-align:center" id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Suami</option>
-																							<option value="HI">Istri</option>
-																							<option value="HI">Anak</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pria</option>
-																							<option value="HI">Wanita</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:left" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>S3</option>
-																							<option value="HI">S2</option>
-																							<option value="HI">S1</option>
-																							<option value="HI">SMA</option>
-																							<option value="HI">SMP</option>
-																							<option value="HI">SD</option>
-																							<option value="HI">TK</option>
-																							<option value="HI">Belum Sekolah</option>
-																						</select>
-																					</div></td>
-												<td style="text-align:center" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:center" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-										  </tr>
-
-										</tbody>
-									</table>
-
-                   
+                        <div class="col-lg-12">
+                          <label class="">Nomor Surat :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/12/2022">
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+                        
+						<div class="col-lg-12">
+                          <label>Tanggal Surat :</label>
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29/12/2022">
+                        </div>
+                      </div>
+					   
+                    </div>
+                    </div>
 							<!--end:: Portlet-->
+
+									
 										</div>
+										<div class="col-xl-3">
 
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Disposisi</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Tanggal Diterima :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29/12/2022">
+                        </div>
+                      </div>
+                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
 
-
-								</div>
-
-                    </div>
-
-
-
-								</div>
-
-                    </div>
-
-									</div>
-
+                        <div class="col-lg-12">
+                          <label class="">Nomor Agenda :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete">
+                        </div>
+                      </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+					  <div class="col-lg-12">
+                          <label>Catatan Disposisi :</label>
+                      <textarea class="form-control" id="exampleTextarea" rows="5"></textarea>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
 							<!--end:: Portlet-->
 
+									
+										</div>
+										<div class="col-xl-6">
 
-          </div>
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Keterangan</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Diteruskan Kepada :</label>
+                           <div class="col-lg-12 col-md-12 col-sm-12">
+											<select class="form-control kt-select2" id="kt_select2_3" name="param" multiple="multiple">
+												
+													<option value="AK" selected>Direktur Umum</option>
+													<option value="AK" >Direktur Operasional</option>
+													<option value="AK" >Direktur Keuangan dan Asset</option>
+													<option value="AK" >Direktur Pengembangan Usaha dan Kerjasama</option>
+													
+											</select>
+										</div>
+                        </div>
+
+                        
+                        
+						
+						
+						
+                      </div>
+                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+                       <div class="col-lg-12">
+					   <br>
+					   <table border="0">
+  <tr>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Segera Diproses
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Buatkan Usulan
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Dirapatkan
+																		<span></span>
+																	</label></td>
+  </tr>
+  <tr>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Balas Segera
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Masukkan Program
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Buatkan Laporan
+																		<span></span>
+																	</label></td>
+  </tr>
+  <tr>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Buat Telaahan 
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Cek Data / Monitoring / Dilokasi
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Undang Rapat
+																		<span></span>
+																	</label></td>
+  </tr>
+  <tr>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox">  Koordinasikan
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Bicarakan Dengan Kabag
+																		<span></span>
+																	</label></td>
+    <td width="50">&nbsp;</td>
+    <td><label class="kt-checkbox kt-checkbox--success">
+																		<input type="checkbox"> Ajukan Saran
+																		<span></span>
+																	</label></td>
+  </tr>
+  
+</table>
+					   
+																
+
+                        
+						
+                      </div>
+                      </div>
+                      </div>
+                    </div>
+							<!--end:: Portlet-->
+
+									
+										</div>
+										
+
+
+
+								</div>
+														</div>
+													</div>
 											</div>
 											<div class="tab-pane" id="m_tabs_6_4" role="tabpanel">
 												<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
