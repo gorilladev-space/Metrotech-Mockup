@@ -313,27 +313,27 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="detail-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="korespondensi-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Korespondensi Surat</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
+																			<a href="edit-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
+																			<a href="hapus-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
 																				<span class="kt-nav__link-text">Hapus Data</span>
 																			</a>
@@ -367,32 +367,27 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="detail-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		
 																		<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Ekspedisi Surat</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="detail-mutasi.php" class="kt-nav__link">
+																			<a href="korespondensi-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Korespondensi Surat</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-mutasi.php" class="kt-nav__link">
+																			<a href="edit-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
+																			<a href="hapus-surat-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
 																				<span class="kt-nav__link-text">Hapus Data</span>
 																			</a>
