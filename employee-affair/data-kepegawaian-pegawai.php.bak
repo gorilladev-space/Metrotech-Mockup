@@ -285,7 +285,7 @@ function goBack() {
                      <div class="form-group row">
 						<div class="col-lg-12">
 																						<label>Jabatan :</label>
-																						<input type="text" class="form-control form-control-sm" value="Staff Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																						<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 
 						

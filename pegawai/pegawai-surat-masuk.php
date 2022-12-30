@@ -84,7 +84,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-											  <div class="col-lg-2">
+											  <div class="col-lg-3">
 						                          <label>Pengirim :</label>
 																		<div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -93,7 +93,7 @@
     		                        </span>
     		                    </div>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-3">
 						                          <label>No. Surat :</label>
 																		<div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -128,7 +128,7 @@
 						                        
 												
 												
-<div class="col-lg-2">
+<div class="col-lg-1">
 						                          <label>Jenis Surat :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Dinas</option>
@@ -138,7 +138,7 @@
 
 						                          </select>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label>Status :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Terbaca</option>

@@ -128,7 +128,7 @@
 						                        
 												
 												
-<div class="col-lg-2">
+<div class="col-lg-1">
 						                          <label>Jenis Surat :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Dinas</option>
@@ -138,7 +138,7 @@
 
 						                          </select>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label>Status :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Terbaca</option>
@@ -357,18 +357,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ekspedisi-surat-masuk.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Ekspedisi Surat</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="korespondensi-surat-masuk.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Korespondensi Surat</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-surat-masuk.php" class="kt-nav__link">
