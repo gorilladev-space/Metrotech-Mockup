@@ -16,7 +16,7 @@
 		</div>
 		<div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="pegawai.php" class="btn btn-label-primary btn-sm">
+				<a href="surat-masuk.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
@@ -774,62 +774,48 @@
 								<div class="col-12">
 
  <div class="kt-portlet__body">
- <div>&nbsp;</div>
-											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead>
-											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_4">#</th>
-											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Nama Instansi</th>
-											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Alamat Instansi</th>
-
-											  <th colspan="2" bgcolor="#f7fcff">Lama Bekerja</th>
-											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Jabatan Terakhir</th>
-											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Upload Bukti</th>
+ <div>&nbsp;</div><table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+										<thead style="text-align:center">
+											<tr>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">#</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal</th>
+											  <th colspan="3" bgcolor="#f7fcff">Penerima</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pengirim</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
-											<tr style="text-align:center">
-											  <th width="4%" bgcolor="#f7fcff">Awal</th>
-											  <th width="4%" bgcolor="#f7fcff">Akhir</th>
-										  </tr>
+											<tr>
+												<th width="1%" bgcolor="#f7fcff">Nama</th>
+												<th width="1%" bgcolor="#f7fcff">NIP</th>
+												<th width="3%" bgcolor="#f7fcff">Status</th>
+												<th width="3%" bgcolor="#f7fcff">Nama</th>
+												<th width="3%" bgcolor="#f7fcff">Nip</th>
+												<th width="1%" bgcolor="#f7fcff">Kantor</th>
+											</tr>
+											
 										</thead>
 										<tbody>
 											<tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-
-												<td style="text-align:center" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:center" nowrap><div class="form-group">
-																							<div class="input-group date">
-																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
-																								<div class="input-group-append">
-																									<span class="input-group-text">
-																										<i class="la la-calendar-check-o"></i>
-																									</span>
-																								</div>
-																							</div>
-																						</div></td>
-												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
-												<td style="text-align:left" nowrap><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
-												</div>
-											</div></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td style="text-align:center">1</td>
+												<td style="text-align:left">&nbsp;</td>
+												<td style="text-align:left">                                                
+												<td style="text-align:left">                                                
+												<td>
+											    <td style="text-align:left">
+										        <td>
+									            <td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
-
-
+											<tr>
+												<td style="text-align:center" >2</td>
+												<td style="text-align:left">&nbsp;</td>
+												<td style="text-align:left">                                                
+												<td style="text-align:left">                                                
+												<td>
+											    <td style="text-align:left">
+										        <td>
+									            <td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+										  </tr>
 										</tbody>
 									</table>
 

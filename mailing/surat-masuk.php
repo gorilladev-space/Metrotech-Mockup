@@ -393,7 +393,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#modal-disposisi" class="kt-nav__link" data-toggle="modal" data-target="#modal-disposisi">
+																			<a href="add-disposisi-surat-masuk.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon flaticon-paper-plane"></i>
 																				<span class="kt-nav__link-text">Buat Disposisi</span>
 																			</a>

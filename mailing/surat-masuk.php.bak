@@ -393,7 +393,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#modal-disposisi" class="kt-nav__link" data-toggle="modal" data-target="#modal-disposisi">
+																			<a href="add-disposisi-surat-masuk.php" class="kt-nav__link" data-toggle="modal" data-target="#modal-disposisi">
 																				<i class="kt-nav__link-icon flaticon-paper-plane"></i>
 																				<span class="kt-nav__link-text">Buat Disposisi</span>
 																			</a>
@@ -636,7 +636,7 @@
 									<div class="modal-content">
 
 										<div class="modal-body">
-										<div class="kt-portlet kt-portlet--height-fluid-full">
+										
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Assign Project Director</div>
 										<div class="kt-portlet__body">
@@ -700,7 +700,6 @@
 											<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Batal</button>
 											<button type="button" class="btn btn-success btn-sm"><i class="fa fa-check"></i>  Simpan</button>
 										</div>
-									</div>
 								</div>
 							</div>
 							<!--End::Modal 2-->
