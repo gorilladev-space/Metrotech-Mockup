@@ -85,26 +85,67 @@
 																	<form class="kt-form">
 																		<div class="kt-portlet__body">
 							                      <div class="form-group row">
-							                        <div class="col-lg-4">
+							                        <div class="col-lg-2">
 							                          <label>Nama Pegawai :</label>
-													  <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130037 - Maghfirah Sharifudin Andy Omar S.Psi">
+													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
 
 							                        </div>
-
-							                        <div class="col-lg-4">
-							                          <label>Jabatan :</label>
-							                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-							                        </div>
-							                        <div class="col-lg-4">
+													<div class="col-lg-2">
 							                          <label class="">Departemen :</label>
-							                          <div class="form-group">
-							                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Development">
-							                      </div>
+							                           <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                  </select>
 							                        </div>
-							                      </div>
-							                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-							                     <div class="form-group row">
-							                        <div class="col-lg-4">
+
+							                        <div class="col-lg-2">
+							                          <label>Jabatan :</label>
+							                          <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
+                                  </select>
+							                        </div>
+													<div class="col-lg-2">
 							                          <label>Jenis Cuti :</label>
 							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
 							                              <option value="2">cuti alasan penting</option>
@@ -116,7 +157,7 @@
 							                              <option value="12">menikah</option>
 							                          </select>
 							                        </div>
-							                        <div class="col-lg-4">
+													<div class="col-lg-2">
 							                          <label class="">Tanggal :</label>
 							                          <div class="input-group">
 							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date range">
@@ -125,18 +166,20 @@
 							                        </div>
 							                      </div>
 							                        </div>
-							                        <div class="col-lg-4">
+													<div class="col-lg-2">
 							                          <label class="">Keterangan :</label>
-							                          <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
+							                          <textarea class="form-control" id="exampleTextarea" rows="1"></textarea>
 							                        </div>
+							                        
 							                      </div>
+							                      
 							                      </div>
 																		<div class="kt-portlet__foot text-center">
-																			<div class="kt-form__actions">
-																				<button type="reset" class="btn btn-primary">Submit</button>
-																				<button type="reset" class="btn btn-secondary">Cancel</button>
-																			</div>
-																		</div>
+						<div class="kt-form__actions">
+							<button type="reset" class="btn btn-outline-brand btn-sm">Reset</button>
+							<button type="reset" class="btn btn-primary btn-sm"><i class="flaticon-interface-6"></i>Filter Data</button>
+						</div>
+					</div>
 																	</form>
 
 																	<!--end::Form-->
