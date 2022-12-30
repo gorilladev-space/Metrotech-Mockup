@@ -63,28 +63,28 @@
 											<ul class="nav nav-pills nav-fill" role="tablist">
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link active" data-toggle="tab" href="#m_tabs_6_1" role="tab">
-														<i class="fa fa-user-tie"></i> Preview Surat Masuk
+														<i class="fa fa-envelope-open"></i> Preview Surat Masuk
 													</a>
 												</li>
 												
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_3" role="tab">
-														<i class="fa fa-users"></i>Lembar Disposisi
+														<i class="fa fa-clipboard-list"></i>Lembar Disposisi
 													</a>
 												</li>
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_4" role="tab">
-														<i class="fa fa-user-graduate"></i>Tembusan
+														<i class="fa fa-users"></i>Tembusan
 													</a>
 												</li>
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_5" role="tab">
-														<i class="fa fa-copy"></i>Berkas
+														<i class="fab fa-stack-overflow"></i>Berkas
 													</a>
 												</li>
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_6" role="tab">
-														<i class="fa fa-file-alt"></i>Riwayat Disposisi
+														<i class="fa fa-file-export"></i>Riwayat Disposisi
 													</a>
 												</li>
 												
