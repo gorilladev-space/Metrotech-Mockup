@@ -173,9 +173,9 @@ function goBack() {
 												<td style="text-align:left">                                                
 												<td>
 											    <td style="text-align:left">
-										        <td>
+										        <td></td>
 									            <td>
-								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
@@ -186,7 +186,7 @@ function goBack() {
 											    <td style="text-align:left">
 										        <td>
 									            <td>
-								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 										</tbody>
 									</table>

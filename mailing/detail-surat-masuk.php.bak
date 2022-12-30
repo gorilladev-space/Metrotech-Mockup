@@ -77,7 +77,7 @@
 												</li>
 												<li class="nav-item m-tabs__item">
 													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_6" role="tab">
-														<i class="fa-stack-overflow"></i>Lampiran Berkas
+														<i class="fab fa-stack-overflow"></i>Lampiran Berkas
 													</a>
 												</li>
 												
@@ -2137,14 +2137,14 @@
 
 									
 										</div>
-										<div class="col-xl-6">
+										<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Korespondensi Surat Masuk</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
-                       <div class="col-lg-6">
+                       <div class="col-lg-12">
                           <label>No Surat Keluar :</label>
                           <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Cari Surat Keluar..." id="generalSearch">
@@ -2205,14 +2205,25 @@
                           <label class="">Perihal:</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Isikan No. Surat">
                         </div>
-<div class="col-lg-6">
+<div class="col-lg-3">
                           <label>Lampiran Surat :</label>
-                           <div class="dropzone dropzone-default dropzone-brand dz-clickable" disabled="disabled" id="kt_dropzone_1">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
+                            <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
+															<span>
+																<i class="fa fa-archive"></i>
+																<span>Download File</span>
+															</span>
+														</a>
+                        </div>
+                        </div>
+						<div class="col-lg-3">
+                          <label>File Surat :</label>
+                            <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
+															<span>
+																<i class="fa fa-archive"></i>
+																<span>Download File</span>
+															</span>
+														</a>
+                        </div>
                         </div>
                        
                         </div>
@@ -2239,29 +2250,7 @@
                     </div>
 							<!--end:: Portlet-->
 										</div>
-										<div class="col-xl-3">
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">File Soft Copy</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>Upload Surat Masuk :</label>
-                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
-                        </div>
-                      </div>
-
-                      </div>
-                    </div>
-							<!--end:: Portlet-->
-
-
-										</div>
+										
 										
 
 
@@ -2443,14 +2432,14 @@
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left">220187222222<td><span style="text-align:center">Umum dan Kepegawaian</span></td>
 												<td style="text-align:left">Umum</td>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="flaticon-download"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Download" data-html="true"><i class="flaticon-download"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left">220187222222<td><span style="text-align:center">Pengembangan Usaha &amp; Kerja Sama</span></td>
 												<td style="text-align:left">Pengembangan</td>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="flaticon-download"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Download" data-html="true"><i class="flaticon-download"></i></button></td>
 									      </tr>
 										</tbody>
 									</table>

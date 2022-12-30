@@ -2145,7 +2145,7 @@
 										<div class="col-xl-3">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Disposisi</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
@@ -2206,70 +2206,70 @@
                      <div class="form-group row">
                        <div class="col-lg-12">
 					   <br>
-					   <table border="0">
+					   <table border="0" width="100%">
   <tr>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Segera Diproses
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Buatkan Usulan
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Dirapatkan
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
   </tr>
   <tr>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Balas Segera
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Masukkan Program
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Buatkan Laporan
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
   </tr>
   <tr>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Buat Telaahan 
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Cek Data / Monitoring / Dilokasi
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Undang Rapat
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
   </tr>
   <tr>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox">  Koordinasikan
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Bicarakan Dengan Kabag
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
     <td width="50">&nbsp;</td>
     <td><label class="kt-checkbox kt-checkbox--success">
 																		<input type="checkbox"> Ajukan Saran
 																		<span></span>
-																	</label></td>
+																	</label><div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div></td>
   </tr>
   
 </table>
@@ -2436,7 +2436,7 @@
 									<div class="row">
 										<div class="col-lg-12">
                 <div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Pengalaman Kerja</div>
+				<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Riwayat Posisi</div>
                    
                       <div class="row">
 								<div class="col-12">

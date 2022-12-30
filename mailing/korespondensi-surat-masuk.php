@@ -166,7 +166,7 @@ function goBack() {
 												<td style="text-align:left">                                                
 												<td>
 											    <td style="text-align:left">
-										        <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-eye"></i></button></td>									            
+										        <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Lihat Data" data-html="true"><i class="fa fa-eye"></i></button></td>									            
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
@@ -174,7 +174,7 @@ function goBack() {
 												<td style="text-align:left">                                                
 												<td style="text-align:left">                                                
 												<td>
-											    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-eye"></i></button></td>								        
+											    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Lihat Data" data-html="true"><i class="fa fa-eye"></i></button></td>								        
 										  </tr>
 										</tbody>
 									</table>
