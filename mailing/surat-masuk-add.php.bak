@@ -32,22 +32,7 @@
 				</button>
 				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				</button>
-				<div class="dropdown-menu dropdown-menu-right">
-					<ul class="kt-nav">
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-reload"></i>
-								<span class="kt-nav__link-text">Save as Draf</span>
-							</a>
-						</li>
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-power"></i>
-								<span class="kt-nav__link-text">Save & Exit</span>
-							</a>
-						</li>
-					</ul>
-				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -271,15 +256,7 @@
                           <label class="">Perihal:</label>
                          <input type="text" class="form-control form-control-sm" placeholder="Isikan No. Surat">
                         </div>
-<div class="col-lg-6">
-                          <label>Lampiran Surat :</label>
-                           <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_1">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
-                        </div>
+
                        
                         </div>
 						
