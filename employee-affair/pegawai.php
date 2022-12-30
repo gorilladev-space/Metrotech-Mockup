@@ -72,38 +72,105 @@
                         <div class="form-group row">
                             <div class="col-lg-2">
                                 <label>Nama Pegawai :</label>
-    	                       
-        							<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                                      <option value="3" selected="">9130038 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                                      
-                                  </select>
+    	                       <div class="form-group">
+
+					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+					                       </div>
         					
                             </div>
                             <div class="col-lg-2">
-                                <label>Departemen :</label>
+                                <label>Department :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Direksi</option>
-                                      <option value="3">Finance</option>
-                                      <option value="4">SDM & UMUM</option>
-                                      <option value="5" selected="">Infrastruktur</option>
-                                      <option value="6">Information Technology</option>
-                                      <option value="12">Creative</option>
-                                      <option value="12" >Commercial & Business Development</option>
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Bagian :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Direksi</option>
+                                      <option value="4">Umum dan Kepegawaian</option>
+                                      <option value="5" selected="">Hukum dan Humas</option>
+                                      <option value="6">Keuangan</option>
+                                      <option value="12">Asset</option>
+                                      <option value="12" >Pengelolaan</option>
+                                      <option value="12" >Produksi</option>
+                                      <option value="12" >Pengembangan</option>
+                                      <option value="12" >Kerjasama</option>
                                   </select>
                             </div>
                             <div class="col-lg-2">
                                 <label class="">Jabatan :</label>
 								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Electrical Engineering Supervisor</option>
-                                      <option value="2" selected="">Electrical Engineering Supervisor Assistant</option>
-                                      <option value="2">Electrical Engineering</option>
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
                                      
                                   </select>
                              
                             </div>
-							
+							<div class="col-lg-2">
+                                <label class="">Pangkat / Golongan :</label>
+								  <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Penata Muda / IV A</option>
+                                      <option value="2" selected="">Penata Muda / IV A</option>
+                                      <option value="2">Penata Muda / IV A</option>
+                                     
+                                  </select>
+                             
+                            </div>
+							<div class="col-lg-2">
+                                <label class="">Kantor :</label>
+								  <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Pusat</option>
+                                      <option value="2">Cabang</option>
+                                  </select>
+                             
+                            </div>
+                            </div>
+							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
 							<div class="col-lg-2">
                                 <label class="">Tanggal Mulai Kerja :</label>
                                 <div class="input-group">
@@ -122,20 +189,16 @@
 						                        </div>
 						                      </div>
                             </div>
-							<div class="col-lg-2">
-                                <label class="">Kantor :</label>
-                                <select class="form-control kt-selectpicker" name="param">
-																							<option value="AK" selected>Pusat</option>
-																							<option value="HI">Cabang Sulawesi Barat</option>
-																						</select>
                             </div>
-                        </div>
-                    </div>
+							
+							
+						
 					<div class="kt-portlet__foot text-center">
 						<div class="kt-form__actions">
 							<button type="reset" class="btn btn-outline-brand btn-sm">Reset</button>
 							<button type="reset" class="btn btn-primary btn-sm"><i class="flaticon-interface-6"></i>Filter Data</button>
 						</div>
+					</div>
 					</div>
 				</form>
 				<!--end::Form-->
