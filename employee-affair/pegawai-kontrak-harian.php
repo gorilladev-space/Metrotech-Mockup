@@ -88,44 +88,110 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-3">
-                                <label>Nama Pegawai :</label>
-    	                        <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-                            </div>
                             <div class="col-lg-2">
+                                <label>Nama Pegawai :</label>
+    	                        <div class="form-group">
+
+					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+					                       </div>
+                            </div>
+                             <div class="col-lg-2">
                                 <label>Departemen :</label>
 
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Direksi</option>
-                                      <option value="3">Finance</option>
-                                      <option value="4">SDM & UMUM</option>
-                                      <option value="5">Infrastruktur</option>
-                                      <option value="6">Information Technology</option>
-                                      <option value="7">cuti tahunan</option>
-                                      <option value="12">Creative</option>
-                                      <option value="12" selected="">Commercial & Business Development</option>
+                               <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
                                   </select>
+                            </div>
+							<div class="col-lg-2">
+                                <label class="">Bagian :</label>
+								 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Direksi</option>
+                                      <option value="4">Umum dan Kepegawaian</option>
+                                      <option value="5" selected="">Hukum dan Humas</option>
+                                      <option value="6">Keuangan</option>
+                                      <option value="12">Asset</option>
+                                      <option value="12" >Pengelolaan</option>
+                                      <option value="12" >Produksi</option>
+                                      <option value="12" >Pengembangan</option>
+                                      <option value="12" >Kerjasama</option>
+                                  </select>
+
                             </div>
                             <div class="col-lg-2">
                                 <label class="">Jabatan :</label>
-								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Direksi</option>
-                                      <option value="3">Finance</option>
-                                      <option value="4">SDM & UMUM</option>
-                                      <option value="5">Infrastruktur</option>
-                                      <option value="6">Information Technology</option>
-                                      <option value="7">cuti tahunan</option>
-                                      <option value="12">Creative</option>
-                                      <option value="12" selected="">Commercial & Business Development</option>
+								 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
+                                  </select>
+							</div>
+							<div class="col-lg-2">
+                                <label class="">Pangkat / Golongan :</label>
+								 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
                                   </select>
 
                             </div>
-
+							<div class="col-lg-2">
+                                <label class="">Kantor :</label>
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Pusat</option>
+                                      <option value="2">Cabang</option>
+                                     
+                                  </select>
+                            </div>
+                            </div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
 							<div class="col-lg-2">
                                 <label class="">Tanggal Kontrak :</label>
                                 <div class="input-group">
@@ -144,18 +210,7 @@
 						                        </div>
 						                      </div>
                             </div>
-							<div class="col-lg-1">
-                                <label class="">Kantor :</label>
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">cuti alasan penting</option>
-                                      <option value="3">cuti bersalin</option>
-                                      <option value="4">cuti besar</option>
-                                      <option value="5">cuti khusus</option>
-                                      <option value="6">cuti sakit</option>
-                                      <option value="7" selected="">cuti tahunan</option>
-                                      <option value="12">menikah</option>
-                                  </select>
-                            </div>
+							
                         </div>
                     </div>
 					<div class="kt-portlet__foot text-center">
