@@ -2329,7 +2329,7 @@
 												<td style="text-align:left">Umum
 											    <td><span style="text-align:left">Kepala Seksi Administrasi Kepegawaian</span>
 											    <td><span style="text-align:left">Pusat</span>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
@@ -2338,7 +2338,7 @@
 												<td style="text-align:left">Pengembangan
 											    <td><span style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</span>
 											    <td><span style="text-align:left">Pusat</span>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 										</tbody>
 									</table>
@@ -2396,14 +2396,14 @@
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left">220187222222<td><span style="text-align:center">Umum dan Kepegawaian</span></td>
 												<td style="text-align:left">Umum</td>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
 												<td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td style="text-align:left">220187222222<td><span style="text-align:center">Pengembangan Usaha &amp; Kerja Sama</span></td>
 												<td style="text-align:left">Pengembangan</td>
-												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+												<td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 									      </tr>
 										</tbody>
 									</table>
@@ -2471,7 +2471,7 @@
 											    <td style="text-align:left">
 										        <td>
 									            <td>
-								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 											<tr>
 												<td style="text-align:center" >2</td>
@@ -2482,7 +2482,7 @@
 											    <td style="text-align:left">
 										        <td>
 									            <td>
-								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+								                <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="Hapus Data" data-html="true"><i class="fa fa-trash-alt"></i></button></td>
 										  </tr>
 										</tbody>
 									</table>

@@ -2206,7 +2206,7 @@
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Isikan No. Surat">
                         </div>
 <div class="col-lg-3">
-                          <label>Lampiran Surat :</label>
+                          <label>Soft Copy Surat :</label>
                             <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
 															<span>
 																<i class="fa fa-archive"></i>
@@ -2216,7 +2216,7 @@
                         </div>
                         </div>
 						<div class="col-lg-3">
-                          <label>File Surat :</label>
+                          <label>Lampiran Surat :</label>
                             <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
 															<span>
 																<i class="fa fa-archive"></i>

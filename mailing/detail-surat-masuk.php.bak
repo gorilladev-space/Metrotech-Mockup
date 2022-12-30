@@ -2137,7 +2137,7 @@
 
 									
 										</div>
-										<div class="col-xl-3">
+										<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -2206,7 +2206,7 @@
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Isikan No. Surat">
                         </div>
 <div class="col-lg-3">
-                          <label>Lampiran Surat :</label>
+                          <label>File Surat :</label>
                             <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
 															<span>
 																<i class="fa fa-archive"></i>
@@ -2216,7 +2216,7 @@
                         </div>
                         </div>
 						<div class="col-lg-3">
-                          <label>File Surat :</label>
+                          <label>Lampiran Surat :</label>
                             <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
 															<span>
 																<i class="fa fa-archive"></i>
@@ -2234,7 +2234,7 @@
 
 									
 										</div>
-										<div class="col-xl-3">
+										<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
