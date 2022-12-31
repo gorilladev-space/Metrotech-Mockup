@@ -341,6 +341,18 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
+																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
+																				<span class="kt-nav__link-text">Pengajuan Pegawai Tetap</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
@@ -389,6 +401,18 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
+																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
+																				<span class="kt-nav__link-text">Pengajuan Pegawai Tetap</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -443,6 +467,18 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
+																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
+																				<span class="kt-nav__link-text">Pengajuan Pegawai Tetap</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
@@ -493,6 +529,13 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
+																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
+																			</a>
+																		</li>
+																		
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
