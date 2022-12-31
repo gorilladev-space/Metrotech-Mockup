@@ -228,7 +228,7 @@ function goBack() {
 								<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
 									<div class="row">
 										<div class="col-lg-12">
-                <div class="kt-portlet" id="kt_page_portlet">
+                <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
 								<div class="col-xl-6">
@@ -265,7 +265,7 @@ function goBack() {
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-6">
-																						<label>Department :</label>
+																						<label>Department : </label>
 																						<<input type="text" class="form-control form-control-sm" value="Umum" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 <div class="col-lg-6">

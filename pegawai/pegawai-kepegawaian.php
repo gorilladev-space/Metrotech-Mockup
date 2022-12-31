@@ -265,8 +265,8 @@ function goBack() {
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-6">
-																						<label>Department :</label>
-																						<<input type="text" class="form-control form-control-sm" value="Umum" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																						<label>Department : </label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 <div class="col-lg-6">
 																						<label>Bagian :</label>
