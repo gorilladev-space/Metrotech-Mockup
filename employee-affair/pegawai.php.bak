@@ -154,8 +154,8 @@
                                 <label class="">Pangkat / Golongan :</label>
 								  <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="2">Penata Muda / IV A</option>
-                                      <option value="2" selected="">Electrical Engineering Supervisor Assistant</option>
-                                      <option value="2">Electrical Engineering</option>
+                                      <option value="2" selected="">Penata Muda / IV A</option>
+                                      <option value="2">Penata Muda / IV A</option>
                                      
                                   </select>
                              
@@ -285,13 +285,12 @@
 											  <th width="3%" bgcolor="#f7fcff">Pangkat / Golongan</th>
 											  <th width="3%" bgcolor="#f7fcff">Kantor</th>
 											  <th width="3%" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
-											  <th width="3%" bgcolor="#f7fcff">Status<br>Pernikahan</th>
 											  <th width="3%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
 											  <th width="3%" bgcolor="#f7fcff">Tanggal SK<br>Pegawai Tetap</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" bgcolor="#f7fcff">Actions</th>
+											  <th width="3%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
@@ -304,12 +303,11 @@
 												<td width="3%" style="text-align:left" nowrap>Yulianti Tomu, SE</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 001</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
-												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Utama</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pembina Utama / IV E</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -335,14 +333,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -359,12 +358,11 @@
 												<td width="3%" style="text-align:left" nowrap>Rizal Asjadad</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 002</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
-												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Umum</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pembina Madya / IV D</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -390,14 +388,14 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -414,12 +412,11 @@
 												<td width="3%" style="text-align:left" nowrap>Christofher Rio Aviary</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 003</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
-												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Operasional</td>
 												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -445,14 +442,14 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -469,12 +466,11 @@
 												<td width="3%" style="text-align:left" nowrap>Mu’amar Nor Amin</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 004</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
-												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Keuangan dan Asset</td>
 												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -500,14 +496,14 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -525,12 +521,11 @@
 												<td width="3%" style="text-align:left" nowrap>Zulfadli Syahrir</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 005</td>
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
-												<td width="3%" style="text-align:left" nowrap>Direksi</td>
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
 												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -556,14 +551,14 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -580,12 +575,11 @@
 												<td width="3%" style="text-align:left" nowrap>Ir. Asrarudin Mamonto, MM</td>
 												<td width="1%" style="text-align:center" nowrap>000 000 006</td>
 												<td width="1%" style="text-align:center" nowrap>Umum</td>
-												<td width="3%" style="text-align:left" nowrap>Umum</td>
+												<td width="3%" style="text-align:center" nowrap>Umum</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Bagian Umum</td>
 												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -611,14 +605,14 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
@@ -635,12 +629,65 @@
 												<td width="3%" style="text-align:left" nowrap>Sri Suhartini, SE</td>
 												<td width="1%" style="text-align:center" nowrap>238 004 032</td>
 												<td width="1%" style="text-align:center" nowrap>Umum</td>
-												<td width="3%" style="text-align:left" nowrap>Umum dan Kepegawaian</td>
+												<td width="3%" style="text-align:center" nowrap>Umum dan Kepegawaian</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
 												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:left" nowrap>Menikah</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="pegawai-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+
+																		<li class="kt-nav__item">
+																			<a href="pegawai-edit.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-share"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td width="1%" id="kt_table_1">8</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/100_9.jpg" alt="image">
+													</a></td>
+
+												<td width="3%" style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
+												<td width="1%" style="text-align:center" nowrap>238 004 032</td>
+												<td width="1%" style="text-align:center" nowrap>Pengembangan Usaha & Kerja Sama</td>
+												<td width="3%" style="text-align:center" nowrap>Pengembangan</td>
+												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
+												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -673,7 +720,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon flaticon-share"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
