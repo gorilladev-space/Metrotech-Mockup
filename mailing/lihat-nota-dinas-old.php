@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Nota Dinas
+											Detail Nota Dinas
 									</h3>
 
 								</div>
@@ -79,113 +79,17 @@ function goBack() {
                           <label>No. Nota Dinas</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/NODIN">
                         </div>
-						<div class="col-lg-6">
-                          <label>Tanggal Nota Dinas</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29 Desember 2022">
-                        </div>
 
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
                        <div class="col-lg-6">
                           <label>Dari :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_1" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-<optgroup label="Bagian Umum dan Kepegawaian">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Hukum dan Humas">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Keuangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Asset">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengelolaan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Produksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengembangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Kerjasama">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-					 														</select>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum">
                         </div>
 <div class="col-lg-6">
                           <label>Kepada :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_2" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-<optgroup label="Bagian Umum dan Kepegawaian">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Hukum dan Humas">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Keuangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Asset">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengelolaan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Produksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengembangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Kerjasama">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-					 														</select>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama">
                         </div>
                        
                         </div>
@@ -194,7 +98,7 @@ function goBack() {
 						  <div class="form-group row">
                        <div class="col-lg-12">
                           <label>Perihal :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="Isikan Perihal">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengadaan Map Perumda Parkir">
                         </div>
 
                        
@@ -262,7 +166,7 @@ function goBack() {
                       <div class="form-group row">
                        <div class="col-lg-12">
                           <label>Ringkasan Nota Dinas :</label>
-                          <textarea class="form-control" id="exampleTextarea" rows="10"></textarea>
+                          <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="10"></textarea>
                         </div>
                       </div>
                       </div>
@@ -271,18 +175,35 @@ function goBack() {
 										</div>
 										<div class="col-xl-3">
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Lampiran</div><br><br>
+										<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Lampiran</div>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-12">
                           
-                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
+                          <label>Lampiran Nota Dinas :</label>
+                            <div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
+															<span>
+																<i class="fa fa-archive"></i>
+																<span>Download File</span>
+															</span>
+														</a>
+                        </div>
+                        </div>
+                        </div>
+                      </div>
+
+                      </div>
+                    </div>
+					<div class="col-xl-6">
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Catatan Direktur Utama</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          
+                          <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="10"></textarea>
                         </div>
                       </div>
 

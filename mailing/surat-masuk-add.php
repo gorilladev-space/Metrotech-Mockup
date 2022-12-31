@@ -28,7 +28,7 @@
 			<div class="btn-group">
 				<button type="button" class="btn btn-brand">
 					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Save</span>
+					<span class="kt-hidden-mobile">Simpan Data</span>
 				</button>
 				
 				
@@ -199,53 +199,7 @@
                         </div>
 <div class="col-lg-6">
                           <label>Tujuan Surat :</label>
-                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
-					 															<optgroup label="Direksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-<optgroup label="Bagian Umum dan Kepegawaian">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Hukum dan Humas">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Keuangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Asset">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengelolaan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Produksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengembangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Kerjasama">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-					 														</select>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama">
                         </div>
                        
                         </div>

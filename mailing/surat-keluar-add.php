@@ -19,7 +19,7 @@
 								</div>
 								<div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="surat-masuk.php" class="btn btn-label-primary btn-sm">
+				<a href="surat-keluar.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
@@ -28,26 +28,10 @@
 			<div class="btn-group">
 				<button type="button" class="btn btn-brand">
 					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Save</span>
+					<span class="kt-hidden-mobile">Simpan Data</span>
 				</button>
-				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				</button>
-				<div class="dropdown-menu dropdown-menu-right">
-					<ul class="kt-nav">
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-reload"></i>
-								<span class="kt-nav__link-text">Save as Draf</span>
-							</a>
-						</li>
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-power"></i>
-								<span class="kt-nav__link-text">Save & Exit</span>
-							</a>
-						</li>
-					</ul>
-				</div>
+				
+				
 			</div>
 		</div>
 	</div>
