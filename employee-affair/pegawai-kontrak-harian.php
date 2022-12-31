@@ -855,7 +855,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon fa fa-street-view"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>

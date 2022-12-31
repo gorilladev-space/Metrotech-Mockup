@@ -187,40 +187,47 @@ function goBack() {
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pegawai</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Nip</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Departement</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">No. Kontrak <br>Pegawai</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Kontrak <br>Pegawai</th>
-												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan</th>
+												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pegawai</th>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Nip</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Department</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jabatan</th>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
+												<th width="7%" bgcolor="#f7fcff" rowspan="2">Tanggal Awal <br>Kontrak Pegawai</th>
+												<th width="7%" bgcolor="#f7fcff" rowspan="2">Tanggal Akhir <br>Kontrak Pegawai</th>
+												<th width="10%" bgcolor="#f7fcff" rowspan="2">Keterangan</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-												<th width="1%" bgcolor="#f7fcff">Pegawai</th>
-												<th width="1%" bgcolor="#f7fcff">HR Director</th>
+												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
+												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="15%" style="text-align:center">Commercial & Business Development</td>
-												<td width="5%" style="text-align:center">Pusat</td>
-												<td width="8%" style="text-align:center">No. 07/IM-HRD/IX/2019</td>
-												<td width="8%" style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">Perpanjangan Kontrak</td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td id="kt_table_1">000 000 000</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Pusat</td>
+												
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:left">Perpanjangan Kontrak</td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 														  <i class="fa flaticon2-check-mark"></i>
 													  </span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -256,22 +263,26 @@ function goBack() {
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%" id="kt_table_1">2</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+												<td id="kt_table_1">2</td>
+												
+												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="15%" style="text-align:center">Commercial & Business Development</td>
-												<td width="5%" style="text-align:center">Pusat</td>
-												<td width="8%" style="text-align:center">No. 07/IM-HRD/IX/2019</td>
-												<td width="8%" style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">Kontrak Selama 6 Bulan</td>
+												<td id="kt_table_1">1102019</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Pusat</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:left">Kontrak Selama 6 Bulan</td>
 											  <td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 														  <i class="fa flaticon2-check-mark"></i>
 													  </span></td>
 														<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -307,16 +318,20 @@ function goBack() {
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">3</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+												<td id="kt_table_1">3</td>
+												
+												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="15%" style="text-align:center">Commercial & Business Development</td>
-												<td width="5%" style="text-align:center">Pusat</td>
-												<td width="8%" style="text-align:center">No. 07/IM-HRD/IX/2019</td>
-												<td width="8%" style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">Kontrak Selama 12 Bulan</td>
+												<td id="kt_table_1">1102019</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Pusat</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:left">Kontrak Selama 12 Bulan</td>
 											  <td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 														  <i class="fa flaticon2-check-mark"></i>
 													  </span></td>
@@ -326,7 +341,7 @@ function goBack() {
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -362,20 +377,23 @@ function goBack() {
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">4</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+												<td id="kt_table_1">4</td>
+												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td width="2%" id="kt_table_1">1102019</td>
-												<td width="15%" style="text-align:center">Commercial & Business Development</td>
-												<td width="5%" style="text-align:center">Pusat</td>
-												<td width="8%" style="text-align:center"></td>
-												<td width="8%" style="text-align:center"></td>
+												<td id="kt_table_1">1102019</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td  style="text-align:center">Pusat</td>
 												<td style="text-align:center"></td>
+												<td style="text-align:center"></td>
+												<td style="text-align:left"></td>
 											  <td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>

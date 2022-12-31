@@ -836,6 +836,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
+																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
@@ -849,7 +855,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
+																				<i class="kt-nav__link-icon fa 	fa-street-view"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>
