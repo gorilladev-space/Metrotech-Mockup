@@ -211,10 +211,10 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="1%" bgcolor="#f7fcff" rowspan="2">ID</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">No</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
-												<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
+												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
@@ -236,20 +236,20 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="1%" id="kt_table_1">001ODHRXI2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+												<td id="kt_table_1">1</td>
+												<td  id="kt_table_1">002/10.1/PERUMDA-PMR/XII/2022</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Ambon</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Ambon</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
@@ -277,8 +277,18 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
+																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
@@ -292,7 +302,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
-												<td width="1%" id="kt_table_1">002ODHRXI2022</td>
+												<td width="5%" id="kt_table_1">001/10.1/PERUMDA-PMR/XII/2022</td>
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -300,11 +310,11 @@
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Samarinda</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
@@ -333,8 +343,18 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="laporan-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-alt"></i>
+																				<span class="kt-nav__link-text">Laporan Perjalanan Dinas</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
