@@ -23,7 +23,7 @@ License: You must have a valid license purchased only from themeforest(the above
 								<div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Pegawai Honor
+                    Struktur Perusahaan
                 </h3>
             </div>
 								<div class="kt-subheader__toolbar">

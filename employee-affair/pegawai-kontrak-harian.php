@@ -335,18 +335,20 @@
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
-											  <th width="14%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th colspan="2" bgcolor="#f7fcff">Tanggal</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status</th>
+											  <th colspan="3" bgcolor="#f7fcff">Status</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="5%" bgcolor="#f7fcff">Kontrak Awal</th>
 											  <th width="5%" bgcolor="#f7fcff">Kontrak Berakhir</th>
-									      </tr>
+											  <th width="1%" bgcolor="#f7fcff">Kepegawaian</th>
+											  <th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
+											  <th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
+								          </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -360,12 +362,13 @@
 												<td style="text-align:left" nowrap>Umum dan Kepegawaian</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kepegawaian</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -424,12 +427,13 @@
 												<td style="text-align:left" nowrap>Hukum dan Humas</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Hukum</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -488,12 +492,13 @@
 												<td style="text-align:left" nowrap>Keuangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Keuangan</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Makassar, 18 November 1993</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Belum Diusulkan"><i class="fa fa-user-slash"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -552,12 +557,13 @@
 												<td style="text-align:left" nowrap>Asset</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Asset</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Makassar, 18 November 1993</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Belum Diusulkan"><i class="fa fa-user-slash"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -616,12 +622,13 @@
 												<td style="text-align:left" nowrap>Pengelolaan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengelolaan</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Embalut, 30 Desember 1998</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Belum Diusulkan"><i class="fa fa-user-slash"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -638,7 +645,7 @@
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
+																				<span class="kt-nav__link-text"Pengajuan Calon Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -681,12 +688,13 @@
 												<td style="text-align:left" nowrap>Produksi</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Produksi</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:left" nowrap>Embalut, 30 Desember 1998</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Belum Diusulkan"><i class="fa fa-user-slash"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -746,13 +754,16 @@
 												<td style="text-align:left" nowrap>Pengembangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengembangan</td>
 												<td style="text-align:center" nowrap>Cabang</td>
-												<td style="text-align:left" nowrap>Makassar, 15 Mei 1996</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Ditolak"><i class="fa flaticon2-delete"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Umum<br>31 Desember 2018 - 14:30 WITA">
+								<i class="fa flaticon2-check-mark"></i>
+							</span></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Ditolak<hr>Tidak Memenuhi Persyaratan<hr>01 Januari 2023 - 09:00:00 WITA"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -810,12 +821,13 @@
 												<td style="text-align:left" nowrap>Kerjasama</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kerjasama</td>
 												<td style="text-align:center" nowrap>Cabang</td>
-												<td style="text-align:left" nowrap>Makassar, 15 Mei 1996</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Ditolak<hr>Tidak Memenuhi Persyaratan<hr>01 Januari 2023 - 09:00:00 WITA"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Ditolak"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -855,7 +867,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-street-view"></i>
+																				<i class="kt-nav__link-icon fa fa-users"></i>
 																				<span class="kt-nav__link-text">History Log</span>
 																			</a>
 																		</li>

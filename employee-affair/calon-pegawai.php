@@ -313,9 +313,15 @@
 												
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
-												<td nowrap="" style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
-												<td nowrap="" style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_13" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Atasan Langsung<br>31 Desember 2018 - 14:30 WITA">
+								<i class="fa flaticon2-check-mark"></i>
+							</span></td>
+												<td nowrap="" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Umum<br>31 Desember 2018 - 14:30 WITA">
+								<i class="fa flaticon2-check-mark"></i>
+							</span></td>
+												<td nowrap="" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Utama<br>31 Desember 2018 - 14:30 WITA">
+								<i class="fa flaticon2-check-mark"></i>
+							</span></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -326,6 +332,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
 																			</a>
 																		</li>
 																		

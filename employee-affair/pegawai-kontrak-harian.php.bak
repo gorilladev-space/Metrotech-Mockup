@@ -382,7 +382,7 @@
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Pegawai Tetap</span>
+																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
