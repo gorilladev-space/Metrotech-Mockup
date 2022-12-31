@@ -1165,8 +1165,8 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-end, body.swal2-no-backdrop .sw
   transform: rotate(-45deg);
 }
 .swal2-icon.swal2-warning {
-  border-color: #ff0000;
-  color: #ff0000;
+  border-color: #facea8;
+  color: #f8bb86;
 }
 .swal2-icon.swal2-warning::before {
   content: "!";

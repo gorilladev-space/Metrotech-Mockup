@@ -27,6 +27,10 @@ var KTSweetAlert2Demo = function() {
         $('#kt_sweetalert_demo_3_3').click(function(e) {
             swal.fire("Good job!", "You clicked the button!", "success");
         });
+		
+		 $('#kt_sweetalert_demo_pegawai').click(function(e) {
+            swal.fire("Terima Kasih !", "SK Pengangkatan Pegawai Telah Dibuat !", "success");
+        });
 
         $('#kt_sweetalert_demo_3_4').click(function(e) {
             swal.fire("Good job!", "You clicked the button!", "info");
@@ -135,6 +139,9 @@ var KTSweetAlert2Demo = function() {
               }
           });
         });
+		
+		
+		
 
         $('#kt_sweetalert_demo_9').click(function(e) {
             swal.fire({
@@ -150,6 +157,34 @@ var KTSweetAlert2Demo = function() {
                     swal.fire(
                         'Dihapus!',
                         'File Anda telah berhasil dihapus.',
+                        'success'
+                    )
+                    // result.dismiss can be 'cancel', 'overlay',
+                    // 'close', and 'timer'
+                } else if (result.dismiss === 'cancel') {
+                    swal.fire(
+                        'Dibatalkan',
+                        'Data Anda tetap Aman ! :)',
+                        'error'
+                    )
+                }
+            });
+        });
+		
+		$('#kt_sweetalert_demo_12').click(function(e) {
+            swal.fire({
+                title: 'Apakah Anda Yakin?',
+                text: "Pegawai Akan Menjadi Pegawai Tetap !",
+                type: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Ya, Benar!',
+                cancelButtonText: 'Tidak, Batalkan!',
+                reverseButtons: true
+            }).then(function(result){
+                if (result.value) {
+                    swal.fire(
+                        'Selamat !',
+                        'SK Pegawai telah berhasil dibuat dan Pegawai akan dipindahkan ke Pegawai Tetap.',
                         'success'
                     )
                     // result.dismiss can be 'cancel', 'overlay',

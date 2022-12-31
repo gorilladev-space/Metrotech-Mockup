@@ -269,12 +269,67 @@ function goBack() {
                     </div>
 							<!--end:: Portlet-->
 										</div>
+										<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">History Teguran / Pelanggaran</div>
+							<div>&nbsp;</div>
+										<div class="kt-portlet__body">
+											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+										<thead>
+											<tr style="text-align:center">
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal Penetapan</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">No. Surat Teguran</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tipe Teguran</th>
+											  <th colspan="2" bgcolor="#f7fcff">Masa Berlaku Teguran</th>
+											  <th rowspan="2" bgcolor="#f7fcff">Kantor<br /></th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+
+										  </tr>
+											<tr style="text-align:center">
+											  <th bgcolor="#f7fcff">Awal</th>
+											  <th bgcolor="#f7fcff">Akhir</th>
+									      </tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td width="1%" style="text-align:center"  id="kt_table_1">1</td>
+												<td width="3%" style="text-align:center" nowrap>25 Oktober 2019</td>
+												<td width="3%" style="text-align:center" nowrap>001/80.2/PERUMDA-PMR/ST/XII/2022</td>
+												<td width="3%" style="text-align:center" nowrap>Peringatan I</td>
+												<td width="5%" style="text-align:center" nowrap>01 Desember 2022</td>
+														<td width="3%" style="text-align:center" nowrap>31 Desember 2022</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Surat"> <i class="fa flaticon-download-1"></i> </span></td>
+
+										  </tr>
+											<tr>
+												<td width="1%" style="text-align:center"  id="kt_table_1">2</td>
+												<td width="3%" style="text-align:center" nowrap>29 Oktober 2019</td>
+												<td width="3%" style="text-align:center" nowrap>001/80.2/PERUMDA-PMR/ST/XII/2022</td>
+												<td width="3%" style="text-align:center" nowrap>Peringatan II</td>
+												<td width="3%" style="text-align:center" nowrap>01 Desember 2022</td>
+														<td width="3%" style="text-align:center" nowrap>31 Desember 2022</td>
+												<td width="3%" style="text-align:center" nowrap>Sulawesi Barat</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Surat"> <i class="fa flaticon-download-1"></i> </span></td>
+
+										  </tr>
+										</tbody>
+									</table>
+
+                      </div>
+                    </div>
+							<!--end:: Portlet-->
+										</div>
 
 
 
 								</div>
 
                     </div>
+
 
 									</div>
 
