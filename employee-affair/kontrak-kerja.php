@@ -18,15 +18,7 @@
 
 								</div>
 								<div class="kt-subheader__toolbar">
-<a href="#.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
-												<i class="flaticon-reply"></i> Kembali</button>
-<script>
-function goBack() {
-  window.history.back();
-}
-</script>
-												<!--<i class="flaticon2-plus"></i>-->
-											</a>
+
 											<div>&nbsp;</div>
 										<button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
 										<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -187,46 +179,37 @@ function goBack() {
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">No. Kontrak <br>Pegawai</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pegawai</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Nip</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Department</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jabatan</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
-												<th width="7%" bgcolor="#f7fcff" rowspan="2">Tanggal Awal <br>Kontrak Pegawai</th>
-												<th width="7%" bgcolor="#f7fcff" rowspan="2">Tanggal Akhir <br>Kontrak Pegawai</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Keterangan</th>
-												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
-												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status</th>
-												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
+												<th width="13%" bgcolor="#f7fcff" rowspan="2">No. Kontrak <br>Pegawai</th>
+												<th width="1%" bgcolor="#f7fcff" rowspan="2">Foto</th>
+												<th width="10%" bgcolor="#f7fcff" rowspan="2">Nama Pegawai</th>
+												<th width="6%" bgcolor="#f7fcff" rowspan="2">Nip</th>
+												<th width="15%" bgcolor="#f7fcff" rowspan="2">Department</th>
+												<th width="10%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
+												<th width="17%" bgcolor="#f7fcff" rowspan="2">Jabatan</th>
+												<th width="9%" bgcolor="#f7fcff" rowspan="2">Pangkat / Golongan</th>
+												<th width="2%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Awal <br>Kontrak Pegawai</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Akhir <br>Kontrak Pegawai</th>
+												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
-											<tr>
-												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
-												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
-											</tr>
+											
 										</thead>
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
-												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td style="text-align:center">004/80-KK/PERUMDA-PMR/X/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
+												<td id="kt_table_1">Sri Suhartini, SE</td>
 												<td id="kt_table_1">000 000 000</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left">Umum dan Kepegawaian</td>
+												<td style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</td>
+												<td style="text-align:left">Pembina Utama / IV E</td>
 												<td style="text-align:center">Pusat</td>
-												
 												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:left">Perpanjangan Kontrak</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-														  <i class="fa flaticon2-check-mark"></i>
-													  </span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center">5 September 2018</td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -263,25 +246,20 @@ function goBack() {
 															</div></td>
 										  </tr>
 											<tr>
-												<td id="kt_table_1">2</td>
-												
-												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td width="1%" id="kt_table_1">2</td>
+												<td style="text-align:center">003/80-KK/PERUMDA-PMR/X/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
+												<td id="kt_table_1">Sri Suhartini, SE</td>
+												<td id="kt_table_1">000 000 000</td>
+												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left">Pengembangan</td>
+												<td style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</td>
+												<td style="text-align:left">Pembina Utama / IV E</td>
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:left">Kontrak Selama 6 Bulan</td>
-											  <td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-														  <i class="fa flaticon2-check-mark"></i>
-													  </span></td>
-														<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center">5 September 2018</td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -318,29 +296,20 @@ function goBack() {
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">3</td>
-												
-												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td width="1%" id="kt_table_1">3</td>
+												<td style="text-align:center">002/80-KK/PERUMDA-PMR/X/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
+												<td id="kt_table_1">Sri Suhartini, SE</td>
+												<td id="kt_table_1">000 000 000</td>
+												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left">Pengembangan</td>
+												<td style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</td>
+												<td style="text-align:left">Pembina Utama / IV E</td>
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:center">4 September 2018</td>
-												<td style="text-align:left">Kontrak Selama 12 Bulan</td>
-											  <td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-														  <i class="fa flaticon2-check-mark"></i>
-													  </span></td>
-													<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												<td style="text-align:center">5 September 2018</td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -377,52 +346,39 @@ function goBack() {
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">4</td>
-												<td style="text-align:center">No. 07/IM-HRD/IX/2019</td>
+												<td width="1%" id="kt_table_1">4</td>
+												<td style="text-align:center">001/80-KK/PERUMDA-PMR/X/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
-												<td id="kt_table_1">1102019</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td style="text-align:center">Commercial & Business Development</td>
-												<td  style="text-align:center">Pusat</td>
-												<td style="text-align:center"></td>
-												<td style="text-align:center"></td>
-												<td style="text-align:left"></td>
-											  <td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-													<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td id="kt_table_1">Sri Suhartini, SE</td>
+												<td id="kt_table_1">000 000 000</td>
+												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left">Pengembangan</td>
+												<td style="text-align:left">Kepala Seksi Pemetaan dan Pengembangan</td>
+												<td style="text-align:left">Pembina Utama / IV E</td>
+												<td style="text-align:center">Pusat</td>
+												<td style="text-align:center">4 September 2018</td>
+												<td style="text-align:center">5 September 2018</td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
-																		<li class="kt-nav__item">
-																				<a href="kontrak-kerja-form.php" class="kt-nav__link">
-																					<i class="kt-nav__link-icon fa fa-plus-circle"></i>
-																					<span class="kt-nav__link-text">Buat Kontrak Kerja</span>
-																				</a>
-																			</li>
 																	<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
 																				<span class="kt-nav__link-text">Cetak Kontrak Pegawai</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="print-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+
 																		<li class="kt-nav__item">
 																			<a href="edit-pensiun.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
