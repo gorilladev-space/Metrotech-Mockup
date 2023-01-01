@@ -199,7 +199,7 @@
                         </div>
 <div class="col-lg-6">
                           <label>Tujuan Surat :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Generate">
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama">
                         </div>
                        
                         </div>

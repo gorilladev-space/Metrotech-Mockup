@@ -205,9 +205,9 @@
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-                       <div class="col-lg-6">
+                       <div class="col-lg-12">
                           <label class="">Perihal:</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Isikan No. Surat">
+                         <input type="text" class="form-control form-control-sm" placeholder="Isikan Perihal Surat">
                         </div>
 
                        
