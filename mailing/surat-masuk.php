@@ -411,7 +411,6 @@
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
-																			
 																		</li>
 																	</ul>
 																</div>

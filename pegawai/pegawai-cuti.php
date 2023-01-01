@@ -321,23 +321,18 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="hr-cetak-cuti.php" class="kt-nav__link">
+											<a href="print-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon2-print"></i>
 												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="edit-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
 										</li>
-										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-												<span class="kt-nav__link-text">Hapus Data</span>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
@@ -384,23 +379,18 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="print-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon2-print"></i>
 												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="edit-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
 										</li>
-										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-												<span class="kt-nav__link-text">Hapus Data</span>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
@@ -447,23 +437,18 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="print-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon2-print"></i>
 												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="edit-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
 										</li>
-										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-												<span class="kt-nav__link-text">Hapus Data</span>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
@@ -509,23 +494,18 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="print-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon2-print"></i>
 												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="edit-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
 										</li>
-										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-												<span class="kt-nav__link-text">Hapus Data</span>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
@@ -578,23 +558,18 @@
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="print-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon2-print"></i>
 												<span class="kt-nav__link-text">Print</span>
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
+											<a href="edit-cuti.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
 										</li>
-										<li class="kt-nav__item">
-											<a href="detail-cuti.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-												<span class="kt-nav__link-text">Hapus Data</span>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
