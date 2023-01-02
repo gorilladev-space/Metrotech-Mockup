@@ -12,43 +12,20 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Setup Gaji Pegawai Tetap
+											Setup Gaji Pegawai Kontrak Bulanan
 
 									</h3>
 
 								</div>
            <div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="gaji-pegawai-bulanan.php" class="btn btn-label-primary btn-sm">
+				<a href="data-gaji-pegawai-bulanan.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
 				&nbsp;
 			</div>
-                <div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Save</span>
-				</button>
-				<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				</button>
-				<div class="dropdown-menu dropdown-menu-right">
-					<ul class="kt-nav">
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-reload"></i>
-								<span class="kt-nav__link-text">Simpan Sebagai Draft</span>
-							</a>
-						</li>
-						<li class="kt-nav__item">
-							<a href="#" class="kt-nav__link">
-								<i class="kt-nav__link-icon flaticon2-power"></i>
-								<span class="kt-nav__link-text">Simpan & Keluar</span>
-							</a>
-						</li>
-					</ul>
-				</div>
-			</div>
+                
 
             </div>
         </div>
@@ -103,14 +80,14 @@
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-coins"></i>
+													<i class="flaticon-users"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Rincian Penghasilan
+														Penerima Penghasilan
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Detail Penghasilan Pegawai
+														Daftar Penerima Penghasilan
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -136,7 +113,7 @@
 												</div>
 											</div>
 										</div>-->
-										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+										<!--<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
 													<i class="flaticon-list-1"></i>
@@ -153,13 +130,13 @@
 													3
 												</div>
 											</div>
-										</div>
+										</div>-->
 
 									</div>
 								</div>
 
 								<!--end: Form Wizard Nav -->
-								<div class="kt-portlet">
+								
 									<div class="kt-portlet__body kt-portlet__body--fit">
 										<div class="kt-grid">
 											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
@@ -209,95 +186,8 @@
 
 
 								</div>
-								<div class="col-xl-6">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pegawai</div>
-							<br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-											<div class="form-group row">
-
-												
-												
-													<div class="col-lg-6">
-														<label>Nama Pegawai :</label>
-														<select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                              <option value="HI">9130014 - Nurul Insani Budhi Artha, A. Md</option>
-                            </select>
-													</div>
-													<div class="col-lg-6">
-														<label>NIP :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-													</div>
-
-
-
-
-												</div>
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-
-												
-												
-													<div class="col-lg-6">
-														<label>Jabatan :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-													</div>
-													<div class="col-lg-6">
-														<label>Department :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-													</div>
-
-
-
-
-												</div>
-												
-												
-
-
-												</div>
-									</div>
-
-									<!--end::Portlet-->
-
-
-
-								</div>
-								<div class="col-xl-3">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Petugas</div>
-							<br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-											
-												
-												
-													<div class="col-lg-12">
-														<label>Nama Pegawai :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-													</div>
-													</div>
-													 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-													<div class="col-lg-12">
-														<label>NIP :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-													</div>
-
-									</div>
-									</div>
-
-									<!--end::Portlet-->
-
-
-
-								</div>
+								
+								
 								</div>
 								
 								</div>
@@ -312,288 +202,153 @@
 														<div class="kt-form__section kt-form__section--first">
 
 											<div class="row">
-								<div class="col-xl-7">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pendapatan</div>
-							<br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-
-											<div id="kt_repeater_1">
-												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="1%" bgcolor="#f7fcff">No</td>
-																									<td width="5%" bgcolor="#f7fcff">Parameter Pendapatan</td>
-																									<td width="3%" bgcolor="#f7fcff">Hari Kerja</td>
-																									<td width="8%" bgcolor="#f7fcff">Upah Harian</td>
-																									<td width="8%" bgcolor="#f7fcff">Nominal</td>
-																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								</tr>
-																								<thead>
-																									<tbody data-repeater-list="">
-																								<tr>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Harian"></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<input type="text" class="form-control form-control-sm" placeholder="1" disabled="disabled" aria-describedby="basic-addon2">
-														<div class="input-group-append"><span class="input-group-text " id="basic-addon2">Hari</span></div>
-													</div></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">2</td>
-																									<td style="text-align:center">
-																										<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">- Pilih Parameter -</option>
-													  <optgroup label="Pendapatan">
-						                              <option value="3">Gaji Harian</option>
-						                              <option value="3">Tunjangan Hari Raya</option>
-
-
-													  </optgroup>
-																					<option data-content="<a href='#' class='btn btn-facebook btn-sm m-button-add'><i class='flaticon-add-circular-button text-white'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
-						                          </select></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<input type="text" class="form-control form-control-sm" placeholder="1" disabled="disabled" aria-describedby="basic-addon2">
-														<div class="input-group-append"><span class="input-group-text " id="basic-addon2">Hari</span></div>
-													</div></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm"  placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" disabled="disabled" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													<table class="table table-responsive  table-hover table-checkable" id="kt_table_2">
-  <tr>
-    <td width="24%" style="text-align:right" bgcolor="#f7fcff"><b>TOTAL PENDAPATAN</b></td>
-    <td width="12%" bgcolor="#f7fcff" colspan="-4" style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Calculation" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    </tr>
-  <tr>
-    <td colspan="3" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
-  </tr>
-</table>
-									</div>
-									</div>
-									</div>
-
-									<!--end::Portlet-->
-
-
-
-								</div>
-								<div class="col-xl-5">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Potongan</div>
-							<br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-
-                        <div id="kt_repeater_6">
-												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_6">
-																								<thead>
-																								<tr style="text-align:center">
-																								  <td width="1%" bgcolor="#f7fcff">No</td>
-																									<td width="10%" bgcolor="#f7fcff">Parameter Potongan</td>
-																									<td width="10%" bgcolor="#f7fcff">Nominal</td>
-																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
-																								</tr>
-																								<tr>
-																								</thead>
-                                                <tbody data-repeater-list="">
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-																								<tr>
-																								  <td style="text-align:center">2</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Absen"></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.947.100" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-																								<tr>
-																								  <td style="text-align:center">3</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Cicilan Kasbon"></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.947.100" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-
-
-
-
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">4</td>
-																									<td style="text-align:center">
-																										<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">- Pilih Parameter -</option>
-													  <optgroup label="Potongan Penghasilan">
-						                              <option value="3">Keterlambatan</option>
-						                              <option value="3">Absen</option>
-						                              <option value="3">Cicilan Kasbon</option>
-
-
-													  </optgroup>
-																					<option data-content="<a href='#' class='btn btn-facebook btn-sm m-button-add'><i class='flaticon-add-circular-button text-white'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
-						                          </select></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
-																								</tr>
-																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="4">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
-																						</table>
-                                          </div>
-													<table class="table table-responsive  table-hover table-checkable" id="kt_table_2">
-  <tr>
-    <td width="13%" bgcolor="#f7fcff" style="text-align:right"><b>TOTAL POTONGAN</b></td>
-    <td width="12%" bgcolor="#f7fcff" colspan="-4" style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Calculation" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    </tr>
-  <tr>
-    <td colspan="3" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
-  </tr>
-</table>
-									</div>
-
-									<!--end::Portlet-->
-
-
-
-								</div>
-								</div>
-								</div>
-								</div>
-								<div class="row">
+								
 								<div class="col-xl-12">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Grand Total</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Daftar Pegawai Penerima Penghasilan</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 
 
-												<table class="table table-bordered table-hover table-checkable">
-
-																							<tbody data-repeater-list="">
-																							<thead>
-																								<tr style="text-align:center">
-																								  <td width="20%" bgcolor="#f7fcff">Total Pendapatan</td>
-																									<td width="20%" bgcolor="#f7fcff">Total Potongan</td>
-																									<td width="20%" bgcolor="#f7fcff">Gaji Diterima</td>
-																								</tr>
-																								</thead>
-																								<tbody>
-																								<tr>
-																								  <td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																									<td style="text-align:center" bgcolor="#0abb87"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.941.270" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-																								</tr>
-																								<tr>
-																								  <td colspan="3" style="text-align:left">&nbsp;</td>
-																							  </tr>
-																								<tr>
-																								  <td colspan="3" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
-																							  </tr>
-																							</tbody>
-																							<tfoot>
-																							</tfoot>
-																						</table>
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
+										<thead>
+											<tr style="text-align:center">
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tahun</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Periode Gaji</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">NIP</th>
+											  <th width="8%" rowspan="2" bgcolor="#f7fcff">Department</th>
+											  <th width="8%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="6%" rowspan="2" bgcolor="#f7fcff">Pangkat <br>/ Golongan</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Pegawai</th>
+											  
+										  </tr>
+											
+										</thead>
+										<tbody>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">1</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Yulianti Tomu, SE</td>
+												<td style="text-align:center" nowrap>000 000 001</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Utama</td>
+												<td style="text-align:left">Pembina Utama / IV E	</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+												
+												
+										  </tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">2</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirum.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Rizal Asjadad</td>
+												<td style="text-align:center" nowrap>000 000 002</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Umum</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+												</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">3</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirops.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Christofher Rio Aviary</td>
+												<td style="text-align:center" nowrap>000 000 003</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Operasional</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+											</tr>
+										  <tr>
+												<td id="kt_table_1" style="text-align:right">4</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirkeu.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Mu’amar Nor Amin</td>
+												<td style="text-align:center" nowrap>000 000 004</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Keuangan dan Asset</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">5</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirjasa.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Zulfadli Syahrir</td>
+												<td style="text-align:center" nowrap>000 000 005</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">6</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/300_21.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Ir. Asrarudin Mamonto, MM</td>
+												<td style="text-align:center" nowrap>000 000 006</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:left" nowrap>Kepala Bagian Umum</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">7</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Sri Suhartini, SE</td>
+												<td style="text-align:center" nowrap>238 004 032</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:center" nowrap>Umum dan Kepegawaian</td>
+												<td style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Kontrak</td>
+											</tr>
+										</tbody>
+									</table>
 
 									</div>
 									</div>
@@ -727,7 +482,7 @@
 															Previous
 														</button>
 														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Submit
+															Kirim
 														</button>
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
 															Next Step

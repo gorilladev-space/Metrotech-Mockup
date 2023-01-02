@@ -7,23 +7,10 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Penerima Gaji Pegawai Tetap
+                    Data Gaji Pegawai Kontrak
                 </h3>
-			<span class="kt-subheader__separator kt-subheader__separator--v"></span>
-									<div class="kt-subheader__group" id="kt_subheader_search">
-										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											Periode Januari 2022 </span>
-										<form class="kt-margin-l-20" id="kt_subheader_search_form">
-
-										</form>
-									</div>
-
-								</div>
+            </div>
             <div class="kt-subheader__toolbar">
-			<a href="data-gaji-pegawai-tetap.php" class="btn btn-label-primary btn-sm">
-					<i class="flaticon-reply"></i> Kembali</button>
-					<!--<i class="flaticon2-plus"></i>-->
-				</a>
                 <button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
                 <a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
                     <i class="flaticon2-printer"></i> Export Data</button>
@@ -45,8 +32,8 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="penerima-gaji-tambahan-pegawai-tetap-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i> Tambah Penerima Gaji</button>
+                <a href="gaji-pegawai-bulanan-add.php" class="btn btn-info btn-sm">
+                    <i class="fa fa-plus"></i> Setup Gaji</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
             </div>
@@ -169,13 +156,11 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tahun</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Periode Gaji</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Pegawai</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">NIP</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Department</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Pendapatan</th>
+											  <th width="3%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Gaji</th>
 											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Potongan</th>
+											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Pengeluaran</th>
 											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Total Terbayar</th>
 											  <th colspan="4" bgcolor="#f7fcff">Status</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -189,21 +174,19 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td id="kt_table_1">1</td>
-												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td id="kt_table_1" style="text-align:right">1</td>
+												<td nowrap="nowrap" style="text-align:center">2019</td>
 												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1">238 004 032</td>
-												<td style="text-align:left">Umum</td>
+												
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
 												<td width="3%" style="text-align:right" nowrap>5.000.000,-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
 												<td width="3%" style="text-align:right" nowrap>500.000,-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>4.500.000,-</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
+												<td width="1%" style="text-align:center" nowrap>Rp.</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
@@ -215,15 +198,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="payment-payroll.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Pembayaran Gaji</span>
+																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -232,9 +209,14 @@
 																				<span class="kt-nav__link-text">Print Slip Gaji</span>
 																			</a>
 																		</li>
-																		
 																		<li class="kt-nav__item">
-																			<a href="gaji-edit.php" class="kt-nav__link">
+																			<a href="print-slip-gaji.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Standing Instruction Bank</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -256,21 +238,19 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td id="kt_table_1">2</td>
-												<td nowrap="nowrap" style="text-align:center">2022</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1">238 004 032</td>
-												<td style="text-align:left">Umum</td>
+												<td id="kt_table_1" style="text-align:right">2</td>
+												<td nowrap="nowrap" style="text-align:center">2019</td>
+												<td nowrap="nowrap" style="text-align:center">Februari</td>
+												
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
+												<td width="1%" nowrap style="text-align:center">Rp.</td>
+												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>4.500.000,-</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
@@ -282,15 +262,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="payment-payroll.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Pembayaran Gaji</span>
+																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -299,9 +273,14 @@
 																				<span class="kt-nav__link-text">Print Slip Gaji</span>
 																			</a>
 																		</li>
-																		
 																		<li class="kt-nav__item">
-																			<a href="gaji-edit.php" class="kt-nav__link">
+																			<a href="print-slip-gaji.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Standing Instruction Bank</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -323,21 +302,19 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td id="kt_table_1">3</td>
-												<td nowrap="nowrap" style="text-align:center">2022</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1">238 004 032</td>
-												<td style="text-align:left">Umum</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
+												<td nowrap="nowrap" style="text-align:center">2019</td>
+												<td nowrap="nowrap" style="text-align:center">Maret</td>
+												
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
+												<td width="1%" nowrap style="text-align:center">Rp.</td>
+												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>4.500.000,-</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
@@ -349,15 +326,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="payment-payroll.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Pembayaran Gaji</span>
+																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -366,9 +337,14 @@
 																				<span class="kt-nav__link-text">Print Slip Gaji</span>
 																			</a>
 																		</li>
-																		
 																		<li class="kt-nav__item">
-																			<a href="gaji-edit.php" class="kt-nav__link">
+																			<a href="print-slip-gaji.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Standing Instruction Bank</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -390,21 +366,19 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">4</td>
-												<td nowrap="nowrap" style="text-align:center">2022</td>
-												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td id="kt_table_1">238 004 032</td>
-												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:right">4</td>
+												<td nowrap="nowrap" style="text-align:center">2019</td>
+												<td nowrap="nowrap" style="text-align:center">April</td>
+												
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">5.000.000,-</td>
 												<td width="1%" nowrap style="text-align:center">Rp.</td>
 												<td width="3%" nowrap style="text-align:right">500.000,-</td>
+												<td width="1%" nowrap style="text-align:center">Rp.</td>
+												<td width="3%" nowrap style="text-align:right">4.500.000-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="3%" style="text-align:right" nowrap>4.500.000,-</td>
+												<td width="3%" style="text-align:right" nowrap>4.500.000-</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-success btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>Staff Keuangan<hr>31 Desember 2018 - 14:30 WITA"><i class="fa fa-calculator"></i></button></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Muhammad Nasrullah, S.Kom<br>SPV Keuangan<hr>31 Desember 2018 - 14:30 WITA">
 								<i class="fa flaticon2-check-mark"></i>
@@ -420,15 +394,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="payment-payroll.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Pembayaran Gaji</span>
+																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -437,15 +405,21 @@
 																				<span class="kt-nav__link-text">Print Slip Gaji</span>
 																			</a>
 																		</li>
-																		
 																		<li class="kt-nav__item">
-																			<a href="gaji-edit.php" class="kt-nav__link">
+																			<a href="print-slip-gaji.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Standing Instruction Bank</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+
+																			<a href="pegawai-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -460,18 +434,6 @@
 																</div>
 															</div></td>
 										  </tr>
-										  <tr>
-										    <td colspan="7" bgcolor="#feffe2" id="kt_table_3" style="text-align:center">GRAND TOTAL</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:center">Rp.</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:right">20.000.000,-</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:center">Rp.</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:right">2.000.000,-</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:center">Rp.</td>
-										    <td nowrap bgcolor="#feffe2" style="text-align:right">18.000.000,-</td>
-										    <td bgcolor="#feffe2" style="text-align:center" nowrap>Rp.</td>
-										    <td bgcolor="#feffe2" style="text-align:right" nowrap>18.000.000,-</td>
-										    <td bgcolor="#feffe2" colspan="5" nowrap style="text-align:center">&nbsp;</td>
-									      </tr>
 										</tbody>
 									</table>
                     <!--end: Datatable -->

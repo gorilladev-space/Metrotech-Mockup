@@ -221,11 +221,11 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Periode Gaji</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">NIP</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Pangkat <br>/ Golongan</th>
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">NIP</th>
 											  <th width="8%" rowspan="2" bgcolor="#f7fcff">Department</th>
-											  
+											  <th width="8%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="6%" rowspan="2" bgcolor="#f7fcff">Pangkat <br>/ Golongan</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Pegawai</th>
 											  
@@ -238,13 +238,14 @@
 												<td nowrap="nowrap" style="text-align:center">2022</td>
 												<td nowrap="nowrap" style="text-align:center">Januari</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:left">Sri Suhartini, SE</td>
-												<td id="kt_table_1">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center">IV/A</td>
-												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:left">Umum</td>
+												<td style="text-align:left" nowrap>Yulianti Tomu, SE</td>
+												<td style="text-align:center" nowrap>000 000 001</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Utama</td>
+												<td style="text-align:left">Pembina Utama / IV E	</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
 												
@@ -254,50 +255,98 @@
 												<td id="kt_table_1" style="text-align:right">2</td>
 												<td nowrap="nowrap" style="text-align:center">2022</td>
 												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirum.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:left">Sri Suhartini, SE</td>
-												<td id="kt_table_1">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center">IV/A</td>
-												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:left">Umum</td>
+												<td style="text-align:left" nowrap>Rizal Asjadad</td>
+												<td style="text-align:center" nowrap>000 000 002</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Umum</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
-												
-										  </tr>
+												</tr>
 											<tr>
 												<td id="kt_table_1" style="text-align:right">3</td>
 												<td nowrap="nowrap" style="text-align:center">2022</td>
 												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirops.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:left">Sri Suhartini, SE</td>
-												<td id="kt_table_1">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center">IV/A</td>
-												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:left">Umum</td>
+												<td style="text-align:left" nowrap>Christofher Rio Aviary</td>
+												<td style="text-align:center" nowrap>000 000 003</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Operasional</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
-												
-										  </tr>
+											</tr>
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">4</td>
 												<td nowrap="nowrap" style="text-align:center">2022</td>
 												<td nowrap="nowrap" style="text-align:center">Januari</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirkeu.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:left">Sri Suhartini, SE</td>
-												<td id="kt_table_1">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center">IV/A</td>
-												<td id="kt_table_1" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:left">Pengembangan Usaha dan Kerjasama</td>
+												<td style="text-align:left" nowrap>Mu’amar Nor Amin</td>
+												<td style="text-align:center" nowrap>000 000 004</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Keuangan dan Asset</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
 												<td nowrap="nowrap" style="text-align:center">Tetap</td>
-												
-										  </tr>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">5</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/dirjasa.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Zulfadli Syahrir</td>
+												<td style="text-align:center" nowrap>000 000 005</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Direksi</td>
+												<td style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Tetap</td>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">6</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/300_21.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Ir. Asrarudin Mamonto, MM</td>
+												<td style="text-align:center" nowrap>000 000 006</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:left" nowrap>Kepala Bagian Umum</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Tetap</td>
+											</tr>
+											<tr>
+												<td id="kt_table_1" style="text-align:right">7</td>
+												<td nowrap="nowrap" style="text-align:center">2022</td>
+												<td nowrap="nowrap" style="text-align:center">Januari</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left" nowrap>Sri Suhartini, SE</td>
+												<td style="text-align:center" nowrap>238 004 032</td>
+												<td style="text-align:center" nowrap>Umum</td>
+												<td style="text-align:center" nowrap>Umum dan Kepegawaian</td>
+												<td style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
+												<td style="text-align:left" nowrap>Pembina Madya / IV D</td>
+												<td nowrap="nowrap" style="text-align:center">Pusat</td>
+												<td nowrap="nowrap" style="text-align:center">Tetap</td>
+											</tr>
 										</tbody>
 									</table>
 

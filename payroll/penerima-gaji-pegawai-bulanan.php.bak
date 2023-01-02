@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Penerima Gaji Pegawai Tetap
+                    Data Penerima Gaji Pegawai Kontrak
                 </h3>
 			<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
@@ -20,7 +20,7 @@
 
 								</div>
             <div class="kt-subheader__toolbar">
-			<a href="data-gaji-pegawai-tetap.php" class="btn btn-label-primary btn-sm">
+			<a href="data-gaji-pegawai-bulanan.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
@@ -215,7 +215,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="detail-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -282,7 +282,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="detail-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -349,7 +349,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="detail-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -420,7 +420,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="detail-gaji-pegawai-bulanan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
