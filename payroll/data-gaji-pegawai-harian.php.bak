@@ -200,7 +200,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="penerima-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-harian.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
@@ -218,14 +218,13 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -266,7 +265,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="penerima-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-harian.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
@@ -284,14 +283,13 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -332,7 +330,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="penerima-gaji-pegawai-tetap.php" class="kt-nav__link">
+																			<a href="penerima-gaji-pegawai-harian.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-receipt"></i>
 																				<span class="kt-nav__link-text">Lihat Penerima Penghasilan</span>
 																			</a>
@@ -350,14 +348,13 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
+																			<a href="payroll-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -375,7 +372,7 @@
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">4</td>
 												<td nowrap="nowrap" style="text-align:center">2019</td>
-												<td nowrap="nowrap" style="text-align:center">2019</td>
+												<td id="kt_table_1" style="text-align:right">Januari</td>
 												<td nowrap="nowrap" style="text-align:center">01/01/2023 - 07/01/2023</td>
 												
 												<td nowrap="nowrap" style="text-align:center">Pusat</td>
