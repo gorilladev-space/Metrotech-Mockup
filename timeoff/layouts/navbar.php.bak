@@ -28,21 +28,17 @@
 							<!--begin: Search -->
 
 							<!--begin: Search -->
-							<div class="kt-header__topbar-item kt-header__topbar-item--search dropdown" id="kt_quick_search_toggle">
-								<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-lg">
-									<div class="kt-quick-search kt-quick-search--dropdown kt-quick-search--result-compact" id="kt_quick_search_dropdown">
-										<form method="get" class="kt-quick-search__form">
-											<div class="input-group">
-												<div class="input-group-prepend"><span class="input-group-text"><i class="flaticon2-search-1"></i></span></div>
-												<input type="text" class="form-control kt-quick-search__input" placeholder="Search...">
-												<div class="input-group-append"><span class="input-group-text"><i class="la la-close kt-quick-search__close"></i></span></div>
-											</div>
-										</form>
-										<div class="kt-quick-search__wrapper kt-scroll" data-scroll="true" data-height="325" data-mobile-height="200">
-										</div>
-									</div>
+							<div class="kt-header__topbar-item kt-header__topbar-item-non-hover kt-header__topbar-item--user">
+								<div class="kt-header__topbar-wrapper" data-toggle="dropdown" data-offset="0px,0px">
+									<div class="kt-header__topbar-user">
+										<a href="#" class="btn kt-subheader__btn-dateranger" style="background: #f2f3f7 !important;">
+														<span class="kt-subheader__btn-daterange-title" id="kt_dashboard_daterangepicker_title">9:45 AM</span>&nbsp;
+														<span class="kt-subheader__btn-daterange-date" id="kt_dashboard_daterangepicker_date" style="color: #5d78ff;margin-right: 0.75rem;display: inline-block;">Sep 30</span>
+														<i class="flaticon2-calendar-1" style="color: #5d78ff;"></i>
+													</a>
 								</div>
 							</div>
+						</div>
 
 							<!--end: Search -->
 

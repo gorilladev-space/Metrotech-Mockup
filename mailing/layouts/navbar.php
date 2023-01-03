@@ -47,13 +47,14 @@
 							<!--end: Search -->
 
 							<!--end: Search -->
-							<div class="kt-header__topbar-item kt-header__topbar-item-non-hover kt-header__topbar-item--user">
+							<div class="kt-header__topbar-item kt-header__topbar-item--user">
 								<div class="kt-header__topbar-wrapper" data-toggle="dropdown" data-offset="0px,0px">
 									<div class="kt-header__topbar-user">
 										<a href="#" class="btn kt-subheader__btn-dateranger" style="background: #f2f3f7 !important;">
-														<span class="kt-subheader__btn-daterange-title" id="kt_dashboard_daterangepicker_title">9:45 AM</span>&nbsp;
-														<span class="kt-subheader__btn-daterange-date" id="kt_dashboard_daterangepicker_date" style="color: #5d78ff;margin-right: 0.75rem;display: inline-block;">Sep 30</span>
 														<i class="flaticon2-calendar-1" style="color: #5d78ff;"></i>
+														<span class="kt-subheader__btn-daterange-date" id="kt_dashboard_daterangepicker_date" style="color: #5d78ff;margin-right: 0.75rem;display: inline-block;">23 Agustus 2022</span>
+														<span class="kt-subheader__btn-daterange-title" id="kt_dashboard_daterangepicker_title">9:45 AM</span>&nbsp;
+														
 													</a>
 								</div>
 							</div>

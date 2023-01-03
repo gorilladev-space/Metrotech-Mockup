@@ -31,7 +31,7 @@
 												<ul class="kt-nav">
 
 													<li class="kt-nav__item">
-														<a href="#" class="kt-nav__link">
+														<a href="cetak-data-cuti.php" class="kt-nav__link">
 															<i class="kt-nav__link-icon fa fa-file-pdf"></i>
 															<span class="kt-nav__link-text">PDF</span>
 														</a>
@@ -362,7 +362,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock" data-html="true"></i></button></td>
 												
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -423,7 +423,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock" data-html="true"></i></button></td>
 												
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
