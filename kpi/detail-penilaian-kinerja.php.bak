@@ -838,7 +838,14 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">24</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="24"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_7" style="text-align:center">&nbsp;</td>
@@ -991,9 +998,7 @@
 														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
 															Kembali
 														</button>
-														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Simpan Data
-														</button>
+														
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
 															Selanjutnya
 														</button>
