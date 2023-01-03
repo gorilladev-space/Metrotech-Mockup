@@ -975,13 +975,11 @@
 													<!--begin: Form Actions -->
 													<div class="kt-form__actions">
 														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
-															Previous
+															Kembali
 														</button>
-														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Submit
-														</button>
+														
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
-															Next Step
+															Selanjutnya
 														</button>
 													</div>
 
