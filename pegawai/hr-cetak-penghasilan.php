@@ -24,17 +24,24 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Cetak Keterangan Penghasilan
+											Slip Gaji Anda
 									</h3>
 								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
 										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											Human Resource Department </span>
+											Periode : Januari 2023 </span>
 										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 										</form>
 									</div>
 								</div>
-								<div class="kt-subheader__toolbar">
+<div class="kt-subheader__toolbar">
+			<div class="dropdown dropdown-inline" ddata-placement="left">
+				<a href="pegawai-slip-gaji.php" class="btn btn-label-primary btn-sm">
+					<i class="flaticon-reply"></i> Kembali</button>
+					<!--<i class="flaticon2-plus"></i>-->
+				</a>
+				&nbsp;
+			</div>
 			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
 				<i class="fa fa-print"></i> Export Data</button>
 			</a>
