@@ -570,6 +570,7 @@ function goBack() {
 													<!--begin: Form Wizard Step 4-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 													<div class="kt-form__section kt-form__section--first">
+													<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
 															<div class="kt-wizard-v4__form">
 														 
 										<div class="bg-white w-50 ml-auto mr-auto mt-3">
@@ -1058,6 +1059,7 @@ function goBack() {
 												</form>
 
 												<!--end: Form Wizard Form-->
+											</div>
 											</div>
 										</div>
 									</div>

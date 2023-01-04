@@ -510,60 +510,276 @@ function goBack() {
 										<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
 				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
 					<div class="bg-white w-50 ml-auto mr-auto mt-3">
-						<img src="../assets/img/header.png" style="width: 720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						<table align="center" border="0" cellpadding="1" style="width: 720px;text-align:justify; line-height:2.0">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
-								<th class="text-center">
-									<span class="col-lg-12 kt-font-boldest" style="border-bottom:2px solid #ccc">KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</span><br />Nomor : 088/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022
-								</th>
+								<th colspan="11" class="text-center"><span style="font-family: Bookman Old Style; font-size: 12px;"><u>SURAT TEGURAN II</b></u></span><br /><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+														<b>Nomor : 088/80.2/PERUMDA-PMR/ST/XII/2022</b></span>
+							  </th>
 							</tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Atas berkat rahmat Tuhan yang Maha Esa serta berdasarkan keinginan yang luhur untuk menciptakan hubungan yang harmonis dan berkelanjutan serta terpeliharanya kerja sama yang baik agar diharapkan
-									terciptanya ketenangan bekerja,
-									meningkatkan produktivitas kerja dan kesejahteraan Pegawai antara Perusahaan dan Pegawai sesuai dengan iklim hubungan industrial yang berlandaskan pada Pancasila dan Undang Undang Dasar 1945 tentang ketenagakerjaan.</td>
-							</tr>
+							  <td colspan="11">&nbsp;</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; sehubungan dengan landasan itu, maka Peraturan Perusahaan ini disusun atas dasar musyawarah untuk mufakat, bahwa Perusahaan dan Pegawai menyadari sepenuhnya untuk menjamin terpelihara kerja sama yang
-									baik, terciptanya ketenangan kerja dan kepastian usaha, diperlukan adanya Peraturan Perusahaan yang mengatur hak-hak dan kewajiban
-									masing-masing pihak yang dituangkan dalam bentuk Peraturan Perusahaan yang secara keseluruhan harus mendorong kegairahan kerja untuk meningkatkan produksi dan produktivitas kerja serta meningkatkan kesejahteraan kerja. Pegawai perlu
-									secara sadar melaksanakan Peraturan Perusahaan ini dengan penuh tanggung jawab</td>
-							</tr>
+							  <td colspan="11" valign="top"><b>A. DASAR</b></td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Dalam rangka meningkatkan produktifitas kerja dan stabilitas ekonomi Perusahaan, maka Pegawai dan Perusahaan harus saling mengisi segala bentuk kekurangan dan selalu berusaha untuk mengadakan
-									pengembangan demi kemajuan Perusahaan.</td>
-							</tr>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">1.</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Peraturan Daerah Kota Makassar Nomor 2 Tahun 2021 Tentang Pendirian Perusahaan Umum Daerah Parkir Makassar Raya.</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Oleh sebab itu, segala bentuk kesalahpahaman dalam melaksanakan tugasmasing-masing,maka pihak Perusahaan dan Pegawai akan selalu berpegang teguh pada azas musyawarah untuk mufakat.Dalam melaksanakan
-									Hubungan Industrial Pancasila, harus berpegang kepada terciptanya saling rasa ikut memiliki, ikutmemelihara , tanggung jawab bersama dan
-									mempertahankan serta secara terus-menerus mawas diri sebagai suatu azas kemitraan dan tanggung jawab bersama, dengan landasan itulah, maka Peraturan Perusahaan inidisusun.</td>
-							</tr>
-						</table>
-
-						<table align="right" class="text-center" border="0" cellpadding="1" style="width: 350px;text-align:justify; line-height:2.0">
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Keputusan Walikota Makassar Nomor 7040 Tahun 1999 Tentang Struktur Organisasi dan Tata Kerja Perusahaan Daerah Parkir Makassar Raya.</td>
+  </tr>
 							<tr>
-								<td height="100px"></td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">3.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Keputusan Direksi Perusahaan Daerah Parkir Makassar Raya Nomor : 070/20-S.Kep.Dir/X/2015 Tentang Peraturan Perusahaan Daerah Parkir Makassar Raya.</td>
+  </tr>
 							<tr>
-								<td>Makassar, 1 Januari 2020</td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">4.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">SK. Direksi PD. Parkir Makassar Raya Nomor : 091/20-S.Kep.Dir/PD.PMR/XII/2018 Tentang Kedisiplinan dan Pemberian Sanksi Pemotongan Tunjangan Tidak Tetap Transport dan Makan Serta Tunjangan Kinerja Pegawai Perusahaan Daerah Parkir Makassar Raya.</td>
+  </tr>
 							<tr>
-								<td>PT. ILUGROUP MULTIMEDIA INDONESIA</td>
-							</tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
 							<tr>
-								<td height="100px"></td>
-							</tr>
+							  <td colspan="11" valign="top"><b>B. DISAMPAIKAN KEPADA</b></td>
+  </tr>
 							<tr>
-								<td>MUHAMMAD NASRULLAH, S.Kom</td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="108" valign="top">Nama Pegawai</td>
+							  <td width="16" valign="top">:</td>
+							  <td colspan="4" valign="top">Viana  Lamuda</td>
+  </tr>
 							<tr>
-								<td>Direktur Utama</td>
-							</tr>
-						</table>
-						<img src="../assets/img/footer.png" style="width:720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">NPP</td>
+							  <td valign="top">:</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Tipe Pegawai</td>
+							  <td valign="top">:</td>
+							  <td colspan="4" valign="top">Pegawai Kontrak</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Jabatan</td>
+							  <td valign="top">:</td>
+							  <td colspan="4" valign="top">Staff Keuangan</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><b>B. ISI PELANGGARAN</b></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">1.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top"><p>Berdasarkan hasil Monitoring  dan Evaluasi terhadap pelaksanaan tugas menunjukan bahwa Saudari tidak  pernah masuk kantor dan tidak menjalankan tugas selama 10 hari berturut-turut selaku  staf Keuangan PERUMDA Parkir Makassar Raya.</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top"><p>Akibat  kelalaian dan tindakan indisipliner saudara tersebut, maka Direksi memberikan  sanksi Surat Teguran II, dan apabila saudara tidak mengindahkan surat Teguran  ini maka Direksi memberikan sanksi lebih tegas sesuai peraturan yang berlaku</p></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><p>Demikian  Surat Teguran ini dibuat untuk diketahui dan sekaligus menjadi bahan  pertimbangan Direksi PERUMDA Parkir Makassar Raya dalam pengambilan keputusan  selanjutnya.<br />
+						      </p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="149"><p>&nbsp;</p></td>
+							  <td width="7" >&nbsp;</td>
+							  <td width="13" >&nbsp;</td>
+							  <td width="232">Makassar, 22 Desember  2022</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direksi Perusahaan Umum Daerah</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Parkir  Makassar Raya</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><u><b>YULIANTI TOMU, SE</b></u></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">Tembusan :</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">1.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Yth, Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">3.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Arsip</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
 
 					
