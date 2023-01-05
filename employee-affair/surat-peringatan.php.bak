@@ -204,7 +204,7 @@
 												<th width="5%" bgcolor="#f7fcff" rowspan="2">Pangkat / Golongan</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Tanggal SP Pegawai</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Tipe Peringatan</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jenis Peringatan</th>
 												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Status</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
@@ -248,7 +248,7 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
+																			<a href="hr-view-detail-peringatan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -261,13 +261,13 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
+																			<a href="hr-edit-peringatan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
 																				<span class="kt-nav__link-text">Hapus Data</span>
 																			</a>
