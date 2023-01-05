@@ -648,10 +648,10 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td width="163" valign="top"><p>&nbsp;</p></td>
-							  <td width="14" valign="top">&nbsp;</td>
-							  <td width="9" valign="top">&nbsp;</td>
-							  <td width="215" valign="top">Makassar, 22 Desember  2022</td>
+							  <td width="149"><p>&nbsp;</p></td>
+							  <td width="7" >&nbsp;</td>
+							  <td width="13" >&nbsp;</td>
+							  <td width="232">Makassar, 22 Desember  2022</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -734,6 +734,12 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
   </tr>
 							<tr>
 							  <td colspan="11" valign="top">Tembusan :</td>

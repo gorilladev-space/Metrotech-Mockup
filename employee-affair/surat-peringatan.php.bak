@@ -196,7 +196,7 @@
 												<th width="16%" bgcolor="#f7fcff" rowspan="2">No. SP pegawai</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Foto</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Nama Pegawai</th>
-												<th width="6%" bgcolor="#f7fcff" rowspan="2">Nip</th>
+												<th width="7%" bgcolor="#f7fcff" rowspan="2">Nip</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Tipe Pegawai</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Departement</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
@@ -204,7 +204,7 @@
 												<th width="5%" bgcolor="#f7fcff" rowspan="2">Pangkat / Golongan</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Tanggal SP Pegawai</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jenis SP pegawai</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Tipe Peringatan</th>
 												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Status</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>

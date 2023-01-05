@@ -1039,6 +1039,7 @@ function goBack() {
 							</div>
 									</div>
 						</div>
+						</div>
 
 													<!--end: Form Wizard Step 4-->
 

@@ -204,7 +204,7 @@
 												<th width="5%" bgcolor="#f7fcff" rowspan="2">Pangkat / Golongan</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Tanggal SP Pegawai</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jenis SP pegawai</th>
+												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jenis Peringatan</th>
 												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Status</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
