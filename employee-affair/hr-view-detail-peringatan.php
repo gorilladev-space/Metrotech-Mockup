@@ -728,7 +728,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">2.</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="6" valign="top">Yth, Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya </td>
+							  <td colspan="6" valign="top">Yth, Kepala Bagian Keuangan PERUMDA. Parkir Makassar Raya </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -737,6 +737,22 @@ function goBack() {
 							  <td valign="top">3.</td>
 							  <td valign="top">&nbsp;</td>
 							  <td colspan="6" valign="top">Arsip</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><img src="../assets/img/qrcode.jpg" width="100" height="100" /></td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>

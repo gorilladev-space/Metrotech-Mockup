@@ -878,6 +878,12 @@ function goBack() {
 								<td colspan="9">&nbsp;</td>
 							</tr>
 							<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="9"><img src="../assets/img/qrcode.jpg" width="100" height="100" /></td>
+  </tr>
+							<tr>
 								<td colspan="9">&nbsp;</td>
 							</tr>
 						</table>
@@ -1028,9 +1034,15 @@ function goBack() {
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="5" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="100" height="100" /></td>
   </tr>
-						</table>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+</table>
 						
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>

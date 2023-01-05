@@ -324,7 +324,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">2.</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="6" valign="top">Yth, Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya </td>
+							  <td colspan="6" valign="top">Yth, Kepala Bagian Keuangan PERUMDA. Parkir Makassar Raya </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
