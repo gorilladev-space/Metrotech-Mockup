@@ -86,7 +86,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Nama Pegawai :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
@@ -120,6 +120,15 @@
 					 														</select>
 
 						                        </div>
+												<div class="col-lg-2">
+						                          <label class="">NIP :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 
 						                       <div class="col-lg-2">
 						                          <label class="">Departemen :</label>
@@ -134,35 +143,34 @@
 						                        </div>
 						                        <div class="col-lg-2">
 						                          <label>Jabatan :</label>
-						                         <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-									  <optgroup label="Direksi">
-                                      <option value="2" selected="">Direktur Utama</option>
-                                      <option value="2">Direktur Umum</option>
-                                      <option value="2">Direktur Keuangan dan Asset</option>
-                                      <option value="2">Direktur Operasional</option>
-                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
-									  </optgroup>
-                                     
-                                  </select>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label class="">NIP :</label>
-																			<div class="kt-input-icon kt-input-icon--right">
+						                         <div class="kt-input-icon kt-input-icon--right">
 																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
 																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
 																							 <span><i class="la la-search"></i></span>
 																					 </span>
 																			 </div>
+                                     
+                                  </select>
 						                        </div>
 												<div class="col-lg-2">
-						                          <label class="">Jenis Surat Peringatan :</label>
+						                          <label class="">Jenis Peringatan :</label>
 																			<select class="form-control kt-selectpicker" data-live-search="true">
-																			<option value="2">Surat Peringatan Pertama (SP 1)</option>
-																			<option value="3">Surat Peringatan Kedua (SP 2)</option>
-																			<option value="4">Surat Peringatan Ketiga (SP 3)</option>
+																			<option value="2">Peringatan 1</option>
+																			<option value="2">Peringatan 2</option>
+																			<option value="2">Peringatan 3</option>
 																	</select>
 						                        </div>
+												<div class="col-lg-1">
+						                          <label class="">Tipe Pegawai :</label>
+						                          <select class="form-control kt-selectpicker" name="param">
+																							<option value="AK" selected>Tetap</option>
+																							<option value="AK" >Kontrak</option>
+																							<option value="AK" >Honor</option>
+																						</select>
+						                        </div>
+										
+												
+												
 												<div class="col-lg-1">
 						                          <label class="">Kantor :</label>
 						                          <select class="form-control kt-selectpicker" name="param">
