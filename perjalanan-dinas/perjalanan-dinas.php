@@ -292,7 +292,7 @@
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">ID</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
+												<th width="15%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
 												<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
@@ -323,7 +323,7 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+												<td width="2%" align="left" valign="middle" style="text-align:left"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
@@ -408,11 +408,26 @@
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a>&nbsp;<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
+												<td width="2%" align="center" valign="middle" style="text-align:center">
+												<div class="kt-media-group" align="center" valign="middle" style="text-align:center">
+															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+																<img src="../assets/media/users/100_15.jpg" alt="image">
+															</a>
+															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Rizal Asjadad<hr>Direktur Umum" data-html="true">
+																<img src="../assets/media/users/dirum.jpg" alt="image">
+															</a>
+															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Mu’amar Nor Amin<hr>Direktur Keuangan" data-html="true">
+																<img src="../assets/media/users/dirkeu.jpg" alt="image">
+															</a>
+															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Christofher Rio Aviary<hr>Direktur Operasional" data-html="true">
+																<img src="../assets/media/users/dirops.jpg" alt="image">
+															</a>
+															
+															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Zulfadli Syahrir<hr>Direktur Pengembangan Usaha dan Jasa" data-html="true">
+																<img src="../assets/media/users/dirjasa.jpg" alt="image">
+															</a>
+														</div>
+														</td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
 												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
