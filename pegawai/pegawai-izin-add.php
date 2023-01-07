@@ -86,7 +86,7 @@ function goBack() {
                       </div>
                       <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-                        <div class="col-lg-2">
+                        <div class="col-lg-4">
                           <label>Jenis Izin :</label>
                       <select class="form-control kt-selectpicker" data-live-search="true">
                               <option value="2">Izin Terlambat Datang</option>
@@ -95,7 +95,7 @@ function goBack() {
 
                           </select>
                         </div>
-                        <div class="col-lg-2">
+                        <div class="col-lg-4">
                           <label class="">Tanggal :</label>
                           <div class="input-group date">
 													<input type="text" class="form-control form-control-sm kt_datepicker_3" readonly="" value="05/20/2017">
@@ -128,9 +128,14 @@ function goBack() {
 																			<input class="form-control form-control-sm" id="kt_timepicker_1" readonly value="10:30:20 AM" type="text" />
 																		</div>
 						                        </div>
-                        <div class="col-lg-4">
+                        
+                      </div>
+					   <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+                       
+                        <div class="col-lg-12">
                           <label class="">Keterangan :</label>
-                          <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
+                          <textarea class="form-control" id="exampleTextarea" rows="7"></textarea>
                         </div>
                       </div>
                       </div>
@@ -143,7 +148,7 @@ function goBack() {
 
 								<div class="col-xl-2">
 
-									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Lampiran Izin</div>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
