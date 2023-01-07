@@ -131,14 +131,14 @@
 						                        </div>
 <div class="col-lg-2">
 						                          <label>Department :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-																							<option value="2">Direksi</option>
-																							<option value="3">Umum</option>
-																							<option value="4">Keuangan & Asset</option>
-																							<option value="5">Operasional</option>
-																							<option value="6" selected="">Pengembangan Usaha & Kerja Sama</option>
-																							
-																					</select>
+																		<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                  </select>
 						                        </div>
 												<div class="col-lg-2">
 						                          <label class="">Tanggal :</label>
@@ -351,9 +351,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-lupa-absen.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -409,9 +409,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-lupa-absen.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -467,9 +467,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-lupa-absen.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>

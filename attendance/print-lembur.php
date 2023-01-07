@@ -311,7 +311,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">1.</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="6" valign="top">Yth. Dewan Pengawas PERUMDA Parkir Makassar Raya </td>
+							  <td colspan="6" valign="top">Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -319,7 +319,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">2.</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="6" valign="top">Yth. Bagian Keuangan PERUMDA Parkir Makassar Raya </td>
+							  <td colspan="6" valign="top">Yth, Kepala Bagian Keuangan PERUMDA. Parkir Makassar Raya </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
