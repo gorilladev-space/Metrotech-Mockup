@@ -24,7 +24,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		</div>
 		<div class="kt-subheader__toolbar">
 			<div class="dropdown dropdown-inline" ddata-placement="left">
-				<a href="lowongan.php" class="btn btn-label-primary btn-sm">
+				<a href="hr-setup-jam-kerja.php" class="btn btn-label-primary btn-sm">
 					<i class="flaticon-reply"></i> Kembali</button>
 					<!--<i class="flaticon2-plus"></i>-->
 				</a>
@@ -867,10 +867,10 @@ License: You must have a valid license purchased only from themeforest(the above
 					</div>
 					<!--end::Portlet-->
 				</div>
-				<div class="col-xl-4">
+				<div class="col-xl-3">
 					<!--begin::Portlet-->
 					<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-						<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Nama Jneis Jam Kerja</div>
+						<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Nama Jenis Jam Kerja</div>
 						<br>
 						<div class="kt-portlet__body kt-form">
 							<div class="form-group row">
@@ -886,12 +886,30 @@ License: You must have a valid license purchased only from themeforest(the above
 						<div class="kt-portlet__body kt-form">
 							<div class="form-group row">
 								<label class="">Pilih Departemen:</label>
-								<select class="form-control kt-selectpicker" multiple data-actions-box="true">
-									<option>Divisi Information & Technology</option>
-									<option>HR & GA</option>
-									<option>Administrasi</option>
-									<option>Teknik</option>
-								</select>
+								<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                  </select>
+							</div>
+							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+							<div class="form-group row">
+								<label class="">Pilih Bagian:</label>
+								<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Direksi</option>
+                                      <option value="4">Umum dan Kepegawaian</option>
+                                      <option value="5" selected="">Hukum dan Humas</option>
+                                      <option value="6">Keuangan</option>
+                                      <option value="12">Asset</option>
+                                      <option value="12" >Pengelolaan</option>
+                                      <option value="12" >Produksi</option>
+                                      <option value="12" >Pengembangan</option>
+                                      <option value="12" >Kerjasama</option>
+                                  </select>
 							</div>
 							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 							<div class="form-group row">
