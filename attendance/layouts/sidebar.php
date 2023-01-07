@@ -86,6 +86,7 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
 														<li class="kt-menu__item " aria-haspopup="true"><a href="masterdata-jenis-lupa-absen.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Jenis Lupa Absen</span></a></li>
+														<li class="kt-menu__item " aria-haspopup="true"><a href="masterdata-tembusan-surat.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tembusan Surat</span></a></li>
 
 
 													</ul>
