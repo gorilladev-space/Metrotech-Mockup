@@ -72,176 +72,282 @@ function goBack() {
 							</div>
 						</div>
 
-							<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
-								<div class="bg-white w-50 ml-auto mr-auto">
-	<img src="../assets/img/header.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
-		<table align="center" border="0" cellpadding="1" style="width: 600px; text-align: center;">
-			<tbody>
-				<tr>
-					<td colspan="3">
-						<div align="center">
-							<span style="font-family: Roboto; font-size: 12px; margin-bottom:3rem">
-								<b><u>SURAT PERINTAH LEMBUR</u>
-						</div>
-					</td>
-				</tr>
-				<tr>
-				  <td colspan="3">Nomor : 001/80/PD.PMR/XII/2022</td>
-			  </tr>
-				<tr>
-				  <td colspan="3">&nbsp;</td>
-			  </tr>
-
-						<tr>
-							<td valign="top" class="row ml-0 mr-0">
-									<table border="0" align="left" style="width: 300px; line-height:18px;margin-bottom:2rem;margin-top:.5rem">
-										<tbody>
-											<tr>
-												<td width="10" style="text-align: left"><span style="font-size: 11px;">Tanggal</span></td>
-												<td width="5"><span style="font-size: 11px;">:</span></td>
-												<td width="80"><span style="font-size: 11px;"></span></td>
-											</tr>
-											<tr>
-												<td style="text-align: left"><span style="font-size: 11px;">Department</span></td>
-												<td><span style="font-size: 11px;">:</span></td>
-												<td><span style="font-size: 11px;"></span></td>
-											</tr>
-											<tr>
-												<td style="text-align: left"><span style="font-size: 11px;">Lokasi</span></td>
-												<td><span style="font-size: 11px;">:</span></td>
-												<td><span style="font-size: 11px;"> </span></td>
-											</tr>
-										</tbody>
-									</table>
-
-									<table border="0" style="width: 300px; line-height:18px;margin-bottom:2rem;margin-top:.5rem">
-										<tbody>
-											<tr>
-												<td width="10"><span style="font-size: 11px;">Jenis Lembur</span></td>
-												<td width="5"><span style="font-size: 11px;">:</span></td>
-												<td width="80"><span style="font-size: 11px;"></span></td>
-											</tr>
-											<tr>
-												<td><span style="font-size: 11px;">PIC / PM</span></td>
-												<td><span style="font-size: 11px;">:</span></td>
-												<td><span style="font-size: 11px;"></span></td>
-											</tr>
-										</tbody>
-									</table>
-									</td>
-			  </tr>
-
-								<tr>
-									<td width="25"><span style="font-size: 11px;"><b>Uraian Lembur</span></td>
-								</tr>
-
-								<tr>
-									<td width="25" height="100px"><span style="font-size: 11px;"></span></td>
-								</tr>
-
-								<tr>
-									<td width="25"><span style="font-size: 11px;"><b>Perintah Lembur Kepada</span></td>
-								</tr>
-
-								<tr>
-									<td colspan="2" valign="top">
-										<table border="1" style="width: 600px; line-height:18px;margin-bottom:1.5rem">
-											<thead>
-												<tr>
-													<th rowspan="2">NO.</th>
-													<th rowspan="2">NIK</th>
-													<th rowspan="2">Nama Pegawai </th>
-													<th rowspan="2">Jabatan</th>
-													<th colspan="2">Jam Lembur</th>
-												</tr>
-												<tr>
-													<th>Mulai</th>
-													<th>Berakhir</th>
-												</tr>
-											<tbody>
-											<tr>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-											</tr>
-											<tr>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-											</tr>
-											<tr>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-											</tr>
-											<tr>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-											</tr>
-											<tr>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-												<td height="20px"></td>
-											</tr>
-											</tbody>
-										</table>
-											</td>
-										</tr>
-
-						<tr>
-							<td colspan="2" valign="top">
-									<table border="1" style="width: 600px; line-height:18px; text-align:center" class="mb-3">
-										<thead>
-											<tr>
-												<th>Diajukan Oleh,</th>
-												<th>Disetujui Oleh,</th>
-												<th colspan="2">Diketahui Oleh,</th>
-											</tr>
-											<tr>
-												<th></th>
-												<th>SPV / MANAGER</th>
-												<th>HRD Supervisor</th>
-												<th>HR & GA Director</th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td class="pt-7"> <span> ( Nursiah S.Kom ) </span></td>
-												<td class="pt-7"> <span> </span></td>
-												<td class="pt-7"> <span> ( Maghfirah Omar, S.Psi.) </span> </td>
-												<td class="pt-7"> <span> ( Oklan Zulkifli, S.E. ) </span> </td>
-											</tr>
-										</tbody>
-									</table>
-									</td>
-								</tr>
-			</tbody>
-		</table>
-		<img src="../assets/img/footer.png" style="width:600px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px"/>
-</div>
-								</div>
-
-								<!--End:: App Content-->
-							</div>
-
-							<!--End::App-->
-						</div>
+							<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
+				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
+					<div class="bg-white w-50 ml-auto mr-auto mt-3">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+								<th colspan="4" class="text-center"><span style="font-family: Bookman Old Style; font-size: 12px;"><u>SURAT PERINTAH LEMBUR</u></span><span style="text-align: center"></span><br />
+								  <span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+														<b>Nomor : 088/80.2/PERUMDA-PMR/ST/XII/2022</b></span>
+						      <span style="text-align: center"></span></th>
+							</tr>
+							<tr>
+							  <td colspan="4">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">Pemberi Perintah</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td width="444" valign="top">Yulianti Tomu, SE</td>
+  </tr>
+							<tr>
+							  <td valign="top">NIP</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td valign="top">000 000 001</td>
+  </tr>
+							<tr>
+							  <td width="123" valign="top">Jabatan</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="11" valign="top" style="text-align: center">:</td>
+							  <td valign="top">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="4" valign="top" style="text-align: center"><b>MEMERINTAHKAN</b></td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">Kepada</td>
+							  <td valign="top" style="text-align: center">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td valign="top" style="text-align: center">&nbsp;</td>
+  </tr>
+  </table>
+  <div><span>&nbsp;</span>
+  <table align="center" border="1" cellpadding="1" style="text-align:justify; line-height:1.5; font-family: tahoma; font-size: 12px;">
+							<tr>
+								<th width="33" class="text-center" style="text-align: center">No</th>
+								<th width="180" class="text-center" style="text-align: center">Nama Pegawai</th>
+								<th width="90" class="text-center" style="text-align: center">NIP</th>
+								<th width="300" class="text-center" style="text-align: center">Jabatan</th>
+							</tr>
+							<tr>
+							  <td style="text-align: right">1&nbsp;</td>
+							  <td style="text-align: left">&nbsp;Yulianti Tomu, SE</td>
+							  <td style="text-align: center">000 000 001</td>
+							  <td style="text-align: left">&nbsp;Direktur Utama</td>
+  </tr>
+ <tr>
+							  <td style="text-align: right">2&nbsp;</td>
+							  <td style="text-align: left">&nbsp;Rizal Asjadad</td>
+							  <td style="text-align: center">000 000 002</td>
+							  <td style="text-align: left">&nbsp;Direktur Umum</td>
+  </tr>
+  <tr>
+							  <td style="text-align: right">3&nbsp;</td>
+							  <td style="text-align: left">&nbsp;Christofher Rio Aviary</td>
+							  <td style="text-align: center">000 000 003</td>
+							  <td style="text-align: left">&nbsp;Direktur Operasional</td>
+  </tr>
+  <tr>
+							  <td style="text-align: right">4&nbsp;</td>
+							  <td style="text-align: left">&nbsp;Mu’amar Nor Amin</td>
+							  <td style="text-align: center">000 000 004</td>
+							  <td style="text-align: left">&nbsp;Direktur Keuangan</td>
+  </tr>
+  <tr>
+							  <td style="text-align: right">5&nbsp;</td>
+							  <td style="text-align: left">&nbsp;Zulfadli Syahrir</td>
+							  <td style="text-align: center">000 000 004</td>
+							  <td style="text-align: left">&nbsp;Direktur Pengembangan Usaha dan Kerjasama</td>
+  </tr>
+  </table>
+  <div><span>&nbsp;</span>
+  <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td valign="top">Untuk</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td width="444" valign="top">Penyelesaian kelengkapan administrasi / dokumen hasil temuan Tim Pemeriksa Inspektorat Kota Makassar.</td>
+  </tr>
+							<tr>
+							  <td valign="top">Hari</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td valign="top">Sabtu</td>
+  </tr>
+							<tr>
+							  <td width="123" valign="top">Tanggal</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="11" valign="top" style="text-align: center">:</td>
+							  <td valign="top">21 Desember 2022</td>
+  </tr>
+							<tr>
+							  <td valign="top">Waktu</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top" style="text-align: center">:</td>
+							  <td valign="top">08:30:00 - 14:00:00 WITA</td>
+  </tr>
+							<tr>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="4" valign="top">Demikian surat perintah lembur ini dibuat untuk digunakan sebagaimana mestinya.</td>
+  </tr>
+  </table>
+   <div><span>&nbsp;</span>
+  <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="16" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="262"><p>&nbsp;</p></td>
+							  <td width="6" >&nbsp;</td>
+							  <td width="31" >&nbsp;</td>
+							  <td width="217">Makassar, 22 Desember  2022</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direksi Perusahaan Umum Daerah</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Parkir  Makassar Raya</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><u><b>YULIANTI TOMU, SE</b></u></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">Tembusan :</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">1.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Yth, Kepala Bagian Keuangan PERUMDA. Parkir Makassar Raya </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">3.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Arsip</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><img src="../assets/img/qrcode.jpg" width="50" height="50" /></td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="middle"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+					</div>
+					</div>
 
 <?php require '../layouts/footer.php' ?>
 <?php require '../layouts/foot.php' ?>
