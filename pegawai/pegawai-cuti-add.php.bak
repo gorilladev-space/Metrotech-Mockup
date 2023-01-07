@@ -123,7 +123,7 @@ function goBack() {
                         <div class="col-lg-4">
                           <label>Cari Pegawai :</label>
                           <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
+                              <option value="AK">238 004 032 - Sri Suhartini, SE</option>
                               <option value="HI">9130014 - Nurul Insani Budhi Artha, A. Md</option>
                             </select>
                         </div>
@@ -153,7 +153,7 @@ function goBack() {
 										<div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-12">
-							<span>&nbsp;</span>
+						<br>
                           <label>Upload Lampiran (Jika Ada) :</label>
                           <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
