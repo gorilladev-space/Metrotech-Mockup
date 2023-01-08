@@ -190,7 +190,7 @@ function goBack() {
   </tr>
   </table>
    <div><span>&nbsp;</span>
-  <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+   <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
 							  <td width="3" valign="top">&nbsp;</td>
 							  <td width="3" valign="top">&nbsp;</td>
@@ -248,7 +248,10 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="4" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -258,7 +261,10 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="4" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -268,7 +274,10 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="4" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -333,12 +342,10 @@ function goBack() {
 							  <td colspan="11" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="11" valign="top">&nbsp;</td>
+							  <td colspan="11" valign="top"><hr /></td>
   </tr>
 							<tr>
-							  <td colspan="6" valign="top"><img src="../assets/img/qrcode.jpg" width="50" height="50" /></td>
-							  <td valign="top">&nbsp;</td>
-							  <td colspan="4" valign="middle"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+							  <td colspan="11" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
   </tr>
 							<tr>
 							  <td colspan="11" valign="top">&nbsp;</td>
