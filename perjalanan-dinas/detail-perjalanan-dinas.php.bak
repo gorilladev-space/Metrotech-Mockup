@@ -196,7 +196,7 @@ function goBack() {
     <td width="20%" bgcolor="#f7fcff">Department</td>
     <td width="20%" bgcolor="#f7fcff">Bagian</td>
     <td width="20%" bgcolor="#f7fcff">Jabatan</td>
-    <td width="5%" bgcolor="#f7fcff">Tipe Pegawai</td>
+    <td width="20%" bgcolor="#f7fcff">Tipe Pegawai</td>
     <td width="5%" bgcolor="#f7fcff">Kantor</td>
    
   </tr>

@@ -156,7 +156,7 @@ function goBack() {
                           <label>Jenis Perjalanan Dinas :</label>
                       <select class="form-control kt-selectpicker" data-live-search="true">
                               <option value="2">Dalam Kota</option>
-                              <option value="3">Luar Daerah Sulawesi Selatan</option>
+                              <option value="3">Luar Kota</option>
                               <option value="3">Luar Negeri</option>
 
                           </select>
@@ -261,10 +261,12 @@ function goBack() {
   <tbody><tr style="text-align:center">
     <td width="1%" bgcolor="#f7fcff">NO</td>
     <td width="20%" bgcolor="#f7fcff">Nama Pegawai</td>
-    <td width="20%" bgcolor="#f7fcff">Department</td>
-    <td width="20%" bgcolor="#f7fcff">Jabatan</td>
-    <td width="30%" bgcolor="#f7fcff">Keterangan</td>
-    <td width="5%" bgcolor="#f7fcff">AKSI</td>
+    <td width="18%" bgcolor="#f7fcff">Department</td>
+    <td width="18%" bgcolor="#f7fcff">Bagian</td>
+    <td width="22%" bgcolor="#f7fcff">Jabatan</td>
+    <td width="7%" bgcolor="#f7fcff">Tipe Pegawai</td>
+    <td width="7%" bgcolor="#f7fcff">Kantor</td>
+    <td width="5%" bgcolor="#f7fcff">Aksi</td>
   </tr>
   <tr>
     <td style="text-align:center">1</td>
@@ -279,8 +281,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -296,8 +300,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+   <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -312,8 +318,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
 
@@ -328,8 +336,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -342,8 +352,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -355,8 +367,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -367,8 +381,10 @@ function goBack() {
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -377,9 +393,11 @@ function goBack() {
     <td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
                               <option value="HI">000 000 008 - Mahdinar, SE</option>
                             </select></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kontrak"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
     <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
   </tr>
@@ -413,7 +431,7 @@ function goBack() {
     <td colspan="2" bgcolor="#f7fcff">VOL</td>
     <td width="6%" bgcolor="#f7fcff">BIAYA</td>
     <td width="6%" bgcolor="#f7fcff">JUMLAH</td>
-    <td width="3%" bgcolor="#f7fcff">AKSI</td>
+    <td width="3%" bgcolor="#f7fcff">Aksi</td>
   </tr>
   <tr style="text-align:center">
     <td bgcolor="#f5f5f5">a</td>
@@ -1910,13 +1928,11 @@ function goBack() {
 													<!--begin: Form Actions -->
 													<div class="kt-form__actions">
 														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
-															Previous
+															Kembali
 														</button>
-														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
-															Submit
-														</button>
+														
 														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
-															Next Step
+															Selanjutnya
 														</button>
 													</div>
 

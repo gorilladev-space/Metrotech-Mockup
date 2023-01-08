@@ -292,13 +292,13 @@
 												<th width="18%" bgcolor="#f7fcff" rowspan="2">No. SPPD</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
-												<th width="12%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
-												<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
+												<th width="15%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
+												<th width="22%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
 												<th colspan="4" bgcolor="#f7fcff">Verifikasi Perjalanan Dinas</th>
-												<th colspan="2" bgcolor="#f7fcff">Verifikasi Keuangan</th>
+												<th colspan="2" bgcolor="#f7fcff">Keuangan</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
@@ -311,8 +311,8 @@
 												<th width="3%" bgcolor="#f7fcff">Bagian Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
-												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Keuangan</th>
+												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -334,27 +334,24 @@
 												<td align="center" valign="middle" style="text-align:center">Ambon</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
-														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+														<td style="text-align:center" nowrap><span class="btn btn btn-outline-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
 															<i class="fa fa-eye-slash"></i>
 														</span></td>
-														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+														<td style="text-align:center" nowrap><span class="btn btn btn-outline-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
 															<i class="fa fa-eye-slash"></i>
 														</span></td>
 
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Pembayaran" data-html="true">
-															<i class="fa fa-coins kt_sweetalert_demo_9" data-html="true"></i>
-														</span></td>
-														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
-															<i class="fa fa-eye-slash"></i>
-														</span></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-target="#kt_modal_2" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+												
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
+															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -443,14 +440,14 @@
 												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 
-													<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+													<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
-												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
@@ -460,8 +457,8 @@
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												
-														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-money-bill-wave-alt"></i>
 														</span></td>
 														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
