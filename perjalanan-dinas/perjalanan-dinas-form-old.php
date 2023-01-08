@@ -249,14 +249,14 @@ function goBack() {
                       </div>
                     </div>
 							<!--end:: Portlet-->
-
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pegawai Pelaksana</div>
-							<div>&nbsp;</div>
+							<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pendapatan</div>
+							<br>
 										<div class="kt-portlet__body">
-                        <div id="kt_repeater_1">
+											<div class="kt-portlet__content">
+
+											<div id="kt_repeater_1">
 												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
@@ -646,16 +646,12 @@ function goBack() {
 													
 								
 									</div>
-                   
-                    </div>
-							<!--end:: Portlet-->
-										</div>
+									</div>
 
+									<!--end::Portlet-->
 
-
-								</div>
-														</div>
-													</div>
+									
+										
 
 													<!--end: Form Wizard Step 1-->
 
