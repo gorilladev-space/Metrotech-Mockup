@@ -293,8 +293,8 @@
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
-												<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
+												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
+												<th width="10%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
 												<th colspan="4" bgcolor="#f7fcff">Verifikasi Perjalanan Dinas</th>
@@ -305,10 +305,10 @@
 											<tr>
 											  <th width="5%" bgcolor="#f7fcff">Berangkat</th>
 											  <th width="5%" bgcolor="#f7fcff">Tujuan</th>
-												<th width="8%" bgcolor="#f7fcff">Mulai </th>
-												<th width="8%" bgcolor="#f7fcff">Hingga </th>
+												<th width="10%" bgcolor="#f7fcff">Mulai </th>
+												<th width="15%" bgcolor="#f7fcff">Hingga </th>
 												<th width="3%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
-												<th width="3%" bgcolor="#f7fcff">Kepegawaian</th>
+												<th width="3%" bgcolor="#f7fcff">Bagian Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
 												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
@@ -317,46 +317,46 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="1%" id="kt_table_1">002/10.1/PERUMDA-PMR/XII/2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+												<td id="kt_table_1">1</td>
+												<td id="kt_table_1">002/10.1/PERUMDA-PMR/XII/2022</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="left" valign="middle" style="text-align:left"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+												<td align="left" valign="middle" style="text-align:left"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Ambon</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Ambon</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
 															<i class="fa fa-eye-slash"></i>
 														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
 															<i class="fa fa-eye-slash"></i>
 														</span></td>
 
-													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Pembayaran" data-html="true">
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Pembayaran" data-html="true">
 															<i class="fa fa-coins kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+														<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
 															<i class="fa fa-eye-slash"></i>
 														</span></td>
 												
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 															<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -409,15 +409,15 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%" id="kt_table_1">2</td>
-												<td width="1%" id="kt_table_1">001/10.1/PERUMDA-PMR/XII/2022</td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+												<td id="kt_table_1">2</td>
+												<td id="kt_table_1">001/10.1/PERUMDA-PMR/XII/2022</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
-												<td width="2%" align="center" valign="middle" style="text-align:center">
+												<td align="center" valign="middle" style="text-align:center">
 												<div class="kt-media-group" align="center" valign="middle" style="text-align:center">
 															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 																<img src="../assets/media/users/100_15.jpg" alt="image">
@@ -438,34 +438,35 @@
 														</div>
 														</td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
-												<td width="8%" style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Makassar</td>
-												<td width="5%" align="center" valign="middle" style="text-align:center">Samarinda</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td width="8%" align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
 
-													<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Yulianti Tomu, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+													<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-eye"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center" nowrap><span class="btn btn-secondary btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia,SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+												
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>

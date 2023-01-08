@@ -229,7 +229,7 @@
 												<th width="8%" bgcolor="#f7fcff">Mulai </th>
 												<th width="8%" bgcolor="#f7fcff">Hingga </th>
 												<th width="3%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
-												<th width="3%" bgcolor="#f7fcff">Kepegawaian</th>
+												<th width="3%" bgcolor="#f7fcff">Bagian Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
 												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
