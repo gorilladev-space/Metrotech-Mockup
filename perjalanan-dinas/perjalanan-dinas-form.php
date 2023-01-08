@@ -606,8 +606,8 @@ function goBack() {
 					 																
 					 															</optgroup>
 																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI"selected>000 000 006 - Mahdinar, SE</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																<option value="HI"selected>000 000 008 - Mahdinar, SE</option>
+																					<option value="HI">000 000 009 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
 																				<optgroup label="Operasional">

@@ -588,7 +588,7 @@ function goBack() {
 																								</tr>
 
 																								<tr data-repeater-item>
-																								  <td style="text-align:center">8</td>
+																								  <td style="text-align:center">9</td>
 																									<td style="text-align:center">
 																										<div class="form-group">
 
@@ -606,8 +606,8 @@ function goBack() {
 					 																
 					 															</optgroup>
 																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI"selected>000 000 006 - Mahdinar, SE</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																<option value="HI"selected>000 000 008 - Mahdinar, SE</option>
+																					<option value="HI">000 000 009 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
 																				<optgroup label="Operasional">
@@ -647,7 +647,6 @@ function goBack() {
 								
 									</div>
                    
-                    </div>
 							<!--end:: Portlet-->
 										</div>
 

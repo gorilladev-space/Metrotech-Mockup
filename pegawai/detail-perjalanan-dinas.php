@@ -191,90 +191,116 @@ function goBack() {
 
   <tbody><tr style="text-align:center">
     <td width="1%" bgcolor="#f7fcff">NO</td>
-    <td width="20%" bgcolor="#f7fcff">Nama Pegawai</td>
+    <td width="15%" bgcolor="#f7fcff">Nama Pegawai</td>
+    <td width="7%" bgcolor="#f7fcff">NIP</td>
     <td width="20%" bgcolor="#f7fcff">Department</td>
+    <td width="20%" bgcolor="#f7fcff">Bagian</td>
     <td width="20%" bgcolor="#f7fcff">Jabatan</td>
-    <td width="30%" bgcolor="#f7fcff">Keterangan</td>
-    <td width="5%" bgcolor="#f7fcff">Aksi</td>
+    <td width="5%" bgcolor="#f7fcff">Tipe Pegawai</td>
+    <td width="5%" bgcolor="#f7fcff">Kantor</td>
+   
   </tr>
   <tr>
     <td style="text-align:center">1</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
    <tr>
     <td style="text-align:center">2</td>
      <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad"></td>
+     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 002"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
  <tr>
     <td style="text-align:center">3</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 003">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
 
   </tr>
   <tr>
     <td style="text-align:center">4</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 004">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
   </tr>
   <tr>
     <td style="text-align:center">5</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 005">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   <tr>
     <td style="text-align:center">6</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 006">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum"></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   <tr>
     <td style="text-align:center">7</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
   </tr>
   <tr>
     <td style="text-align:center">8</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 007">
 	</td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kontrak"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   
 </tbody></table>
