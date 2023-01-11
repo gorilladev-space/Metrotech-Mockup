@@ -129,39 +129,7 @@ function goBack() {
                       <div class="form-group row">
                        <div class="col-lg-3">
                           <label>Nama Pejabat :</label>
-                          <div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
                         </div>
 						
 <div class="col-lg-1">
@@ -207,35 +175,18 @@ function goBack() {
 						
 <div class="col-lg-3">
                           <label>Tipe Perjalanan Dinas :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Project</option>
-                              <option value="3">Operasional Kantor</option>
-                              <option value="3">Tambah Data</option>
-
-                          </select>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Operasional Kantor">
                         </div>
 						<div class="col-lg-3">
                           <label>Jenis Perjalanan Dinas :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Dalam Kota</option>
-                              <option value="3">Luar Kota</option>
-                              <option value="3">Luar Negeri</option>
-
-                          </select>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Luar Kota">
                         </div>
                        
                        
 						
 <div class="col-lg-3">
                           <label>Transportasi :</label>
-                         <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Pesawat Udara</option>
-                              <option value="3">Kapal</option>
-                              <option value="3">Kendaraan Pribadi</option>
-                              <option value="3">Kendaraan Dinas</option>
-                              <option value="3">Kereta Api</option>
-
-                          </select>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pesawat Udara">
                         </div>
 						
                        
@@ -244,67 +195,19 @@ function goBack() {
 						<div class="form-group row">
 						<div class="col-lg-3">
                           <label>Tanggal Berangkat :</label>
-                         <div class="form-group">
-                         <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" readonly="" placeholder="== Pilih Tanggal ==" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-                      </div>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="09/01/2022">
                         </div>
 						 <div class="col-lg-3">
                           <label>Estimasi Tanggal Kembali :</label>
-                         <div class="form-group">
-                         <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" readonly="" placeholder="== Pilih Tanggal ==" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-                      </div>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="12/01/2022">
                         </div>
 						<div class="col-lg-3">
                           <label>Kota Asal :</label>
-                         <div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK" selected>Makassar</option>
-					 																<option value="HI">Bantaeng</option>
-					 															</optgroup>
-					 															<optgroup label="Pacific Time Zone">
-					 																<option value="CA">California</option>
-					 																<option value="NV" >Nevada</option>
-					 																<option value="OR">Oregon</option>
-					 																<option value="WA">Washington</option>
-					 															</optgroup>
-
-					 														</select>
-					                       </div>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
                         </div>
 						<div class="col-lg-3">
                           <label>Kota Tujuan :</label>
-                         <div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" name="param">
-					 															<optgroup label="Jayapura">
-					 																<option value="AK" selected>Sorong</option>
-					 																<option value="HI">Bantaeng</option>
-					 															</optgroup>
-					 															<optgroup label="Pacific Time Zone">
-					 																<option value="CA">California</option>
-					 																<option value="NV" >Nevada</option>
-					 																<option value="OR">Oregon</option>
-					 																<option value="WA">Washington</option>
-					 															</optgroup>
-
-					 														</select>
-					                       </div>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jakarta">
                         </div>
                         </div>
                       </div>
@@ -326,39 +229,20 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								   
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder=""></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang."></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">2</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder=""></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">3</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder=""></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
+																								
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
@@ -405,39 +289,33 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								   
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Perda No 2 Tahun 2021 Tentang Pendirian Perusahaan Umum Daerah Parkir Makassar Raya"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Perda No 2 Tahun 2021 Tentang Pendirian Perusahaan Umum Daerah Parkir Makassar Raya"></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Perda No 17 Tahun 2006 Tentang Pengelolaan Parkir Tepi Jalan Umum dalam Kota Makassar"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Perda No 17 Tahun 2006 Tentang Pengelolaan Parkir Tepi Jalan Umum dalam Kota Makassar"></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Surat Perintah Walikota Makassar Nomor : 094/465/SP/VII/2022 Tanggal 22 Juli 2022 Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang."></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Surat Perintah Walikota Makassar Nomor : 094/465/SP/VII/2022 Tanggal 22 Juli 2022 Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang."></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
@@ -454,39 +332,33 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
-																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								   
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Yth, Bapak Walikota Makassar"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Yth, Bapak Walikota Makassar"></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya"></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Pertinggal"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Pertinggal"></textarea></td>
+																									
                                             
                                                                                                     
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
@@ -537,379 +409,95 @@ function goBack() {
 																									<td width="7%" bgcolor="#f7fcff">Jabatan</td>
 																									<td width="1%" bgcolor="#f7fcff">Tipe Pegawai</td>
 																									<td width="1%" bgcolor="#f7fcff">Kantor</td>
-																									<td width="1%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																									
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI"selected>000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI"selected>000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">4</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI"selected>000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan"></td>
    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">5</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI"selected>000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha dan Kerjasama"></td>
    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">6</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI"selected>000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">7</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI"selected>000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">8</td>
-																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI"selected>000 000 008 - Mahdinar, SE</option>
-																					<option value="HI">000 000 009 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="8">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
                                           </div>

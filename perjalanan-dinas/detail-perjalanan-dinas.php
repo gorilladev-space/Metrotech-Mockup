@@ -109,205 +109,400 @@ function goBack() {
 										<div class="kt-grid">
 											<div class="kt-grid__item kt-grid__item--fluid kt-wizard-v4__wrapper">
 
-												<!--begin: Form Wizard Form-->
+												
+													<!--begin: Form Wizard Form-->
 												<form class="kt-form" id="kt_form">
 
-													<!--begin: Form Wizard Step 1-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
 														<div class="kt-form__section kt-form__section--first">
 
-											<div class="row">
+											
+											
 								<div class="col-xl-12">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Perjalanan Dinas</div>
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pemberi Tugas</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
+                       <div class="col-lg-3">
+                          <label>Nama Pejabat :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
+                        </div>
+						
+<div class="col-lg-1">
+                          <label>NIP :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001">
+                        </div>
+						<div class="col-lg-1">
+                          <label>Kantor :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                        </div>
+                       
                        <div class="col-lg-2">
-                          <label>Pemberi Tugas :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE">
+                          <label>Department :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi">
                         </div>
-
-                        <div class="col-lg-2">
+						 <div class="col-lg-2">
+                          <label>Bagian :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi">
+                        </div>
+						
+<div class="col-lg-3">
                           <label>Jabatan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama">
                         </div>
-                        <div class="col-lg-2">
-                          <label class="">Department :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Development">
+						
+                       
+                        </div>
+						
                       </div>
+                    </div>
+                    </div>
+					<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Perjalanan Dinas</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-3">
+                          <label>No. SPPD :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238/10.1/PERUMDA-PMR/XII/2022">
                         </div>
-						<div class="col-lg-2">
+						
+<div class="col-lg-3">
                           <label>Tipe Perjalanan Dinas :</label>
-                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Operasional Kantor">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Operasional Kantor">
                         </div>
-						<div class="col-lg-2">
+						<div class="col-lg-3">
                           <label>Jenis Perjalanan Dinas :</label>
-                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Luar Kota">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Luar Kota">
                         </div>
-						<div class="col-lg-2">
+                       
+                       
+						
+<div class="col-lg-3">
                           <label>Transportasi :</label>
-                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pesawat Udara">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pesawat Udara">
                         </div>
-                      </div>
-                      <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-                        <div class="col-lg-2">
-                          <label class="">Tanggal Berangkat :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/12/2022">
+						
+                       
                         </div>
-						<div class="col-lg-2">
-                          <label class="">Estimasi Tanggal Kembali :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10/1/2023">
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-3">
+                          <label>Tanggal Berangkat :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="09/01/2022">
                         </div>
-                        <div class="col-lg-2">
-                          <label>Tempat Berangkat :</label>
-                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
+						 <div class="col-lg-3">
+                          <label>Estimasi Tanggal Kembali :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="12/01/2022">
                         </div>
-
-						<div class="col-lg-2">
-                          <label>Tujuan :</label>
-                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bali">
+						<div class="col-lg-3">
+                          <label>Kota Asal :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
                         </div>
-						<div class="col-lg-4">
-                          <label>Maksud Perjalanan Dinas :</label>
-                      <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="4">Rapat Kordinasi Khusus Walikota Makassar</textarea>
+						<div class="col-lg-3">
+                          <label>Kota Tujuan :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jakarta">
                         </div>
-                      </div>
+                        </div>
                       </div>
                     </div>
 							<!--end:: Portlet-->
+							<div class="row">
+							
+										<div class="col-xl-5">
 
 									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Maksud Perjalanan Dinas</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <div id="kt_repeater_2">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_2">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="10px" bgcolor="#f7fcff">No</td>
+																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
+																								   
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang."></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																								
+																							</tbody>
+																							
+																						</table>
+                                          </div>
+													
+									
+						
+						
+
+                        </div>
+						
+                        </div>
+						
+						
+                      </div>
+                    </div>
+
+
+										</div>
+										
+										
+										
+
+
+								<div class="col-xl-7">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Form Surat Tugas</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+					  <div class="col-lg-6">
+                          <label class="">No. Surat Tugas :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="097/80.3/PERUMDA-PMR/ST/XII/2022">
+                        </div>
+						
+                       
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+                       <div class="col-lg-7">
+					    <label>Dasar Surat Tugas :</label>
+                          <div id="kt_repeater_2">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_2">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="10px" bgcolor="#f7fcff">No</td>
+																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
+																								   
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Perda No 2 Tahun 2021 Tentang Pendirian Perusahaan Umum Daerah Parkir Makassar Raya"></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Perda No 17 Tahun 2006 Tentang Pengelolaan Parkir Tepi Jalan Umum dalam Kota Makassar"></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Surat Perintah Walikota Makassar Nomor : 094/465/SP/VII/2022 Tanggal 22 Juli 2022 Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang."></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							
+																						</table>
+                                          </div>
+													
+									
+						
+						
+
+                        </div>
+					<div class="col-lg-5">
+					    <label>Tembusan Surat Tugas :</label>
+                          <div id="kt_repeater_2">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_2">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="10px" bgcolor="#f7fcff">No</td>
+																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
+																								   
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Yth, Bapak Walikota Makassar"></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya"></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" disabled="disabled" placeholder="Pertinggal"></textarea></td>
+																									
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							
+																						</table>
+                                          </div>
+													
+									
+						
+						
+
+                        </div>
+						
+                        </div>
+						
+						
+                    </div>
+					
+							<!--end:: Portlet-->
+
+
+										</div>
+										
+										
+										
+
+
+
+								</div>
+								
+
+									<!--begin::Portlet-->
+										
+					
+							<!--end:: Portlet-->
+
+
+									<!--begin::Portlet-->
+									
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pegawai Pelaksana</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
-											<div class="form-group row">
-                        <table class="table-responsive table table-striped- table-bordered table-hover table-checkable" id="kt_table_2">
-
-  <tbody><tr style="text-align:center">
-    <td width="1%" bgcolor="#f7fcff">NO</td>
-    <td width="15%" bgcolor="#f7fcff">Nama Pegawai</td>
-    <td width="7%" bgcolor="#f7fcff">NIP</td>
-    <td width="20%" bgcolor="#f7fcff">Department</td>
-    <td width="20%" bgcolor="#f7fcff">Bagian</td>
-    <td width="20%" bgcolor="#f7fcff">Jabatan</td>
-    <td width="5%" bgcolor="#f7fcff">Tipe Pegawai</td>
-    <td width="5%" bgcolor="#f7fcff">Kantor</td>
-   
-  </tr>
-  <tr>
-    <td style="text-align:center">1</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+                        <div id="kt_repeater_1">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																									<td width="5%" bgcolor="#f7fcff">Nama Pegawai</td>
+																									<td width="4%" bgcolor="#f7fcff">Department</td>
+																									<td width="6%" bgcolor="#f7fcff">Bagian</td>
+																									<td width="7%" bgcolor="#f7fcff">Jabatan</td>
+																									<td width="1%" bgcolor="#f7fcff">Tipe Pegawai</td>
+																									<td width="1%" bgcolor="#f7fcff">Kantor</td>
+																									
+																								</tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-    </tr>
-   <tr>
-    <td style="text-align:center">2</td>
-     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad"></td>
-     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 002"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-    
-  </tr>
- <tr>
-    <td style="text-align:center">3</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 003">
-	</td>
+   <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-   
-
-  </tr>
-  <tr>
-    <td style="text-align:center">4</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 004">
-	</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
+   <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">4</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-   
-  </tr>
-  <tr>
-    <td style="text-align:center">5</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 005">
-	</td>
+   <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">5</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-    
-  </tr>
-  <tr>
-    <td style="text-align:center">6</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 006">
-	</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha dan Kerjasama"></td>
+   <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">6</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-    
-  </tr>
-  <tr>
-    <td style="text-align:center">7</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
-	</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">7</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-   
-  </tr>
-  <tr>
-    <td style="text-align:center">8</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE">
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 007">
-	</td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
-	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kontrak"></td>
-	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-													</div></td>
-    
-  </tr>
-  
-</tbody></table>
-                      </div>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
 
-                      </div>
-                    </div>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">8</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
+																									
+																								</tr>
+																							</tbody>
+																							
+																						</table>
+                                          </div>
+                                          </div>
+													
+								
+									</div>
+                   
 							<!--end:: Portlet-->
 										</div>
 
