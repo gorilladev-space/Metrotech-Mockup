@@ -386,7 +386,13 @@
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
+																				<span class="kt-nav__link-text">Print SPPD</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-surat-tugas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Surat Tugas</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -396,10 +402,11 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																	</ul>
 																</div>
