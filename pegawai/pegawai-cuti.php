@@ -282,7 +282,7 @@
 				<tbody>
 					<tr>
 						<td id="kt_table_1">1</td>
-						<td width="1%" id="kt_table_1">005TOHRXI2022</td>
+						<td width="1%" id="kt_table_1">006TOHRXI2022</td>
 						<td>Cuti Tahunan</td>
 						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -298,12 +298,8 @@
 									data-toggle="modal" data-target="#modal_persetujuan"></i></button></td>
 						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i
 									class="fa fa-clock" data-html="true"></i></button></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock" data-html="true"></i>
-							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock" data-html="true"></i>
-							</span></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 								<i class="fa fa-clock" data-html="true"></i>
 							</span></td>
@@ -340,7 +336,7 @@
 					</tr>
 					<tr>
 						<td id="kt_table_1">2</td>
-						<td width="1%" id="kt_table_1">004TOHRXI2022</td>
+						<td width="1%" id="kt_table_1">005TOHRXI2022</td>
 						<td>Cuti Menikah</td>
 						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -356,12 +352,8 @@
 									data-toggle="modal" data-target="#modal_persetujuan"></i></button></td>
 						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i
 									class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 							</span></td>
@@ -398,7 +390,7 @@
 					</tr>
 					<tr>
 						<td id="kt_table_1">3</td>
-						<td width="1%" id="kt_table_1">003TOHRXI2022</td>
+						<td width="1%" id="kt_table_1">004TOHRXI2022</td>
 						<td>Cuti Bersalin</td>
 						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -414,12 +406,8 @@
 									data-toggle="modal" data-target="#modal_persetujuan"></i></button></td>
 						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i
 									class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 							</span></td>
@@ -456,7 +444,7 @@
 					</tr>
 					<tr>
 						<td id="kt_table_1">4</td>
-						<td width="1%" id="kt_table_1">002TOHRXI2022</td>
+						<td width="1%" id="kt_table_1">003TOHRXI2022</td>
 						<td>Cuti Menikahkan Anak</td>
 						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -471,12 +459,8 @@
 									class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i
 									class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
-								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+						<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 							</span></td>
@@ -513,7 +497,7 @@
 					</tr>
 					<tr>
 						<td id="kt_table_1">5</td>
-						<td width="1%" id="kt_table_1">001TOHRXI2022</td>
+						<td width="1%" id="kt_table_1">002TOHRXI2022</td>
 						<td>Cuti Menikahkan Anak</td>
 						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -544,6 +528,54 @@
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 								<i class="fa flaticon2-check-mark" data-html="true"></i>
 							</span></td>
+						<td style="text-align:center" nowrap>
+							<div class="kt-widget2__actions">
+								<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+									<i class="flaticon-more-1"></i>
+								</a>
+								<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+									<ul class="kt-nav">
+										<li class="kt-nav__item">
+											<a href="detail-cuti.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa fa-eye"></i>
+												<span class="kt-nav__link-text">Lihat Detail</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
+											<a href="print-cuti.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon2-print"></i>
+												<span class="kt-nav__link-text">Print</span>
+											</a>
+										</li>
+										<li class="kt-nav__item">
+											<a href="edit-cuti.php" class="kt-nav__link">
+												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+												<span class="kt-nav__link-text">Edit Data</span>
+											</a>
+										</li>
+										
+									</ul>
+								</div>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td id="kt_table_1">6</td>
+						<td width="1%" id="kt_table_1">001TOHRXI2022</td>
+						<td>Cuti Menikahkan Anak</td>
+						<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Lagi Padat Pekerjaan<hr>31 Desember 2018 - 14:30 WITA " data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+						
+
 						<td style="text-align:center" nowrap>
 							<div class="kt-widget2__actions">
 								<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">

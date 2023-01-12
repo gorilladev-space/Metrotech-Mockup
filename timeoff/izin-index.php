@@ -313,15 +313,17 @@
 												<th width="3%" bgcolor="#f7fcff">Atasan Langsung</th>
 												<th width="3%" bgcolor="#f7fcff">Kabag Terkait</th>
 												<th width="3%" bgcolor="#f7fcff">Direksi Terkait</th>
-												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
-												<th width="3%" bgcolor="#f7fcff">Bagian Kepegawaian</th>
 												<th width="3%" bgcolor="#f7fcff">Direktur Umum</th>
+												<th width="3%" bgcolor="#f7fcff">Bagian Kepegawaian</th>
+												<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
+												
+												
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td width="1%" id="kt_table_1">001LOHRXI2022</td>
+												<td width="1%" id="kt_table_1">005LOHRXI2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="SRI SUHARTINI,SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -340,9 +342,9 @@
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -379,7 +381,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
-												<td width="1%" id="kt_table_1">002LOHRXI2022</td>
+												<td width="1%" id="kt_table_1">004LOHRXI2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -398,9 +400,9 @@
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -456,9 +458,9 @@
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
 													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
-													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum diinfokan"><i class="fa fa-info" data-html="true"></i></button></td>
+													<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan"><i class="fa fa-clock" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -495,7 +497,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td width="1%" id="kt_table_1">004LOHRXI2022</td>
+												<td width="1%" id="kt_table_1">002LOHRXI2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -530,6 +532,63 @@
 													<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-izin.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
+																				<span class="kt-nav__link-text">Hapus Data</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">5</td>
+												<td width="1%" id="kt_table_1">001LOHRXI2022</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1">1102019</td>
+												<td style="text-align:center">Kontrak</td>
+												<td style="text-align:center">Commercial & Business Development</td>
+												<td style="text-align:center">Cabang Sulawesi Barat</td>
+
+												<td >Terlambat Datang</td>
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">12 Oktober 2019<br>12:00 WITA</td>
+											  <td style="text-align:left">Antar Anak Sekolah Hari Pertama </td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Lagi Padat Pekerjaan<hr>31 Desember 2018 - 14:30 WITA " data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
