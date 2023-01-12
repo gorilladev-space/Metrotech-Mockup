@@ -274,9 +274,9 @@
 						<th width="3%" bgcolor="#f7fcff">Atasan Langsung</th>
 						<th width="3%" bgcolor="#f7fcff">Kabag Terkait </th>
 						<th width="3%" bgcolor="#f7fcff">Direksi Terkait</th>
-						<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
-						<th width="3%" bgcolor="#f7fcff">Bagian Kepegawaian</th>
 						<th width="3%" bgcolor="#f7fcff">Direktur Umum</th>
+						<th width="3%" bgcolor="#f7fcff">Bagian Kepegawaian</th>
+						<th width="3%" bgcolor="#f7fcff">Direktur Utama</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -531,15 +531,15 @@
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
 							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-								<i class="fa fa-info kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
-						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-								<i class="fa fa-info kt_sweetalert_demo_9" data-html="true"></i>
-							</span></td>
-						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA"
+						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Nama Direktur Umum<br>31 Desember 2018 - 14:30 WITA"
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
+							</span></td>
+						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+								<i class="fa fa-info kt_sweetalert_demo_9" data-html="true"></i>
+							</span></td>
+						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+								<i class="fa fa-info kt_sweetalert_demo_9" data-html="true"></i>
 							</span></td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 								<i class="fa flaticon2-check-mark" data-html="true"></i>

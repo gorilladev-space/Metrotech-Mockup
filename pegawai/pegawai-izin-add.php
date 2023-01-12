@@ -29,7 +29,7 @@ function goBack() {
 }
 </script>
 											</a>
-											<a href="cuti-add.php" class="btn btn-info btn-sm">
+											<a href="#" class="btn btn-info btn-sm">
 												<i class="flaticon2-black-back-closed-envelope-shape"></i> Kirim Permohonan</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>

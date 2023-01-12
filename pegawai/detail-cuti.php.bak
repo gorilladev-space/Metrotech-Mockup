@@ -44,7 +44,7 @@ function goBack() {
 								<div class="col-xl-6">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+										<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Cuti</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
@@ -74,18 +74,7 @@ function goBack() {
 											<div class="form-group row">
                         <div class="col-lg-4">
                           <label>Cari Pegawai :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">\
-																						<optgroup label="- Direksi">
-                              <option value="2">000 000 001 - Yulianti Tomu, SE</option>
-                              <option value="2">000 000 002 - Rizal Asjadad</option>
-                              <option value="3">000 000 003 - Christofher Rio Aviary</option>
-                              <option value="3">000 000 004 - Mu’amar Nor Amin</option>
-                              <option value="3">000 000 005 - Zulfadli Syahrir</option>
-							  <optgroup label="- Umum dan Kepegawaian">
-                              <option value="3">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-                              <option value="3">238 004 032 - Sri Suhartini, SE</option>
-
-                          </select>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                         </div>
 						<div class="col-lg-2">
                           <label>NIP Pegawai :</label>
