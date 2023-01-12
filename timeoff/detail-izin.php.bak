@@ -52,7 +52,7 @@ function goBack() {
                           <label>Nama Pegawai</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="SRI SUHARTINI, SE">
                         </div>
-                        <div class="col-lg-2">
+                        <div class="col-lg-3">
                           <label>NIP :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
                         </div>
@@ -108,7 +108,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Atasan Langsung</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
 											<div class="form-group row">
@@ -144,7 +144,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direksi Terkait</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
 											<div class="form-group row">

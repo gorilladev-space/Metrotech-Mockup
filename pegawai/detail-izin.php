@@ -219,48 +219,6 @@ function goBack() {
 		<div class="form-group row">
 		<div class="col-xl-4">
 		<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Atasan Langsung</div><br>
-							
-										<div class="kt-portlet__body">
-											<div class="form-group row">
-                        <div class="col-lg-6">
-                          <label>Nama Pegawai :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
-                        </div>
-						<div class="col-lg-3">
-                          <label>NIP Pegawai :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
-                        </div>
-
-                        <div class="col-lg-3">
-                          <label>Kantor :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
-                        </div>
-						
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-                        
-						 
-						<div class="col-lg-6">
-                          <label class="">Jabatan :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum dan Kepegawaian">
-                      </div>
-                        </div>
-						<div class="col-lg-6">
-                          <label class="">Waktu Persetujuan :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 09:00 WITA">
-                      </div>
-                        </div>
-                      </div>
-
-                      </div>
-								</div>
-								</div>
-								<div class="col-xl-4">
-		<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div><br>
 							
 										<div class="kt-portlet__body">
@@ -299,13 +257,55 @@ function goBack() {
                       </div>
 
                       </div>
+								</div>
+								</div>
+								<div class="col-xl-4">
+		<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direksi Terkait</div><br>
+							
+										<div class="kt-portlet__body">
+											<div class="form-group row">
+                        <div class="col-lg-6">
+                          <label>Nama Pegawai :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
+                        </div>
+						<div class="col-lg-3">
+                          <label>NIP Pegawai :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
+                        </div>
+
+                        <div class="col-lg-3">
+                          <label>Kantor :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                        </div>
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                        
+						 
+						<div class="col-lg-6">
+                          <label class="">Jabatan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum dan Kepegawaian">
+                      </div>
+                        </div>
+						<div class="col-lg-6">
+                          <label class="">Waktu Persetujuan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 09:00 WITA">
+                      </div>
+                        </div>
+                      </div>
+
+                      </div>
                       </div>
 								
 								
 								</div>
 								<div class="col-xl-4">
 		<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direksi Terkait</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direktur Umum</div><br>
 							
 										<div class="kt-portlet__body">
 											<div class="form-group row">

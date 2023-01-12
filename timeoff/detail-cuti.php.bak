@@ -79,7 +79,7 @@ function goBack() {
                         </div>
 						<div class="col-lg-3">
                           <label class="">Tanggal Akhir Cuti:</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="16 Desember 2022">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1 Januari 2023">
                         </div>
                         <div class="col-lg-3">
                           <label class="">Keterangan :</label>
@@ -108,7 +108,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Atasan Langsung</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
 											<div class="form-group row">
@@ -144,7 +144,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direksi Terkait</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
 											<div class="form-group row">

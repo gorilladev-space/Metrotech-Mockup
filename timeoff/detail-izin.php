@@ -108,42 +108,6 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Atasan Langsung</div>
-							<div>&nbsp;</div>
-										<div class="kt-portlet__body">
-											<div class="form-group row">
-                        <div class="col-lg-3">
-                          <label>Nama Pegawai</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Maghfirah Sharifudin Andy Omar S.Psi">
-                        </div>
-                        <div class="col-lg-1">
-                          <label>NIP :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130001">
-                        </div>
-                        <div class="col-lg-3">
-                          <label>Jabatan</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
-                        </div>
-                        <div class="col-lg-3">
-                          <label class="">Departemen</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Commercial & Business Development">
-                      </div>
-                        </div>
-						<div class="col-lg-2">
-                          <label class="">Waktu Persetujuan</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 09:00 WITA">
-                      </div>
-                        </div>
-                      </div>
-
-                      </div>
-                    </div>
-							<!--end:: Portlet-->
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Kabag Terkait</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
@@ -181,6 +145,42 @@ function goBack() {
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direksi Terkait</div>
+							<div>&nbsp;</div>
+										<div class="kt-portlet__body">
+											<div class="form-group row">
+                        <div class="col-lg-3">
+                          <label>Nama Pegawai</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Maghfirah Sharifudin Andy Omar S.Psi">
+                        </div>
+                        <div class="col-lg-1">
+                          <label>NIP :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="9130001">
+                        </div>
+                        <div class="col-lg-3">
+                          <label>Jabatan</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+                        </div>
+                        <div class="col-lg-3">
+                          <label class="">Departemen</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Commercial & Business Development">
+                      </div>
+                        </div>
+						<div class="col-lg-2">
+                          <label class="">Waktu Persetujuan</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 09:00 WITA">
+                      </div>
+                        </div>
+                      </div>
+
+                      </div>
+                    </div>
+							<!--end:: Portlet-->
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Verifikasi Direktur Umum</div>
 							<div>&nbsp;</div>
 										<div class="kt-portlet__body">
 											<div class="form-group row">
