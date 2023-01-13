@@ -570,7 +570,7 @@ License: You must have a valid license purchased only from themeforest(the above
     </g>
 </svg> </span>
 																<span class="kt-grid-nav__title">Executive Apps</span>
-																<span class="kt-grid-nav__desc">Executive Summary System</span>
+																<span class="kt-grid-nav__desc">Executive Information System</span>
 															</a>
 															
 																
