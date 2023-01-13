@@ -395,7 +395,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -458,7 +458,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -687,7 +752,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -750,7 +815,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -979,7 +1109,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1042,7 +1172,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1271,7 +1466,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1334,7 +1529,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1563,7 +1823,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1626,7 +1886,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1855,7 +2180,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1918,7 +2243,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2147,7 +2537,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2210,7 +2600,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2439,7 +2894,7 @@
 											  <td style="text-align:center">100</td>
 											  <td style="text-align:center">75</td>
 											  <td style="text-align:center">75</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Cukup</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2502,7 +2957,72 @@
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
 											  <td style="text-align:center">25</td>
-											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Kurang Baik</span></td>
+											  
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-penilaian-kinerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-penilaian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Cetak Penilaian</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-mutasi.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">4</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_14.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												
+												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_15.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
+												<td id="kt_table_1" style="text-align:center">238 004 032</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Honor</span></td>
+												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
+											  <td style="text-align:center">Pusat</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Atensi</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
