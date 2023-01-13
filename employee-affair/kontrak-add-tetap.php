@@ -593,7 +593,7 @@ function goBack() {
   </tr>
 							<tr>
 							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS</b></span><br />
-							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>(TENAGA PENDUKUNG) PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
+							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
 						      <span style="font-family: Bookman Old Style; font-size: 12px;"><b>MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></span></p></td>
 							</tr>
 							<tr>
@@ -614,7 +614,7 @@ function goBack() {
 							  <td valign="top">:</td>
 							  <td width="10" valign="top">a.</td>
 							  <td>&nbsp;</td>
-							  <td>bahwa  untuk menunjang kelancaran pelaksanaan tugas-tugas Perusahaan Umum Daerah  Parkir Makassar Raya Kota Makassar, maka dipandang perlu mengangkat tenaga Kontrak  Kerja waktu terbatas (Tenaga Pendukung) sesuai dengan kebutuhan tiap Bagian  dengan memperhatikan Analisis beban kerja dan kemampuan keuangan perusahaan.   </td>
+							  <td>bahwa  untuk menunjang kelancaran pelaksanaan tugas-tugas Perusahaan Umum Daerah  Parkir Makassar Raya Kota Makassar, maka dipandang perlu mengangkat tenaga Kontrak  Kerja waktu terbatas sesuai dengan kebutuhan tiap Bagian  dengan memperhatikan Analisis beban kerja dan kemampuan keuangan perusahaan.   </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -622,7 +622,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">b.</td>
 							  <td>&nbsp;</td>
-							  <td>bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a diatas dipandang perlu ditetapkan dengan Keputusan Direksi Perusahaan Umum  Daerah Parkir Makassar Raya tentang Pengangkatan Tenaga Kontrak Kerja Waktu  Terbatas (Tenaga Pendukung) pada Perusahaan Umum Daerah Parkir Makassar Raya  Kota Makassar Tahun 2023. </td>
+							  <td>bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a diatas dipandang perlu ditetapkan dengan Keputusan Direksi Perusahaan Umum  Daerah Parkir Makassar Raya tentang Pengangkatan Tenaga Kontrak Kerja Waktu  Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya  Kota Makassar Tahun 2023. </td>
   </tr>
 							<tr>
 							  <td colspan="6" valign="top">&nbsp;</td>
@@ -775,7 +775,7 @@ function goBack() {
 							  <td width="10" valign="top"></td>
 							  <td width="1">&nbsp;</td>
 							  <td colspan="4"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
-														<b>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA  TENTANG  PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS (TENAGA PENDUKUNG) PADA PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></td>
+														<b>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA  TENTANG  PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS PADA PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></td>
   </tr>
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
@@ -786,7 +786,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top"></td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas (Tenaga Pendukung) pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
+							  <td colspan="4">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
   </tr>
 							<tr>
 							  <td valign="top">KEDUA</td>
@@ -794,7 +794,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td width="10" valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas (Tenaga Pendukung) sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;   
+							  <td colspan="4">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;   
 
 
 </span></td>
@@ -847,7 +847,7 @@ function goBack() {
 							  <td colspan="3">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3">&nbsp;</td>
+							  <td colspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75" /</td>
   </tr>
 							<tr>
 							  <td colspan="3">&nbsp;</td>
@@ -881,7 +881,7 @@ function goBack() {
 							  <td colspan="9">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="9"><img src="../assets/img/qrcode.jpg" width="100" height="100" /></td>
+							  <td colspan="9"></td>
   </tr>
 							<tr>
 								<td colspan="9">&nbsp;</td>
@@ -1015,6 +1015,11 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
     <td colspan="3" valign="center">&nbsp;</td>
   </tr>
   <tr>
@@ -1034,7 +1039,7 @@ function goBack() {
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="100" height="100" /></td>
+    <td colspan="5" valign="center" style="text-align: left"></td>
   </tr>
   <tr>
     <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
