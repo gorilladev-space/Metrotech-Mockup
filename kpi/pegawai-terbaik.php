@@ -280,28 +280,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -315,10 +319,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -329,6 +330,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -357,9 +363,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -374,10 +380,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -388,6 +391,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -418,9 +426,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -435,10 +443,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -449,6 +454,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -481,9 +491,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -562,28 +572,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -597,10 +611,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -611,6 +622,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -639,9 +655,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -656,10 +672,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -670,6 +683,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -700,9 +718,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -717,10 +735,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -731,6 +746,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -763,9 +783,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -844,28 +864,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -879,10 +903,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -893,6 +914,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -921,9 +947,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -938,10 +964,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -952,6 +975,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -982,9 +1010,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -999,10 +1027,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -1013,6 +1038,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1045,9 +1075,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1126,28 +1156,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -1161,10 +1195,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -1175,6 +1206,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -1203,9 +1239,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1220,10 +1256,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -1234,6 +1267,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1264,9 +1302,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1281,10 +1319,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -1295,6 +1330,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1327,9 +1367,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1408,28 +1448,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -1443,10 +1487,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -1457,6 +1498,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -1485,9 +1531,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1502,10 +1548,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -1516,6 +1559,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1546,9 +1594,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1563,10 +1611,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -1577,6 +1622,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1609,9 +1659,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1690,28 +1740,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -1725,10 +1779,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -1739,6 +1790,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -1767,9 +1823,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1784,10 +1840,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -1798,6 +1851,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1828,9 +1886,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1845,10 +1903,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -1859,6 +1914,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -1891,9 +1951,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -1972,28 +2032,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -2007,10 +2071,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -2021,6 +2082,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -2049,9 +2115,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -2066,10 +2132,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -2080,6 +2143,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2110,9 +2178,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -2127,10 +2195,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -2141,6 +2206,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2173,9 +2243,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -2254,28 +2324,32 @@
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												
-											  <th colspan="7" bgcolor="#f7fcff">Pejabat Penilai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pejabat Penilai</th>
 												<th colspan="7" bgcolor="#feffed">Pegawai yang Dinilai</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
+												<th width="5%" bgcolor="#f7fcff" rowspan="2">Waktu<br>
 											  Penilaian</th>
+												<th colspan="2" bgcolor="#feffed">Prestasi Kerja (%)</th>
+												<th colspan="2" bgcolor="#feffed">Beban Kerja (%)</th>
+												<th width="4%" bgcolor="#feffed" rowspan="2">Mutu</th>
 												<th colspan="2" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="5%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="3%" bgcolor="#f7fcff">NIP</th>
-											  <th width="1%" bgcolor="#f7fcff">Tipe Pegawai</th>
-											  <th width="3%" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="1%" bgcolor="#f7fcff">Kantor</th>
-											  <th width="1%" bgcolor="#feffed">Foto</th>
+											 
+											  <th width="2%" bgcolor="#feffed">Foto</th>
 												<th width="5%" bgcolor="#feffed">Nama Pegawai</th>
 												<th width="3%" bgcolor="#feffed">NIP </th>
 												<th width="1%" bgcolor="#feffed">Tipe Pegawai</th>
 												<th width="5%" bgcolor="#feffed">Department</th>
 												<th width="5%" bgcolor="#feffed">Jabatan</th>
 												<th width="1%" bgcolor="#feffed">Kantor</th>
+												<th bgcolor="#feffed">Tingkat Kehadiran</th>
+												<th bgcolor="#feffed">Efektifitas &amp; Efisiensi</th>
+												<th bgcolor="#feffed">Besaran Aktifitas</th>
+												<th bgcolor="#feffed">Besaran Tanggung Jawab Dikelola</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -2289,10 +2363,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -2303,6 +2374,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td width="4%" style="text-align:center">25</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td width="4%" style="text-align:center">0</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -2331,9 +2407,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -2348,10 +2424,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -2362,6 +2435,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">100</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center">75</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2392,9 +2470,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -2409,10 +2487,7 @@
 													</a></td>
 												<td id="kt_table_1" style="text-align:left">Sri Suhartini, SE</td>
 												<td id="kt_table_1" style="text-align:center">238 004 032</td>
-												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tetap</span></td>
-												<td id="kt_table_1" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
-												<td style="text-align:center">Pusat</td>
+												
 												<td width="2%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -2423,6 +2498,11 @@
 												<td id="kt_table_1" style="text-align:center">Kepala Seksi Administrasi Kepegawaian</td>
 											  <td style="text-align:center">Pusat</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center">25</td>
+											  <td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Baik</span></td>
 											  
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA">
 															<i class="fa flaticon2-check-mark"></i>
@@ -2455,9 +2535,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link kt_sweetalert_demo_9" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
