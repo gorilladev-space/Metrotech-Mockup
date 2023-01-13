@@ -140,11 +140,11 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
+										  <tr>
 												<td width="1%">2</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Utama</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Sekertaris Dewan Pengawas</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -170,11 +170,11 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
+										   <tr>
 												<td width="1%">3</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Umum</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Dewan Pengawas</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Komite Audit</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -204,7 +204,7 @@
 												<td width="1%">4</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Keuangan dan Asset</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Utama</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -234,7 +234,7 @@
 												<td width="1%">5</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Operasional</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Umum</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -264,6 +264,66 @@
 												<td width="1%">6</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Keuangan dan Asset</td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+											<tr>
+												<td width="1%">7</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Operasional</td>
+												
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+											<tr>
+												<td width="1%">8</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Direksi</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Direktur Pengembangan Usaha dan Kerjasama</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -291,7 +351,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%">7</td>
+												<td width="1%">9</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum dan Kepegawaian</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Bagian Umum dan Kepegawaian</td>
@@ -321,7 +381,7 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%">8</td>
+												<td width="1%">10</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum dan Kepegawaian</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
@@ -351,7 +411,7 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%">9</td>
+												<td width="1%">11</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum dan Kepegawaian</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Rumah Tangga dan Logistik</td>
@@ -381,7 +441,7 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%">10</td>
+												<td width="1%">12</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Hukum dan Humas</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Bagian Hukum dan Humas</td>
@@ -411,7 +471,7 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%">11</td>
+												<td width="1%">13</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Hukum dan Humas</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Hukum dan Perundang Undangan</td>
@@ -441,7 +501,7 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td width="1%">12</td>
+												<td width="1%">14</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Umum</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Hukum dan Humas</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Humas dan Pengelolaan Data</td>
@@ -471,7 +531,7 @@
 															</div></td>
 										  </tr>
 <tr>
-												<td width="1%">13</td>
+												<td width="1%">15</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Bagian Keuangan</td>
@@ -501,7 +561,7 @@
 															</div></td>
 										  </tr>
  <tr>
-												<td width="1%">14</td>
+												<td width="1%">16</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Perencanaan dan Anggaran</td>
@@ -531,7 +591,7 @@
 															</div></td>
 										  </tr>
 <tr>
-												<td width="1%">15</td>
+												<td width="1%">17</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Pembukuan dan Pelaporan</td>
@@ -561,7 +621,7 @@
 															</div></td>
 										  </tr>
 <tr>
-												<td width="1%">16</td>
+												<td width="1%">18</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Bagian Asset</td>
@@ -591,7 +651,7 @@
 															</div></td>
 										  </tr>
  <tr>
-												<td width="1%">17</td>
+												<td width="1%">19</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Peralatan dan Iventarisasi Asset</td>
@@ -621,7 +681,7 @@
 															</div></td>
 										  </tr>
 <tr>
-												<td width="1%">18</td>
+												<td width="1%">20</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Keuangan dan Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Asset</td>
 												<td width="8%" align="left" valign="left" style="text-align:left">Kepala Seksi Penghapusan dan Pemusnahan</td>

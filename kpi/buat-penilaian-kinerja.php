@@ -277,7 +277,7 @@
 										    <td rowspan="4" nowrap style="text-align:center">3</td>
 										    <td style="text-align:center" nowrap>Tidak Pernah</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder=""></td>
 										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
 													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
 													<div class="input-group-append">

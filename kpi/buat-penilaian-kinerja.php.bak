@@ -277,7 +277,7 @@
 										    <td rowspan="4" nowrap style="text-align:center">3</td>
 										    <td style="text-align:center" nowrap>Tidak Pernah</td>
 										    <td nowrap="nowrap" style="text-align:center">3</td>
-										    <td rowspan="4" nowrap style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete"></td>
+										    <td rowspan="4" nowrap style="text-align:center"><input type="number" class="form-control form-control-sm " placeholder="3"></td>
 										    <td rowspan="4" nowrap style="text-align:center"><div class="input-group input-group-sm">
 													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
 													<div class="input-group-append">
@@ -824,14 +824,28 @@
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">12</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="15"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="2" bgcolor="#f7fcff" id="kt_table_4" style="text-align:left">GRAND TOTAL SKOR PENILAIAN KINERJA</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center">24</td>
 										    <td colspan="2" nowrap="nowrap" bgcolor="#f7fcff" style="text-align:center">&nbsp;</td>
 										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="27"></td>
-										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="100%"></td>
+										    <td nowrap bgcolor="#f7fcff" style="text-align:center"><div class="input-group input-group-sm">
+													<input type="text" class="form-control m-input" style="text-align:right" disabled="disabled" placeholder="100" aria-describedby="basic-addon2">
+													<div class="input-group-append">
+														<span class="input-group-text" id="basic-addon2">
+															%
+														</span>
+													</div>
+												</div></td>
 									      </tr>
 										  <tr>
 										    <td colspan="7" id="kt_table_7" style="text-align:center">&nbsp;</td>
