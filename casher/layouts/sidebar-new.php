@@ -97,6 +97,7 @@
                                     </a>
 									<ul class="kt-menu__subnav">
 														<li class="kt-menu__item " aria-haspopup="true"><a href="pembayaran-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Pembayaran</span></a></li>
+														<li class="kt-menu__item " aria-haspopup="true"><a href="casher-perjalanan-dinas.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Realisasi Biaya</span></a></li>
 														
 														
 													</ul>
