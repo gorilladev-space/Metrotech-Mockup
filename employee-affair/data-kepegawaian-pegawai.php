@@ -440,6 +440,29 @@ function goBack() {
 																								</div>
 																							</div>
 																						</div>
+																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
+																													<i class="fa fa-pen"></i>
+																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
+																												</label>
+																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
+																													<i class="fa fa-times"></i>
+																												</span>
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
 
 
 									</div>

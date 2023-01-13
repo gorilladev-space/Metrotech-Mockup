@@ -336,7 +336,7 @@
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
-											  <th colspan="2" bgcolor="#f7fcff">Tanggal</th>
+											  <th colspan="2" bgcolor="#f7fcff">Kontrak</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
@@ -344,8 +344,8 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="5%" bgcolor="#f7fcff">Kontrak Awal</th>
-											  <th width="5%" bgcolor="#f7fcff">Kontrak Berakhir</th>
+											  <th width="5%" bgcolor="#f7fcff">Awal</th>
+											  <th width="5%" bgcolor="#f7fcff">Berakhir</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepegawaian</th>
 											  <th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 											  <th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
@@ -370,7 +370,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -435,7 +435,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>

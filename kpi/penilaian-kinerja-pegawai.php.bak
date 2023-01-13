@@ -216,9 +216,15 @@
 												<div class="col-lg-3">
 						                          <label>Jabatan yang Dinilai :</label>
 												  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">9130037 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                                      <option value="3" selected="">9130038 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
                                   </select>
 
 						                        </div>
@@ -480,9 +486,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -541,9 +547,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -604,9 +610,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-mutasi.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
