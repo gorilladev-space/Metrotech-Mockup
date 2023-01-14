@@ -220,6 +220,10 @@ function goBack() {
                           <label>Kantor :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
                         </div>
+<div class="col-lg-4">
+                          <label>Pangkat / Golongan :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Muda / C.1">
+                        </div>
 
                         
                         </div>
@@ -241,7 +245,7 @@ function goBack() {
                       </div>
                         </div>
                         </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
                           <label>Ditetapkan di :</label>
@@ -277,6 +281,15 @@ function goBack() {
                       </div>
                         </div>
                       </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label>Keterangan Pensiun :</label>
+                       <input type="text" class="form-control form-control-sm" placeholder="Isikan Keterangan Pensiun">
+                        </div>
+						
+						
+                      </div>
 
                       </div>
                     </div>
@@ -288,7 +301,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pejabat Pembuat</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pejabat Pembuat SK</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-7">

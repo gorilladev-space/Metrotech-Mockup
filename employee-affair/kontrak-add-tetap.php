@@ -600,7 +600,7 @@ function goBack() {
 							  <td colspan="6">&nbsp;</td>
   </tr>
 							<tr>
-								<td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>Dengan Rahmat Tuhan Yang Maha Esa</b></span></p></td>
+								<td colspan="6"><div align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>Dengan Rahmat Tuhan Yang Maha Esa</b></span></div></td>
 							</tr>
 							<tr>
 							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</b></span></p></td>
