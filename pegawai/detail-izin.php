@@ -140,11 +140,11 @@ function goBack() {
 								<div class="col-xl-3">
 
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Saldo Cuti</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Saldo Izin</div>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Saldo Cuti Tahunan :</label>
+                          <label>Saldo Izin Jam Kantor :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">12 Hari</div>
                         </div>
@@ -154,7 +154,7 @@ function goBack() {
                       <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Cuti Tahunan Belum Digunakan :</label>
+                          <label>Izin Jam Kantor Belum Digunakan :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">6 Hari</div>
                         </div>
@@ -163,19 +163,19 @@ function goBack() {
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Cuti Tahunan Telah Terpakai :</label>
+                          <label>Izin Jam Kantor Telah Terpakai :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">6 Hari</div>
                         </div>
                         </div>
                       </div>
                         <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<label><span class="kt-badge kt-badge--danger kt-badge--inline">Riwayat Cuti Tahun ini :</span></label>
+						<label><span class="kt-badge kt-badge--danger kt-badge--inline">Riwayat Izin Tahun ini :</span></label>
                 <!--Begin::Timeline 3 -->
 											<div class="kt-timeline-v2">
 												<div class="kt-timeline-v2__items  kt-padding-top-25 kt-padding-bottom-30">
 													<div class="kt-timeline-v2__item">
-														<span class="kt-timeline-v2__item-time">21 Oktober 2019<br>23 Oktober 2019</span>
+														<span class="kt-timeline-v2__item-time">21/10/2019<br>23/10/2019</span>
 														<div class="kt-timeline-v2__item-cricle">
 															<i class="fa fa-genderless kt-font-danger"></i>
 														</div>
@@ -184,7 +184,7 @@ function goBack() {
 														</div>
 													</div>
 													<div class="kt-timeline-v2__item">
-														<span class="kt-timeline-v2__item-time">21 Oktober 2019<br>23 Oktober 2019</span>
+														<span class="kt-timeline-v2__item-time">21/10/2019<br>23/10/2019</span>
 														<div class="kt-timeline-v2__item-cricle">
 															<i class="fa fa-genderless kt-font-info"></i>
 														</div>
@@ -198,7 +198,6 @@ function goBack() {
 
 											<!--End::Timeline 3 -->
 									</div>
-									
 
 									<!--end::Portlet-->
 								</div>

@@ -176,11 +176,11 @@ function goBack() {
 								<div class="col-xl-3">
 
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Saldo Izin</div>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Saldo Izin Terlambat Datang :</label>
+                          <label>Saldo Izin Jam Kantor :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">12 Hari</div>
                         </div>
@@ -190,7 +190,7 @@ function goBack() {
                       <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Izin Belum Digunakan :</label>
+                          <label>Izin Jam Kantor Belum Digunakan :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">6 Hari</div>
                         </div>
@@ -199,7 +199,7 @@ function goBack() {
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                       <div class="form-group row">
                         <div class="col-lg-12">
-                          <label>Izin Telah Terpakai :</label>
+                          <label>Izin Jam Kantor Telah Terpakai :</label>
                           <div class="progress">
                           <div class="progress-bar progress-bar-striped progress-bar-animated  bg-warning" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">6 Hari</div>
                         </div>
