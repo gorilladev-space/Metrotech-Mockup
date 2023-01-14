@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Peraturan Perusahaan
+											Data Standar Operasional Perusahaan
 									</h3>
 
 								</div>
