@@ -24,7 +24,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Cetak SK Calon Pegawai
+											Cetak Kontrak Pegawai
 									</h3>
 								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
@@ -92,7 +92,7 @@ function goBack() {
   </tr>
 							<tr>
 							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS</b></span><br />
-							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>(TENAGA PENDUKUNG) PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
+							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
 						      <span style="font-family: Bookman Old Style; font-size: 12px;"><b>MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></span></p></td>
 							</tr>
 							<tr>
@@ -254,6 +254,21 @@ function goBack() {
 							<tr>
 								<td colspan="6">&nbsp;</td>
 							</tr>
+<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
+<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
+<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
+<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
+<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
 						</table>
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
@@ -322,6 +337,12 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td colspan="4">Keputusan ini berlaku terhitung mulai tanggal 01 Januari 2023 sampai dengan 31 Desember 2023.</td>
   </tr>
+<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
@@ -346,7 +367,7 @@ function goBack() {
 							  <td colspan="3">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3">&nbsp;</td>
+							  <td colspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
 							<tr>
 							  <td colspan="3">&nbsp;</td>
@@ -376,6 +397,15 @@ function goBack() {
 							<tr>
 								<td colspan="9">&nbsp;</td>
 							</tr>
+							<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="9"><hr /></td>
+  </tr>
+							<tr>
+							  <td colspan="9"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
 							<tr>
 								<td colspan="9">&nbsp;</td>
 							</tr>
@@ -482,6 +512,9 @@ function goBack() {
 						<br>
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
+							  <td colspan="5">&nbsp;</td>
+  </tr>
+<tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
     <td width="331" valign="center">&nbsp;</td>
     <td width="90" valign="center">Ditetapkan di</td>
@@ -508,7 +541,7 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
+    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
@@ -529,13 +562,23 @@ function goBack() {
   <tr>
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
+  <tr>
+							  <td colspan="5"><hr /></td>
+  </tr>
+							<tr>
+							  <td colspan="5"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td colspan="5">&nbsp;</td>
+  </tr>
+							
 						</table>
 						
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-					</div>
 
 								<!--End:: App Content-->
+							</div>
 							</div>
 
 							<!--End::App-->

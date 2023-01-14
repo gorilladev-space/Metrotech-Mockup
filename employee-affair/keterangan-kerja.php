@@ -212,9 +212,10 @@ function goBack() {
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-												<th width="1%" bgcolor="#f7fcff">Staff HR</th>
-												<th width="1%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="1%" bgcolor="#f7fcff">HR Director</th>
+												
+												<th width="1%" bgcolor="#f7fcff">Kabag Terkait</th>
+												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
+												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
 										</thead>
 										<tbody>
