@@ -99,136 +99,183 @@
 				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
 					<div class="bg-white w-50 ml-auto mr-auto mt-3">
 						<img src="../assets/img/header.png" style="width: 720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						<table align="center" border="0" cellpadding="1" style="width: 720px;text-align:justify; line-height:2.0">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
-								<th class="text-center">
-									<span class="col-lg-12 kt-font-boldest" style="border-bottom:2px solid #ccc">KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</span><br />Nomor : 088/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022
-								</th>
-							</tr>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td width="29" valign="top">&nbsp;</td>
+							  <td width="6" valign="top">&nbsp;</td>
+							  <td width="109" valign="top">&nbsp;</td>
+							  <td width="15" valign="top">&nbsp;</td>
+							  <td width="147" valign="top">&nbsp;</td>
+							  <td width="31" valign="top">&nbsp;</td>
+							  <td width="13" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Atas berkat rahmat Tuhan yang Maha Esa serta berdasarkan keinginan yang luhur untuk menciptakan hubungan yang harmonis dan berkelanjutan serta terpeliharanya kerja sama yang baik agar diharapkan
-									terciptanya ketenangan bekerja,
-									meningkatkan produktivitas kerja dan kesejahteraan Pegawai antara Perusahaan dan Pegawai sesuai dengan iklim hubungan industrial yang berlandaskan pada Pancasila dan Undang Undang Dasar 1945 tentang ketenagakerjaan.</td>
-							</tr>
+							  <td colspan="4" valign="top">Nomor</td>
+							  <td valign="top">:</td>
+							  <td colspan="3" valign="top">034/10.2.2/PERUMDA-PMR/XII/2022</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="2" valign="top">Kepada yang terhormat</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; sehubungan dengan landasan itu, maka Peraturan Perusahaan ini disusun atas dasar musyawarah untuk mufakat, bahwa Perusahaan dan Pegawai menyadari sepenuhnya untuk menjamin terpelihara kerja sama yang
-									baik, terciptanya ketenangan kerja dan kepastian usaha, diperlukan adanya Peraturan Perusahaan yang mengatur hak-hak dan kewajiban
-									masing-masing pihak yang dituangkan dalam bentuk Peraturan Perusahaan yang secara keseluruhan harus mendorong kegairahan kerja untuk meningkatkan produksi dan produktivitas kerja serta meningkatkan kesejahteraan kerja. Pegawai perlu
-									secara sadar melaksanakan Peraturan Perusahaan ini dengan penuh tanggung jawab</td>
-							</tr>
+							  <td colspan="4" valign="top">Lampiran</td>
+							  <td valign="top">:</td>
+							  <td colspan="3" valign="top">1 (Satu) Lembar</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="2" valign="top">Direktur Utama</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Dalam rangka meningkatkan produktifitas kerja dan stabilitas ekonomi Perusahaan, maka Pegawai dan Perusahaan harus saling mengisi segala bentuk kekurangan dan selalu berusaha untuk mengadakan
-									pengembangan demi kemajuan Perusahaan.</td>
-							</tr>
+							  <td colspan="4" valign="top">Perihal</td>
+							  <td valign="top">:</td>
+							  <td colspan="3" valign="top">Permohonan Biaaya</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="2" valign="top">Perumda Parkir Makassar Raya</td>
+  </tr>
 							<tr>
-								<td>
-									<pre></pre> &#160; &#160; &#160; Oleh sebab itu, segala bentuk kesalahpahaman dalam melaksanakan tugasmasing-masing,maka pihak Perusahaan dan Pegawai akan selalu berpegang teguh pada azas musyawarah untuk mufakat.Dalam melaksanakan
-									Hubungan Industrial Pancasila, harus berpegang kepada terciptanya saling rasa ikut memiliki, ikutmemelihara , tanggung jawab bersama dan
-									mempertahankan serta secara terus-menerus mawas diri sebagai suatu azas kemitraan dan tanggung jawab bersama, dengan landasan itulah, maka Peraturan Perusahaan inidisusun.</td>
-							</tr>
-						</table>
-
-						<table align="right" class="text-center" border="0" cellpadding="1" style="width: 350px;text-align:justify; line-height:2.0">
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="2" valign="top">Di -</td>
+  </tr>
 							<tr>
-								<td height="100px"></td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Tempat</td>
+  </tr>
 							<tr>
-								<td>Makassar, 1 Januari 2020</td>
-							</tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
 							<tr>
-								<td>PT. ILUGROUP MULTIMEDIA INDONESIA</td>
-							</tr>
+							  <td colspan="11" valign="top">Dengan Hormat,</td>
+  </tr>
 							<tr>
-								<td height="100px"></td>
-							</tr>
+							  <td colspan="11" valign="top">Bersama surat ini kami sampaikan kepada Ibu Direktur Utama, bahwa untuk kelancaran kegiatan administrasi di bagian produksi perlu dilakukan pengiriman kwitansi.</td>
+  </tr>
 							<tr>
-								<td>MUHAMMAD NASRULLAH, S.Kom</td>
-							</tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
 							<tr>
-								<td>Direktur Utama</td>
-							</tr>
-						</table>
-						<img src="../assets/img/footer.png" style="width:720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
-					</div>
-
-
-				</div>
-				<div class="tab-pane" id="kt_tabs_1_2" role="tabpanel">
-					<div class="bg-white w-50 ml-auto mr-auto">
-						<img src="../assets/img/header.png" style="width: 720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						<table align="center" border="0" cellpadding="1" style="width: 700px;text-align:justify;line-height:2.0">
-										<tr>
-											<td height="50px">
-												<div align="center">
-													<span style="font-family: Roboto; font-size: 12px; margin-bottom:3rem">
-														<b><u>PERJANJIAN KHUSUS</u></b>
-														<br><i>NO. 008/IM-HRD/II/2020</i></span>
-												</div>
-											</td>
-										</tr>
-										<tr>
-											<td> Perjanjian Khusus ini dibuat di Makassar pada hari Rabu, tanggal 12 Februari 2020 antara :</td>
-										</tr>
-										<tr>
-											<td class="pl-5">Nama : Oklan Zulkifli, S.E</td>
-										</tr>
-											<tr>
-												<td class="pl-5">Jabatan : HR-GA Director</td>
-											</tr>
-											<tr>
-												<td>Mewakili Direksi PT. iLugroup Multimedia Indonesia, selanjutnya dalam perjanjian ini disebut sebagai "PIHAK PERTAMA"</td>
-											</tr>
-											<tr>
-												<td class="pl-5">Nama : Aliem Arif Perkasa, S.Kom</td>
-											</tr>
-											<tr>
-												<td class="pl-5">NIP : 9130022</td>
-											</tr>
-											<tr>
-												<td class="pl-5">Jabatan : Application and Development Supervisor</td>
-											</tr>
-											<tr>
-												<td>Mewakili Divisi Information Technology, Selanjutnya dalam Perjanjian ini disebut "PIHAK KEDUA".</td>
-											</tr>
-											<tr>
-												<td>Kedua belah pihak sepakat untuk mengikatkan diri dalam Perjanjian Khusus ini dengan syarat dan ketentuan sebagai berikut :</td>
-											</tr>
-											<tr>
-												<td><ol><li> PIHAK PERTAMA dan PIHAK KEDUA saling mengikatkan diri dalam kontrak kerja pegawai Nomor : 003/IM-HRD/XI/2018 tertanggal 1 Oktober 2018. selanjutny disebut "<b>Kontrak Kerja</b>"</li>
-												<li><b> Kontrak Kerja </b> tersebut mengatur tentang hubungan kerja sama diantara PIHAK PERTAMA dan PIHAK KEDUA beserta segala hak dan kewajiban kedua belah pihak</li>
-												<li><b> Kontrak Kerja </b> tersebut memuat tentang kewajiban PIHAK KEDUA mematuhi Peraturan Perusahaan yang berlaku, selanjutnya disebut <b>"Peraturan Perusahaan" </b></li>
-												<li><b> Peraturan Perusahaan </b> tersebut mengatur tentang jam kerja untuk smeua divisi tanpa terkecuali sebagaimana berikut :</li>
-													<ol type="none"><li><b> Senin - Jumat </b> : 08.00 - 17.00</li>
-																					<li><b> Sabtu </b> : 08.00 - 15.00</li> </ol>
-												<li> Dikarenakan adanya <b> SISTEM KERJA BERBASIS TASKING </b> oleh PIHAK KEDUA, maka PIHAK PERTAMA bersedia memberikan kebijakan jam kerja kepada PIHAK KEDUA dengan memebrikan <b> Fleksibilitas Jam Kerja </b> kepada PIHAK KEDUA. </li>
-												<li> Fleksibilitas Jam Kerja yang diberikan masih mengacu pada Total Jam Kerja harian ditambah jam istirahat, dengan rincian sebagai berikut :</li>
-													<ol type="none"><li><b> Senin - Jumat </b> : 8 Jam Kerja + 1 Jam Istirahat = 9 Jam </li>
-																					<li><b> Sabtu </b> : 6 Jam Kerja + 1 Jam Istirahat = 7 Jam </li>
-																					<li> <b> I bulan </b> : 4 [(9 X 5) + 7]= <b>208 Jam </b> (estimasi 4 pekan/ 24 hari kerja)</ol>
-												<li>perjanjian Khusus ini berlaku hingga terbitnya Perjanjian Khusus baru yang mengacu pada Perjanjian Khusus ini. Demikian Perjanjian Khusus ini dibuat dlama rangkap 2 (dua), masing - masing Pihak memperoleh 1 (satu) rangkap yang kesemuanya mempunyai kekuatan hukun yang sama</li>
-												</ol></td>
-											</tr>
-											<tr>
-												<td class="text-right"> Makassar, 13 Februari 2020 </td>
-											</tr>
-								</table>
-
-								<table align="center" class="text-center" border="0" cellpadding="1" style="width: 600px;text-align:justify;line-height:2.0">
-									<tr>
-										<td width="50%"> PIHAK KEDUA </td>
-										<td width="50%"> PIHAK PERTAMA </td>
-									</tr>
-									<tr>
-										<td height="100px"></td>
-									</tr>
-									<tr>
-										<td>Aliem Arif Perkasa, S.Kom. </td>
-										<td>Oklan Zulkifli, S.E,</td>
-									<tr>
-								</table>
+							  <td colspan="11" valign="top"><p>Demikian Permohonan ini, atas perhatian dan persetujuannya diucapkan terima kasih.<br />
+						      </p></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top"><p>&nbsp;</p></td>
+							  <td width="183">Makassar, 22 Desember  2022</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">Mengetahui,</td>
+							  <td valign="top">Yang bermohon,</td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><img src="../assets/img/ttd1.png" width="100" height="100" /></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><img src="../assets/img/ttd2.png" width="100" height="100" /></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><b><u>AMIRULLAH, S.Ag</u></b></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><u><b>MUH. IQBAL EFFENDI, SE</b></u></td>
+  </tr>
+							<tr>
+							  <td colspan="10" valign="top">Kepala Bagian Produksi</td>
+							  <td valign="top">Kepala Seksi Penagihan</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><hr /></td>
+  </tr>
+							<tr>
+							   <td colspan="11" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+  </table>
 
 						<img src="../assets/img/footer.png" style="width:720px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
@@ -552,7 +599,7 @@
                       <div class="form-group row">
                        <div class="col-lg-4">
                           <label>No Nota Dinas :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/NODIN">
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="034/10.2.2/PERUMDA-PMR/XII/2022">
                         </div>
                         <div class="col-lg-4">
                           <label class="">Dari :</label>
@@ -568,7 +615,7 @@
                      <div class="form-group row">
                         
 						<div class="col-lg-12">
-                          <label>Ringkasan Nota Dinas :</label>
+                          <label>Isi Nota Dinas :</label>
                        <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="10"></textarea>
                         </div>
                       </div>

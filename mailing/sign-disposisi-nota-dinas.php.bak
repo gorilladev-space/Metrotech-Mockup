@@ -552,7 +552,7 @@
                       <div class="form-group row">
                        <div class="col-lg-4">
                           <label>No Nota Dinas :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/NODIN">
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="034/10.2.2/PERUMDA-PMR/XII/2022">
                         </div>
                         <div class="col-lg-4">
                           <label class="">Dari :</label>
@@ -568,8 +568,8 @@
                      <div class="form-group row">
                         
 						<div class="col-lg-12">
-                          <label>Ringkasan Nota Dinas :</label>
-                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29/12/2022">
+                          <label>Isi Nota Dinas :</label>
+                       <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="10"></textarea>
                         </div>
                       </div>
 					   
