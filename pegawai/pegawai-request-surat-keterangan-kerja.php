@@ -117,8 +117,8 @@ function goBack() {
                      <div class="form-group row">
                         
                         <div class="col-lg-4">
-                          <label class="">Tanggal Permohonan :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="15/01/2023">
+                          <label class="">Waktu Permohonan :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="12 Oktober 2019 - 09:00 WITA">
                         </div>
                         <div class="col-lg-8">
                           <label class="">Tujuan Permohonan :</label>

@@ -258,7 +258,7 @@
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-data-permohonan.php" class="kt-nav__link">
+																			<a href="edit-data-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>

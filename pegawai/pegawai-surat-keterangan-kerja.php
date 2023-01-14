@@ -209,7 +209,7 @@
 											<tr>
 											 
 												<th width="1%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
-												<th width="1%" bgcolor="#f7fcff">Bagian Umum</th>
+												<th width="1%" bgcolor="#f7fcff">Kabag Terkait</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 												
