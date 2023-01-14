@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Peraturan Perusahaan
+											Data Peraturan Direksi
 									</h3>
 
 								</div>
