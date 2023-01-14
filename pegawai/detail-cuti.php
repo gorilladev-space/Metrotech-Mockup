@@ -186,7 +186,7 @@ function goBack() {
 								<div class="col-xl-3">
 
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Saldo Cuti</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Cuti</div>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-12">
@@ -221,7 +221,7 @@ function goBack() {
 											<div class="kt-timeline-v2">
 												<div class="kt-timeline-v2__items  kt-padding-top-25 kt-padding-bottom-30">
 													<div class="kt-timeline-v2__item">
-														<span class="kt-timeline-v2__item-time">21 Oktober 2019<br>23 Oktober 2019</span>
+														<span class="kt-timeline-v2__item-time">21/10/2019<br>23/10/2019</span>
 														<div class="kt-timeline-v2__item-cricle">
 															<i class="fa fa-genderless kt-font-danger"></i>
 														</div>
@@ -230,7 +230,7 @@ function goBack() {
 														</div>
 													</div>
 													<div class="kt-timeline-v2__item">
-														<span class="kt-timeline-v2__item-time">21 Oktober 2019<br>23 Oktober 2019</span>
+														<span class="kt-timeline-v2__item-time">21/10/2019<br>23/10/2019</span>
 														<div class="kt-timeline-v2__item-cricle">
 															<i class="fa fa-genderless kt-font-info"></i>
 														</div>
@@ -244,7 +244,6 @@ function goBack() {
 
 											<!--End::Timeline 3 -->
 									</div>
-									
 
 									<!--end::Portlet-->
 								</div>
