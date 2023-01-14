@@ -79,6 +79,24 @@ function goBack() {
 													</div>
 											</div>
 										</div>
+<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon2-calendar-1"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Atribut
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														SK Pensiun
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													2
+												</div>
+											</div>
+										</div>
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
@@ -93,7 +111,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													2
+													3
 												</div>
 											</div>
 										</div>
@@ -111,7 +129,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													3
+													4
 												</div>
 											</div>
 										</div>
@@ -129,7 +147,7 @@ function goBack() {
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
-													4
+													5
 												</div>
 											</div>
 										</div>
@@ -160,23 +178,64 @@ function goBack() {
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-4">
-                          <label>Cari Pegawai :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_4" name="param">
-					 															<optgroup label="Department Infrastruktur">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
+                          <label>Nama Pegawai Pensiun :</label>
+                          <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
 
 					 														</select>
                         </div>
+<div class="col-lg-2">
+                          <label class="">NIP :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 000">
+                      </div>
+                        </div>
+<div class="col-lg-2">
+                          <label>Kantor :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
+                        </div>
+
+                        
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+                       <div class="col-lg-4">
+                          <label>Department :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
+                        </div>
 <div class="col-lg-4">
-                          <label>Jabatan :</label>
+                          <label>Bagian :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Electrical Egineer Supervisor Assistant">
                         </div>
 
                         <div class="col-lg-4">
-                          <label class="">Departemen :</label>
+                          <label class="">Jabatan :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Development">
                       </div>
@@ -185,15 +244,14 @@ function goBack() {
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
-                          <label>Tipe Pensiun :</label>
-                      <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Pensiun Dini</option>
-                              <option value="3">Normal</option>
-
-                          </select>
+                          <label>Ditetapkan di :</label>
+                       <select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Makassar</option>
+                              <option value="HI">Jakarta</option>
+                            </select>
                         </div>
 						<div class="col-lg-4">
-                          <label class="">Tanggal Pengajuan :</label>
+                          <label class="">Tanggal SK Pensiun :</label>
                           <div class="form-group">
                          <div class="input-group date">
 													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
@@ -206,7 +264,7 @@ function goBack() {
                       </div>
                         </div>
 						<div class="col-lg-4">
-                          <label class="">Tanggal Efektif :</label>
+                          <label class="">Tanggal Efektif Pensiun :</label>
                           <div class="form-group">
                          <div class="input-group date">
 													<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
@@ -226,59 +284,59 @@ function goBack() {
 
 
 										</div>
-										<div class="col-xl-3">
+<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Keterangan Pensiun</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pejabat Pembuat</div><br>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>Keterangan :</label>
-                          <textarea class="form-control" id="exampleTextarea" rows="7"></textarea>
+                       <div class="col-lg-7">
+                          <label>Nama Pegawai :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
+
                         </div>
+						<div class="col-lg-5">
+                          <label>NIP :</label>
+						 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
+                        </div>
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-7">
+                          <label class="">Department :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+                        </div>
+						<div class="col-lg-5">
+                          <label class="">Bagian :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian">
+                        </div>
+                        </div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-7">
+                          <label class="">Jabatan :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Administrasi Kepegawaian">
+                        </div>
+						<div class="col-lg-5">
+                          <label class="">Pangkat / Golongan :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staf Muda / C.1">
+                        </div>
+						
 
-
-
-
-
-                      </div>
-
-                      </div>
+                        </div>
+						
+						
+                    </div>
+					  
                     </div>
 							<!--end:: Portlet-->
 
 
 										</div>
-										<div class="col-xl-2">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Surat Pensiun</div>
-										 <div class="kt-portlet__body">
-                      <div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>Upload Surat Pensiun :</label>
-                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
-                        </div>
-
-
-
-
-
-                      </div>
-
-                      </div>
-                    </div>
-							<!--end:: Portlet-->
-
-
-										</div>
+										
+										
 
 
 
@@ -289,6 +347,318 @@ function goBack() {
 													<!--end: Form Wizard Step 1-->
 
 													<!--begin: Form Wizard Step 2-->
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
+														<div class="kt-form__section kt-form__section--first">
+
+											<div class="row">
+								
+									
+										 <div class="col-xl-4">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Menimbang</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                         
+						  <div id="kt_repeater_3">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_5">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="800px" bgcolor="#f7fcff">Uraian</td>
+																								   <td width="10px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="bahwa pegawai perusahaan yang telah memasuki masa usia pensiun akan diberhentikan dengan hormat sebagai pegawai perusahaan berdasarkan Peraturan Perundang-Undangan yang berlaku."></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="bahwa untuk maksud huruf (a) diatas, perlu ditetapkan dengan Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar."></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+                                          </div>
+                                          </div>
+                                          </div>
+                                          </div>
+<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tembusan Surat</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div id="kt_repeater_2">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_3">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="10px" bgcolor="#f7fcff">No</td>
+																								  <td width="700px" bgcolor="#f7fcff">Tembusan Surat</td>
+																								  <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK" >Dewan  Pengawas PERUMDA. Parkir Makassar Raya</option>
+                              <option value="HI">Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya</option>
+                            </select></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Dewan  Pengawas PERUMDA. Parkir Makassar Raya</option>
+                              <option value="HI" "select">Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya</option>
+                            </select></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Dewan  Pengawas PERUMDA. Parkir Makassar Raya</option>
+                              <option value="HI">Kabag. Pengelolaan PERUMDA. Parkir Makassar Raya</option>
+                              <option value="SU" "selected">Pertinggal</option>
+                            </select></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													
+									
+						
+						
+												
+												</div>
+									</div>
+									
+                      </div>
+
+							<!--end:: Portlet-->
+										</div>		
+										
+<div class="col-xl-4">
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Menetapkan</div>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label></label>
+						  <div id="kt_repeater_3">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_5">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">#</td>
+																								  <td width="800px" bgcolor="#f7fcff">Uraian</td>
+																								   <td width="10px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">-</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA TENTANG PEMBERHENTIAN DENGAN HORMAT SAUDARA “Drs. MA’MUR SAID“ SEBAGAI PEGAWAI PERUSAHAAN KARENA TELAH MEMASUKI MASA USIA  PENSIUN "></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">KESATU</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="Memberhentikan Dengan Hormat sebagai Pegawai Perusahaan Umum Daerah Parkir Makassar Raya karena telah memasuki masa usia pensiun 58 tahun sesuai ketentuan peraturan perundang-undangan yang berlaku kepada :"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">KEDUA</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="8" placeholder="Pegawai yang telah diberhentikan dengan hormat sebagai pegawai perusahaan sebagaimana dimaksud Diktum Kesatu mendapat hak-hak kepegawaiannya berdasarkan peraturan perundang-undangan yang berlaku antara lain :
+1.	Uang Pesangon
+2.	Uang Penghargaan masa kerja
+3.	Jaminan Hari Tua dari BPJS Ketenagakerjaan
+"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">KETIGA</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Perhitungan dan penetapan pemberian uang pesangon dan uang penghargaan masa kerja ditetapkan oleh Direksi"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">KEEMPAT</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="Keputusan ini mulai berlaku tanggal 01 Agustus 2022 dan selanjutnya Direksi Perumda Parkir Makassar Raya mengucapkan terima kasih atas pengabdian dan kerjasamanya selama ini.
+
+"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">KELIMA</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Apabila dikemudian hari terdapat kekeliruan didalam penetapannya, maka akan dilakukan perbaikan sebagaimana mestinya."></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													
+									
+						
+						
+
+                        </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+<div class="col-xl-4">
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Mengingat</div>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label></label>
+						  <div id="kt_repeater_3">
+												<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_repeater_5">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="800px" bgcolor="#f7fcff">Uraian</td>
+																								   <td width="10px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang-Undang No. 29 Tahun 1959 tentang pembentukan Daerah-Daerah Tingkat II di Sulawesi Selatan (Lembaran Negara Republik Indonesia Nomor 1822);"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang–Undang Nomor 23 tahun 2014 tentang Pemerintah Daerah;  "></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang-Undang Nomor 5 Tahun 2014 Tentang Aparatur Sipil Negara;"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">4</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="Peraturan Pemerintah Nomor 86 tahun 1999 tentang Perubahan Nama Kota Ujung Pandang menjadi Kota Makassar dalam Wilayah Propinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia tahun 1999 No.193);"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">5</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang-Undang No. 29 Tahun 1959 tentang pembentukan Daerah-Daerah Tingkat II di Sulawesi Selatan (Lembaran Negara Republik Indonesia Nomor 1822);"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">6</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang–Undang Nomor 23 tahun 2014 tentang Pemerintah Daerah;  "></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">7</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="3" placeholder="Undang-Undang Nomor 5 Tahun 2014 Tentang Aparatur Sipil Negara;"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+<tr data-repeater-item>
+																								  <td style="text-align:center">8</td>
+																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="5" placeholder="Peraturan Pemerintah Nomor 86 tahun 1999 tentang Perubahan Nama Kota Ujung Pandang menjadi Kota Makassar dalam Wilayah Propinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia tahun 1999 No.193);"></textarea></td>
+																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
+                                            
+                                                                                                    
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													
+									
+						
+						
+
+                        </div>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+							<!--end:: Portlet-->
+
+  
+                      </div>
+                      </div>
+                      </div>
+							<!--end:: Portlet-->
+
+													<!--end: Form Wizard Step 2-->
+
+													<!--begin: Form Wizard Step 3-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 														<div class="kt-form__section kt-form__section--first">
 															<div class="kt-wizard-v4__form">
@@ -412,9 +782,9 @@ function goBack() {
 														</div>
 													</div>
 
-													<!--end: Form Wizard Step 2-->
+													<!--end: Form Wizard Step 3-->
 
-													<!--begin: Form Wizard Step 3-->
+													<!--begin: Form Wizard Step 4-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 														<div class="kt-form__section kt-form__section--first">
 															<div class="kt-wizard-v4__form">
@@ -484,9 +854,8 @@ function goBack() {
 													</div>
 													</div>
 
-													<!--end: Form Wizard Step 3-->
-
-													<!--begin: Form Wizard Step 4-->
+													<!--end: Form Wizard Step 4-->
+<!--begin: Form Wizard Step 5-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 													<div class="kt-form__section kt-form__section--first">
 															<div class="kt-wizard-v4__form">
@@ -549,7 +918,7 @@ function goBack() {
 													</div>
 													</div>
 
-													<!--end: Form Wizard Step 4-->
+													<!--end: Form Wizard Step 5-->
 
 													<!--begin: Form Actions -->
 													<div class="kt-form__actions">
