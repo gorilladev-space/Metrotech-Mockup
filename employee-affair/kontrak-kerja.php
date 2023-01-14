@@ -182,13 +182,14 @@
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">No. Kontrak <br>Pegawai</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Foto</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Nama Pegawai</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Nip</th>
+												<th width="6%" bgcolor="#f7fcff" rowspan="2">Nip</th>
 												<th width="15%" bgcolor="#f7fcff" rowspan="2">Department</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
 												<th width="17%" bgcolor="#f7fcff" rowspan="2">Jabatan</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Awal <br>Kontrak Pegawai</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Tanggal Akhir <br>Kontrak Pegawai</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Status Perjanjian Kontrak</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											
@@ -208,33 +209,24 @@
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
 												<td style="text-align:center">5 September 2018</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sudah</span></td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Buat Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<i class="kt-nav__link-icon fa fa-file"></i>
 																				<span class="kt-nav__link-text">Buat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="hr-cetak-perjanjian-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
+																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>
 																		</li>
@@ -269,33 +261,24 @@
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
 												<td style="text-align:center">5 September 2018</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum</span></td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Buat Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Buat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="hr-cetak-perjanjian-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
+																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>
 																		</li>
@@ -330,33 +313,24 @@
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
 												<td style="text-align:center">5 September 2018</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sudah</span></td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Buat Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Buat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="hr-cetak-perjanjian-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
+																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>
 																		</li>
@@ -391,33 +365,24 @@
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">4 September 2018</td>
 												<td style="text-align:center">5 September 2018</td>
+												<td style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sudah</span></td>
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Buat Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Buat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Kontrak Pegawai</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="hr-cetak-perjanjian-kontrak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
+																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>
 																		</li>
