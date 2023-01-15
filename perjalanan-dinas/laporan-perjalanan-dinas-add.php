@@ -196,11 +196,11 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">No</td>
 																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</td>
-																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">Jabatan</td>
+																								  <td width="7%" rowspan="2" bgcolor="#f7fcff">Jabatan</td>
 																								  <td colspan="2" bgcolor="#f7fcff">Berangkat</td>
 																								  <td colspan="2" bgcolor="#f7fcff">Kembali</td>
 																								  <td width="4%" rowspan="2" bgcolor="#f7fcff">Hotel</td>
-																								  <td width="1%" rowspan="2" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								  <td width="1%" rowspan="2" bgcolor="#f7fcff" style="text-align:center">Status</td>
 																								  </tr>
 																								<tr style="text-align:center">
 																								  <td width="4%" bgcolor="#f7fcff">Tiket</td>
@@ -215,7 +215,7 @@ function goBack() {
 																									<td style="text-align:center">
 																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
 																										<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -237,13 +237,14 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 30%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -265,14 +266,15 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								
 																								<tr>
 																								  <td style="text-align:center">3</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -294,13 +296,14 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">4</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan dan Asset"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -322,13 +325,14 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">5</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha dan Kerjasama"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -350,13 +354,14 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">6</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum dan Kepegawaian"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -378,13 +383,14 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">7</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -406,14 +412,15 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">8</td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -435,7 +442,8 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																										<div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																							</tbody>
@@ -468,7 +476,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Potongan</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Hasil Perjalanan Dinas</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
@@ -478,17 +486,17 @@ function goBack() {
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="1%" bgcolor="#f7fcff">No</td>
-																									<td width="8%" bgcolor="#f7fcff">Uraian Kegiatan</td>
+																									<td width="15%" bgcolor="#f7fcff">Uraian Kegiatan</td>
 																									<td width="8%" bgcolor="#f7fcff">Absensi</td>
 																									<td width="8%" bgcolor="#f7fcff">Resume Hasil Pertemuan</td>
-																									<td width="10%" bgcolor="#f7fcff">Lembar TTD SPPD</td>
-																									<td width="3%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																									<td width="8%" bgcolor="#f7fcff">Lembar TTD SPPD</td>
+																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Status</td>
 																								</tr>
 																								<tr>
 																								</thead>
                                                 <tbody data-repeater-list="">
 																								  <td style="text-align:center">1</td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="Isikan Uraian Kegiatan"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -502,12 +510,13 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">2</td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="Isikan Uraian Kegiatan"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -521,12 +530,13 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								<tr>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="Isikan Uraian Kegiatan"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -540,14 +550,15 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																								
 																								
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">4</td>
-																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="Isikan Uraian Kegiatan"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
 													<label class="custom-file-label" for="customFile"></label>
@@ -561,7 +572,8 @@ function goBack() {
 													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										 <div class="progress">
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 																									</td>
 																								</tr>
 																							</tbody>
