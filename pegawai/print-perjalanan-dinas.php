@@ -24,18 +24,19 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Surat Perintah Perjalanan Dinas
+											Cetak Surat Perintah Perjalanan Dinas
 									</h3>
 								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
 										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											Sri Suhartini, SE </span>
+											002/10.1/PERUMDA-PMR/XII/2022 </span>
 										<form class="kt-margin-l-20" id="kt_subheader_search_form">
 										</form>
 									</div>
 								</div>
 								<div class="kt-subheader__toolbar">
-								<a href="#.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+			<div class="dropdown dropdown-inline" ddata-placement="left">
+				<a href="" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali</button>
 <script>
 function goBack() {
@@ -44,7 +45,8 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
-											<div>&nbsp;</div>
+				&nbsp;
+			</div>
 			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
 				<i class="fa fa-print"></i> Export Data</button>
 			</a>
@@ -106,166 +108,278 @@ function goBack() {
     <td colspan="7" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td style="text-align: right">1.</td>
+    <td style="text-align: right">A.</td>
     <td>&nbsp;</td>
     <td>Pejabat yang memberi perintah</td>
     <td>:</td>
     <td colspan="3">Direktur Utama</td>
   </tr>
   <tr>
-    <td style="text-align: right">2.</td>
+    <td style="text-align: right">B.</td>
     <td>&nbsp;</td>
     <td>Nama Pegawai Pelaksana</td>
     <td>:</td>
-    <td colspan="3">Yulianti Tomu, SE</td>
+    <td colspan="3"></td>
   </tr>
   <tr>
-    <td style="text-align: right">3.</td>
+    <td style="text-align: right"></td>
     <td>&nbsp;</td>
-    <td>Department</td>
-    <td>:</td>
-    <td colspan="3">Direksi</td>
+    <td></td>
+    <td></td>
+    <td colspan="3"></td>
+  </tr>
+</table>
+<table align="center" border="1" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+  <tr>
+    <td width="10" style="text-align: center"><b>No</b></td>
+    <td width="90" style="text-align: center"><b>Nama Pegawai</b></td>
+    <td width="137" style="text-align: center"><b>Jabatan</b></td>
   </tr>
   <tr>
-    <td style="text-align: right">4.</td>
-    <td>&nbsp;</td>
-    <td>Bagian</td>
-    <td>:</td>
-    <td colspan="3">Direksi</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">5.</td>
-    <td>&nbsp;</td>
-    <td>Jabatan</td>
-    <td>:</td>
-    <td colspan="3">Direktur Utama</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">6.</td>
-    <td>&nbsp;</td>
-    <td>Pangkat / Golongan</td>
-    <td>:</td>
-    <td colspan="3">Pembina Utama / IV E</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">7.</td>
-    <td>&nbsp;</td>
-    <td>Kantor</td>
-    <td>:</td>
-    <td colspan="3">Pusat</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">8.</td>
-    <td>&nbsp;</td>
-    <td>Jenis Perjalanan Dinas</td>
-    <td>:</td>
-    <td colspan="3">Luar Kota</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">9.</td>
-    <td>&nbsp;</td>
-    <td>Kota Asal</td>
-    <td>:</td>
-    <td colspan="3">Makassar</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">10.</td>
-    <td>&nbsp;</td>
-    <td>Kota Tujuan</td>
-    <td>:</td>
-    <td colspan="3">Bali</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">11.</td>
-    <td>&nbsp;</td>
-    <td>Tanggal Berangkat</td>
-    <td>:</td>
-    <td colspan="3">29 Desember 2022</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">12.</td>
-    <td>&nbsp;</td>
-    <td>Estimasi Tanggal Kembali</td>
-    <td>:</td>
-    <td colspan="3">31 Desember 2022</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">13.</td>
-    <td>&nbsp;</td>
-    <td>Transportasi</td>
-    <td>:</td>
-    <td colspan="3">Pesawat Udara</td>
-  </tr>
-  <tr>
-    <td valign="top" style="text-align: right">14.</td>
-    <td valign="top">&nbsp;</td>
-    <td valign="top">Maksud Perjalanan Dinas</td>
-    <td valign="top">:</td>
-    <td colspan="3">Melakukan Rapat Kordinasi Khusus dengan Bapak Walikota Makassar pada Kegiatan RAKORSUS BUMD Kota Makassar</td>
-  </tr>
-  <tr>
-    <td colspan="7">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td>Makassar, 9 Desember 2022</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2"><p>&nbsp;</p></td>
-    <td>Direksi Perusahaan Umum Daerah<br>Parkir Makassar Raya</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td><u><b>YULIANTI TOMU, SE</b></u></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
+    <td style="text-align: right">1.</td>
+    <td>Yulianti Tomu, SE</td>
     <td>Direktur Utama</td>
   </tr>
   <tr>
-    <td colspan="7">&nbsp;</td>
+    <td style="text-align: right">2.</td>
+    <td>Rizal Asjadad</td>
+    <td>Direktur Umum</td>
   </tr>
   <tr>
-    <td colspan="7">&nbsp;</td>
+    <td style="text-align: right">3.</td>
+    <td>Christofher Rio Aviary</td>
+    <td>Direktur Operasional</td>
   </tr>
   <tr>
-    <td colspan="7">&nbsp;</td>
+    <td style="text-align: right">4.</td>
+    <td>Mu’amar Nor Amin</td>
+    <td>Direktur Keuangan dan Asset</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">5.</td>
+    <td>Zulfadli Syahrir</td>
+    <td>Direktur Pengembangan Usaha dan Kerjasama</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">6.</td>
+    <td>Ir. Asrarudin Mamonto, MM</td>
+    <td>Kepala Bagian Umum dan Kepegawaian</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">7.</td>
+    <td>Sri Suhartini, SE</td>
+    <td>Kepala Seksi Administrasi Kepegawaian</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">8.</td>
+    <td>Mahdinar, SE</td>
+    <td>Staff Keuangan</td>
   </tr>
 </table>
-									<img src="../assets/img/footer.png" style="width:600px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px"/>
-</div>
+<div>&nbsp;</div>
+<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+  <tr>
+    <td width="19" style="text-align: right">C.</td>
+    <td width="6">&nbsp;</td>
+    <td width="205">Jenis Perjalanan Dinas</td>
+    <td width="10">:</td>
+    <td width="330">Luar Kota</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">D.</td>
+    <td>&nbsp;</td>
+    <td>Kota Asal</td>
+    <td>:</td>
+    <td>Makassar</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">E.</td>
+    <td>&nbsp;</td>
+    <td>Kota Tujuan</td>
+    <td>:</td>
+    <td>Bali</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">F.</td>
+    <td>&nbsp;</td>
+    <td>Tanggal Berangkat</td>
+    <td>:</td>
+    <td>29 Desember 2022</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">G.</td>
+    <td>&nbsp;</td>
+    <td>Estimasi Tanggal Kembali</td>
+    <td>:</td>
+    <td>31 Desember 2022</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">H.</td>
+    <td>&nbsp;</td>
+    <td>Transportasi</td>
+    <td>:</td>
+    <td>Pesawat Udara</td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">I.</td>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">Maksud Perjalanan Dinas</td>
+    <td valign="top">:</td>
+    <td>Melakukan Rapat Kordinasi Khusus dengan Bapak Walikota Makassar pada Kegiatan RAKORSUS BUMD Kota Makassar</td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">J.</td>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">Pembiayaan Perjalanan Dinas</td>
+    <td valign="top">:</td>
+    <td>Perumda Parkir Makassar Raya</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  
+ 
+</table>
+					
+								<div><span>&nbsp;</span>
+   <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="16" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="3" valign="top">&nbsp;</td>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td colspan="4" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="262"><p>&nbsp;</p></td>
+							  <td width="6" >&nbsp;</td>
+							  <td width="31" >&nbsp;</td>
+							  <td width="217">Makassar, 22 Desember  2022</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direksi Perusahaan Umum Daerah</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Parkir  Makassar Raya</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><u><b>YULIANTI TOMU, SE</b></u></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><hr /></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+								</div>
 								</div>
 
 								<!--End:: App Content-->
