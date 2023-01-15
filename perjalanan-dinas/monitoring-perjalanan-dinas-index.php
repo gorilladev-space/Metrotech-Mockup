@@ -285,16 +285,16 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">No. SPPD</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">No. SPPD</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
 												
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
 												<th width="18%" colspan="4" bgcolor="#f7fcff">Verifikasi Perjalanan Dinas</th>
 												<th width="20%" colspan="3" bgcolor="#f7fcff">Keuangan</th>
-												<th width="25%" bgcolor="#f7fcff" rowspan="2">Progress<br>Laporan</th>
+												<th width="28%" bgcolor="#f7fcff" rowspan="2">Progress<br>Laporan</th>
 												
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
@@ -302,16 +302,16 @@
 											<tr>
 											  <th width="5%" bgcolor="#f7fcff">Berangkat</th>
 											  <th width="5%" bgcolor="#f7fcff">Tujuan</th>
-												<th width="9%" bgcolor="#f7fcff">Mulai </th>
-												<th width="9%" bgcolor="#f7fcff">Hingga </th>
-												<th width="5%" bgcolor="#f7fcff">Atasan<br />
+												<th width="8%" bgcolor="#f7fcff">Mulai </th>
+												<th width="8%" bgcolor="#f7fcff">Hingga </th>
+												<th width="4%" bgcolor="#f7fcff">Atasan<br />
 											    Langsung</th>
-												<th width="5%" bgcolor="#f7fcff">Bagian Umum</th>
-												<th width="5%" bgcolor="#f7fcff">Direktur Umum</th>
-												<th width="5%" bgcolor="#f7fcff">Direktur Utama</th>
-												<th width="5%" bgcolor="#f7fcff">Direktur Keuangan</th>
-												<th width="5%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
-												<th width="5%" bgcolor="#f7fcff">Realiasasi Biaya</th>
+												<th width="4%" bgcolor="#f7fcff">Bagian Umum</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Umum</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Utama</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Keuangan</th>
+												<th width="4%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
+												<th width="4%" bgcolor="#f7fcff">Realiasasi Biaya</th>
 											</tr>
 										</thead>
 										<tbody>
