@@ -133,7 +133,7 @@ License: You must have a valid license purchased only from themeforest(the above
 													</li>
 													<li class="nav-item">
 														<a class="nav-link" data-toggle="tab" href="#kt_widget6_tab4_content" role="tab">
-															Perjalanan Dinas
+															Perjalanan Dinas&nbsp;&nbsp;<span class="kt-badge kt-badge--danger">2</span>
 														</a>
 													</li>
 												</ul>
@@ -1265,12 +1265,12 @@ License: You must have a valid license purchased only from themeforest(the above
 												<ul class="nav nav-pills nav-pills-sm nav-pills-label nav-pills-bold" role="tablist">
 													<li class="nav-item">
 														<a class="nav-link active" data-toggle="tab" href="#kt_widget8_tab1_content" role="tab">
-															Surat Masuk
+															Surat Masuk&nbsp;&nbsp;<span class="kt-badge kt-badge--danger">2</span>
 														</a>
 													</li>
 													<li class="nav-item">
 														<a class="nav-link" data-toggle="tab" href="#kt_widget8_tab2_content" role="tab">
-															Nota Dinas
+															Nota Dinas&nbsp;&nbsp;<span class="kt-badge kt-badge--danger">2</span>
 														</a>
 													</li>
 													<li class="nav-item">
@@ -1598,7 +1598,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<ul class="nav nav-tabs nav-tabs-line nav-tabs-bold nav-tabs-line-brand" role="tablist">
 													<li class="nav-item">
 														<a class="nav-link active" data-toggle="tab" href="#kt_widget2_tab1_content" role="tab">
-															Internal
+															Internal &nbsp;&nbsp;<span class="kt-badge kt-badge--danger">2</span>
 														</a>
 													</li>
 													<li class="nav-item">
