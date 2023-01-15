@@ -50,7 +50,7 @@
 											</div>
 
 											<a href="perjalanan-dinas-form.php" class="btn btn-info btn-sm">
-												<i class="fa fa-calculator"></i> Tambah Data</button>
+												<i class="fa fa-calculator"></i>Buat Realisasi Biaya</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
 
@@ -366,7 +366,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="casher-realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-coins"></i>
 																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
 																			</a>

@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Perjalanan Dinas
+											Kas Keluar Perjalanan Dinas
 									</h3>
 
 								</div>
@@ -362,9 +362,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="casher-realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="casher-pembayaran-perjalanan-dinas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
+																				<span class="kt-nav__link-text">Buat Pembayaran</span>
 																			</a>
 																		</li>
 																		
@@ -449,9 +449,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="casher-realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="casher-pembayaran-perjalanan-dinas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
+																				<span class="kt-nav__link-text">Buat Pembayaran</span>
 																			</a>
 																		</li>
 																		
@@ -555,9 +555,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="casher-realisasi-biaya-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="casher-pembayaran-perjalanan-dinas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Buat Realisasi Biaya</span>
+																				<span class="kt-nav__link-text">Buat Pembayaran</span>
 																			</a>
 																		</li>
 																		
