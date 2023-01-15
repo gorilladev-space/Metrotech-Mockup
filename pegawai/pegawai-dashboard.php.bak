@@ -51,7 +51,7 @@ License: You must have a valid license purchased only from themeforest(the above
                     <!--START - Projects list-->
 										<div class="row">
 											<div class="col-lg-3">
-												<div class="kt-portlet kt-portlet--height-half kt-iconbox kt-iconbox--danger kt-iconbox--animate-slower">
+												<div class="kt-portlet kt-portlet--height-fluid kt-iconbox kt-iconbox--danger kt-iconbox--animate-slower">
 											<div class="kt-portlet__body">
 												<div class="kt-iconbox__body">
 											<div class="row">
@@ -62,7 +62,6 @@ License: You must have a valid license purchased only from themeforest(the above
 															</a>
 														</div>
 												</div>
-												
 											<div class="col-lg-9">
 											<h4 class="name">
 												Hi, Yulianti Tomu, SE
@@ -130,6 +129,11 @@ License: You must have a valid license purchased only from themeforest(the above
 													<li class="nav-item">
 														<a class="nav-link" data-toggle="tab" href="#kt_widget6_tab4_content" role="tab">
 															Izin
+														</a>
+													</li>
+													<li class="nav-item">
+														<a class="nav-link" data-toggle="tab" href="#kt_widget6_tab4_content" role="tab">
+															Perjalanan Dinas
 														</a>
 													</li>
 												</ul>
@@ -1254,7 +1258,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<h3 class="kt-portlet__head-title">
-													Notifikasi
+													Notifikasi Persuratan
 												</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">

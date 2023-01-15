@@ -131,6 +131,11 @@ License: You must have a valid license purchased only from themeforest(the above
 															Izin
 														</a>
 													</li>
+													<li class="nav-item">
+														<a class="nav-link" data-toggle="tab" href="#kt_widget6_tab4_content" role="tab">
+															Perjalanan Dinas
+														</a>
+													</li>
 												</ul>
 											</div>
 										</div>
@@ -1253,7 +1258,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<h3 class="kt-portlet__head-title">
-													Notifikasi
+													Persuratan
 												</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
