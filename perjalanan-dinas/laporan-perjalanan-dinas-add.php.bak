@@ -87,10 +87,10 @@ function goBack() {
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Estimasi Biaya
+														Form Upload
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Perjalanan Dinas
+														Hasil Perjalanan Dinas
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -185,7 +185,7 @@ function goBack() {
 									<!--begin::Portlet-->
 									
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Pendapatan</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Upload File Tiket & Hotel</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
@@ -196,9 +196,10 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">No</td>
 																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</td>
+																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">Jabatan</td>
 																								  <td colspan="2" bgcolor="#f7fcff">Berangkat</td>
 																								  <td colspan="2" bgcolor="#f7fcff">Kembali</td>
-																								  <td width="5%" rowspan="2" bgcolor="#f7fcff">Hotel</td>
+																								  <td width="4%" rowspan="2" bgcolor="#f7fcff">Hotel</td>
 																								  <td width="1%" rowspan="2" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
 																								  </tr>
 																								<tr style="text-align:center">
@@ -212,54 +213,56 @@ function goBack() {
 																								<tr>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Pokok"></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
+																										<td style="text-align:center">
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
 																								<tr>
-																								  <td style="text-align:center">1</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Pokok"></td>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjadad"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
@@ -267,28 +270,140 @@ function goBack() {
 																								</tr>
 																								
 																								<tr>
-																								  <td style="text-align:center">1</td>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
 																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Pokok"></td>
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">4</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">5</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">6</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">7</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+												<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
@@ -296,37 +411,35 @@ function goBack() {
 																								</tr>
 
 																								<tr data-repeater-item>
-																								  <td style="text-align:center">9</td>
-																									<td style="text-align:center">
-																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Gaji Pokok"></td>
+																								  <td style="text-align:center">8</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE"></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 												<td style="text-align:center"><div class="custom-file">
 													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">Choose file</label>
+													<label class="custom-file-label" for="customFile"></label>
 												</div></td>
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
@@ -349,1416 +462,122 @@ function goBack() {
 													<!--begin: Form Wizard Step 2-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
 														<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__form">
-																<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_2">
+																
+								<div class="col-xl-12">
+								<div class="row">
 
-  <tbody><tr style="text-align:center">
-    <td width="1%" bgcolor="#f7fcff">NO</td>
-    <td width="10%" colspan="2" bgcolor="#f7fcff">URAIAN </td>
-    <td width="10%" bgcolor="#f7fcff">JABATAN / GOLONGAN</td>
-    <td colspan="2" bgcolor="#f7fcff">VOL</td>
-    <td width="6%" bgcolor="#f7fcff">BIAYA</td>
-    <td width="6%" bgcolor="#f7fcff">JUMLAH</td>
-    <td width="3%" bgcolor="#f7fcff">Aksi</td>
-  </tr>
-  <tr style="text-align:center">
-    <td bgcolor="#f5f5f5">a</td>
-    <td colspan="2" bgcolor="#f5f5f5">b</td>
-    <td bgcolor="#f5f5f5">c</td>
-    <td width="1%" bgcolor="#f5f5f5">d</td>
-    <td width="3%" bgcolor="#f5f5f5">e</td>
-    <td bgcolor="#f5f5f5">f</td>
-    <td bgcolor="#f5f5f5">g</td>
-    <td bgcolor="#f5f5f5">h</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">1</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Penginapan"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td style="text-align:center" width="1%">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-     <td style="text-align:left">
-       <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left"  class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">2</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Saku"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td width="1%" style="text-align:center">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.850.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="450.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.150.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-   <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-<tr>
-    <td style="text-align:center">3</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Makan"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td width="1%" style="text-align:center">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="600.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="400.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.800.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-   <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="250.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.750.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">4</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi Setempat"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td width="1%" style="text-align:center">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="450.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.150.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="350.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.450.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-   <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="200.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.400.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">5</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biaya Berangkat dan Kepulangan"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td width="1%" style="text-align:center">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-       <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-       <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-       <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-       <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-      <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="700.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-   <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7" style="text-align:center">
-    </div></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Hari" style="text-align:center">
-      </div></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="300.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">6</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi"></td>
-    </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-    <td width="1%" style="text-align:center">a</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">b</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">c</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">d</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">e</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">f</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">g</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE" /></td>
-    <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">&nbsp;</td>
-     <td style="text-align:center" width="1%">h</td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE" /></td>
-   <td style="text-align:left">
-      <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
-      </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-     <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="650.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">3</td>
-    <td colspan="2"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Transportasi</option>
-                              <option value="HI">Uang Saku</option>
-                              <option value="HI">Lainnya</option>
-                            </select></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" style="text-align:center"></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">7</option>
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-    <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="1.000.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="7.000.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Potongan</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
 
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  
-  
-  <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
-  </tr>
-  
-  <tr>
-    <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>GRAND TOTAL </b></td>
-    <td bgcolor="#feffed"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="9" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
-  </tr>
-</tbody></table>
+                        <div id="kt_repeater_6">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_6">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																									<td width="8%" bgcolor="#f7fcff">Uraian Kegiatan</td>
+																									<td width="8%" bgcolor="#f7fcff">Absensi</td>
+																									<td width="8%" bgcolor="#f7fcff">Resume Hasil Pertemuan</td>
+																									<td width="10%" bgcolor="#f7fcff">Lembar TTD SPPD</td>
+																									<td width="3%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																								</tr>
+																								<tr>
+																								</thead>
+                                                <tbody data-repeater-list="">
+																								  <td style="text-align:center">1</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">2</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								<tr>
+																								  <td style="text-align:center">3</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center"><div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile"></label>
+												</div></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																								
+																								
+																								<tr data-repeater-item>
+																								  <td style="text-align:center">4</td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keterlambatan"></td>
+																									<td style="text-align:center">
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																									</td>
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="6">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+                                          </div>
+													
+									</div>
+
+									<!--end::Portlet-->
+
+
+
+								</div>
+								</div>
+								</div>
+								</div>
 															</div>
 														</div>
-													</div>
 
 													<!--end: Form Wizard Step 2-->
 
