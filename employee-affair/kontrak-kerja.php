@@ -216,6 +216,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Kontrak Pegawai</span>
+																			</a>
+																		</li>
 																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
@@ -268,6 +274,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Kontrak Pegawai</span>
+																			</a>
+																		</li>
 																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
@@ -320,6 +332,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Kontrak Pegawai</span>
+																			</a>
+																		</li>
 																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
@@ -372,6 +390,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Kontrak Pegawai</span>
+																			</a>
+																		</li>
 																	
 <li class="kt-nav__item">
 																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
