@@ -319,7 +319,7 @@
 												<td nowrap="" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Umum<br>31 Desember 2018 - 14:30 WITA">
 								<i class="fa flaticon2-check-mark"></i>
 							</span></td>
-												<td nowrap="" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Umum<br>31 Desember 2018 - 14:30 WITA">
+												<td nowrap="" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Disetujui<hr>Nama Direktur Utama<br>31 Desember 2018 - 14:30 WITA">
 								<i class="fa flaticon2-check-mark"></i>
 							</span></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -332,6 +332,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																				<i class="kt-nav__link-icon fa fa-user-check"></i>
+																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -399,8 +405,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		
-
+																		<li class="kt-nav__item">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																				<i class="kt-nav__link-icon fa fa-user-check"></i>
+																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
@@ -457,12 +473,18 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
 																			</a>
 																		</li>
-
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
+																			</a>
+																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
@@ -519,9 +541,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
 																			</a>
 																		</li>
 
@@ -582,9 +610,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
 																			</a>
 																		</li>
 
@@ -644,10 +678,16 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
-																			</a
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
+																			</a>
 																		</li>
 
 																		<li class="kt-nav__item">
@@ -706,9 +746,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
 																			</a>
 																		</li>
 
@@ -768,7 +814,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_12">
+																			<a href="calon-pegawai-add-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_12">
 																				<i class="kt-nav__link-icon fa fa-user-check"></i>
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
 																			</a>
