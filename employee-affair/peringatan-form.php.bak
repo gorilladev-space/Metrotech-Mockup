@@ -605,7 +605,7 @@ function goBack() {
 							  <td colspan="11" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="11" valign="top"><b>B. ISI PELANGGARAN</b></td>
+							  <td colspan="11" valign="top"><b>C. ISI PELANGGARAN</b></td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>

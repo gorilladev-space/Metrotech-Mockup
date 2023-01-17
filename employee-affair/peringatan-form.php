@@ -268,7 +268,7 @@ function goBack() {
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-6">
-                          <label>Cari Nama Pegawai Kontrak :</label>
+                          <label>Cari Nama Pegawai :</label>
 						  <select class="form-control kt-selectpicker" data-live-search="true">
 								<optgroup label="- Bagian Umum">
                               <option value="AK">Sri Suhartini, SE</option>
