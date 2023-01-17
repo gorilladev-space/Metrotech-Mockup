@@ -260,17 +260,21 @@
 					<tr>
 						<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 						<th width="1%" bgcolor="#f7fcff" rowspan="2">ID</th>
-						<th width="8%" bgcolor="#f7fcff" rowspan="2">Jenis Cuti</th>
+						<th width="9%" bgcolor="#f7fcff" rowspan="2">Jenis Cuti</th>
 						<th width="7%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Pengajuan</th>
 						<th width="10%" bgcolor="#f7fcff" colspan="2">Tanggal Cuti</th>
-						<th width="30%" bgcolor="#f7fcff" rowspan="2">Keterangan</th>
+						<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan</th>
+						<th colspan="3" bgcolor="#f7fcff">Quota Cuti</th>
 						<th colspan="6" bgcolor="#f7fcff">Verifikasi</th>
-						<th width="1%" bgcolor="#f7fcff" rowspan="2">Status Cuti</th>
+						<th width="3%" bgcolor="#f7fcff" rowspan="2">Status Cuti</th>
 						<th width="2%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 					</tr>
 					<tr>
-						<th width="6%" bgcolor="#f7fcff">Awal </th>
-						<th width="6%" bgcolor="#f7fcff">Akhir </th>
+						<th width="8%" bgcolor="#f7fcff">Awal </th>
+						<th width="8%" bgcolor="#f7fcff">Akhir </th>
+						<th width="4%" bgcolor="#f7fcff">Tahun ini</th>
+						<th width="3%" bgcolor="#f7fcff">Digunakan</th>
+						<th width="3%" bgcolor="#f7fcff">Sisa</th>
 						<th width="3%" bgcolor="#f7fcff">Atasan Langsung</th>
 						<th width="3%" bgcolor="#f7fcff">Kabag Terkait </th>
 						<th width="3%" bgcolor="#f7fcff">Direksi Terkait</th>
@@ -288,6 +292,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">6</td>
+						<td style="text-align:center">6</td>
 						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
@@ -342,6 +349,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">3</td>
+						<td style="text-align:center">9</td>
 						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
@@ -396,6 +406,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">5</td>
+						<td style="text-align:center">7</td>
 						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA"
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
@@ -450,6 +463,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">3</td>
+						<td style="text-align:center">9</td>
 						<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true">
 								<i class="fa fa-clock kt_sweetalert_demo_9" data-html="true"></i>
 							</span></td>
@@ -503,6 +519,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">5</td>
+						<td style="text-align:center">7</td>
 						<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Nama Atasan Langsung<br>31 Desember 2018 - 14:30 WITA"
 								data-html="true">
 								<i class="fa flaticon2-check-mark"></i>
@@ -567,6 +586,9 @@
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 						<td style="text-align:left">Cuti Alasan Penting </td>
+						<td style="text-align:center">12</td>
+						<td style="text-align:center">7</td>
+						<td style="text-align:center">5</td>
 						<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Lagi Padat Pekerjaan<hr>31 Desember 2018 - 14:30 WITA " data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
