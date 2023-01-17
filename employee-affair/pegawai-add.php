@@ -668,7 +668,7 @@
 																							</div>
 																						</div>
 																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Recognize Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
