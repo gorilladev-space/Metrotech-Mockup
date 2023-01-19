@@ -221,14 +221,14 @@
 											  
 											  <th width="1%" bgcolor="#f7fcff">Foto</th>
 											  <th width="10%" bgcolor="#f7fcff">Nama Mitra</th>
-											  <th width="3%" bgcolor="#f7fcff">Zona Kerja</th>
-											  <th width="3%" bgcolor="#f7fcff">Jenis Kelamin</th>
-											  <th width="3%" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
-											  <th width="3%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
+											  <th width="2%" bgcolor="#f7fcff">Zona Kerja</th>
+											  <th width="2%" bgcolor="#f7fcff">Jenis Kelamin</th>
+											  <th width="2%" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
+											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>

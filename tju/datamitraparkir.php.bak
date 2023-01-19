@@ -224,11 +224,11 @@
 											  <th width="3%" bgcolor="#f7fcff">Zona Kerja</th>
 											  <th width="3%" bgcolor="#f7fcff">Jenis Kelamin</th>
 											  <th width="3%" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
-											  <th width="3%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
+											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
@@ -343,7 +343,6 @@
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="20" height="20"></td>
 												<td style="text-align:center" nowrap>000 000 001</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="20" height="20"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirops.jpg" alt="image">
 													</a></td>
@@ -395,8 +394,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap>000 000 001</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="20" height="20"></td>
+												<td style="text-align:center" nowrap>000 000 001</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirkeu.jpg" alt="image">
 													</a></td>
@@ -449,8 +448,8 @@
 
 											<tr>
 												<td id="kt_table_1">5</td>
-												<td style="text-align:center" nowrap>000 000 001</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="20" height="20"></td>
+												<td style="text-align:center" nowrap>000 000 001</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirjasa.jpg" alt="image">
 													</a></td>
@@ -502,8 +501,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">6</td>
-												<td style="text-align:center" nowrap>000 000 001</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="20" height="20"></td>
+												<td style="text-align:center" nowrap>000 000 001</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirjasa.jpg" alt="image">
 													</a></td>

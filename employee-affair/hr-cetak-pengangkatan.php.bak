@@ -472,7 +472,7 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td width="47" rowspan="2" valign="center"><img src="../assets/img/ttd1.png" width="25" height="25" /></td>
+    <td width="47" rowspan="2" valign="center"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
     <td valign="center">Pada Tanggal </td>
     <td valign="center">:</td>
     <td valign="center">29 November 2022</td>

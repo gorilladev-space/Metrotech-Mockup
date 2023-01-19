@@ -890,7 +890,7 @@ function goBack() {
 					</div>
 						<div class="bg-white w-50 ml-auto mr-auto">
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
 							  <td colspan="9"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
 														<b>MEMUTUSKAN</b></p></td>
@@ -904,90 +904,85 @@ function goBack() {
 							  <td width="3" valign="top">:</td>
 							  <td width="10" valign="top"></td>
 							  <td width="1">&nbsp;</td>
-							  <td colspan="4"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
-														<b>KEPUTUSAN DIREKSI PERUSAHAAN DAERAH PARKIR MAKASSAR RAYA TENTANG PENGANGKATAN PEGAWAI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA.</b></td>
+							  <td colspan="4" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem"><b>KEPUTUSAN DIREKSI PERUSAHAAN DAERAH PARKIR MAKASSAR RAYA TENTANG PENGANGKATAN PEGAWAI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA.</b></td>
   </tr>
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top">PERTAMA</td>
+							  <td valign="top" style="text-align: left">PERTAMA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top"></td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Calon pegawai yang namanya tersebut pada lampiran surat keputusan ini dalam lajur 2 (dua) diangkat menjadi Pegawai Perusahaan Umum Daerah Parkir Makassar Raya, dalam golongsn/ruang pada lajur  7 (tujuh)  dan  diberikan Gaji pokok sebagaimana tersebut dalam lajur 9 (sembilan) terhitung mulai tanggal tertera dalam lajur 10 (sepuluh) serta penghasilan lainnya sesuai ketentuan yang berlaku.</td>
+							  <td colspan="4" style="text-align: left">Calon pegawai yang namanya tersebut pada lampiran surat keputusan ini dalam lajur 2 (dua) diangkat menjadi Pegawai Perusahaan Umum Daerah Parkir Makassar Raya, dalam golongsn/ruang pada lajur  7 (tujuh)  dan  diberikan Gaji pokok sebagaimana tersebut dalam lajur 9 (sembilan) terhitung mulai tanggal tertera dalam lajur 10 (sepuluh) serta penghasilan lainnya sesuai ketentuan yang berlaku.</td>
   </tr>
 							<tr>
-							  <td valign="top">KEDUA</td>
+							  <td valign="top" style="text-align: left">KEDUA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td width="10" valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Surat keputusan ini berlaku sejak tanggal ditetapkannya dan bilamana terdapat kekeliruan dalam Keputusan ini, maka akan dilakukan perbaikan sebagaimana mestinya.   
-
-
-</span></td>
+							  <td colspan="4" style="text-align: left">Surat keputusan ini berlaku sejak tanggal ditetapkannya dan bilamana terdapat kekeliruan dalam Keputusan ini, maka akan dilakukan perbaikan sebagaimana mestinya.</td>
   </tr>
 							<tr>
-							  <td valign="top">KETIGA</td>
+							  <td valign="top" style="text-align: left">KETIGA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Keputusan ini disampaikan kepada yang bersangkutan untuk dipergunakan seperlunya.</td>
+							  <td colspan="4" style="text-align: left">Keputusan ini disampaikan kepada yang bersangkutan untuk dipergunakan seperlunya.</td>
   </tr>
 							
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="6" rowspan="9" valign="top">&nbsp;</td>
-							  <td width="84">Ditetapkan di </td>
-							  <td width="8">:</td>
-							  <td width="130">Makassar</td>
+							  <td colspan="6" rowspan="9" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+							  <td width="84" style="text-align: left">Ditetapkan di </td>
+							  <td width="8" style="text-align: left">:</td>
+							  <td width="130" style="text-align: left">Makassar</td>
   </tr>
 							<tr>
-							  <td><u>Pada Tanggal</u></td>
-							  <td><u>:</u></td>
-							  <td><u>30 Desember 2022</u></td>
+							  <td style="text-align: left"><u>Pada Tanggal</u></td>
+							  <td style="text-align: left"><u>:</u></td>
+							  <td style="text-align: left"><u>30 Desember 2022</u></td>
   </tr>
 							<tr>
-							  <td colspan="3">Direksi Perusahaan Umum Daerah </td>
+							  <td colspan="3" style="text-align: left">Direksi Perusahaan Umum Daerah </td>
   </tr>
 							<tr>
-							  <td colspan="3">Parkir Makassar Raya</td>
+							  <td colspan="3" style="text-align: left">Parkir Makassar Raya</td>
   </tr>
 							<tr>
-							  <td colspan="3">&nbsp;</td>
+							  <td colspan="3" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75" /</td>
+							  <td colspan="3" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>>
+							<tr>
+							  <td colspan="3" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3">&nbsp;</td>
+							  <td colspan="3" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
 							<tr>
-							  <td colspan="3"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
-														<u><b>Yulianti Tomu, SE</b></u></td>
-  </tr>
-							<tr>
-							  <td colspan="3">Direktur Utama</td>
+							  <td colspan="3" style="text-align: left">Direktur Utama</td>
   </tr>
 							<tr>
 							  <td colspan="9">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="9"><u>Tembusan disampaikan Kepada Yth.:</u></td>
+							  <td colspan="9" style="text-align: left"><u>Tembusan disampaikan Kepada Yth.:</u></td>
   </tr>
 							<tr>
-							  <td colspan="9">1. Bapak Walikota Makassar di Makassar;</td>
+							  <td colspan="9" style="text-align: left">1. Bapak Walikota Makassar di Makassar;</td>
   </tr>
 							<tr>
-							  <td colspan="9">2. Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
+							  <td colspan="9" style="text-align: left">2. Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
   </tr>
 							<tr>
-								<td colspan="9">3.	Pertinggal.</td>
+								<td colspan="9" style="text-align: left">3.	Pertinggal.</td>
 							</tr>
 							<tr>
 								<td colspan="9">&nbsp;</td>
@@ -1102,35 +1097,26 @@ function goBack() {
   </tr>
 						</table>
 						<br>
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
+							  <td colspan="5">&nbsp;</td>
+  </tr>
+<tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td width="331" valign="center">&nbsp;</td>
-    <td width="90" valign="center">Ditetapkan di</td>
-    <td width="7" valign="center">:</td>
-    <td width="126" valign="center">Makassar</td>
+    <td width="331" rowspan="3" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+    <td width="90" valign="center" style="text-align: left">Ditetapkan di</td>
+    <td width="7" valign="center" style="text-align: left">:</td>
+    <td width="126" valign="center" style="text-align: left">Makassar</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td valign="center">Pada Tanggal </td>
-    <td valign="center">:</td>
-    <td valign="center">29 November 2022</td>
+    <td valign="center" style="text-align: left">Pada Tanggal </td>
+    <td valign="center" style="text-align: left">:</td>
+    <td valign="center" style="text-align: left">29 November 2022</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
-  </tr>
-  <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+    <td colspan="3" valign="center" style="text-align: left">PERUMDA Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
@@ -1140,12 +1126,22 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><u><b>Yulianti Tomu, SE</b></u></td>
+    <td colspan="3" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">Direktur Utama</td>
+    <td colspan="3" valign="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direktur Utama</td>
   </tr>
   <tr>
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
@@ -1154,15 +1150,19 @@ function goBack() {
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left"></td>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+							  <td colspan="5"><hr /></td>
   </tr>
-  <tr>
-    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+							<tr>
+							  <td colspan="5"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
   </tr>
-</table>
+							<tr>
+							  <td colspan="5">&nbsp;</td>
+  </tr>
+							
+						</table>
 						
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
