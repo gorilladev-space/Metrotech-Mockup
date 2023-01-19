@@ -274,7 +274,7 @@ function goBack() {
 					</div>
 						<div class="bg-white w-50 ml-auto mr-auto">
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
 							  <td colspan="9"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
 														<b>MEMUTUSKAN</b></p></td>
@@ -283,59 +283,56 @@ function goBack() {
 							  <td colspan="9">&nbsp;</td>
   </tr>
 							<tr>
-							  <td width="76" valign="top">Menetapkan</td>
+							  <td width="76" valign="top" style="text-align: left">Menetapkan</td>
 							  <td width="1" valign="top">&nbsp;</td>
 							  <td width="3" valign="top">:</td>
 							  <td width="10" valign="top"></td>
 							  <td width="1">&nbsp;</td>
-							  <td colspan="4"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+							  <td colspan="4" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
 														<b>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA  TENTANG  PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS PADA PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></td>
   </tr>
-							<tr>
+							<tr style="text-align: left">
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top">KESATU</td>
+							  <td valign="top" style="text-align: left">KESATU</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top"></td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
+							  <td colspan="4" style="text-align: left">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
   </tr>
 							<tr>
-							  <td valign="top">KEDUA</td>
+							  <td valign="top" style="text-align: left">KEDUA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td width="10" valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;   
-
-
-</span></td>
+							  <td colspan="4" style="text-align: left">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
   </tr>
 							<tr>
-							  <td valign="top">KETIGA</td>
+							  <td valign="top" style="text-align: left">KETIGA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Segala Biaya yang timbul dari pelaksanaan Keputusan ini, akan dibebankan pada  Anggaran Belanja Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun Anggaran 2023;</td>
+							  <td colspan="4" style="text-align: left">Segala Biaya yang timbul dari pelaksanaan Keputusan ini, akan dibebankan pada  Anggaran Belanja Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun Anggaran 2023;</td>
   </tr>
 							<tr>
-							  <td valign="top">KEEMPAT</td>
+							  <td valign="top" style="text-align: left">KEEMPAT</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Ketentuan yang berkaitan dengan teknis pelaksanaan Keputusan ini akan diatur lebih lanjut dalam Surat Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
+							  <td colspan="4" style="text-align: left">Ketentuan yang berkaitan dengan teknis pelaksanaan Keputusan ini akan diatur lebih lanjut dalam Surat Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
   </tr>
 							<tr>
-							  <td valign="top">KELIMA</td>
+							  <td valign="top" style="text-align: left">KELIMA</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td colspan="4">Keputusan ini berlaku terhitung mulai tanggal 01 Januari 2023 sampai dengan 31 Desember 2023.</td>
+							  <td colspan="4" style="text-align: left">Keputusan ini berlaku terhitung mulai tanggal 01 Januari 2023 sampai dengan 31 Desember 2023.</td>
   </tr>
 <tr>
 							  <td colspan="9">&nbsp;</td>
@@ -347,49 +344,48 @@ function goBack() {
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="6" rowspan="9" valign="top">&nbsp;</td>
-							  <td width="84">Ditetapkan di </td>
-							  <td width="8">:</td>
-							  <td width="130">Makassar</td>
+							  <td colspan="6" rowspan="9" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+							  <td width="84" style="text-align: left">Ditetapkan di </td>
+							  <td width="8" style="text-align: left">:</td>
+							  <td width="130" style="text-align: left">Makassar</td>
   </tr>
 							<tr>
-							  <td><u>Pada Tanggal</u></td>
-							  <td><u>:</u></td>
-							  <td><u>30 Desember 2022</u></td>
+							  <td style="text-align: left"><u>Pada Tanggal</u></td>
+							  <td style="text-align: left"><u>:</u></td>
+							  <td style="text-align: left"><u>30 Desember 2022</u></td>
   </tr>
 							<tr>
-							  <td colspan="3">Direksi Perusahaan Umum Daerah </td>
+							  <td colspan="3" style="text-align: left">Direksi Perusahaan Umum Daerah </td>
   </tr>
 							<tr>
-							  <td colspan="3">Parkir Makassar Raya</td>
-  </tr>
-							<tr>
-							  <td colspan="3">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td colspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+							  <td colspan="3" style="text-align: left">Parkir Makassar Raya</td>
   </tr>
 							<tr>
 							  <td colspan="3">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
-														<u><b>Yulianti Tomu, SE</b></u></td>
+							  <td colspan="3"style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
 							<tr>
-							  <td colspan="3">Direktur Utama</td>
+							  <td colspan="3">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="9">&nbsp;</td>
+							  <td colspan="3" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
 							<tr>
-							  <td colspan="9"><u>Tembusan disampaikan Kepada Yth.:</u></td>
+							  <td colspan="3" style="text-align: left">Direktur Utama</td>
   </tr>
 							<tr>
-							  <td colspan="9">1. Walikota Makassar;</td>
+							  <td colspan="9" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="9">2.	Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
+							  <td colspan="9" style="text-align: left"><u>Tembusan disampaikan Kepada Yth.:</u></td>
+  </tr>
+							<tr>
+							  <td colspan="9" style="text-align: left">1. Walikota Makassar;</td>
+  </tr>
+							<tr>
+							  <td colspan="9" style="text-align: left">2.	Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
   </tr>
 							<tr>
 								<td colspan="9">3.	Pertinggal.</td>
@@ -510,28 +506,26 @@ function goBack() {
   </tr>
 						</table>
 						<br>
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
 							  <td colspan="5">&nbsp;</td>
   </tr>
 <tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td width="331" valign="center">&nbsp;</td>
-    <td width="90" valign="center">Ditetapkan di</td>
-    <td width="7" valign="center">:</td>
-    <td width="126" valign="center">Makassar</td>
+    <td width="331" rowspan="3" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+    <td width="90" valign="center" style="text-align: left">Ditetapkan di</td>
+    <td width="7" valign="center" style="text-align: left">:</td>
+    <td width="126" valign="center" style="text-align: left">Makassar</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td valign="center">Pada Tanggal </td>
-    <td valign="center">:</td>
-    <td valign="center">29 November 2022</td>
+    <td valign="center" style="text-align: left">Pada Tanggal </td>
+    <td valign="center" style="text-align: left">:</td>
+    <td valign="center" style="text-align: left">29 November 2022</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
+    <td colspan="3" valign="center" style="text-align: left">PERUMDA Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
@@ -541,17 +535,22 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+    <td colspan="3" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><u><b>Yulianti Tomu, SE</b></u></td>
+    <td colspan="3" valign="center">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">Direktur Utama</td>
+    <td colspan="3" valign="center" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direktur Utama</td>
   </tr>
   <tr>
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
