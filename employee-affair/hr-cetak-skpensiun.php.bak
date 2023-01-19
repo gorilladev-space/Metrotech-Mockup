@@ -380,7 +380,7 @@ function goBack() {
 							  <td width="101">&nbsp;</td>
 							  <td width="8">&nbsp;</td>
 							  <td width="23">&nbsp;</td>
-							  <td width="95">Ditetapkan di </td>
+							  <td width="95" style="text-align: left">Ditetapkan di </td>
 							  <td width="13">:</td>
 							  <td width="218">Makassar</td>
   </tr>
@@ -388,7 +388,7 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td><u>Pada Tanggal</u></td>
+							  <td style="text-align: left"><u>Pada Tanggal</u></td>
 							  <td>:</td>
 							  <td><u>30 Desember 2022</u></td>
   </tr>
@@ -396,7 +396,7 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
+							  <td rowspan="2" style="text-align: right"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
 							  <td>&nbsp;</td>
 							  <td>Direksi Perusahaan Umum Daerah </td>
   </tr>
@@ -405,8 +405,7 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td>Parkir Makassar Raya</td>
+							  <td valign="top">Parkir Makassar Raya</td>
   </tr>
 							<tr>
 							  <td>&nbsp;</td>
@@ -423,6 +422,14 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>
+<tr>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
   </tr>
 							<tr>
 							  <td>&nbsp;</td>

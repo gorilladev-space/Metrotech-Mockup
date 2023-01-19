@@ -165,7 +165,7 @@ function goBack() {
     <div style="">
         <table align="center" style="font-size:11px; width:600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style;">
             <tbody><tr>
-                <th colspan="2" style="border:1px solid black;padding:10px;">Catatan Pejabat Kepegawaian:<br>Cuti yang dilaksanakan dalam Tahun yang bersangkutan.</th>
+                <th colspan="2" style="border:1px solid black;padding:10px;">Catatan Pejabat Kepegawaian:<br>Cuti yang dilaksanakan dalam Tahun berjalan.</th>
                 <th style="border:1px solid black;padding:10px;">Catatan / Pertimbangan Atasan Langsung  </th>
             </tr>
             <tr>

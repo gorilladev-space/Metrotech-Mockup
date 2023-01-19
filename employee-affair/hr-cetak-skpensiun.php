@@ -232,7 +232,7 @@ function goBack() {
 							  <td colspan="12">&nbsp;</td>
   </tr>
 							<tr>
-							  <td width="74" valign="top">Menetapkan</td>
+							  <td width="84" valign="top">Menetapkan</td>
 							  <td width="1" valign="top">&nbsp;</td>
 							  <td width="4" valign="top">:</td>
 							  <td width="1" valign="top"></td>
@@ -298,13 +298,13 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td width="11">1.</td>
+							  <td width="16">1.</td>
 							  <td>Uang Pesangon</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
+							  <td width="231">&nbsp;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -377,18 +377,18 @@ function goBack() {
   </tr>
 							<tr>
 							  <td colspan="6" rowspan="11" valign="top">&nbsp;</td>
-							  <td width="101">&nbsp;</td>
-							  <td width="8">&nbsp;</td>
-							  <td width="23">&nbsp;</td>
-							  <td width="95">Ditetapkan di </td>
-							  <td width="13">:</td>
-							  <td width="218">Makassar</td>
+							  <td width="92">&nbsp;</td>
+							  <td width="6">&nbsp;</td>
+							  <td width="5">&nbsp;</td>
+							  <td width="99" style="text-align: left">Ditetapkan di </td>
+							  <td width="10">:</td>
+							  <td>Makassar</td>
   </tr>
 							<tr>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td><u>Pada Tanggal</u></td>
+							  <td style="text-align: left"><u>Pada Tanggal</u></td>
 							  <td>:</td>
 							  <td><u>30 Desember 2022</u></td>
   </tr>
@@ -396,17 +396,14 @@ function goBack() {
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
+							  <td colspan="2" rowspan="2" style="text-align: right"><span style="text-align: right"><img src="../assets/img/paraf.png" width="50" height="50" /></span></td>
 							  <td>Direksi Perusahaan Umum Daerah </td>
   </tr>
 							<tr>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td>Parkir Makassar Raya</td>
+							  <td valign="top">Parkir Makassar Raya</td>
   </tr>
 							<tr>
 							  <td>&nbsp;</td>

@@ -362,12 +362,7 @@ function goBack() {
 						</table>
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-					<div class="bg-white w-50 ml-auto mr-auto">
-						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
-						
-						
-						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
-					</div>
+					
 					<div class="bg-white w-50 ml-auto mr-auto">
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
@@ -469,7 +464,7 @@ function goBack() {
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td width="331" valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td width="90" valign="center">Ditetapkan di</td>
     <td width="7" valign="center">:</td>
     <td width="126" valign="center">Makassar</td>
@@ -477,54 +472,55 @@ function goBack() {
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
+    <td width="47" rowspan="2" valign="center"><img src="../assets/img/ttd1.png" width="25" height="25" /></td>
     <td valign="center">Pada Tanggal </td>
     <td valign="center">:</td>
     <td valign="center">29 November 2022</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td width="280" valign="center">&nbsp;</td>
     <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td colspan="3" valign="center">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td colspan="3" valign="center">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td colspan="3" valign="center"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
+    <td colspan="2" valign="center">&nbsp;</td>
     <td colspan="3" valign="center">Direktur Utama</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="6" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="6" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left"></td>
+    <td colspan="6" valign="center" style="text-align: left"></td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+    <td colspan="6" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+    <td colspan="6" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
 </table>
 						
