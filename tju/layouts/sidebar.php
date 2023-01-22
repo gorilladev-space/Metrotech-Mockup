@@ -67,9 +67,7 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="datamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Mitra Juru Parkir</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="targetmitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Mitra Juru Parkir</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Kerja Mitra Juru Parkir</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mapmitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mapping Mitra Juru Parkir</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kesepakatan Bersama</span></a></li>
 											
 										</ul>
 									</div>
