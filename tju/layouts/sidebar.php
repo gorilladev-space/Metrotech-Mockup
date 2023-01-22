@@ -43,6 +43,13 @@
 									<h4 class="kt-menu__section-text">TEPI JALAN UMUM</h4>
 									<i class="kt-menu__section-icon flaticon-more-v2"></i>
 								</li>
+								<li class="kt-menu__item " aria-haspopup="true"><a href="./index.php" class="kt-menu__link "><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect x="0" y="0" width="24" height="24"/>
+        <path d="M5,6 L19,6 C19.5522847,6 20,6.44771525 20,7 L20,17 L4,17 L4,7 C4,6.44771525 4.44771525,6 5,6 Z" fill="#000000"/>
+        <rect fill="#000000" opacity="0.3" x="1" y="18" width="22" height="1" rx="0.5"/>
+    </g>
+</svg></span><span class="kt-menu__link-text">Dashboard</span></a></li>
 
 
 
@@ -54,13 +61,15 @@
         <path d="M18,2 L20,2 C21.6568542,2 23,3.34314575 23,5 L23,19 C23,20.6568542 21.6568542,22 20,22 L18,22 L18,2 Z" fill="#000000" opacity="0.3"></path>
         <path d="M5,2 L17,2 C18.6568542,2 20,3.34314575 20,5 L20,19 C20,20.6568542 18.6568542,22 17,22 L5,22 C4.44771525,22 4,21.5522847 4,21 L4,3 C4,2.44771525 4.44771525,2 5,2 Z M12,11 C13.1045695,11 14,10.1045695 14,9 C14,7.8954305 13.1045695,7 12,7 C10.8954305,7 10,7.8954305 10,9 C10,10.1045695 10.8954305,11 12,11 Z M7.00036205,16.4995035 C6.98863236,16.6619875 7.26484009,17 7.4041679,17 C11.463736,17 14.5228466,17 16.5815,17 C16.9988413,17 17.0053266,16.6221713 16.9988413,16.5 C16.8360465,13.4332455 14.6506758,12 11.9907452,12 C9.36772908,12 7.21569918,13.5165724 7.00036205,16.4995035 Z" fill="#000000"></path>
     </g>
-</svg></span><span class="kt-menu__link-text">Juru Parkir</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
+</svg></span><span class="kt-menu__link-text">Mitra Juru Parkir</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
                                     </a>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Wilayah Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="salarymitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pembayaran Juru Parkir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="datamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Mitra Juru Parkir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="targetmitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Mitra Juru Parkir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="zonamitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Kerja Mitra Juru Parkir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="mapmitraparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mapping Mitra Juru Parkir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kesepakatan Bersama</span></a></li>
 											
 										</ul>
 									</div>
@@ -75,8 +84,31 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
                                     </a>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Wilayah Kerja</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir Anda</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Wilayah Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
+											
+											
+											
+										</ul>
+									</div>
+								</li>
+								<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+    <g id="Stockholm-icons-/-Files-/-File" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M5.85714286,2 L13.7364114,2 C14.0910962,2 14.4343066,2.12568431 14.7051108,2.35473959 L19.4686994,6.3839416 C19.8056532,6.66894833 20,7.08787823 20,7.52920201 L20,20.0833333 C20,21.8738751 19.9795521,22 18.1428571,22 L5.85714286,22 C4.02044787,22 4,21.8738751 4,20.0833333 L4,3.91666667 C4,2.12612489 4.02044787,2 5.85714286,2 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero" opacity="0.3"></path>
+        <rect id="Rectangle" fill="#000000" x="6" y="11" width="9" height="2" rx="1"></rect>
+        <rect id="Rectangle-Copy" fill="#000000" x="6" y="15" width="5" height="2" rx="1"></rect>
+    </g>
+</svg></span><span class="kt-menu__link-text">Berita Acara</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
+									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
+                                    </a>
+										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Baru</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Tutup</span></a></li>
+											
 											
 											
 										</ul>
