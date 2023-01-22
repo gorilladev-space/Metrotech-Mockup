@@ -397,12 +397,7 @@
 																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
 																			</div>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
@@ -814,7 +809,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ATRIBUT</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ROMPI</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 											
@@ -826,25 +821,7 @@
 										<div class="kt-portlet__body">
 											<div class="tab-content">
 												<div class="m-portlet m-portlet--tabs">
-									<div class="m-portlet__head">
-										<div class="m-portlet__head-tools">
-											<ul class="nav nav-pills nav-fill" role="tablist">
-												<li class="nav-item m-tabs__item">
-													<a class="nav-link m-tabs__link active" data-toggle="tab" href="#m_tabs_6_1" role="tab">
-														<i class="fa fa-address-card"></i> ID CARD
-													</a>
-												</li>
-												<li class="nav-item m-tabs__item">
-													<a class="nav-link m-tabs__link" data-toggle="tab" href="#m_tabs_6_2" role="tab">
-														<i class="fa fa-user-tie"></i> ROMPI
-													</a>
-												</li>
-												
-											</ul>
-												
-		
-										</div>
-									</div>
+									
 									<div class="m-portlet__body">
 										<div class="tab-content">
 											<div class="tab-pane active" id="m_tabs_6_1" role="tabpanel">
@@ -979,13 +956,53 @@
 
 
 									</div>
-									<div class="col-lg-12">
+									<div class="col-lg-6">
                       <div class="row">
 								<div class="col-xl-12">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+						
+						<div class="col-lg-12">
+                          <div class="swal2-content"><label for="swal2-checkbox" class="swal2-checkbox" style="display: none;"><input type="checkbox"><span class="swal2-label"></span></label><textarea class="swal2-textarea" placeholder="" style="display: flex;"></textarea><div class="swal2-validation-message" id="swal2-validation-message"></div></div>
+                        </div>
+                       
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     
+                    
+					  
+                     
+									</div>
+									
+									
+									</div>
+
+
+									</div>
+							<!--end:: Portlet-->
+</div>
+
+
+
+										</div>
+
+
+
+
+									</div>
+									<div class="col-lg-6">
+                      <div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1029,10 +1046,83 @@
 
 								</div>
 											</div>
-											<div class="tab-pane" id="m_tabs_6_2" role="tabpanel">
+											
+											
+											
+											
+											
+											
+										</div>
+									</div>
+								</div>
+												
+									<div class="kt-portlet__foot kt-align-center">
+												<div class="">
+
+													<a href="datamitraparkir.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>&nbsp;
+									
+												
+													<div class="btn-group">
+				<button type="button" class="btn btn-brand">
+					<i class="la la-check"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
+												</div>
+											</div>
+												
+												
+
+									<!--end::Portlet-->
+												</div>
+											</div>
+											</div>
+
+									</div>
+
+									</div>
+								</div>
+							</div>
+							<!--End::Modal 1-->
+							<!--begin::Modal 2-->
+									<div class="modal fade" id="serah-terima-rompi" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ROMPI</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+											
+											&nbsp;
+												<button type="button" class="btn btn-secondary btn-sm btn-outline-danger" data-dismiss="modal">X</button>
+											</div>
+										</div>
+
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="m-portlet m-portlet--tabs">
+									
+									<div class="m-portlet__body">
+										<div class="tab-content">
+											<div class="tab-pane active" id="m_tabs_6_1" role="tabpanel">
 												<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
 									<div class="row">
-										<div class="col-lg-12">
+										<div class="col-lg-6">
                       <div class="row">
 								<div class="col-xl-12">
 
@@ -1043,29 +1133,33 @@
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 						
-						<div class="col-lg-5">
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
                            <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
                         </div>
-                       
-                       <div class="col-lg-3">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       <div class="col-lg-12">
                           <label>ID Mitra :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
                         </div>
 						
-                       
-						<div class="col-lg-4">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
                           <label class="">Zona :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepulauan Sangkarrang">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-5">
-                          <label><span style="color:#ff0000">*</span> Wilayah :</label>
+						<div class="col-lg-4">
+                          <label><span style="color:#ff0000">*</span> Wil :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
-						<div class="col-lg-7">
+						<div class="col-lg-8">
                           <label><span style="color:#ff0000">*</span> Titik :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
@@ -1092,7 +1186,7 @@
 
 
 									</div>
-									<div class="col-lg-12">
+									<div class="col-lg-6">
                       <div class="row">
 								<div class="col-xl-12">
 
@@ -1103,16 +1197,18 @@
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 						
-						<div class="col-lg-6">
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Nama Pegawai :</label>
                            <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
                         </div>
-                       
-                       <div class="col-lg-3">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       <div class="col-lg-6">
                           <label>NPP :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001">
                         </div>
-						<div class="col-lg-3">
+						<div class="col-lg-6">
                           <label>Kantor :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat">
                         </div>
@@ -1120,12 +1216,14 @@
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-12">
                           <label class="">Department :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
                         </div>
-                       
-						<div class="col-lg-6">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Jabatan :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama">
                         </div>
@@ -1248,10 +1346,11 @@
 											
 											
 											
+											
 										</div>
 									</div>
 								</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
 									<div class="kt-portlet__foot kt-align-center">
 												<div class="">
 
@@ -1289,7 +1388,7 @@ function goBack() {
 									</div>
 								</div>
 							</div>
-							<!--End::Modal 1-->
+							<!--End::Modal 2-->
         </div>
     </div>
 
