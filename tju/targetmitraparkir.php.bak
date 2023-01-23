@@ -257,7 +257,7 @@
 											  <th width="1%" colspan="2" bgcolor="#feffed">Sabtu</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Minggu</th>
 											  <th bgcolor="#f7fcff">Dibuat</th>
-											  <th bgcolor="#f7fcff">Last Updated</th>
+											  <th bgcolor="#f7fcff">Terakhir Diubah</th>
 											  
 											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
@@ -299,12 +299,8 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>

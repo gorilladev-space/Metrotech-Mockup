@@ -319,7 +319,9 @@
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
+											 
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
+											  
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Jam Kerja</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Jenis Kelamin</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
@@ -327,7 +329,9 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
+											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Atribut Kerja</th>
+											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -353,9 +357,11 @@
 
 												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
 												
+												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
@@ -364,6 +370,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-barcode"></i>
 														</span></td>
@@ -373,6 +380,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+														<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -432,10 +440,12 @@
 													</a></td>
 
 												<td style="text-align:left" nowrap>ARMAN</td>
+											
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
+													
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
@@ -444,6 +454,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-barcode"></i>
 														</span></td>
@@ -453,6 +464,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+														<td style="text-align:left" nowrap>ARMAN</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -513,9 +525,11 @@
 
 												<td style="text-align:left" nowrap>KASIM DG. BONTO</td>
 												
+												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
@@ -524,6 +538,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true">
 															<i class="fa fa-barcode"></i>
 														</span></td>
@@ -531,6 +546,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+														<td style="text-align:left" nowrap>KASIM DG. BONTO</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -591,9 +607,11 @@
 
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												
+												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Wanita</td>
@@ -602,11 +620,13 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-barcode"></i>
 														</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Tidak Aktif" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -668,9 +688,11 @@
 
 												<td style="text-align:left" nowrap>BANI</td>
 												
+												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
@@ -679,6 +701,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-barcode"></i>
 														</span></td>
@@ -688,6 +711,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+														<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
