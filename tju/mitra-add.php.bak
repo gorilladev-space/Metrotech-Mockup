@@ -380,7 +380,7 @@ function goBack() {
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 																					<div class="col-lg-6">
-																						<label>No QR Code :</label>
+																						<label>QR Code Mitra :</label>
 																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
 																					</div>
 																					<div class="col-lg-6">

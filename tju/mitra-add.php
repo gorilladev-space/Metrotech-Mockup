@@ -481,7 +481,23 @@ function goBack() {
                      <div class="form-group row">
 						<div class="col-lg-12">
 																						<label>Titik :</label>
-																						<input type="text" class="form-control form-control-sm" value="" placeholder="Isikan Nama Titik Bertugas" >
+																						<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
+                                  </select>
 																					</div>
 						
                         </div>
