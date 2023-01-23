@@ -394,6 +394,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -475,6 +481,12 @@
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -560,6 +572,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -637,6 +655,12 @@
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -722,6 +746,12 @@
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

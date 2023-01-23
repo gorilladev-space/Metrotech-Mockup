@@ -329,8 +329,9 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											   <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
+											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Atribut Kerja</th>
+											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -390,6 +391,12 @@
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -477,6 +484,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -559,6 +572,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -636,6 +655,12 @@
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
