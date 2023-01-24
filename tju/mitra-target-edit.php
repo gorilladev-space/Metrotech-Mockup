@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Target Mitra Jukir
+											Ubah Target Mitra Jukir
 									</h3>
 
 								</div>
@@ -220,7 +220,7 @@ function goBack() {
                       </div>
                     </div>
                     </div>
-<div class="col-xl-3">
+<div class="col-xl-2">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
