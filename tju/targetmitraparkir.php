@@ -32,10 +32,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="mitra-target-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i> Tambah Data</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
+                
             </div>
         </div>
     </div>
@@ -234,13 +231,13 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
+											 
 											  
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
 											   <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan</th>
+											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -249,9 +246,9 @@
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="3%" bgcolor="#f7fcff">Titik</th>
-											  <th width="2%" colspan="2" bgcolor="#feffed">Senin</th>
-											  <th width="2%" colspan="2" bgcolor="#feffed">Selasa</th>
-											  <th width="2%" colspan="2" bgcolor="#feffed">Rabu</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Selasa</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Rabu</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Kamis</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Jumat</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Sabtu</th>
@@ -268,7 +265,6 @@
 											<tr>
 												<td id="kt_table_1" style="text-align:right">1</td>
 												
-												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -279,19 +275,19 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
@@ -311,6 +307,12 @@
 																			<a href="mitra-target-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="mitra-target-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -346,7 +348,6 @@
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">2</td>
 												
-												<td style="text-align:center" nowrap>000000002</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -358,22 +359,22 @@
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Segar Buah</td>
 												
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -387,6 +388,12 @@
 																			<a href="mitra-target-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="mitra-target-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -422,7 +429,7 @@
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">3</td>
 												
-												<td style="text-align:center" nowrap>000000003</td>
+												
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -434,31 +441,25 @@
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
 												
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -469,6 +470,12 @@
 																			<a href="mitra-target-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="mitra-target-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -504,7 +511,7 @@
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">4</td>
 												
-												<td style="text-align:center" nowrap>000000004</td>
+											
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -516,19 +523,19 @@
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Aroma</td>
 												
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
@@ -551,6 +558,12 @@
 																			<a href="mitra-target-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="mitra-target-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -586,7 +599,7 @@
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">5</td>
 												
-												<td style="text-align:center" nowrap>000000005</td>
+											
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
@@ -598,19 +611,19 @@
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Jangkar Mas</td>
 												
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:left">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
@@ -633,6 +646,12 @@
 																			<a href="mitra-target-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="mitra-target-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-coins"></i>
+																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
