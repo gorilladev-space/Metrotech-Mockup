@@ -412,8 +412,8 @@
 																			</div>
 																		</li>
 																		
+																			<a href="mitra-remove.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
@@ -503,7 +503,7 @@
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="mitra-remove.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
@@ -591,7 +591,7 @@
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="mitra-remove.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
@@ -678,7 +678,7 @@
 																		
 																		
 																		<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="mitra-remove.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>

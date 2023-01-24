@@ -49,7 +49,10 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                
+                <a href="mitra-add.php" class="btn btn-info btn-sm">
+                    <i class="fa fa-plus"></i> Tambah Data</button>
+                    <!--<i class="flaticon2-plus"></i>-->
+                </a>
             </div>
         </div>
     </div>
