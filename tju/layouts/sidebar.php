@@ -203,10 +203,10 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 											<ul class="kt-menu__subnav">
 												<li class="kt-menu__item  kt-menu__item--parent" aria-haspopup="true"><span class="kt-menu__link"><span class="kt-menu__link-text">Pajak</span></span></li>
-												<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-rekap-absen.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Syarat Pembayaran</span></a></li>
-												<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="pegawai-cuti.php" class="kt-menu__link kt-menu__toggle"><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi Berulang</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-izin.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Proses Akhir Bulan</span></a></li>
-												<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-lembur.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi Favorit</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="master-titik-parkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Titik Parkir</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="master-zona-parkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="master-wilayah-parkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Wilayah</span></a></li>
+												
 											</ul>
 									</div>
 								</li>
