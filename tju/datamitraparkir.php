@@ -449,7 +449,7 @@
 											
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>II</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 													
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -539,7 +539,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -627,7 +627,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>IV</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -714,7 +714,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>V</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
