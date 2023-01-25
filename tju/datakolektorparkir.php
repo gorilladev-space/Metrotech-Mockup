@@ -278,28 +278,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -308,12 +292,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -343,28 +322,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -373,12 +336,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -408,28 +366,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -438,12 +380,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -473,28 +410,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -503,12 +424,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -532,49 +448,27 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV</td>                                                                                      
-												<td>                                                
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text"Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -604,43 +498,21 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -670,28 +542,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -700,12 +556,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
@@ -735,28 +586,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-<li class="kt-nav__item">
-																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
-																			</a>
-																		</li>
+																	
+
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-perpanjangan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-clock"></i>
-																				<span class="kt-nav__link-text">Perpanjang Kontrak Pegawai</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -765,12 +600,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-users"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
