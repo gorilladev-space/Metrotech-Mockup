@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Kolektor Parkir
+											Zona Kolektor Parkir
 
 									</h3>
 
@@ -221,103 +221,7 @@
 				<!--end::Form-->
 			</div>
             <!--begin::End-->
-							<!--begin:: Widgets/Stats-->
-							<div class="kt-portlet">
-								<div class="kt-portlet__body  kt-portlet__body--fit">
-									<div class="row row-no-padding row-col-separator-lg">
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::Total Profit-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Total
-														</h4>
-														<span class="kt-widget24__desc">
-															Pegawai Kontrak
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-brand">
-														4
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::Total Profit-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Feedbacks-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Pria
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-success">
-														2
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Feedbacks-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Orders-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Wanita
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-danger">
-														2
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Orders-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Users-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Hampir Berakhir
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-warning">
-														4
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Users-->
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!--end:: Widgets/Stats-->
+							
 
 							<div class="kt-portlet kt-portlet--mobile ">
 								<div class="kt-portlet__body">
@@ -334,9 +238,7 @@
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
 											  <th colspan="2" bgcolor="#f7fcff">Kontrak</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
+											 
 											  <th width="1%" colspan="1" rowspan="2" bgcolor="#feffed">Mitra Jukir</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Area Bertugas</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -354,17 +256,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>UMAR MALIK, SE</td>
+												<td style="text-align:left" nowrap>000 000 001</td>
 												<td style="text-align:left" nowrap>Umum</td>
 												<td style="text-align:left" nowrap>Umum dan Kepegawaian</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kepegawaian</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II</td>
@@ -419,17 +319,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>LEONY HESTI KILALA</td>
+												<td style="text-align:left" nowrap>000 000 002</td>
 												<td style="text-align:left" nowrap>Umum</td>
 												<td style="text-align:left" nowrap>Hukum dan Humas</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Hukum</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">II, V</td>
@@ -484,17 +382,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>MUSLIMIN</td>
+												<td style="text-align:left" nowrap>000 000 003</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
 												<td style="text-align:left" nowrap>Keuangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Keuangan</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III</td>
@@ -549,17 +445,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>HAERUL</td>
+												<td style="text-align:left" nowrap>000 000 004</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
 												<td style="text-align:left" nowrap>Asset</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Asset</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">V, VI</td>
@@ -614,17 +508,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>WIRA YUDHA SAKTI. D</td>
+												<td style="text-align:left" nowrap>000 000 005</td>
 												<td style="text-align:left" nowrap>Operasional</td>
 												<td style="text-align:left" nowrap>Pengelolaan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengelolaan</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV</td>                                                                                      
@@ -680,17 +572,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>RUDI RIVAI</td>
+												<td style="text-align:left" nowrap>000 000 006</td>
 												<td style="text-align:left" nowrap>Operasional</td>
 												<td style="text-align:left" nowrap>Produksi</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Produksi</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II,</td>
@@ -746,17 +636,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>YUNUS TULAK, S.IP</td>
+												<td style="text-align:left" nowrap>000 000 007</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left" nowrap>Pengembangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengembangan</td>
 												<td style="text-align:center" nowrap>Cabang</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
@@ -811,17 +699,15 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>ANUGRAH. WL</td>
+												<td style="text-align:left" nowrap>000 000 008</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left" nowrap>Kerjasama</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kerjasama</td>
 												<td style="text-align:center" nowrap>Cabang</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
 												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>

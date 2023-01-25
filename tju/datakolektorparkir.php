@@ -51,10 +51,7 @@
 												<!--end::Nav-->
 											</div>
 
-											<a href="pegawai-kontrak-add.php" class="btn btn-info btn-sm">
-												<i class="fa fa-user-plus"></i> Tambah Data</button>
-												<!--<i class="flaticon2-plus"></i>-->
-											</a>
+											
 										</div>
 							</div>
 						</div>
@@ -224,103 +221,7 @@
 				<!--end::Form-->
 			</div>
             <!--begin::End-->
-							<!--begin:: Widgets/Stats-->
-							<div class="kt-portlet">
-								<div class="kt-portlet__body  kt-portlet__body--fit">
-									<div class="row row-no-padding row-col-separator-lg">
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::Total Profit-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Total
-														</h4>
-														<span class="kt-widget24__desc">
-															Pegawai Kontrak
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-brand">
-														4
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::Total Profit-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Feedbacks-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Pria
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-success">
-														2
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Feedbacks-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Orders-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Wanita
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-danger">
-														2
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Orders-->
-										</div>
-										<div class="col-md-12 col-lg-6 col-xl-3">
-
-											<!--begin::New Users-->
-											<div class="kt-widget24">
-												<div class="kt-widget24__details">
-													<div class="kt-widget24__info">
-														<h4 class="kt-widget24__title">
-															Pegawai Kontrak
-														</h4>
-														<span class="kt-widget24__desc">
-															Hampir Berakhir
-														</span>
-													</div>
-													<span class="kt-widget24__stats kt-font-warning">
-														4
-													</span>
-												</div>
-
-											</div>
-
-											<!--end::New Users-->
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<!--end:: Widgets/Stats-->
+							
 
 							<div class="kt-portlet kt-portlet--mobile ">
 								<div class="kt-portlet__body">
