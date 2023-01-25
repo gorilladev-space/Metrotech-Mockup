@@ -230,7 +230,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Department</th>
@@ -256,10 +256,10 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>UMAR MALIK, SE</td>
+												<td style="text-align:left" nowrap>000 000 001</td>
 												<td style="text-align:left" nowrap>Umum</td>
 												<td style="text-align:left" nowrap>Umum dan Kepegawaian</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kepegawaian</td>
@@ -321,10 +321,10 @@
 											<tr>
 												<td id="kt_table_1">2</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_7.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>LEONY HESTI KILALA</td>
+												<td style="text-align:left" nowrap>000 000 002</td>
 												<td style="text-align:left" nowrap>Umum</td>
 												<td style="text-align:left" nowrap>Hukum dan Humas</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Hukum</td>
@@ -386,10 +386,10 @@
 											<tr>
 												<td id="kt_table_1">3</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>MUSLIMIN</td>
+												<td style="text-align:left" nowrap>000 000 003</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
 												<td style="text-align:left" nowrap>Keuangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Keuangan</td>
@@ -451,10 +451,10 @@
 											<tr>
 												<td id="kt_table_1">4</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_3.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>HAERUL</td>
+												<td style="text-align:left" nowrap>000 000 004</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
 												<td style="text-align:left" nowrap>Asset</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Asset</td>
@@ -516,10 +516,10 @@
 											<tr>
 												<td id="kt_table_1">5</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_8.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>WIRA YUDHA SAKTI. D</td>
+												<td style="text-align:left" nowrap>000 000 005</td>
 												<td style="text-align:left" nowrap>Operasional</td>
 												<td style="text-align:left" nowrap>Pengelolaan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengelolaan</td>
@@ -582,10 +582,10 @@
 											<tr>
 												<td id="kt_table_1">6</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>RUDI RIVAI</td>
+												<td style="text-align:left" nowrap>000 000 006</td>
 												<td style="text-align:left" nowrap>Operasional</td>
 												<td style="text-align:left" nowrap>Produksi</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Produksi</td>
@@ -648,10 +648,10 @@
 										  <tr>
 												<td id="kt_table_1">7</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_6.jpg" alt="image">
+														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>YUNUS TULAK, S.IP</td>
+												<td style="text-align:left" nowrap>000 000 007</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left" nowrap>Pengembangan</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Pengembangan</td>
@@ -715,8 +715,8 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
-												<td style="text-align:center" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>000 000 000</td>
+												<td style="text-align:left" nowrap>ANUGRAH. WL</td>
+												<td style="text-align:left" nowrap>000 000 008</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
 												<td style="text-align:left" nowrap>Kerjasama</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kerjasama</td>
