@@ -241,7 +241,6 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="1%" colspan="1" rowspan="2" bgcolor="#feffed">Mitra Jukir</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Area Bertugas</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -269,7 +268,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -278,7 +276,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -313,7 +316,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">II, V</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -322,7 +324,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -357,7 +364,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -366,7 +372,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -401,7 +412,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">V, VI</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -410,7 +420,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -445,7 +460,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV</td>                                                                                      
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -454,7 +468,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -489,7 +508,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II,</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -498,7 +516,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -533,7 +556,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -542,7 +564,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -577,7 +604,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -586,7 +612,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">

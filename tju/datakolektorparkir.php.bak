@@ -241,7 +241,6 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="1%" colspan="1" rowspan="2" bgcolor="#feffed">Mitra Jukir</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Area Bertugas</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -279,16 +278,16 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-edit.php" class="kt-nav__link">
+																			<a href="edit-area-kolektor.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -327,7 +326,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -371,7 +375,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -415,7 +424,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -459,7 +473,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -503,7 +522,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -547,7 +571,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
@@ -591,7 +620,12 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
+																	<li class="kt-nav__item">
+																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="edit-area-kolektor.php" class="kt-nav__link">
