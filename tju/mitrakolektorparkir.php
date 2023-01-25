@@ -24,9 +24,19 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Mitra Parkir
+                    Data Mitra Juru Parkir Anda
                 </h3>
-            </div>
+				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											YUNUS TULAK, S.IP [ Nama Kolektor ]</span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
+
+								</div>
             <div class="kt-subheader__toolbar">
                 <button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
                 <a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -49,10 +59,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="mitra-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i> Tambah Data</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
+               
             </div>
         </div>
     </div>
@@ -634,6 +641,24 @@
 																</div>
 															</div></td>
 										  </tr>
+										  <tr bgcolor="#feffed";>
+										    <td colspan="13" id="kt_table_3" style="text-align:center" bgcolor="#feffed"><strong>Total Target</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
+										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
+										    <td style="text-align:center" nowrap>&nbsp;</td>
+									      </tr>
 									    </tbody>
 									</table>
                     <!--end: Datatable -->
