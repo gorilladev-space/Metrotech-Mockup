@@ -268,7 +268,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -284,14 +283,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -317,7 +311,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">II, V</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -333,14 +326,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -366,7 +354,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -382,14 +369,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -415,7 +397,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">V, VI</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -431,14 +412,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -464,7 +440,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV</td>                                                                                      
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -480,14 +455,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -513,7 +483,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II,</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -536,7 +505,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -562,7 +531,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -578,14 +546,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -611,7 +574,6 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Lihat Mitra Jukir" data-html="true"><i class="fa fa-eye"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
 												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -627,12 +589,7 @@
 																			</a>
 																		</li>
 
-																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>

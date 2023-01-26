@@ -1537,7 +1537,7 @@ function goBack() {
 							</div>
 											</div>
 											<!--begin::Modal 1-->
-									<div class="modal fade" id="modal_pelunasan" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal_peta" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
@@ -1553,96 +1553,7 @@ function goBack() {
 											</div>
 										</div>
 										<div class="kt-portlet__body">
-											<div class="tab-content">
-												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
-													<div class="form-group row">
-												<div class="col-lg-4">
-														<label>ID Kasbon :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1/IM-TTD/XII/2019">
-
-												</div>
-
-												<div class="col-lg-4">
-														<label>Waktu Pengajuan :</label>
-														<div class="form-group">
-													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
-												</div>
-													</div>
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nilai Pinjaman :</label>
-														<div class="form-group">
-													<div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.000.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div>
-												</div>
-													</div>
-
-												<div class="col-lg-4">
-														<label>Nilai Angsuran :</label>
-														<div class="form-group">
-													<div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right"  class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div>
-												</div>
-													</div>
-												<div class="col-lg-4">
-														<label class="kt-font-danger">Sisa Pinjaman :</label>
-														<div class="form-group">
-													<div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div>
-												</div>
-													</div>
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-												<div class="col-lg-4">
-														<label class="kt-font-danger">Bayar Angsuran Saat ini :</label>
-														<div class="form-group">
-													<div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right"  class="form-control form-control-sm" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div>
-												</div>
-													</div>
-												<div class="col-lg-8">
-														<label>Upload Bukti Pembayaran :</label>
-														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
-
-												</div>
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-									<div class="kt-portlet__foot kt-align-right">
-												<div class="">
-
-													<button type="reset" class="btn btn-brand btn-sm">Kirim</button>
-												</div>
-											</div>
-
-
-
-
-									</div>
-
-									</div>
+											 <div id="googleMap" style="width:100%;height:680px;"></div>
 									</div>
 								</div>
 							</div>

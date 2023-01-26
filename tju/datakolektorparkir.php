@@ -283,14 +283,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -331,14 +326,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -379,14 +369,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -427,14 +412,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -475,14 +455,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -523,14 +498,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -571,14 +541,9 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -619,12 +584,7 @@
 																			</a>
 																		</li>
 
-																		<li class="kt-nav__item">
-																			<a href="edit-area-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit Area Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>

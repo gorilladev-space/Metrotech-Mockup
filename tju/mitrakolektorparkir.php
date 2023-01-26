@@ -341,7 +341,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		
@@ -400,7 +400,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		
@@ -457,7 +457,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		
@@ -511,7 +511,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		
@@ -570,7 +570,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		

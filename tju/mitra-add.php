@@ -518,7 +518,7 @@ function goBack() {
 																					
 																					<div class="col-lg-2">
 																					<label>Map :</label>
-																					<button type="button" class="btn btn-sm btn-brand" data-toggle="modal" data-target="#modal_pelunasan">Lihat Peta</button>
+																					<button type="button" class="btn btn-sm btn-brand" data-toggle="modal" data-target="#modal_peta">Lihat Peta</button>
 																						
 																					</div>
 						
@@ -1537,7 +1537,7 @@ function goBack() {
 							</div>
 											</div>
 											<!--begin::Modal 1-->
-									<div class="modal fade" id="modal_pelunasan" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal_peta" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
