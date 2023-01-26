@@ -419,9 +419,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-edit.php" class="kt-nav__link">
+																			<a href="mitra-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -449,7 +449,7 @@
 											
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>II</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 													
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -502,16 +502,16 @@
 																			</div>
 																		</li>
 																		
-																		<li class="kt-nav__item">
 																			<a href="mitra-remove.php" class="kt-nav__link">
+																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-edit.php" class="kt-nav__link">
+																			<a href="mitra-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -539,7 +539,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -590,16 +590,16 @@
 																			</div>
 																		</li>
 																		
-																		<li class="kt-nav__item">
 																			<a href="mitra-remove.php" class="kt-nav__link">
+																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-edit.php" class="kt-nav__link">
+																			<a href="mitra-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -627,7 +627,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>IV</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
@@ -676,17 +676,16 @@
 																			</div>
 																		</li>
 																		
-																		
-																		<li class="kt-nav__item">
 																			<a href="mitra-remove.php" class="kt-nav__link">
+																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-edit.php" class="kt-nav__link">
+																			<a href="mitra-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -714,7 +713,7 @@
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>V</td>
 												<td style="text-align:center" nowrap>Coto Nusantara</td>
 												
 												<td nowrap style="text-align:center">06:00:00</td>
