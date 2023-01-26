@@ -128,21 +128,6 @@
                             
 							
 							<div class="col-lg-2">
-                                <label>Jenis Kelamin :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pria</option>
-                                      <option value="2">Wanita</option>
-                                      
-                                  </select>
-                            </div>
-							
-							
-                            </div>
-							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-							<div class="form-group row">
-                            
-								<div class="col-lg-2">
                                 <label>Zona Kerja :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -194,6 +179,15 @@
     		                        </span>
     		                    </div>
     		                    </div>
+							
+							
+                            </div>
+							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+							<div class="form-group row">
+                            
+								
+							
+							
 								<div class="col-lg-2">
                                 <label>ID Card :</label>
 								
@@ -400,7 +394,7 @@
 																	<li class="kt-nav__item">
 																			<a href="mitra-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>
 																		</li>
 																		

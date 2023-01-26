@@ -128,21 +128,6 @@
                             
 							
 							<div class="col-lg-2">
-                                <label>Jenis Kelamin :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pria</option>
-                                      <option value="2">Wanita</option>
-                                      
-                                  </select>
-                            </div>
-							
-							
-                            </div>
-							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-							<div class="form-group row">
-                            
-								<div class="col-lg-2">
                                 <label>Zona Kerja :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -194,46 +179,11 @@
     		                        </span>
     		                    </div>
     		                    </div>
-								<div class="col-lg-2">
-                                <label>ID Card :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>Rompi :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>BPJSTK :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Aktif</option>
-                                      <option value="2">Belum Aktif</option>
-                                      <option value="2">Non Aktif</option>
-                                      
-                                  </select>
-                            </div>
-							
-								
-                            
-                           
-							
-							
-							
-                            
-							
 							
 							
                             </div>
+							
+							
 							<br>
 							
 							
