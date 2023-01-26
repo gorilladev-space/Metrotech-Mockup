@@ -178,7 +178,7 @@
 											   
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
 											 <th colspan="3" bgcolor="#feffed">Target Pendapatan</th>
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff">Status</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -190,9 +190,9 @@
 											   <th width="1%" colspan="2" bgcolor="#feffed">Target Hari ini</th>
 											  <th width="1%" bgcolor="#feffed">Status Hari ini</th>
 											  
-											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
-											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
-											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>
+											  <th width="1%" bgcolor="#f7fcff">Kasir<br>Pendapatan</th>
+											  <th width="1%" bgcolor="#f7fcff">Team Reaksi Cepat</th>
+											  
 						                  </tr>
 										</thead>
 										<tbody>
@@ -217,11 +217,11 @@
 														<td nowrap="nowrap" style="text-align:right">Rp.</td>
 														<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 														<td nowrap style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sesuai Target</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diterima<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -290,8 +290,9 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Setoran Kurang</span></td>
 												
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diterima<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -362,8 +363,7 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -434,15 +434,11 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -512,15 +508,11 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -590,15 +582,11 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -668,15 +656,11 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -746,15 +730,11 @@
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Ada Setoran" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
