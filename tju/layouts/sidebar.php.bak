@@ -85,9 +85,10 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Kolektor</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mitrakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir Anda</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona Wilayah Kolektor</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zonakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="targetkolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
+											
+											<li class="kt-menu__item" aria-haspopup="true"><a href="setorankolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoringsetorankolektor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran Kolektor</span></a></li>
 											
 											
 											
