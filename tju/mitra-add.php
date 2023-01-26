@@ -1,6 +1,22 @@
 <?php require '../layouts/head.php' ?>
 <?php require 'layouts/header.php' ?>
+<script src="http://maps.googleapis.com/maps/api/js"></script>
 
+    <script>
+        // fungsi initialize untuk mempersiapkan peta
+        function initialize() {
+        var propertiPeta = {
+            center:new google.maps.LatLng(-5.16081,119.395713),
+            zoom:15,
+            mapTypeId:google.maps.MapTypeId.ROADMAP
+        };
+        
+        var peta = new google.maps.Map(document.getElementById("googleMap"), propertiPeta);
+        }
+
+        // event jendela di-load  
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
 <!-- begin:: Content Head -->
 <div class="kt-subheader   kt-grid__item" id="kt_subheader">
 	<div class="kt-container  kt-container--fluid ">
@@ -479,7 +495,7 @@ function goBack() {
 					  
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-12">
+						<div class="col-lg-10">
 																						<label>Titik :</label>
 																						<select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">I</option>
@@ -498,6 +514,27 @@ function goBack() {
                                       <option value="14">XIV</option>
                                       <option value="15">XV</option>
                                   </select>
+																					</div>
+																					
+																					<div class="col-lg-2">
+																					<label>Map :</label>
+																					<button type="button" class="btn btn-sm btn-brand" data-toggle="modal" data-target="#modal_pelunasan">Lihat Peta</button>
+																						
+																					</div>
+						
+                        </div>
+
+									
+
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Latitude :</label>
+																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
+																					</div>
+																					<div class="col-lg-6">
+																						<label>Longitude :</label>
+																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
 																					</div>
 						
                         </div>
@@ -1499,6 +1536,28 @@ function goBack() {
 								<!--End:: App Content-->
 							</div>
 											</div>
+											<!--begin::Modal 1-->
+									<div class="modal fade" id="modal_pelunasan" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon-earth-globe"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-danger">Peta</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											 <div id="googleMap" style="width:100%;height:680px;"></div>
+									</div>
+								</div>
+							</div>
+							<!--End::Modal 1-->
 										</div>
 									</div>
 								</div>

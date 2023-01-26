@@ -1,6 +1,22 @@
 <?php require '../layouts/head.php' ?>
 <?php require 'layouts/header.php' ?>
+<script src="http://maps.googleapis.com/maps/api/js"></script>
 
+    <script>
+        // fungsi initialize untuk mempersiapkan peta
+        function initialize() {
+        var propertiPeta = {
+            center:new google.maps.LatLng(-5.16081,119.395713),
+            zoom:15,
+            mapTypeId:google.maps.MapTypeId.ROADMAP
+        };
+        
+        var peta = new google.maps.Map(document.getElementById("googleMap"), propertiPeta);
+        }
+
+        // event jendela di-load  
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
 <!-- begin:: Content Head -->
 <div class="kt-subheader   kt-grid__item" id="kt_subheader">
 	<div class="kt-container  kt-container--fluid ">
@@ -479,9 +495,46 @@ function goBack() {
 					  
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-12">
+						<div class="col-lg-10">
 																						<label>Titik :</label>
-																						<input type="text" class="form-control form-control-sm" value="" placeholder="Isikan Nama Titik Bertugas" >
+																						<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
+                                  </select>
+																					</div>
+																					
+																					<div class="col-lg-2">
+																					<label>Map :</label>
+																					<button type="button" class="btn btn-sm btn-brand" data-toggle="modal" data-target="#modal_pelunasan">Lihat Peta</button>
+																						
+																					</div>
+						
+                        </div>
+
+									
+
+									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Latitude :</label>
+																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
+																					</div>
+																					<div class="col-lg-6">
+																						<label>Longitude :</label>
+																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
 																					</div>
 						
                         </div>
@@ -1483,6 +1536,117 @@ function goBack() {
 								<!--End:: App Content-->
 							</div>
 											</div>
+											<!--begin::Modal 1-->
+									<div class="modal fade" id="modal_pelunasan" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon-earth-globe"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-danger">Peta</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
+													<div class="form-group row">
+												<div class="col-lg-4">
+														<label>ID Kasbon :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1/IM-TTD/XII/2019">
+
+												</div>
+
+												<div class="col-lg-4">
+														<label>Waktu Pengajuan :</label>
+														<div class="form-group">
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
+												</div>
+													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												<div class="col-lg-4">
+														<label>Nilai Pinjaman :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.000.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+
+												<div class="col-lg-4">
+														<label>Nilai Angsuran :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right"  class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+												<div class="col-lg-4">
+														<label class="kt-font-danger">Sisa Pinjaman :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												<div class="col-lg-4">
+														<label class="kt-font-danger">Bayar Angsuran Saat ini :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right"  class="form-control form-control-sm" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+												<div class="col-lg-8">
+														<label>Upload Bukti Pembayaran :</label>
+														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
+													<div class="dropzone-msg dz-message needsclick">
+														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
+														<span class="dropzone-msg-desc">Upload up to 10 files</span>
+													</div>
+												</div>
+
+												</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+									<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm">Kirim</button>
+												</div>
+											</div>
+
+
+
+
+									</div>
+
+									</div>
+									</div>
+								</div>
+							</div>
+							<!--End::Modal 1-->
 										</div>
 									</div>
 								</div>
