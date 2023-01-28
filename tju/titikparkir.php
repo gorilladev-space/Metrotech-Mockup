@@ -159,7 +159,69 @@
 				<!--end::Form-->
 			</div>
             <!--begin::End-->
+<!--begin:: Widgets/Stats-->
+			<div class="kt-portlet">
+				<div class="kt-portlet__body  kt-portlet__body--fit">
+					<div class="row row-no-padding row-col-separator-lg">
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							<div class="kt-widget24">
+								<div class="kt-widget24__details">
+									<div class="kt-widget24__info">
+										<h4 class="kt-widget24__title">
+											Total
+										</h4>
+										<span class="kt-widget24__desc">
+											Data Titik Parkir
+										</span>
+									</div>
+									<span class="kt-widget24__stats kt-font-brand">
+										1140
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							<div class="kt-widget24">
+								<div class="kt-widget24__details">
+									<div class="kt-widget24__info">
+										<h4 class="kt-widget24__title">
+											Aktif
+										</h4>
+										<span class="kt-widget24__desc">
+											Data Titik Parkir
+										</span>
+									</div>
+									<span class="kt-widget24__stats kt-font-success">
+										1130
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							<div class="kt-widget24">
+								<div class="kt-widget24__details">
+									<div class="kt-widget24__info">
+										<h4 class="kt-widget24__title">
+											Non Aktif
+										</h4>
+										<span class="kt-widget24__desc">
+											Data Titik Parkir
+										</span>
+									</div>
+									<span class="kt-widget24__stats kt-font-danger">
+										10
+									</span>
+								</div>
 
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--end:: Widgets/Stats-->
 			
 
 			<div class="kt-portlet kt-portlet--mobile ">
@@ -168,7 +230,7 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">No</th>
 											  
 											 
 											  
@@ -176,29 +238,29 @@
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
-											   <th colspan="6" bgcolor="#feffed">Mitra Jukir</th>
+											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
 											   <th width="1%" colspan="5" bgcolor="#f7fcff">Kolektor</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">Penetapan<br>
-											  Titik Parkir</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff">Titik Parkir</th>
 											 
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>Titik Parkir</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="2%" bgcolor="#feffed">ID Mitra</th>
-											  <th width="2%" bgcolor="#feffed">Qr Code</th>
-											  <th width="2%" bgcolor="#feffed">Foto</th>
-											  <th width="10%" bgcolor="#feffed">Nama Mitra</th>
-											  <th width="1%" bgcolor="#feffed">Hp</th>
-											  <th width="1%" bgcolor="#feffed">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">ID Mitra</th>
+											  <th width="2%" bgcolor="#f7fcff">Qr Code</th>
+											  <th width="3%" bgcolor="#f7fcff">Foto</th>
+											  <th width="10%" bgcolor="#f7fcff">Nama Mitra</th>
+											  <th width="1%" bgcolor="#f7fcff">Hp</th>
+											  <th width="1%" bgcolor="#f7fcff">WA</th>
+											  <th width="3%" bgcolor="#f7fcff">Foto</th>
 											  <th width="2%" bgcolor="#f7fcff">NIK</th>
 											  <th width="10%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Dibuat</th>
-											  <th width="2%" bgcolor="#f7fcff">Terakhir Diubah</th>
+											  <th width="2%" bgcolor="#f7fcff">Tanggal Dibuat</th>
+											  <th width="2%" bgcolor="#f7fcff">Dibuat Oleh</th>
 											  
 											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
@@ -217,26 +279,29 @@
 												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
 												<td align="center" valign="middle" style="text-align:center">000000001</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
 												<td nowrap style="text-align:left">000 000 000</td>
 												<td nowrap style="text-align:left">UMAR MALIK, SE</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
 												
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -250,13 +315,6 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -273,23 +331,26 @@
 												<td style="text-align:left" nowrap>Toko Segar Buah</td>
 												<td align="center" valign="middle" style="text-align:center">000000002</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
 												<td nowrap style="text-align:left">000 000 000</td>
 												<td nowrap style="text-align:left">LEONY HESTI KILALA	</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
-												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
+												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -303,13 +364,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
+																		
 																		
 																	</ul>
 																</div>
@@ -327,23 +382,26 @@
 												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
 												<td align="center" valign="middle" style="text-align:center">000000003</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
 												<td nowrap style="text-align:left">000 000 000</td>
 												<td nowrap style="text-align:left">MUSLIMIN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Non Aktif</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -356,14 +414,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
+																	
 																		
 																	</ul>
 																</div>
@@ -381,20 +432,22 @@
 												<td style="text-align:left" nowrap>Toko Aroma</td>
 												<td align="center" valign="middle" style="text-align:center">000000004</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
 												<td nowrap style="text-align:left">000 000 000</td>
 												<td nowrap style="text-align:left">HAERUL</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
@@ -404,6 +457,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -417,13 +471,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
+																		
 																		
 																	</ul>
 																</div>
@@ -441,20 +489,22 @@
 												<td style="text-align:left" nowrap>Jangkar Mas</td>
 												<td align="center" valign="middle" style="text-align:center">000000005</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
 												<td nowrap style="text-align:left">000 000 000</td>
 												<td nowrap style="text-align:left">WIRA YUDHA SAKTI. D	</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
@@ -464,6 +514,7 @@
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -477,13 +528,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
+																		
 																		
 																	</ul>
 																</div>

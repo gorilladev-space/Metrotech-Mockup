@@ -1121,16 +1121,22 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												
@@ -1213,7 +1219,7 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>
@@ -1426,6 +1432,7 @@ function goBack() {
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												

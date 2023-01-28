@@ -1121,16 +1121,22 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												
@@ -1416,16 +1422,22 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												

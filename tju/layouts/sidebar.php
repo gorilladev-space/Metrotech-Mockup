@@ -89,6 +89,7 @@
 											
 											<li class="kt-menu__item" aria-haspopup="true"><a href="tandaterimasetoranjukir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Terima Setoran Jukir</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoringsetorankolektor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="kolektormintakarcis.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Permintaan Karcis</span></a></li>
 											
 											
 											
