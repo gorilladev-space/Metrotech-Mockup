@@ -60,10 +60,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				  <a href="mitra-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i>Buat Tanda Terima Setoran</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
+				 
                
             </div>
         </div>
@@ -120,9 +117,9 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label class="">Tanggal Mulai Kerja :</label>
+                                <label class="">Tanggal Setoran :</label>
                                 <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
 						                        <div class="input-group-append">
 						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
 						                        </div>
@@ -153,7 +150,7 @@
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-2">
+							<div class="col-lg-1">
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -184,6 +181,16 @@
     		                        </span>
     		                    </div>
     		                    </div>
+							<div class="col-lg-1">
+                                <label>Status :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sudah Setor</option>
+                                      <option value="2">Belum Setor</option>
+                                      <option value="2">Kurang Setor</option>
+                                      
+                                  </select>
+                            </div>
 							
 							
                             </div>
@@ -215,7 +222,7 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">No</th>
 											  
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
 											 
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
@@ -330,10 +337,14 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>Nama Kolektor<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-check"></i>
+														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor - Kurang<hr>Nama Kolektor<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-check"></i>
+														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -386,7 +397,9 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>Nama Kolektor<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-check"></i>
+														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
 												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -441,7 +454,9 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>Nama Kolektor<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-check"></i>
+														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
 												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -497,7 +512,9 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>Nama Kolektor<br>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-check"></i>
+														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
 												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -673,6 +690,7 @@
                         </div>
 						
                         </div>
+						
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-12">
@@ -1270,6 +1288,22 @@ function goBack() {
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
 												
+												
+												<div class="col-lg-4">
+														<label>Tanggal Tagihan :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">
+											
+													</div>
+													<div class="col-lg-4">
+														<label>Tanggal Setoran :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">
+											
+													</div>
+													
+													</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												
 
 												<div class="col-lg-4">
 														<label>Target Setoran :</label>
@@ -1305,7 +1339,7 @@ function goBack() {
 												</div>
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
-												<div class="col-lg-6">
+												<div class="col-lg-4">
 														<label class="kt-font-danger">Tanda Tangan Mitra Jukir :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
@@ -1313,7 +1347,7 @@ function goBack() {
 													</div>
 												</div>
 													</div>
-												<div class="col-lg-6">
+												<div class="col-lg-4">
 														<label>Tanda Tangan Kolektor :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
@@ -1322,13 +1356,18 @@ function goBack() {
 												</div>
 
 												</div>
+												<div class="col-lg-4">
+														<label>Keterangan Tambahan :</label>
+														<textarea class="form-control" id="exampleTextarea" rows="6" placeholder="Khilaf"></textarea>
+
+												</div>
 
 												</div>
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 									<div class="kt-portlet__foot kt-align-right">
 												<div class="">
 
-													<button type="reset" class="btn btn-brand btn-sm" id="m_sweetalert_demo_8" >Kirim</button>
+													<button type="reset" class="btn btn-brand btn-sm" id="kt_sweetalert_demo_8" >Kirim</button>
 												</div>
 											</div>
 

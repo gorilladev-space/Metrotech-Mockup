@@ -87,10 +87,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mitrakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir Anda</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="targetkolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
 											
-											<li class="kt-menu__item" aria-haspopup="true"><a href="tandaterimasetoranjukir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tanda Terima Setoran Jukir</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="laporanfm.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan FM</span></a></li>
-											
-											<li class="kt-menu__item" aria-haspopup="true"><a href="setorankolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="tandaterimasetoranjukir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Terima Setoran Jukir</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoringsetorankolektor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
 											
 											
@@ -109,8 +106,8 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
                                     </a>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Baru</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorparkir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Tutup</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-acara-parkir-baru.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Baru</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-acara-parkir-tutup.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Parkir Tutup</span></a></li>
 											
 											
 											
