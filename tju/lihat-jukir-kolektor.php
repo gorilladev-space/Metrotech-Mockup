@@ -198,7 +198,7 @@ function goBack() {
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Titik :</label>
+                                <label>Titik Parkir :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -288,7 +288,7 @@ function goBack() {
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="2%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="2%" bgcolor="#f7fcff">Titik</th>
+											  <th width="2%" bgcolor="#f7fcff">Titik Parkir</th>
 											  <th bgcolor="#f7fcff">Awal</th>
 											  <th bgcolor="#f7fcff">Akhir</th>
 											  <th width="1%" bgcolor="#f7fcff">ID Card</th>
@@ -738,7 +738,7 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>
@@ -1033,7 +1033,7 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>

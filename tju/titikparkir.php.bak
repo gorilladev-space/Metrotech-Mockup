@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Target Mitra Parkir
+                   Data Titik Parkir
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -89,7 +89,7 @@
                             </div>
                            
 							<div class="col-lg-2">
-                                <label>Zona Kerja :</label>
+                                <label>Zona :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
@@ -171,28 +171,33 @@
 											  
 											 
 											  
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
-											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
-											   <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
+											 
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Zona</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
+											   <th colspan="6" bgcolor="#feffed">Mitra Jukir</th>
+											   <th width="1%" colspan="5" bgcolor="#f7fcff">Kolektor</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff">Penetapan<br>
+											  Titik Parkir</th>
+											 
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="2%" bgcolor="#f7fcff">Zona</th>
-											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="3%" bgcolor="#f7fcff">Titik</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Selasa</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Rabu</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Kamis</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Jumat</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Sabtu</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Minggu</th>
-											  <th bgcolor="#f7fcff">Dibuat</th>
-											  <th bgcolor="#f7fcff">Terakhir Diubah</th>
+											  <th width="2%" bgcolor="#feffed">ID Mitra</th>
+											  <th width="2%" bgcolor="#feffed">Qr Code</th>
+											  <th width="2%" bgcolor="#feffed">Foto</th>
+											  <th width="10%" bgcolor="#feffed">Nama Mitra</th>
+											  <th width="1%" bgcolor="#feffed">Hp</th>
+											  <th width="1%" bgcolor="#feffed">WA</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">NIK</th>
+											  <th width="10%" bgcolor="#f7fcff">Nama Pegawai</th>
+											  <th width="1%" bgcolor="#f7fcff">Hp</th>
+											  <th width="1%" bgcolor="#f7fcff">WA</th>
+											  <th width="2%" bgcolor="#f7fcff">Dibuat</th>
+											  <th width="2%" bgcolor="#f7fcff">Terakhir Diubah</th>
 											  
 											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
@@ -204,29 +209,25 @@
 												<td id="kt_table_1" style="text-align:right">1</td>
 												
 												
+												
+												
+												<td style="text-align:left" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
+												<td align="center" valign="middle" style="text-align:center">000000001</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
-												
-												<td style="text-align:left" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:left">000 000 000</td>
+												<td nowrap style="text-align:left">UMAR MALIK, SE</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												
@@ -242,35 +243,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-target-detail.php" class="kt-nav__link">
+																			<a href="titik-parkir-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -287,30 +265,25 @@
 												<td id="kt_table_1" style="text-align:right">2</td>
 												
 												
+												
+												
+												<td style="text-align:left" nowrap>Bontoala</td>
+												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:left" nowrap>Toko Segar Buah</td>
+												<td align="center" valign="middle" style="text-align:center">000000002</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>ARMAN</td>
-												
-												<td style="text-align:left" nowrap>Bontoala</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:left" nowrap>Toko Segar Buah</td>
-												
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:left">000 000 000</td>
+												<td nowrap style="text-align:left">LEONY HESTI KILALA	</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Belum Ada</span></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -323,35 +296,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-target-detail.php" class="kt-nav__link">
+																			<a href="titik-parkir-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -369,30 +319,25 @@
 												
 												
 												
+												
+												
+												<td style="text-align:left" nowrap>Kepulauan Sangkarrang</td>
+												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
+												<td align="center" valign="middle" style="text-align:center">000000003</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
-												
-												<td style="text-align:left" nowrap>Kepulauan Sangkarrang</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
-												
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:left">000 000 000</td>
+												<td nowrap style="text-align:left">MUSLIMIN</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
@@ -405,35 +350,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-target-detail.php" class="kt-nav__link">
+																			<a href="titik-parkir-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -451,30 +373,25 @@
 												
 											
 												
+												
+												
+												<td style="text-align:left" nowrap>Makassar</td>
+												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:left" nowrap>Toko Aroma</td>
+												<td align="center" valign="middle" style="text-align:center">000000004</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
-												
-												<td style="text-align:left" nowrap>Makassar</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:left" nowrap>Toko Aroma</td>
-												
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:left">000 000 000</td>
+												<td nowrap style="text-align:left">HAERUL</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
@@ -493,35 +410,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-target-detail.php" class="kt-nav__link">
+																			<a href="titik-parkir-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -539,30 +433,25 @@
 												
 											
 												
+												
+												
+												<td style="text-align:left" nowrap>Mamajang</td>
+												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:left" nowrap>Jangkar Mas</td>
+												<td align="center" valign="middle" style="text-align:center">000000005</td>
+												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
 
 												<td style="text-align:left" nowrap>BANI</td>
-												
-												<td style="text-align:left" nowrap>Mamajang</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:left" nowrap>Jangkar Mas</td>
-												
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
+												<td nowrap style="text-align:left">000 000 000</td>
+												<td nowrap style="text-align:left">WIRA YUDHA SAKTI. D	</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
@@ -581,35 +470,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-target-detail.php" class="kt-nav__link">
+																			<a href="titik-parkir-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>

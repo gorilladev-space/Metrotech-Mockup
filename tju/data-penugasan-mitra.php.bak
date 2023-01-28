@@ -228,9 +228,6 @@ function goBack() {
 																					</div>
 																					
 																					
-																					
-																				</div>
-						
 						<div class="col-lg-6">
 																						<label>NIP :</label>
 																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>

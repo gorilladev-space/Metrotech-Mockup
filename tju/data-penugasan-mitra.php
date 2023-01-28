@@ -198,7 +198,7 @@ function goBack() {
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-12">
-																						<label>Titik Bertugas :</label>
+																						<label>Titik Parkir :</label>
 																						<input type="text" class="form-control form-control-sm" value="Coto Nusantara" placeholder="Coto Nusantara" disabled>
 																					</div>
 

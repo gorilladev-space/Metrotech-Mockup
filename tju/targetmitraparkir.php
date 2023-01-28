@@ -131,7 +131,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Titik :</label>
+                                <label>Titik Parkir :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -183,7 +183,7 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="3%" bgcolor="#f7fcff">Titik</th>
+											  <th width="3%" bgcolor="#f7fcff">Titik Parkir</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Selasa</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Rabu</th>

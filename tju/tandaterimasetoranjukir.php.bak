@@ -172,7 +172,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Titik :</label>
+                                <label>Titik Parkir :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -1358,7 +1358,7 @@ function goBack() {
 												</div>
 												<div class="col-lg-4">
 														<label>Keterangan Tambahan :</label>
-														<textarea class="form-control" id="exampleTextarea" rows="6" placeholder="Khilaf"></textarea>
+														<textarea class="form-control" id="exampleTextarea" rows="6" placeholder="Belum Normal"></textarea>
 
 												</div>
 

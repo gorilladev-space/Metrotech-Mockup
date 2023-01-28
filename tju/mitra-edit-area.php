@@ -429,7 +429,7 @@ function goBack() {
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-10">
-																						<label>Titik :</label>
+																						<label>Titik Parkir :</label>
 																						<select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">I</option>
                                       <option value="2">II</option>

@@ -439,7 +439,7 @@ function goBack() {
 							<tr>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td valign="top">Titik</td>
+							  <td valign="top">Titik Parkir</td>
 							  <td valign="top">:</td>
 							  <td colspan="4" valign="top">Coto Nusantara</td>
   </tr>
