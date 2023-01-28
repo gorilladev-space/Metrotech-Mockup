@@ -222,17 +222,13 @@ function goBack() {
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-12">
+																					<div class="col-lg-6">
 																						<label>Nama Pegawai :</label>
 																						<input type="text" class="form-control form-control-sm" value="Sri Suhartini, SE" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					
 																					
-																					
-																				</div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-12">
+						<div class="col-lg-6">
 																						<label>NIP :</label>
 																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>

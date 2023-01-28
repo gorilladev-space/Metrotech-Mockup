@@ -259,7 +259,6 @@
 											  
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Jam Kerja</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Jenis Kelamin</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>Berhenti</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
@@ -268,6 +267,7 @@
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Atribut Kerja</th>
 											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Keterangan<br>Pemberhentian</th>
+											    <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -279,7 +279,10 @@
 											  <th width="1%" bgcolor="#f7fcff">ID Card</th>
 											  <th width="1%" bgcolor="#f7fcff">Rompi</th>
 											  <th width="1%" bgcolor="#f7fcff">BPJSTK</th>
-								          </tr>
+											  <th width="0%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
+											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
+											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>
+						                  </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -301,7 +304,6 @@
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -318,6 +320,11 @@
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 														<td style="text-align:left" nowrap>Atas Permintaan Sendiri</td>
+														<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Belum Dibaca"><i class="fa fa-info" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -374,7 +381,6 @@
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -391,6 +397,9 @@
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 														<td style="text-align:left" nowrap>Sering Tidak Capai Target</td>
+														<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Belum Dibaca"><i class="fa fa-info" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -447,7 +456,6 @@
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -462,6 +470,9 @@
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 														<td style="text-align:left" nowrap>Atas Permintaan Sendiri</td>
+														<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Belum Dibaca"><i class="fa fa-info" data-html="true"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -518,7 +529,6 @@
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Wanita</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -531,6 +541,15 @@
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Tidak Aktif" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:left" nowrap>Atas Permintaan Sendiri</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Telah Dibaca<hr>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-info kt_sweetalert_demo_9"></i>
+														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -587,7 +606,6 @@
 												<td nowrap style="text-align:center">06:00:00</td>
 												<td nowrap style="text-align:center">12:00:00</td>
 												<td style="text-align:center" nowrap>Pria</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -604,6 +622,15 @@
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 														<td style="text-align:left" nowrap>Atas Permintaan Sendiri</td>
+														<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Telah Dibaca<hr>31 Desember 2018 - 14:30 WITA">
+															<i class="fa fa-info kt_sweetalert_demo_9"></i>
+														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
