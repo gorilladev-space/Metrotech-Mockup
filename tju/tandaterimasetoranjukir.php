@@ -213,9 +213,7 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">No</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
@@ -241,26 +239,24 @@
 											  <th bgcolor="#f7fcff">Akhir</th>
 											 
 											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
-											  <th colspan="2" bgcolor="#feffed">Target</th>
-											  <th width="1%" bgcolor="#feffed">Setoran</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%"colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
+											  <th width="1%" colspan="2" bgcolor="#feffed">Target</th>
+											  <th width="1%" bgcolor="#feffed">#</th>
 								          </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -278,25 +274,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -317,8 +313,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -336,25 +330,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -375,8 +369,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -394,25 +386,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; nowrap">&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -432,8 +424,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -451,25 +441,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -490,8 +480,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">5</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000005</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
@@ -509,25 +497,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -547,7 +535,7 @@
 															</div></td>
 										  </tr>
 										  <tr bgcolor="#feffed";>
-										    <td colspan="10" id="kt_table_3" style="text-align:center" bgcolor="#feffed"><strong>Total Target</strong></td>
+										    <td colspan="8" id="kt_table_3" style="text-align:center" bgcolor="#feffed"><strong>Total Target</strong></td>
 										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
 										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
 										    <td style="text-align:left;" nowrap>&nbsp;</td>
