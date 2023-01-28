@@ -61,7 +61,7 @@
                     <!--end::Nav-->
                 </div>
 				  <a href="mitra-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i>Form Tanda Terima Setoran</button>
+                    <i class="fa fa-plus"></i>Buat Tanda Terima Setoran</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
                
@@ -274,25 +274,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -330,25 +330,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -386,25 +386,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -441,25 +441,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -497,25 +497,25 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left;" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -1211,6 +1211,136 @@ function goBack() {
 								</div>
 							</div>
 							<!--End::Modal 2-->
+							<!--begin::Modal 1-->
+									<div class="modal fade" id="modal_setoran_jukir" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-danger">FORM SETORAN MITRA JUKIR</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
+													<div class="form-group row">
+												<div class="col-lg-4">
+														<label>ID Mitra Jukir :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001">
+
+												</div>
+
+												<div class="col-lg-8">
+														<label>Nama Mitra Jukir :</label>
+														<div class="form-group">
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="A. LUTFIA AGUSTINAPUTRI">
+												</div>
+												</div>
+												
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												
+												
+												<div class="col-lg-4">
+														<label>Zona :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepulauan Sangkarrang">
+											
+													</div>
+													<div class="col-lg-2">
+														<label>Wilayah :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="II">
+											
+													</div>
+													<div class="col-lg-6">
+														<label>Titik :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
+											
+													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												
+
+												<div class="col-lg-4">
+														<label>Target Setoran :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right"  class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+													<div class="col-lg-4">
+														<label class="kt-font-danger">Setoran :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right"  class="form-control form-control-sm" placeholder="500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+												<div class="col-lg-4">
+														<label>Selisih Setoran :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.500.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												<div class="col-lg-6">
+														<label class="kt-font-danger">Tanda Tangan Mitra Jukir :</label>
+														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
+													<div class="dropzone-msg dz-message needsclick">
+														<span class="dropzone-msg-desc">&nbsp;</span>
+													</div>
+												</div>
+													</div>
+												<div class="col-lg-6">
+														<label>Tanda Tangan Kolektor :</label>
+														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
+													<div class="dropzone-msg dz-message needsclick">
+														<span class="dropzone-msg-desc">&nbsp;</span>
+													</div>
+												</div>
+
+												</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+									<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm" id="m_sweetalert_demo_8" >Kirim</button>
+												</div>
+											</div>
+
+
+
+
+									</div>
+
+									</div>
+								</div>
+							</div>
+							<!--End::Modal 1-->
         </div>
     </div>
 

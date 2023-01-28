@@ -93,15 +93,15 @@ var KTSweetAlert2Demo = function() {
 
         $('#kt_sweetalert_demo_8').click(function(e) {
             swal.fire({
-                title: 'Are you sure?',
-                text: "You won't be able to revert this!",
+                title: 'Apakah Anda yakin Ingin Simpan Data ?',
+                text: "Tolong perhatikan kembali data Anda",
                 type: 'warning',
                 showCancelButton: true,
-                confirmButtonText: 'Yes, delete it!'
+                confirmButtonText: 'Ya, Kirim!'
             }).then(function(result) {
                 if (result.value) {
                     swal.fire(
-                        'Deleted!',
+                        'Data Berhasil Dikirim !',
                         '',
                         'success'
                     )
