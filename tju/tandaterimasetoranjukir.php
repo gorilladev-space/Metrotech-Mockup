@@ -117,7 +117,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label class="">Tanggal Setoran :</label>
+                                <label class="">Periode Target :</label>
                                 <div class="input-group">
 						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
 						                        <div class="input-group-append">
