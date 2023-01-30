@@ -399,7 +399,7 @@ License: You must have a valid license purchased only from themeforest(the above
 														</div>
 <div class="kt-grid-nav__row">
 															
-															<a href="./recruitment/index.php" class="kt-grid-nav__item">
+															<a href="./trc/index.php" class="kt-grid-nav__item">
 																<span class="kt-grid-nav__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">
     <g id="Stockholm-icons-/-General-/-Binocular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
