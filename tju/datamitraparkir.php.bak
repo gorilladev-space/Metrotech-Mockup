@@ -129,6 +129,18 @@
                                       
                                   </select>
                             </div>
+							<div class="col-lg-2">
+                                <label>Kolektor :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">HARIS DG. PAWA</option>
+                                      <option value="2">ARMAN</option>
+                                      <option value="3">KASIM DG. BONTO</option>
+                                      <option value="4">A. LUTFIA AGUSTINAPUTRI</option>
+                                      <option value="4">BANI</option>
+                                      
+                                  </select>
+                            </div>
 							
 							
                             </div>
@@ -1422,11 +1434,16 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				

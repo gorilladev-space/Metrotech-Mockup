@@ -129,6 +129,18 @@
                                       
                                   </select>
                             </div>
+							<div class="col-lg-2">
+                                <label>Kolektor :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">HARIS DG. PAWA</option>
+                                      <option value="2">ARMAN</option>
+                                      <option value="3">KASIM DG. BONTO</option>
+                                      <option value="4">A. LUTFIA AGUSTINAPUTRI</option>
+                                      <option value="5">BANI</option>
+                                      
+                                  </select>
+                            </div>
 							
 							
                             </div>

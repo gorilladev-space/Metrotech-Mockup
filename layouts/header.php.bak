@@ -11,7 +11,7 @@
   <!-- begin:: Header Mobile -->
   <div id="kt_header_mobile" class="kt-header-mobile  kt-header-mobile--fixed ">
     <div class="kt-header-mobile__logo">
-      <a href="index.php">
+      <a href="#">
         <img alt="Logo" src="assets/img/logos/logopdparkir.png" style="width:80%"/>
       </a>
     </div>
@@ -47,7 +47,7 @@
                                 </svg></span>
                             <span>
                             <a href="/">
-                                <img alt="Logo" src="assets/img/logos/logoim.png"></span>
+                                <img alt="Logo" src="assets/img/logos/logopdparkir.png"></span>
                             </a>
                         </button>
 
