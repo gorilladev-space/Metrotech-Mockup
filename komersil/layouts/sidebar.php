@@ -79,6 +79,8 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="koordinator-pos-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="terima-setoran-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Terima Setoran Petugas</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoring-setoran-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="permohonan-karcis-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Permohonan Karcis</span></a></li>
 											
 										</ul>
 									</div>
@@ -103,6 +105,8 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Kinerja Petugas Pos</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-koordinator-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Kinerja Koordinator</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-rekap-pendapatan-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Rekap Pendapatan</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="grafik-pendapatan-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Grafik Pendapatan</span></a></li>
 											
 
 										</ul>
@@ -117,11 +121,8 @@
 </svg></span><span class="kt-menu__link-text">Master Data</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 											<ul class="kt-menu__subnav">
-												<li class="kt-menu__item  kt-menu__item--parent" aria-haspopup="true"><span class="kt-menu__link"><span class="kt-menu__link-text">Pajak</span></span></li>
-												<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-rekap-absen.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">	Syarat Pembayaran</span></a></li>
-												<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="pegawai-cuti.php" class="kt-menu__link kt-menu__toggle"><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi Berulang</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-izin.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Proses Akhir Bulan</span></a></li>
-												<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-lembur.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi Favorit</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="zona-komersial.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Zona</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="pos-petugas-komersial.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">POS</span></a></li>
 											</ul>
 									</div>
 								</li>
@@ -134,8 +135,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="setup-cuti.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">-</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">-</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="setup-libur-setoran.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Hari Libur</span></a></li>
 
 										</ul>
 									</div>

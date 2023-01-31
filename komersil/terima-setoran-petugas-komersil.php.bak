@@ -212,8 +212,8 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">No</th>
 											  
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Petugas</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Petugas</th>
 											 
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
 											  
@@ -268,29 +268,29 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.500.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.500.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -327,31 +327,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.750.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>1.750.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.750.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -388,31 +388,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">900.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>850.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.750.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -448,31 +448,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">150.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>100.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">200.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -509,31 +509,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">100.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>100.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">150.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -570,31 +570,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">350.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>350.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">700.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -631,31 +631,31 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">700.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>750.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>31 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.400.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -692,26 +692,26 @@
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">350.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>30 Januari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td style="text-align:right" nowrap>-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
-												<td style="text-align:left;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
+												<td style="text-align:center;" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Sudah Disetor<hr>01 Februari 2023 - 14:30 WITA">
 															<i class="fa fa-check"></i>
 														</span></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
-												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
+												<td style="text-align:center;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">-</td>
 												<td style="text-align:left;" nowrap><button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="modal" data-target="#modal_setoran_jukir" data-skin="" title="" data-html="true" data-original-title="Buat Setoran Jukir"><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -722,9 +722,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="petugas-pos-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																				<span class="kt-nav__link-text">Lihat Profil Petugas</span>
 																			</a>
 																		</li>
 																		
