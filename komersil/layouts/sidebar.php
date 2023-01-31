@@ -54,11 +54,31 @@
         <path d="M18,2 L20,2 C21.6568542,2 23,3.34314575 23,5 L23,19 C23,20.6568542 21.6568542,22 20,22 L18,22 L18,2 Z" fill="#000000" opacity="0.3"></path>
         <path d="M5,2 L17,2 C18.6568542,2 20,3.34314575 20,5 L20,19 C20,20.6568542 18.6568542,22 17,22 L5,22 C4.44771525,22 4,21.5522847 4,21 L4,3 C4,2.44771525 4.44771525,2 5,2 Z M12,11 C13.1045695,11 14,10.1045695 14,9 C14,7.8954305 13.1045695,7 12,7 C10.8954305,7 10,7.8954305 10,9 C10,10.1045695 10.8954305,11 12,11 Z M7.00036205,16.4995035 C6.98863236,16.6619875 7.26484009,17 7.4041679,17 C11.463736,17 14.5228466,17 16.5815,17 C16.9988413,17 17.0053266,16.6221713 16.9988413,16.5 C16.8360465,13.4332455 14.6506758,12 11.9907452,12 C9.36772908,12 7.21569918,13.5165724 7.00036205,16.4995035 Z" fill="#000000"></path>
     </g>
-</svg></span><span class="kt-menu__link-text">Data Mitra Parkir</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
+</svg></span><span class="kt-menu__link-text">Data Petugas POS</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
                                     </a>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="mitra-parkir-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="petugas-pos-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
+											
+										</ul>
+									</div>
+								</li>
+<li class="kt-menu__item  kt-menu__item--submenu" aria-haspopup="true" data-ktmenu-submenu-toggle="hover"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+     <g id="Stockholm-icons-/-Code-/-Git#2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-5" x="0" y="0" width="24" height="24"></rect>
+        <rect id="Rectangle" fill="#000000" opacity="0.3" x="5" y="8" width="2" height="8" rx="1"></rect>
+        <path d="M6,21 C7.1045695,21 8,20.1045695 8,19 C8,17.8954305 7.1045695,17 6,17 C4.8954305,17 4,17.8954305 4,19 C4,20.1045695 4.8954305,21 6,21 Z M6,23 C3.790861,23 2,21.209139 2,19 C2,16.790861 3.790861,15 6,15 C8.209139,15 10,16.790861 10,19 C10,21.209139 8.209139,23 6,23 Z" id="Oval-7-Copy" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle-Copy" fill="#000000" opacity="0.3" x="17" y="8" width="2" height="8" rx="1"></rect>
+        <path d="M18,21 C19.1045695,21 20,20.1045695 20,19 C20,17.8954305 19.1045695,17 18,17 C16.8954305,17 16,17.8954305 16,19 C16,20.1045695 16.8954305,21 18,21 Z M18,23 C15.790861,23 14,21.209139 14,19 C14,16.790861 15.790861,15 18,15 C20.209139,15 22,16.790861 22,19 C22,21.209139 20.209139,23 18,23 Z" id="Oval-7-Copy-2" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M6,7 C7.1045695,7 8,6.1045695 8,5 C8,3.8954305 7.1045695,3 6,3 C4.8954305,3 4,3.8954305 4,5 C4,6.1045695 4.8954305,7 6,7 Z M6,9 C3.790861,9 2,7.209139 2,5 C2,2.790861 3.790861,1 6,1 C8.209139,1 10,2.790861 10,5 C10,7.209139 8.209139,9 6,9 Z" id="Oval-7" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M18,7 C19.1045695,7 20,6.1045695 20,5 C20,3.8954305 19.1045695,3 18,3 C16.8954305,3 16,3.8954305 16,5 C16,6.1045695 16.8954305,7 18,7 Z M18,9 C15.790861,9 14,7.209139 14,5 C14,2.790861 15.790861,1 18,1 C20.209139,1 22,2.790861 22,5 C22,7.209139 20.209139,9 18,9 Z" id="Oval-7-Copy-3" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg></span><span class="kt-menu__link-text">Koordinator Lapangan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
+									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
+                                    </a>
+										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="koordinator-pos-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="terima-setoran-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Terima Setoran Petugas</span></a></li>
 											
 										</ul>
 									</div>
@@ -81,7 +101,8 @@
 </svg></span><span class="kt-menu__link-text">Laporan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-mitra-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Kinerja Mitra</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Kinerja Petugas Pos</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-koordinator-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Kinerja Koordinator</span></a></li>
 											
 
 										</ul>

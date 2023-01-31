@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Kolektor Parkir
+											Data Koordinator Pos Komersial
 
 									</h3>
 
@@ -230,24 +230,24 @@
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Wilayah :</label>
+                                <label>POS :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                               <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">MANDAI SIANG</option>
+                                      <option value="2">MANDAI MALAM</option>
+                                      <option value="3">KAPASA</option>
+                                      <option value="4">NIPA-NIPA</option>
+                                      <option value="5">YOS SUDARSO</option>
+                                      <option value="6">BTP</option>
+                                      <option value="7">CHECK POINT</option>
+                                      <option value="8">TEUKU UMAR</option>
+                                      <option value="9">ALAUDDIN SIANG</option>
+                                      <option value="10">ALAUDDIN MALAM</option>
+                                      <option value="11">MALLENGKERI</option>
+                                      <option value="12">HERTASNING</option>
+                                      <option value="13">KASSI</option>
+                                      <option value="14">BAROMBONG</option>
+                                      <option value="15">WADUK</option>
                                   </select>
                             </div>
 							
@@ -283,14 +283,15 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Area Bertugas</th>
+											  <th width="1%" colspan="3" bgcolor="#feffed">Area Bertugas</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="5%" bgcolor="#f7fcff">Awal</th>
 											  <th width="5%" bgcolor="#f7fcff">Berakhir</th>
 											  <th width="3%" bgcolor="#feffed">Zona</th>
-											  <th width="1%" bgcolor="#feffed">Wilayah</th>
+											  <th width="1%" bgcolor="#feffed">POS</th>
+											  <th width="1%" bgcolor="#feffed">Koordinator<br>Lapangan</th>
 										  </tr>
 										</thead>
 										<tbody>
@@ -311,7 +312,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">I, II</td>
+												<td nowrap style="text-align:left">Mandai Malam</td>
+<td nowrap style="text-align:left">Zaldy Amadha, A.Md</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -319,16 +321,10 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="zona-tugas-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</a>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
+																			</div>
 																		</li>
 
 																		
@@ -360,7 +356,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">II, V</td>
+												<td nowrap style="text-align:left">Mandai Malam</td>
+<td nowrap style="text-align:left">Zaldy Amadha, A.Md</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -368,17 +365,12 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
+
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link">
@@ -408,7 +400,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">I, II, III</td>
+												<td nowrap style="text-align:left">Kapasa</td>
+<td nowrap style="text-align:left">Zaldy Amadha, A.Md</td>	
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -416,15 +409,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -457,7 +444,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">V, VI</td>
+												<td nowrap style="text-align:left">Nipa-Nipa</td>
+												<td nowrap style="text-align:left">Zaldy Amadha, A.Md</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -465,15 +453,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -506,7 +488,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">I, II, III, IV</td>                                                                                      
+												<td nowrap style="text-align:left">Yos Sudarso</td>   
+												<td nowrap style="text-align:left">Suardi, S</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -514,15 +497,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -555,7 +532,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
-												<td nowrap style="text-align:left">I, II,</td>
+												<td nowrap style="text-align:left">BTP</td>
+												<td nowrap style="text-align:left">Suardi, S</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -563,15 +541,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -604,7 +576,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
-												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
+												<td nowrap style="text-align:left">Check Point</td>
+												<td nowrap style="text-align:left">Suardi, S</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -612,15 +585,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -653,23 +620,18 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Wajo</td>
-												<td nowrap style="text-align:left">I, II, III, IV, V, VI, VII</td>
+												<td nowrap style="text-align:left">Teuku Umar</td>
+												<td nowrap style="text-align:left">Suardi, S</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="lihat-jukir-kolektor.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-koordinator">
+																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Koordinator</span>
 																			</div>
 																		</li>
 
@@ -742,7 +704,7 @@
 													</div>
 												</div>
 <!--begin::Modal 1-->
-									<div class="modal fade" id="modal-zona-tugas" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal-zona-koordinator" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
@@ -784,29 +746,30 @@
 												</div>
 
 												<div class="col-lg-6">
-														<label>Wilayah :</label>
-									<select class="form-control kt-selectpicker" multiple="multiple">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+														<label>Pos :</label>
+									<select class="form-control kt-selectpicker" data-live-search="true" multiple="multiple">
+                                      <option value="1" selected="">MANDAI SIANG</option>
+                                      <option value="2">MANDAI MALAM</option>
+                                      <option value="3">KAPASA</option>
+                                      <option value="4">NIPA-NIPA</option>
+                                      <option value="5">YOS SUDARSO</option>
+                                      <option value="6">BTP</option>
+                                      <option value="7">CHECK POINT</option>
+                                      <option value="8">TEUKU UMAR</option>
+                                      <option value="9">ALAUDDIN SIANG</option>
+                                      <option value="10">ALAUDDIN MALAM</option>
+                                      <option value="11">MALLENGKERI</option>
+                                      <option value="12">HERTASNING</option>
+                                      <option value="13">KASSI</option>
+                                      <option value="14">BAROMBONG</option>
+                                      <option value="15">WADUK</option>
                                   </select>
 														
 													</div>
 
+
 												</div>
-												
+												<br>
 									<div class="kt-portlet__foot kt-align-center">
 												<div class="">
 
@@ -826,8 +789,52 @@
 
 									</div>
 								</div>
+								</div>
 							<!--End::Modal 1-->
-							
+							<!--begin::Modal 2-->
+									<div class="modal fade" id="kt_modal_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+										<div class="kt-portlet kt-portlet--height-fluid-full">
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Assign Project Director</div>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											<div class="form-group row">
+												<div class="col-lg-6">
+														<label>Nama Pegawai :</label>
+														<div class="kt-input-icon kt-input-icon--right">
+														<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+														<span class="kt-input-icon__icon kt-input-icon__icon--right">
+															<span><i class="la la-search"></i></span>
+														</span>
+													</div>
+
+												</div>
+
+												<div class="col-lg-6">
+														<label>Jabatan :</label>
+														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" >
+
+												</div>
+
+
+												</div>
+												</div>
+
+											</div>
+
+									</div>
+										<div class="modal-footer modal-footer-center">
+											<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Batal</button>
+											<button type="button" class="btn btn-success btn-sm"><i class="fa fa-check"></i>  Simpan</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!--End::Modal 2-->
 									<!--end: Datatable -->
 								</div>
 

@@ -324,7 +324,12 @@
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
-
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link">
@@ -367,7 +372,12 @@
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
-
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link">
@@ -409,6 +419,12 @@
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
 																		</li>
 
 																		
@@ -453,6 +469,12 @@
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
+																		</li>
 
 																		
 																		<li class="kt-nav__item">
@@ -495,6 +517,12 @@
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
 																		</li>
 
 																		
@@ -539,6 +567,12 @@
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
+																		</li>
 
 																		
 																		<li class="kt-nav__item">
@@ -582,6 +616,12 @@
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
+																		</li>
 
 																		
 																		<li class="kt-nav__item">
@@ -624,6 +664,12 @@
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Mitra Jukir</span>
 																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
+																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
+																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
+																			</div>
 																		</li>
 
 																		
@@ -695,217 +741,92 @@
 													</div>
 												</div>
 <!--begin::Modal 1-->
-									<div class="modal fade" id="kt_modal_1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal-zona-tugas" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
 										<div class="modal-body">
-										<div class="kt-portlet kt-portlet--tabs">
-										<div class="kt-portlet__head">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-danger">FORM ZONA TUGAS</h3>
+											</div>
 											<div class="kt-portlet__head-toolbar">
-												<ul class="nav nav-tabs nav-tabs-line nav-tabs-line-danger nav-tabs-line-2x nav-tabs-line-right nav-tabs-bold" role="tablist">
-													<li class="nav-item">
-														<a class="nav-link active" data-toggle="tab" href="#kt_portlet_base_demo_2_3_tab_content" role="tab" aria-selected="true">
-															<i class="fa fa-dolly" aria-hidden="true"></i>Checklist
-														</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" data-toggle="tab" href="#kt_portlet_base_demo_2_2_tab_content" role="tab" aria-selected="false">
-															<i class="fab fa-dribbble" aria-hidden="true"></i>Serah Terima
-														</a>
-													</li>
-
-												</ul>
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
 											</div>
 										</div>
 										<div class="kt-portlet__body">
 											<div class="tab-content">
-												<div class="tab-pane active" id="kt_portlet_base_demo_2_3_tab_content" role="tabpanel">
-												<div class="form-group row">
-												<div class="col-lg-3">
-														<label>ID Penawaran :</label>
-														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="1102019">
-
-												</div>
-												<div class="col-lg-9">
-														<label>Nama Pekerjaan :</label>
-														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Pemasangan Access Door Lock dan Penggantian Reader Door Lock Pada Kantor Pusat">
-
-												</div>
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-													<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_2">
-
-  <tr style="text-align:center">
-    <td width="5%" bgcolor="#f7fcff" >NO</td>
-    <td width="80%" bgcolor="#f7fcff">URAIAN</td>
-
-    <td width="8%" bgcolor="#f7fcff">AKSI</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">1</td>
-    <td><input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Surat Penawaran"></td>
-
-    <td width="1%" style="text-align:center"><label class="kt-checkbox kt-checkbox--bold kt-checkbox--danger">
-															<input type="checkbox">
-															<span></span>
-														</label></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">2</td>
-    <td><input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Rencana Anggaran dan Biaya Penawaran"></td>
-
-   <td width="1%" style="text-align:center"><label class="kt-checkbox kt-checkbox--bold kt-checkbox--danger">
-															<input type="checkbox">
-															<span></span>
-														</label></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">3</td>
-    <td><input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Proposal Penawaran" /></td>
-
-   <td width="1%" style="text-align:center"><label class="kt-checkbox kt-checkbox--bold kt-checkbox--danger">
-															<input type="checkbox">
-															<span></span>
-														</label></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">4</td>
-    <td><input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Lampiran Teknis Penawaran" /></td>
-
-    <td width="1%" style="text-align:center"><label class="kt-checkbox kt-checkbox--bold kt-checkbox--danger">
-															<input type="checkbox">
-															<span></span>
-														</label></td>
-  </tr>
-
-</table>
-												</div>
-												<div class="tab-pane" id="kt_portlet_base_demo_2_2_tab_content" role="tabpanel">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-6">
-														<label>No. Tanda Terima Berkas :</label>
-														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="1/IM-TTD/XII/2019">
+														<label>Zona :</label>
+														<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
 
 												</div>
 
 												<div class="col-lg-6">
-														<label>Waktu Penyerahan Berkas :</label>
-														<div class="form-group">
-													<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
-												</div>
+														<label>Wilayah :</label>
+									<select class="form-control kt-selectpicker" multiple="multiple">
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
+                                  </select>
+														
 													</div>
 
 												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-												<div class="col-lg-6">
-														<label>Nama Pengirim Berkas :</label>
-														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
+												
+									<div class="kt-portlet__foot kt-align-center">
+												<div class="">
 
-												</div>
-
-												<div class="col-lg-6">
-														<label>Nama Penerima Berkas :</label>
-														<input type="email" class="form-control form-control-sm" placeholder="Direktur Utama">
-
-												</div>
-
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-												<div class="col-lg-6">
-														<label>Jabatan :</label>
-														<input type="email" class="form-control form-control-sm">
-
-												</div>
-
-												<div class="col-lg-6">
-														<label>Jabatan :</label>
-														<input type="email" class="form-control form-control-sm" >
-
-												</div>
-
-
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												<div class="form-group row">
-												<div class="col-lg-6">
-														<label>Tanda Tangan Pengirim Berkas :</label>
-														<textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
-
-												</div>
-
-												<div class="col-lg-6">
-														<label>Tanda Tangan Penerima Berkas :</label>
-														<textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
-
-												</div>
-
-
-												</div>
-												</div>
-												</div>
-
-											</div>
-										</div>
+													
+												
+													<div class="btn-group">
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
+			
 
 									</div>
-										<div class="modal-footer modal-footer-center">
-											<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Batal</button>
-											<button type="button" class="btn btn-success btn-sm"><i class="fa fa-check"></i>  Simpan</button>
-										</div>
+
 									</div>
 								</div>
-							</div>
 							<!--End::Modal 1-->
-							<!--begin::Modal 2-->
-									<div class="modal fade" id="kt_modal_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-									<div class="modal-content">
-
-										<div class="modal-body">
-										<div class="kt-portlet kt-portlet--height-fluid-full">
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Assign Project Director</div>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-											<div class="form-group row">
-												<div class="col-lg-6">
-														<label>Nama Pegawai :</label>
-														<div class="kt-input-icon kt-input-icon--right">
-														<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
-														<span class="kt-input-icon__icon kt-input-icon__icon--right">
-															<span><i class="la la-search"></i></span>
-														</span>
-													</div>
-
-												</div>
-
-												<div class="col-lg-6">
-														<label>Jabatan :</label>
-														<input type="email" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" >
-
-												</div>
-
-
-												</div>
-												</div>
-
-											</div>
-
-									</div>
-										<div class="modal-footer modal-footer-center">
-											<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Batal</button>
-											<button type="button" class="btn btn-success btn-sm"><i class="fa fa-check"></i>  Simpan</button>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!--End::Modal 2-->
+							
 									<!--end: Datatable -->
 								</div>
 
