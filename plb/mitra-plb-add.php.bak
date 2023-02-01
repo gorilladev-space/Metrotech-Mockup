@@ -396,11 +396,11 @@ function goBack() {
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 																					<div class="col-lg-6">
-																						<label>QR Code Mitra Jukir PLB :</label>
+																						<label>QR Code Jukir PLB :</label>
 																						<input type="text" class="form-control form-control-sm" value="" placeholder="" >
 																					</div>
 																					<div class="col-lg-6">
-																						<label>ID Mitra Jukir PLB :</label>
+																						<label>ID Jukir PLB :</label>
 																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					
@@ -409,7 +409,7 @@ function goBack() {
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
-																						<label>Tanggal Efektif Mitra  :</label>
+																						<label>Tanggal Efektif :</label>
 																						<div class="form-group">
 																							<div class="input-group date">
 																								<input type="text" class="form-control form-control-sm" readonly="" placeholder="= Pilih Tanggal =" id="kt_datepicker_2">
@@ -623,7 +623,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Mitra Jukir</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Jukir PLB</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
@@ -646,7 +646,7 @@ function goBack() {
 																							</div>
 																						</div>
 <div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Jukir PLB</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
@@ -675,7 +675,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Jukir PLB</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
@@ -698,7 +698,7 @@ function goBack() {
 																							</div>
 																						</div>
 																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Recognize Mitra Jukir</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Recognize Jukir PLB</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">

@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Profil Jukir PLB
+											Profil Pegawai
 									</h3>
 
 								</div>
@@ -75,10 +75,10 @@ function goBack() {
 											<div class="kt-widget kt-widget--user-profile-1">
 												<div class="form-group row" style="text-align:center">
 																	<div class="col-lg-12">
-														<label>Foto Jukir PLB :</label>
+														<label>Foto Pegawai :</label>
 														<div>&nbsp;</div>
 														<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_1.jpg&quot;);"></div>
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_3.jpg&quot;);"></div>
 
 
 																		</div>
@@ -88,7 +88,7 @@ function goBack() {
 												<div class="kt-widget__body">
 													<div>&nbsp;</div>
 													<div class="kt-widget__items">
-														<a href="jukir-plb-detail.php" class="kt-widget__item">
+														<a href="kolektor-detail.php" class="kt-widget__item">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -103,7 +103,7 @@ function goBack() {
 																</span>
 															</span>
 														</a>
-														<a href="data-penugasan-jukir-plb.php" class="kt-widget__item kt-widget__item--active">
+														<a href="data-kepegawaian-pegawai.php" class="kt-widget__item kt-widget__item--active">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -116,7 +116,7 @@ function goBack() {
     </g>
 </svg> </span>
 																<span class="kt-widget__desc">
-																	Data Penugasan
+																	Data Kepegawaian
 																</span>
 																</spandiv>
 														</a>
@@ -147,16 +147,16 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Penugasan</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kepegawaian</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 																					<div class="col-lg-6">
-																						<label>QR Code Jukir PLB :</label>
-																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																						<label>Tipe Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					<div class="col-lg-6">
-																						<label>ID Jukir PLB :</label>
+																						<label>NIP Pegawai :</label>
 																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					
@@ -164,33 +164,40 @@ function goBack() {
 																				</div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-4">
-																						<label>Tanggal Efektif Jukir PLB :</label>
+						<div class="col-lg-6">
+																						<label>Masuk Kerja :</label>
 																						<input type="text" class="form-control form-control-sm" value="31 Desember 2022" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-						<div class="col-lg-4">
-																						<label>Jam Tugas Awal :</label>
-																						<input type="text" class="form-control form-control-sm" value="06:00:00 AM" placeholder="06:00:00 AM" disabled>
-																					</div>
-																					<div class="col-lg-4">
-																						<label>Jam Tugas Akhir :</label>
-																						<input type="text" class="form-control form-control-sm" value="17:00:00 PM" placeholder="17:00:00 PM" disabled>
+						<div class="col-lg-6">
+																						<label>SK Pegawai Tetap :</label>
+																						<input type="text" class="form-control form-control-sm" value="31 Desember 2022" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-6">
-																						<label>Zona Kerja :</label>
-																						<input type="text" class="form-control form-control-sm" value="Biringkanaya" placeholder="Biringkanaya" disabled>
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 <div class="col-lg-6">
-																						<label>Wilayah :</label>
-																						<input type="text" class="form-control form-control-sm" value="I" placeholder="I" disabled>
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
+																					</div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-6">
+																						<label>Pangkat / Golongan :</label>
+																						<input type="text" class="form-control form-control-sm" value="X / IV A" placeholder="X / IV A" id="kt_datepicker_2" disabled>
+																					</div>
+						<div class="col-lg-6">
+																						<label>Kantor :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pusat" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 
-                   
+						
+                        </div>
                         </div>
 						
                      
@@ -198,8 +205,8 @@ function goBack() {
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-12">
-																						<label>Titik Parkir / Customer :</label>
-																						<input type="text" class="form-control form-control-sm" value="Coto Nusantara" placeholder="Coto Nusantara" disabled>
+																						<label>Jabatan :</label>
+																						<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 
 						
@@ -218,17 +225,21 @@ function goBack() {
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kolektor</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Atasan Langsung</div><br>
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-6">
+																					<div class="col-lg-12">
 																						<label>Nama Pegawai :</label>
 																						<input type="text" class="form-control form-control-sm" value="Sri Suhartini, SE" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					
 																					
-						<div class="col-lg-6">
+																					
+																				</div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
 																						<label>NIP :</label>
 																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>

@@ -412,7 +412,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
 																			</div>
@@ -502,7 +502,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
 																			</div>
@@ -590,7 +590,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
 																			</div>
@@ -676,7 +676,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
 																			</div>
@@ -754,19 +754,19 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="jukir-plb-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
+																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
 																			</div>
@@ -778,14 +778,14 @@
 																			</div>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
+																			<a href="jukir-plb-remove.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
+																				<span class="kt-nav__link-text">Berhentikan Jukir</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-edit-area.php" class="kt-nav__link">
+																			<a href="jukir-plb-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
@@ -865,7 +865,7 @@
                 </div>
             </div>
 			<!--begin::Modal 1-->
-									<div class="modal fade" id="serah-terima-atribut" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="serah-terima-id-card-plb" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
@@ -874,7 +874,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ID CARD</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ID CARD - JUKIR PLB</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 											
@@ -898,7 +898,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Jukir PLB</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -911,7 +911,7 @@
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
                        <div class="col-lg-12">
-                          <label>ID Mitra :</label>
+                          <label>ID Jukir PLB :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
                         </div>
 						
@@ -926,11 +926,11 @@
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
-                          <label><span style="color:#ff0000">*</span> Wil :</label>
+                          <label><span style="color:#ff0000">*</span> Wilayah :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir / Customer :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>
@@ -1027,7 +1027,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Jukir PLB</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1175,7 +1175,7 @@ function goBack() {
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ROMPI</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">SERAH TERIMA ROMPI - JUKIR PLB</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 											
@@ -1199,7 +1199,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Jukir PLB</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1212,7 +1212,7 @@ function goBack() {
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
                        <div class="col-lg-12">
-                          <label>ID Mitra :</label>
+                          <label>ID Jukir PLB :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
                         </div>
 						
@@ -1227,11 +1227,11 @@ function goBack() {
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
-                          <label><span style="color:#ff0000">*</span> Wil :</label>
+                          <label><span style="color:#ff0000">*</span> Wilayah :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir / Customer :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>
@@ -1328,7 +1328,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Jukir PLB</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1368,7 +1368,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Jukir PLB</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">

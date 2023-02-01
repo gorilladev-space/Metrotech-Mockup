@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Profil Mitra Jukir Langganan Bulanan
+											Profil Jukir PLB
 									</h3>
 
 								</div>
