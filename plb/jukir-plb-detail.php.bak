@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Profil Mitra Juru Parkir
+											Profil Mitra Jukir Langganan Bulanan
 									</h3>
 
 								</div>
@@ -75,7 +75,7 @@ function goBack() {
 											<div class="kt-widget kt-widget--user-profile-1">
 												<div class="form-group row" style="text-align:center">
 																	<div class="col-lg-12">
-														<label>Foto Mitra Jukir :</label>
+														<label>Foto Jukir PLB :</label>
 														<div>&nbsp;</div>
 														<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
 																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_1.jpg&quot;);"></div>
@@ -88,7 +88,7 @@ function goBack() {
 												<div class="kt-widget__body">
 													<div>&nbsp;</div>
 													<div class="kt-widget__items">
-														<a href="pegawai-detail.php" class="kt-widget__item kt-widget__item--active">
+														<a href="jukir-plb-detail.php" class="kt-widget__item kt-widget__item--active">
 															<span class="kt-widget__section">
 																<span class="kt-widget__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
