@@ -272,6 +272,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">ID Kolektor PLB</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
@@ -296,6 +297,7 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
+												<td id="kt_table_1">001KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
@@ -325,10 +327,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -344,6 +346,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
+												<td id="kt_table_1">002KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
 													</a></td>
@@ -373,10 +376,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -392,6 +395,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">3</td>
+												<td id="kt_table_1">003KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
@@ -421,10 +425,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -440,6 +444,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">4</td>
+												<td id="kt_table_1">004KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
 													</a></td>
@@ -469,10 +474,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -488,6 +493,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">5</td>
+												<td id="kt_table_1">005KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_8.jpg" alt="image">
 													</a></td>
@@ -517,10 +523,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -536,6 +542,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">6</td>
+												<td id="kt_table_1">006KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
@@ -565,10 +572,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -584,6 +591,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">7</td>
+												<td id="kt_table_1">007KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
@@ -613,10 +621,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -632,6 +640,7 @@
 										  </tr>
 <tr>
 												<td id="kt_table_1">8</td>
+												<td id="kt_table_1">008KPPMR0223</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -661,10 +670,10 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-tugas">
-																				<i class="kt-nav__link-icon fab fa-creative-commons-by"></i>
-																				<span class="kt-nav__link-text">Tentukan Wilayah Tugas</span>
-																			</div>
+																			<a href="zona-tugas-kolektor-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Tentukan Area Tugas</span>
+																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
@@ -754,9 +763,28 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
+												<div class="col-lg-3">
+														<label>ID Kolektor :</label>
+														 <input type="text" class="form-control form-control-sm" disabled placeholder="001KPPMR0223">
+
+												</div>
+<div class="col-lg-3">
+														<label>Nomor Induk Karyawan :</label>
+									<input type="text" class="form-control form-control-sm" disabled placeholder="000 000 001">
+														
+													</div>
 												<div class="col-lg-6">
+														<label>Nama Lengkap :</label>
+									<input type="text" class="form-control form-control-sm" disabled placeholder="WIRA YUDHA SAKTI. D">
+														
+													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												<div class="col-lg-4">
 														<label>Zona :</label>
-														<select class="form-control kt-selectpicker" data-live-search="true">
+														<select class="form-control kt-selectpicker" multiple="multiple">
                                       <option value="1" selected="">Biringkanaya</option>
                                       <option value="2">Bontoala</option>
                                       <option value="3">Kepulauan Sangkarrang</option>
@@ -776,8 +804,29 @@
 
 												</div>
 
-												<div class="col-lg-6">
+												<div class="col-lg-2">
 														<label>Wilayah :</label>
+									<select class="form-control kt-selectpicker" multiple="multiple">
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
+                                  </select>
+														
+													</div>
+													<div class="col-lg-6">
+														<label>Titik Parkir / Customer :</label>
 									<select class="form-control kt-selectpicker" multiple="multiple">
                                       <option value="1" selected="">I</option>
                                       <option value="2">II</option>
