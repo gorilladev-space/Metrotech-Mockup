@@ -69,7 +69,7 @@
 			<div class="kt-portlet kt-portlet--mobile ">
 				<div class="kt-portlet__body">
 					<!--begin: Datatable -->
-					 <div id="googleMap" style="width:100%;height:680px;"></div>
+					 <iframe src="https://pd-parkir.gorilladev.space/" style="height:700px;width:1750px;" title="Iframe Example"></iframe>
                     <!--end: Datatable -->
 
                     <!-- begin:: pageline -->

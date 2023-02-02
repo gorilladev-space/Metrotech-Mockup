@@ -49,10 +49,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="mitra-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-plus"></i> Tambah Data</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
+                
             </div>
         </div>
     </div>
@@ -72,7 +69,7 @@
 			<div class="kt-portlet kt-portlet--mobile ">
 				<div class="kt-portlet__body">
 					<!--begin: Datatable -->
-					 <div id="googleMap" style="width:100%;height:680px;"></div>
+					 <iframe src="https://pd-parkir.gorilladev.space/" style="height:700px;width:1800px;" title="Iframe Example"></iframe>
                     <!--end: Datatable -->
 
                     <!-- begin:: pageline -->
