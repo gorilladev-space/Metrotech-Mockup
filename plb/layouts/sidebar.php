@@ -79,8 +79,6 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mitrakolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir PLB Anda</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="targetkolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
 											
-											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoringsetorankolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
-											
 											
 											
 										</ul>
