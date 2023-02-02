@@ -169,6 +169,15 @@ function goBack() {
 														<option>Firma</option>
 														</select>
                         </div>
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Tipe Customer :</label>
+                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Silver</option>
+														<option>Gold</option>
+														<option>Platinum</option>
+														<option>Firma</option>
+														</select>
+                        </div>
                         </div>
 						
 						
@@ -879,7 +888,7 @@ function goBack() {
     <td colspan="7" style="text-align: center"><u><b>SURAT KESEPAKATAN BERSAMA</b></u></td>
   </tr>
   <tr>
-    <td colspan="7" style="text-align: center">Nomor : 097/80.3/PERUMDA-PMR/ST/XII/2022</td>
+    <td colspan="7" style="text-align: center">Nomor : 001/30.SKB-PLB/I/2023</td>
   </tr>
   <tr>
     <td colspan="7" style="text-align: right">&nbsp;</td>

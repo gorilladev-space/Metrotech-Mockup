@@ -343,24 +343,7 @@
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-edit-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-history-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">
@@ -425,24 +408,7 @@
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-edit-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-history-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">
@@ -507,24 +473,7 @@
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-edit-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="customer-history-skb.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">

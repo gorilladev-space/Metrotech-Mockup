@@ -169,6 +169,14 @@ function goBack() {
 														<option>Firma</option>
 														</select>
                         </div>
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Tipe Customer :</label>
+                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Silver</option>
+														<option>Gold</option>
+														<option>Platinum</option>
+														</select>
+                        </div>
                         </div>
 						
 						
