@@ -693,7 +693,7 @@ function goBack() {
 																								  <td width="1%" bgcolor="#f7fcff">No</td>
 																								  <td width="3%" bgcolor="#f7fcff">Jenis<br>Kendaraan</td>
 																									<td width="1%" bgcolor="#f7fcff">Daya<br>Tampung</td>
-																									<td width="12%" bgcolor="#f7fcff">Satuan Tarif</td>
+																									<td width="11%" bgcolor="#f7fcff">Satuan Tarif</td>
 																									<td width="5%" bgcolor="#f7fcff">Durasi</td>
 																									<td width="12%" bgcolor="#f7fcff">Nominal</td>
 																									<td width="5%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
@@ -882,283 +882,223 @@ function goBack() {
 															
 														<div class="bg-white w-50 ml-auto mr-auto">
 									<img src="../assets/img/header.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
-									<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+									<table align="center" border="0" cellpadding="1" style="width: 600px; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
-    <td colspan="7" style="text-align: center"><u><b>SURAT KESEPAKATAN BERSAMA</b></u></td>
+    <td colspan="12" style="text-align: center"><u><b>SURAT KESEPAKATAN BERSAMA</b></u></td>
   </tr>
   <tr>
-    <td colspan="7" style="text-align: center">Nomor : 001/30.SKB-PLB/I/2023</td>
+    <td colspan="12" style="text-align: center">Nomor : 001/30.SKB-PLB/I/2023</td>
   </tr>
   <tr>
-    <td colspan="7" style="text-align: right">&nbsp;</td>
+    <td colspan="12" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="7" style="text-align: left">Dasar :</td>
+    <td colspan="12" style="text-align: center"><strong>TENTANG</strong></td>
   </tr>
   <tr>
-    <td style="text-align: right">&nbsp;</td>
-    <td valign="top">1.</td>
-    <td>&nbsp;</td>
-    <td width="1182" colspan="4">Perda No 2 Tahun 2021 Tentang Pendirian Perusahaan Umum Daerah Parkir Makassar Raya</td>
+    <td colspan="12" style="text-align: center"><strong>PEMBAYARAN PARKIR LANGGANAN BULANAN (PLB)</strong></td>
   </tr>
   <tr>
-    <td style="text-align: right">&nbsp;</td>
-    <td valign="top">2.</td>
-    <td>&nbsp;</td>
-    <td colspan="4">Perda No 17 Tahun 2006 Tentang Pengelolaan Parkir Tepi Jalan Umum dalam Kota Makassar</td>
+    <td colspan="12" style="text-align: center"><strong>DALAM WILAYAH KOTA MAKASSAR</strong></td>
   </tr>
   <tr>
-    <td width="17" style="text-align: right">&nbsp;</td>
-    <td width="16" valign="top">3.</td>
-    <td width="5">&nbsp;</td>
-    <td colspan="4">Surat Perintah Walikota Makassar Nomor : 094/465/SP/VII/2022 Tanggal 22 Juli 2022 Mengikuti seluruh rangkaian kegiatan Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang.</td>
+    <td colspan="12" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: justify">Pada hari ini, SENIN tanggal TIGA bulan JANUARI tahun DUA RIBU DUA PULUH DUA masing-masing tersebut dibawah ini :</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: justify">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="1" align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td width="13" align="right" valign="top" style="text-align: right">A.</td>
+    <td width="1" align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" style="text-align: justify"><strong>YULIANTI TOMU, SE</strong> selaku Direktur Utama Perusahaan Umum Daerah Parkir Makassar Raya, yang beralamat kantor Jl. Hati Mulia No. 7 Makassar, yang bertindak untuk atas nama Perusahaan Umum Daerah Parkir Makassar Raya di Kota Makassar, berdasarkan Peraturan Daerah Kota Makassar No. 2 Tahun 2021, tentang pendirian perusahaan umum daerah Parkir Makassar Raya. Surat Walikota Makassar No : 973/85/B.Huk/I/2019 Tanggal 17 Januari 2019, Perihal : Pemungutan Pajak Parkir atas Parkir Langganan Bulanan (PLB) Badan Usaha / Perorangan, selanjutnya disebut <strong>Pihak Pertama</strong></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td align="right" valign="top" style="text-align: right">B.</td>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" style="text-align: justify"><strong>HENDRA</strong> beralamat di Jl. Gunung Latimojong Bertindak untuk dan adatas nama RUSLIM JAYA INDAH selanjutnya disebut sebagai <strong>Pihak Kedua</strong></td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: justify">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: justify">Pihak Pertama dan Pihak Kedua sepakat untuk membuat SKB tentang pembayaran Parkir Langganan Bulanan (PLB) untuk tahun 2022 yang berbunyi sebagai berikut :</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td align="right" valign="top" style="text-align: right">1.</td>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" style="text-align: left">Pihak Pertama, berdasarkan surat penetapan yang diterima menetapkan Parkir Langganan Bulanan (PLB) Pihak Kedua yang terletak di Jl. Gunung Latimojong dengan kriteria sebagai berikut :</td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td width="34" style="text-align: left">&nbsp;</td>
+    <td width="28" style="text-align: left">A.</td>
+    <td colspan="4" style="text-align: left">Daya Tampung Kendaraan Roda Dua (R2)</td>
+    <td width="17" style="text-align: left">=</td>
+    <td width="8" style="text-align: left"><strong>0</strong></td>
+    <td width="142" style="text-align: left"><strong>Unit</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">B.</td>
+    <td colspan="4" style="text-align: left">Daya Tampung Kendaraan Roda Empat (R4)</td>
+    <td style="text-align: left">=</td>
+    <td style="text-align: left"><strong>2</strong></td>
+    <td style="text-align: left"><strong>Unit</strong></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td align="right" valign="top" style="text-align: right">2.</td>
+    <td align="right" valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" style="text-align: justify">Pihak Pertama dan Pihak Kedua sepakat / menyetujui penetapan PLB Sebesar <em><strong>Rp. 300.000,- ( Tiga Ratus Ribu Rupiah )</strong></em><strong></strong></td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td valign="top" style="text-align: right">3.<span style="text-align: center"></span><span style="text-align: right"></span></td>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" style="text-align: justify">Pembayaran dimaksud pada Poin 2 diatas sudah termasuk pembayaran pajak parkir sebesar 30% (tiga puluh persen) untuk kepentingan pihak kedua.<span style="text-align: justify"></span></td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td valign="top" style="text-align: right">4.</td>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" valign="top" style="text-align: justify">Pihak Kedua sepakat dan menyetujui membayar <em><strong>Rp. 300.000,- ( Tiga Ratus Ribu Rupiah )</strong></em> setiap bulan berjalan kepada Pihak Pertama, berdsarkan invoice resmi dari Perusahaan Umum Daerah Parkir Makassar Raya.</td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td valign="top" style="text-align: right">5.</td>
+    <td valign="top" style="text-align: right">&nbsp;</td>
+    <td colspan="9" valign="top" style="text-align: justify">Kesepakatan Pembayaran Parkir Langganan Bulanan (PLB) ini mulai berlaku sejak tanggal diterbitkannya yakni 03 Januari 2022 dan dapat dievaluasi kembali setip akhir tahun bila dianggap perlu oleh Pihak Pertama, jika tidak ada perubahan maka SKB ini dinyatakan diperpanjang secara otomatis.</td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td align="right" valign="top" style="text-align: left">6.</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td colspan="9" style="text-align: left">Pembayaran Parkir Langganan Bulanan (PLB) ini dapat dilakukan dengan cara di Transfer melalui Rekening Resmi Perumda Parkir Makassar Raya : </td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td colspan="3" style="text-align: left"><strong>Nama Bank</strong></td>
+    <td width="16" style="text-align: left"><strong>:</strong></td>
+    <td colspan="5" style="text-align: left"><strong>Bank Tabungan Negara</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td colspan="3" style="text-align: left"><strong>No. Rek</strong></td>
+    <td style="text-align: left"><strong>:</strong></td>
+    <td colspan="5" style="text-align: left"><strong>9018 11 0000 01 3759</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td colspan="2" style="text-align: left">&nbsp;</td>
+    <td width="29" style="text-align: left">&nbsp;</td>
+    <td colspan="3" style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: justify">Demikian Surat Kesepakatan Bersama (SKB) ini dibuat dan ditanda tangani oleh kedua belah pihak untuk dipergunakan sebagaimana mestinya.</td>
+  </tr>
+  <tr>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td colspan="2" style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">&nbsp;</td>
+    <td width="173" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td width="88" style="text-align: left">Dibuat di</td>
+    <td style="text-align: center"> : </td>
+    <td colspan="2" style="text-align: left">Makassar</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td style="text-align: left">Pada Tanggal </td>
+    <td style="text-align: center">:</td>
+    <td colspan="2" style="text-align: left">03 Januari 2022</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left"><strong>Pihak Kedua</strong></td>
+    <td colspan="4" style="text-align: left"><strong>Pihak Pertama</strong></td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left"><strong>RUSLIM JAYA INDAH</strong></td>
+    <td colspan="4" style="text-align: left"><strong>PERUMDA PARKIR MAKASSAR RAYA</strong></td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">&nbsp;</td>
+    <td colspan="4" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left"><strong>HENDRA</strong></td>
+    <td colspan="4" style="text-align: left"><strong>YULIANTI TOMU, SE</strong></td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align: left">Pimpinan</td>
+    <td colspan="4" style="text-align: left">Direktur Utama</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: left"><hr /></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75"></td>
+    <td colspan="7" valign="middle" style="text-align: justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></td>
+  </tr>
+  <tr>
+    <td colspan="12" style="text-align: left">&nbsp;</td>
   </tr>
   
  
 </table>
 <div>&nbsp;</div>
-<table align="center" border="1" cellpadding="1" style="width: 600px; text-align:left; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
-  <tr>
-    <td colspan="5" style="text-align: center"><strong>PEJABAT YANG BERTANDA TANGAN DIBAWAH INI</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" rowspan="3" valign="top" style="text-align: right">A.</td>
-    <td colspan="2" style="text-align: left">Nama Pegawai</td>
-    <td width="355" style="text-align: left">Yulianti Tomu, SE</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: left">Jabatan</td>
-    <td style="text-align: left">Direktur Utama</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: left">Nama Instansi</td>
-    <td style="text-align: left">Perumda Parkir Makassar Raya</td>
-  </tr>
-  <tr>
-    <td colspan="5" style="text-align: center"><strong>MEMBERIKAN TUGAS KEPADA</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" rowspan="9" valign="top" style="text-align: right">B.</td>
-    <td colspan="2" style="text-align: center"><strong>NAMA PEGAWAI</strong></td>
-    <td style="text-align: center"><strong>JABATAN</strong></td>
-  </tr>
-  <tr>
-    <td width="12">1.</td>
-    <td width="200">Yulianti Tomu, SE</td>
-    <td style="text-align: left">Direktur Utama</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>Rizal Asjadad</td>
-    <td>Direktur Umum</td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Christofher Rio Aviary</td>
-    <td>Direktur Operasional</td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td>Mu&rsquo;amar Nor Amin</td>
-    <td>Direktur Keuangan dan Asset</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Zulfadli Syahrir</td>
-    <td>Direktur Pengembangan Usaha dan Kerjasama</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Ir. Asrarudin Mamonto, MM</td>
-    <td>Kepala Bagian Umum dan Kepegawaian</td>
-  </tr>
-  <tr>
-    <td valign="top">7</td>
-    <td valign="top">Sri Suhartini, SE</td>
-    <td>Kepala Seksi Administrasi Kepegawaian</td>
-  </tr>
-  <tr>
-    <td valign="top">8</td>
-    <td valign="top">Mahdinar, SE</td>
-    <td>Staff Keuangan</td>
-  </tr>
-  <tr>
-    <td colspan="5" valign="top" style="text-align: center"><strong>KETERANGAN</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" rowspan="2" valign="top" style="text-align: right">C.</td>
-    <td valign="top">1.</td>
-    <td colspan="2" valign="top">Peserta pada Acara Rapat Kerja Nasional XV APEKSI Tahun 2022 di Kota Padang Provinsi Sumatera Barat, Tanggal 6-10 Agustus 2022</td>
-  </tr>
-  <tr>
-    <td valign="top">2.</td>
-    <td colspan="2" valign="top">Pelaksanaan Surat Tugas ini terhitung mulai tanggal 6-11 Agustus 2022</td>
-  </tr>
-</table>
-								
+				
 </div>
 								</div>
 								<div><span>&nbsp;</span>
-   <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
-							<tr>
-							  <td width="3" valign="top">&nbsp;</td>
-							  <td width="3" valign="top">&nbsp;</td>
-							  <td width="3" valign="top">&nbsp;</td>
-							  <td width="16" valign="top">&nbsp;</td>
-							  <td width="3" valign="top">&nbsp;</td>
-							  <td width="3" valign="top">&nbsp;</td>
-							  <td width="7" valign="top">&nbsp;</td>
-							  <td colspan="4" valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td width="262"><p>&nbsp;</p></td>
-							  <td width="6" >&nbsp;</td>
-							  <td width="31" >&nbsp;</td>
-							  <td width="217">Makassar, 22 Desember  2022</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">Direksi Perusahaan Umum Daerah</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">Parkir  Makassar Raya</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top"><u><b>YULIANTI TOMU, SE</b></u></td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">Direktur Utama</td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top">Tembusan :</td>
-  </tr>
-							
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">1.</td>
-							  <td colspan="7" valign="top">Yth, Bapak Walikota Makassar</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">2.</td>
-							  <td colspan="7" valign="top">Yth, Dewan  Pengawas PERUMDA. Parkir Makassar Raya</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">3.</td>
-							  <td colspan="7" valign="top">Pertinggal</td>
-  </tr>
-							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td colspan="7" valign="top">&nbsp;</td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top"><hr /></td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
-  </tr>
-							<tr>
-							  <td colspan="11" valign="top">&nbsp;</td>
-  </tr>
-  </table>
+   
   <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
 													</div>
