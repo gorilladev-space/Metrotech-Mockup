@@ -78,6 +78,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="datakolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Kolektor</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mitrakolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir PLB Anda</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="targetkolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-kolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Anda</span></a></li>
 											
 											
 											
@@ -97,9 +98,7 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Customer</span></a></li>
-											
-											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-plb-expired.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Expired</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-plb-payment.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pembayaran Customer PLB</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-skb-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Kesepakatan Bersama</span></a></li>
 											
 
 										</ul>
