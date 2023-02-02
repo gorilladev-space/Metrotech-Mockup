@@ -264,7 +264,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer PLB</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>PLB</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer PLB</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
@@ -273,19 +273,20 @@
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
 											  
 											 
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe Customer</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
 											  <th width="1%" colspan="2" bgcolor="#f7fcff">SKB</th>
 											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
+											    <th width="5%" colspan="2" rowspan="2" bgcolor="#f7fcff">Tarif Pengelolaan</th>
 											    <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="7%" bgcolor="#f7fcff">Zona</th>
-											  <th width="7%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="2%" bgcolor="#f7fcff">Alamat</th>
-											  <th width="2%" bgcolor="#f7fcff">Email</th>
-											  <th width="2%" bgcolor="#f7fcff">HP</th>
-											  <th width="2%" bgcolor="#f7fcff">WA</th>
+											  <th width="2%" bgcolor="#f7fcff">Zona</th>
+											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="5%" bgcolor="#f7fcff">Alamat</th>
+											  <th width="1%" bgcolor="#f7fcff">Email</th>
+											  <th width="1%" bgcolor="#f7fcff">HP</th>
+											  <th width="1%" bgcolor="#f7fcff">WA</th>
 											
 											  <th width="1%" bgcolor="#f7fcff">Dibuat</th>
 											  <th width="1%" bgcolor="#f7fcff">Diubah</th>
@@ -307,7 +308,7 @@
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
-												<td style="text-align:center" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -317,9 +318,13 @@
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
 												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
+												<td style="text-align:left" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap>350.000,-</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -344,8 +349,18 @@
 																				<span class="kt-nav__link-text">Cetak SKB</span>
 																			</a>
 																		</li>
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="customer-edit-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-edit"></i>
+																				<span class="kt-nav__link-text">Ubah SKB</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="customer-history-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
+																				<span class="kt-nav__link-text">History SKB</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">
@@ -377,7 +392,7 @@
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
-												<td style="text-align:center" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -387,9 +402,11 @@
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
 												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
+												<td nowrap style="text-align:left">Rp.</td>
+												<td nowrap style="text-align:right">1.000.000,-</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -414,8 +431,18 @@
 																				<span class="kt-nav__link-text">Cetak SKB</span>
 																			</a>
 																		</li>
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="customer-edit-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-edit"></i>
+																				<span class="kt-nav__link-text">Ubah SKB</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="customer-history-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
+																				<span class="kt-nav__link-text">History SKB</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">
@@ -447,19 +474,21 @@
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
-												<td style="text-align:center" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
 												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
-												<td nowrap style="text-align:center">&nbsp;</td>
+												<td nowrap style="text-align:left">Rp.</td>
+												<td nowrap style="text-align:right">500.000,-</td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -484,8 +513,18 @@
 																				<span class="kt-nav__link-text">Cetak SKB</span>
 																			</a>
 																		</li>
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="customer-edit-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-edit"></i>
+																				<span class="kt-nav__link-text">Ubah SKB</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="customer-history-skb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
+																				<span class="kt-nav__link-text">History SKB</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="customer-edit.php" class="kt-nav__link">
