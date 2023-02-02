@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Mapping Mitra Parkir
+                    Mapping Mitra Jukir PLB
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -69,7 +69,7 @@
 			<div class="kt-portlet kt-portlet--mobile ">
 				<div class="kt-portlet__body">
 					<!--begin: Datatable -->
-					 <div id="googleMap" style="width:100%;height:680px;"></div>
+					 <d<iframe src="https://pd-parkir.gorilladev.space/" style="height:700px;width:1750px;" title="Iframe Example"></iframe>
                     <!--end: Datatable -->
 
                     <!-- begin:: pageline -->
