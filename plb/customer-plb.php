@@ -276,7 +276,7 @@
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
 											  <th width="1%" colspan="2" bgcolor="#f7fcff">SKB</th>
 											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
-											    <th width="5%" colspan="2" rowspan="2" bgcolor="#f7fcff">Tarif Pengelolaan</th>
+											    <th width="5%" colspan="2" rowspan="2" bgcolor="#f7fcff">Tarif Pengelolaan<br>( / Bulan )</th>
 											    <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
