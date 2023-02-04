@@ -500,7 +500,8 @@ function goBack() {
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="3" valign="center" style="text-align: left">PERUMDA Parkir Makassar Raya</td>
+    <td colspan="3" valign="center" style="text-align: left">Direksi Perusahaan Umum Daerah
+Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>

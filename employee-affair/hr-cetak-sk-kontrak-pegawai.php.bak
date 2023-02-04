@@ -484,50 +484,48 @@ function goBack() {
   </tr>
 						</table>
 						<br>
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td width="331" valign="center">&nbsp;</td>
-    <td width="90" valign="center">Ditetapkan di</td>
-    <td width="7" valign="center">:</td>
-    <td width="126" valign="center">Makassar</td>
+    <td width="331" rowspan="3" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+    <td width="90" valign="center" style="text-align: left">Ditetapkan di</td>
+    <td width="7" valign="center" style="text-align: left">:</td>
+    <td width="126" valign="center" style="text-align: left">Makassar</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center" style="text-align: left">Pada Tanggal </td>
+    <td valign="center" style="text-align: left">:</td>
+    <td valign="center" style="text-align: left">29 November 2022</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">PERUMDA Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td valign="center">Pada Tanggal </td>
-    <td valign="center">:</td>
-    <td valign="center">29 November 2022</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
+    <td colspan="3" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+    <td colspan="3" valign="center" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><u><b>Yulianti Tomu, SE</b></u></td>
-  </tr>
-  <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">Direktur Utama</td>
+    <td colspan="3" valign="center" style="text-align: left">Direktur Utama</td>
   </tr>
   <tr>
     <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
