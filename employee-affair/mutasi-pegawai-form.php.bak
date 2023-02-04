@@ -316,8 +316,9 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">238 004 032 - Maghfirah Sharifudin Andy Omar S.Psi</option>
-                              <option value="HI">238 004 032 - Nurul Insani Budhi Artha, A. Md</option>
+                              <option value="AK" Selected>Walikota Makassar</option>
+                              <option value="HI">Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</option>
+                              <option value="HI">Pertinggal.</option>
                             </select></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
@@ -726,11 +727,11 @@ function goBack() {
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
-							<tr>
-							  <td colspan="6" rowspan="9" valign="top">&nbsp;</td>
-							  <td width="84">Ditetapkan di </td>
+							<tr align="right" valign="top">
+							  <td colspan="6" rowspan="9"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+							  <td width="84" style="text-align:right">Ditetapkan di </td>
 							  <td width="8">:</td>
-							  <td width="130">Makassar</td>
+							  <td width="130" style="text-align:right">Makassar</td>
   </tr>
 							<tr>
 							  <td><u>Pada Tanggal</u></td>
@@ -747,7 +748,7 @@ function goBack() {
 							  <td colspan="3">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3">&nbsp;</td>
+							  <td colspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
 							<tr>
 							  <td colspan="3">&nbsp;</td>
@@ -769,18 +770,24 @@ function goBack() {
 							  <td colspan="9">1. Walikota Makassar;</td>
   </tr>
 							<tr>
-							  <td colspan="9">2.	Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
+							  <td colspan="9">2. Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
   </tr>
 							<tr>
-								<td colspan="9">3.	Pertinggal.</td>
-							</tr>
+								<td colspan="9">3. Pertinggal.</td>
+  </tr>
 							<tr>
 								<td colspan="9">&nbsp;</td>
 							</tr>
 							<tr>
+							  <td colspan="9"><hr /></td>
+  </tr>
+							<tr>
+							  <td colspan="9" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
 								<td colspan="9">&nbsp;</td>
 							</tr>
-						</table>
+</table>
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
 					<div class="bg-white w-50 ml-auto mr-auto">
@@ -883,28 +890,52 @@ function goBack() {
 						<br>
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+  </tr>
+  <tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td width="331" valign="center">&nbsp;</td>
+    <td width="331" rowspan="3" align="right" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
     <td width="90" valign="center">Ditetapkan di</td>
     <td width="7" valign="center">:</td>
     <td width="126" valign="center">Makassar</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
     <td valign="center">Pada Tanggal </td>
     <td valign="center">:</td>
     <td valign="center">29 November 2022</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td valign="center">&nbsp;</td>
     <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
     <td colspan="3" valign="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td align="right" valign="top">&nbsp;</td>
+    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
@@ -920,6 +951,18 @@ function goBack() {
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
     <td colspan="3" valign="center">Direktur Utama</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: right"><hr /></td>
+  </tr>
+  <tr>
+							  <td colspan="5" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
 						</table>
 						

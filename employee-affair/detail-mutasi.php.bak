@@ -372,7 +372,7 @@ function goBack() {
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sekertaris Direksi"></td>
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerjasama"></td>
                                                                                                     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
-                                                                                                    <td style="text-align:center">&nbsp;</td>
+                                                                                                   
                                             
                                                                                                     
 																								</tr>
