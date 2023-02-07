@@ -169,7 +169,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="bank.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Bank</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="provinsi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Provinsi</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="tembusan-surat.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tembusan Surat</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="format-nomor-surat.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor Surat</span></a></li>
+											
 											<li class="kt-menu__item" aria-haspopup="true"><a href="peringatan-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jenis Peringatan Pegawai</span></a></li>
 
 										</ul>
@@ -185,6 +185,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="format-nomor-surat.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor Surat</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Kontrak Kerja</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Keterangan Kerja</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Pengalaman Kerja</span></a></li>
