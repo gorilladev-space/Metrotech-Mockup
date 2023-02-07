@@ -347,8 +347,8 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="buat-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-add"></i>
+																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-export"></i>
 																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
 																			</a>
 																		</li>
@@ -415,8 +415,8 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="buat-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-add"></i>
+																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-export"></i>
 																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
 																			</a>
 																		</li>
@@ -500,8 +500,8 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="buat-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-add"></i>
+																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-export"></i>
 																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
 																			</a>
 																		</li>
@@ -585,8 +585,8 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="buat-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-add"></i>
+																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-export"></i>
 																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
 																			</a>
 																		</li>
@@ -670,8 +670,8 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="buat-laporan-perjalanan-dinas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-add"></i>
+																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-export"></i>
 																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
 																			</a>
 																		</li>

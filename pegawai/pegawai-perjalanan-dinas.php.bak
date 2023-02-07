@@ -219,7 +219,7 @@
 												<th colspan="2" bgcolor="#f7fcff">Kota</th>
 												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
 												<th colspan="4" bgcolor="#f7fcff">Verifikasi</th>
-												<th colspan="2" bgcolor="#f7fcff">Finance</th>
+												<th colspan="3" bgcolor="#f7fcff">Finance</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
@@ -235,6 +235,7 @@
 												
 												<th width="3%" bgcolor="#f7fcff">Direktur<br>Keuangan</th>
 												<th width="3%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
+												<th width="3%" bgcolor="#f7fcff">Penerima</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -273,6 +274,9 @@
 														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa fa-money-bill-wave-alt"></i>
 														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Diterima<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
@@ -291,7 +295,7 @@
 																		<li class="kt-nav__item">
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print </span>
+																				<span class="kt-nav__link-text">Print SPPD</span>
 																			</a>
 																		</li>
 																		
@@ -334,6 +338,9 @@
 														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Pembayaran"><i class="fa fa-coins"></i></button></td>
 												
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
+															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
 															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -395,7 +402,8 @@
 														</span></td>
 														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Pembayaran"><i class="fa fa-coins"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
+												<td style="text-align:center" nowrap=""><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
 															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
