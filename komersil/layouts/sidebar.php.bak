@@ -80,7 +80,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="koordinator-pos-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lihat Data</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="terima-setoran-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Terima Setoran Petugas</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="monitoring-setoran-petugas-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="permohonan-karcis-komersial.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Permohonan Karcis</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="permohonan-karcis-komersil.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Permohonan Karcis</span></a></li>
 											
 										</ul>
 									</div>
