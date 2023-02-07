@@ -99,6 +99,42 @@ function goBack() {
 												</div>
 											</div>
 										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-notepad"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Surat Persetujuan
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Pembayaran
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													3
+												</div>
+											</div>
+										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-notepad"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														Bukti
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Kas Keluar
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													4
+												</div>
+											</div>
+										</div>
 
 
 									</div>
@@ -1909,13 +1945,13 @@ function goBack() {
   </tr>
   
   <tr>
-    <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>GRAND TOTAL </b></td>
-    <td bgcolor="#feffed"><div class="input-group input-group-sm">
+    <td colspan="7" style="text-align:right"><b>GRAND TOTAL </b></td>
+    <td><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
+    <td style="text-align:center">&nbsp;</td>
   </tr>
   <tr>
     <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>JUMLAH PEMBAYARAN </b></td>
@@ -1927,13 +1963,13 @@ function goBack() {
     <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>SELISIH </b></td>
-    <td bgcolor="#feffed"><div class="input-group input-group-sm">
+    <td colspan="7" style="text-align:right"><b>SELISIH </b></td>
+    <td><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="0" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
+    <td style="text-align:center">&nbsp;</td>
   </tr>
   <tr>
     <td colspan="9" style="text-align:center">&nbsp;</td>
@@ -1950,91 +1986,282 @@ function goBack() {
 
 													<!--begin: Form Wizard Step 3-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
-														<div class="kt-heading kt-heading--md">Enter your Payment Details</div>
 														<div class="kt-form__section kt-form__section--first">
 															<div class="kt-wizard-v4__form">
-																<div class="row">
-																	<div class="col-xl-6">
-																		<div class="form-group">
-																			<label>Name on Card</label>
-																			<input type="text" class="form-control" name="ccname" placeholder="Card Name" value="John Wick">
-																			<span class="form-text text-muted">Please enter your Card Name.</span>
-																		</div>
-																	</div>
-																	<div class="col-xl-6">
-																		<div class="form-group">
-																			<label>Card Number</label>
-																			<input type="text" class="form-control" name="ccnumber" placeholder="Card Number" value="4444 3333 2222 1111">
-																			<span class="form-text text-muted">Please enter your Address.</span>
-																		</div>
-																	</div>
-																</div>
-																<div class="row">
-																	<div class="col-xl-4">
-																		<div class="form-group">
-																			<label>Card Expiry Month</label>
-																			<input type="number" class="form-control" name="ccmonth" placeholder="Card Expiry Month" value="01">
-																			<span class="form-text text-muted">Please enter your Card Expiry Month.</span>
-																		</div>
-																	</div>
-																	<div class="col-xl-4">
-																		<div class="form-group">
-																			<label>Card Expiry Year</label>
-																			<input type="number" class="form-control" name="ccyear" placeholder="Card Expire Year" value="21">
-																			<span class="form-text text-muted">Please enter your Card Expiry Year.</span>
-																		</div>
-																	</div>
-																	<div class="col-xl-4">
-																		<div class="form-group">
-																			<label>Card CVV Number</label>
-																			<input type="password" class="form-control" name="cccvv" placeholder="Card CVV Number" value="123">
-																			<span class="form-text text-muted">Please enter your Card CVV Number.</span>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
+														<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
+														
+
+								<div class="bg-white w-50 ml-auto mr-auto">
+									<img src="../assets/img/header.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
+									<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:left; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+<tr>
+  <td colspan="9" style="text-align: center">&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="9" style="text-align: center"><u><b>SURAT PERSETUJUAN PEMBAYARAN</b></u></td>
+</tr>
+<tr>
+  <td colspan="9" style="text-align: center"><strong>NO : 642</strong></td>
+</tr>
+<tr>
+  <td colspan="9" style="text-align: right">&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="9" style="text-align: left">DISETUJUI UNTUK DIBAYAR</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: left">KEPADA</td>
+  <td width="6" style="text-align: center">:</td>
+  <td colspan="5">YULIANTI TOMU, SE</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: left">UANG SEJUMLAH</td>
+  <td style="text-align: center">:</td>
+  <td width="29" style="text-align: left">Rp.</td>
+  <td colspan="4" style="text-align: left">23.261.000,-</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: left">TERBILANG</td>
+  <td style="text-align: center">:</td>
+  <td colspan="5" style="text-align: left">Dua Puluh Tiga Juta Dua Ratus Enam Puluh Satu Ribu Rupiah</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: left">UNTUK PEMBAYARAN</td>
+  <td style="text-align: center">:</td>
+  <td colspan="5" style="text-align: left">Pembayaran Biaya Perjalanan Dinas Ke Makassar - Jakarta - Padang</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td colspan="5" style="text-align: left">Direktur Utama Perumda Parkir Makassar Raya An. Yulianti Tomu, SE Sesuai SPPD Terlampir</td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td colspan="5"></td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td colspan="4"></td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: center"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td style="text-align: left">Ditetapkan di</td>
+  <td width="8" style="text-align: left">:</td>
+  <td width="180" style="text-align: left">Makassar</td>
+</tr>
+<tr>
+  <td width="57" style="text-align: right"></td>
+  <td width="52" style="text-align: right"></td>
+  <td width="52" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td width="85" style="text-align: left">&nbsp;</td>
+  <td width="93" style="text-align: left">Tanggal</td>
+  <td style="text-align: left">:</td>
+  <td style="text-align: left">5 Agustus 2022</td>
+</tr>
+<tr>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td colspan="3" style="text-align: left">PERUMDA PARKIR MAKASSAR RAYA</td>
+</tr>
+<tr>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td colspan="3" style="text-align: left">&nbsp;</td>
+</tr>
+<tr>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td></td>
+  <td rowspan="3"><img src="../assets/img/qrcode.jpg" width="75" height="75"></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr >
+  <td style="border:1px solid #000; text-align:center" colspan="3" >KOLOM PARAF</td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td rowspan="3" style="border:1px solid #000; text-align: center"><img src="../assets/img/paraf.png" width="50" height="50"></td>
+  <td rowspan="3" style="border:1px solid #000; text-align: center"><img src="../assets/img/paraf.png" width="50" height="50"></td>
+  <td rowspan="3" style="border:1px solid #000; text-align: center"><img src="../assets/img/paraf.png" width="50" height="50"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td colspan="3" style="text-align: left">&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td colspan="3" style="text-align: left"><strong><u>YULIANTI TOMU, SE</u></strong></td>
+</tr>
+<tr>
+  <td colspan="3" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td style="text-align: left">&nbsp;</td>
+  <td colspan="3" style="text-align: left">DIREKTUR UTAMA</td>
+  </tr>
+<tr>
+  <td colspan="3" style="text-align: right"></td>
+  <td>&nbsp;</td>
+  <td></td>
+  <td colspan="4"></td>
+</tr>
+
+</table>
+   <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							
+							<tr>
+							  <td width="554" valign="top"><hr /></td>
+  </tr>
+							<tr>
+							  <td valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+</table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+													</div>
+													</div>
+													</div>
 													</div>
 
 													<!--end: Form Wizard Step 3-->
 
 													<!--begin: Form Wizard Step 4-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
-														<div class="kt-heading kt-heading--md">Review your Details and Submit</div>
 														<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__review">
-																<div class="kt-wizard-v4__review-item">
-																	<div class="kt-wizard-v4__review-title">
-																		Your Account Details
-																	</div>
-																	<div class="kt-wizard-v4__review-content">
-																		John Wick<br />
-																		Phone: +61412345678<br />
-																		Email: johnwick@reeves.com
-																	</div>
-																</div>
-																<div class="kt-wizard-v4__review-item">
-																	<div class="kt-wizard-v4__review-title">
-																		Your Address Details
-																	</div>
-																	<div class="kt-wizard-v4__review-content">
-																		Address Line 1<br />
-																		Address Line 2<br />
-																		Melbourne 3000, VIC, Australia
-																	</div>
-																</div>
-																<div class="kt-wizard-v4__review-item">
-																	<div class="kt-wizard-v4__review-title">
-																		Payment Details
-																	</div>
-																	<div class="kt-wizard-v4__review-content">
-																		Card Number: xxxx xxxx xxxx 1111<br />
-																		Card Name: John Wick<br />
-																		Card Expiry: 01/21
-																	</div>
-																</div>
-															</div>
-														</div>
+															<div class="kt-wizard-v4__form">
+														<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
+														
+
+								<div class="bg-white w-50 ml-auto mr-auto">
+									<img src="../assets/img/header.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
+									<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:left; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+<tr>
+  <td colspan="7" style="text-align: center">&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="7" style="text-align: center"><u><b>BUKTI KAS KELUAR</b></u></td>
+</tr>
+<tr>
+  <td colspan="7" style="text-align: center"><strong>BKU NO : 666</strong></td>
+</tr>
+<tr>
+  <td colspan="7" style="text-align: right">&nbsp;</td>
+</tr>
+<tr>
+  <td width="146" style="text-align: left">SUDAH TERIMA DARI</td>
+  <td width="8" colspan="-1" style="text-align: center">:</td>
+  <td colspan="3">PERUMDA PARKIR MAKASSAR RAYA</td>
+</tr>
+<tr>
+  <td style="text-align: left">UANG SEJUMLAH</td>
+  <td colspan="-1" style="text-align: center">:</td>
+  <td width="25" colspan="-1" style="text-align: left">Rp.</td>
+  <td width="403" colspan="2" style="text-align: left">23.261.000,-</td>
+</tr>
+<tr>
+  <td style="text-align: left">TERBILANG</td>
+  <td colspan="-1" style="text-align: center">:</td>
+  <td colspan="3" style="text-align: left">Dua Puluh Tiga Juta Dua Ratus Enam Puluh Satu Ribu Rupiah</td>
+</tr>
+<tr>
+  <td style="text-align: left">UNTUK PEMBAYARAN</td>
+  <td colspan="-1" style="text-align: center">:</td>
+  <td colspan="3" style="text-align: left">Pembayaran Biaya Perjalanan Dinas Ke Makassar - Jakarta - Padang</td>
+</tr>
+<tr>
+  <td style="text-align: right"></td>
+  <td colspan="-1">&nbsp;</td>
+  <td colspan="3" style="text-align: left">Direktur Utama Perumda Parkir Makassar Raya An. Yulianti Tomu, SE Sesuai SPPD Terlampir</td>
+</tr>
+<tr>
+  <td style="text-align: right"></td>
+  <td colspan="-1">&nbsp;</td>
+  <td colspan="3"></td>
+</tr>
+
+</table>
+  <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							
+							<tr>
+							  <td colspan="3" valign="top"><hr /></td>
+  </tr>
+							<tr>
+							  <td width="180" valign="middle" style="text-align: center; border: 1px solid #ccc"><strong>DISETUJUI</strong></td>
+							  <td width="198" valign="middle" style="text-align: center; border: 1px solid #ccc"><strong>DIBAYARKAN OLEH</strong></td>
+							  <td width="208" valign="middle" style="text-align: center; border: 1px solid #ccc"><strong>DITERIMA</strong></td>
+     </tr>
+							<tr>
+							  <td valign="middle" style="text-align: center; border: 1px solid #ccc" ><img src="../assets/img/qrcode.jpg" width="50" height="50"></td>
+							  <td valign="middle" style="text-align: center; border: 1px solid #ccc"><img src="../assets/img/qrcode.jpg" width="50" height="50"></td>
+							  <td height="75" valign="middle" style="text-align: center; border: 1px solid #ccc"></td>
+     </tr>
+							<tr>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc">YULIANTI TOMU, SE</td>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc">ROSNANI, S.IP</td>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc">NAMA PEGAWAI</td>
+     </tr>
+							<tr>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc"">DIREKTUR UTAMA</td>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc"">KASIR</td>
+							  <td valign="top" style="text-align: center; border: 1px solid #ccc"">[ JABATAN ]</td>
+     </tr>
+							<tr>
+							  <td colspan="3" valign="top">&nbsp;</td>
+     </tr>
+							<tr>
+							  <td colspan="3" valign="top">&nbsp;</td>
+     </tr>
+							<tr>
+							  <td colspan="3" valign="top"><hr /></td>
+     </tr>
+							<tr>
+							  <td colspan="3" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td colspan="3" valign="top">&nbsp;</td>
+  </tr>
+</table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+													</div>
+													</div>
+													</div>
 													</div>
 
 													<!--end: Form Wizard Step 4-->

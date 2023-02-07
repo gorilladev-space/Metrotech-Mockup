@@ -298,6 +298,12 @@
 																				<span class="kt-nav__link-text">Print SPPD</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-print-bku.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
+																			</a>
+																		</li>
 																		
 																		
 																	</ul>
@@ -337,9 +343,7 @@
 														</span></td>
 														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Pembayaran"><i class="fa fa-coins"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
-															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
-														</span></td>
+												<td style="text-align:center" nowrap=""><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
 															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
@@ -361,6 +365,12 @@
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print SPPD</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-print-bku.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
 																			</a>
 																		</li>
 

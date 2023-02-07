@@ -381,6 +381,18 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="print-surat-persetujuan-pembayaran.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Persetujuan Pembayaran</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-bukti-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
@@ -465,6 +477,18 @@
 																			<a href="print-surat-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print Surat Tugas</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-surat-persetujuan-pembayaran.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Persetujuan Pembayaran</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-bukti-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -571,6 +595,18 @@
 																			<a href="print-surat-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print Surat Tugas</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-surat-persetujuan-pembayaran.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Persetujuan Pembayaran</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="print-bukti-kas-keluar-perjalanan-dinas.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

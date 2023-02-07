@@ -298,6 +298,12 @@
 																				<span class="kt-nav__link-text">Print SPPD</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-print-bku.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
+																			</a>
+																		</li>
 																		
 																		
 																	</ul>
@@ -361,6 +367,12 @@
 																				<span class="kt-nav__link-text">Print SPPD</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-print-bku.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
+																			</a>
+																		</li>
 
 																		
 																	</ul>
@@ -422,6 +434,12 @@
 																			<a href="print-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print SPPD</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="pegawai-print-bku.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print Bukti Kas Keluar</span>
 																			</a>
 																		</li>
 																		
