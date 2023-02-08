@@ -185,17 +185,17 @@ function goBack() {
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  
-											  <th width="2%" colspan="4" bgcolor="#f7fcff">Ketetapan Tarif Lama</th>
-											  <th width="2%"  colspan="4" bgcolor="#feffed">Ketetapan Tarif Baru</th>
+											  <th width="2%" colspan="4" bgcolor="#f7fcff">Ketetapan Tarif Lama ( / Bulan)</th>
+											  <th width="2%"  colspan="4" bgcolor="#feffed">Ketetapan Tarif Baru ( / Bulan)</th>
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Tarif</th>
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th colspan="2" width="2%" bgcolor="#f7fcff">Roda 2</th>
-											  <th colspan="2" width="2%"  bgcolor="#f7fcff">Roda 4</th>
-											   <th colspan="2" width="2%" bgcolor="#feffed">Roda 2</th>
-											  <th colspan="2" width="2%"  bgcolor="#feffed">Roda 4</th>
+											  <th colspan="2" width="1%" bgcolor="#f7fcff">Roda 2</th>
+											  <th colspan="2" width="1%"  bgcolor="#f7fcff">Roda 4</th>
+											   <th colspan="2" width="1%" bgcolor="#feffed">Roda 2</th>
+											  <th colspan="2" width="1%"  bgcolor="#feffed">Roda 4</th>
 											  <th bgcolor="#f7fcff">Dibuat</th>
 											  <th bgcolor="#f7fcff">Terakhir Diubah</th>
 											  
@@ -210,13 +210,13 @@ function goBack() {
 												<td id="kt_table_1" style="text-align:right">1</td>
 												
 											
-												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:right">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
-												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td nowrap="nowrap" style="text-align:right">Rp.</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
 												<td nowrap style="text-align:center">23/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">24/01/2023<br>06:00:00</td>
@@ -237,11 +237,11 @@ function goBack() {
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
-												<td nowrap="nowrap" style="text-align:right">Rp</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
-												<td nowrap="nowrap" style="text-align:right">Rp</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
