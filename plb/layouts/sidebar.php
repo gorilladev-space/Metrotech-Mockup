@@ -99,6 +99,7 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Customer</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-skb-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Kesepakatan Bersama</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-out-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Berhenti Langganan</span></a></li>
 											
 
 										</ul>
