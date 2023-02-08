@@ -330,12 +330,7 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="skb-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail SKB</span>
-																			</a>
-																		</li>
+																	
 																		<li class="kt-nav__item">
 																			<a href="skb-cetak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-print"></i>
@@ -343,26 +338,6 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="skb-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="skb-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -402,12 +377,7 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="skb-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail SKB</span>
-																			</a>
-																		</li>
+																	
 																		<li class="kt-nav__item">
 																			<a href="skb-cetak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-print"></i>
@@ -417,26 +387,7 @@
 																		
 																		
 																		
-																		<li class="kt-nav__item">
-																			<a href="skb-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="skb-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -476,12 +427,7 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="skb-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail SKB</span>
-																			</a>
-																		</li>
+																	
 																		<li class="kt-nav__item">
 																			<a href="skb-cetak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-print"></i>
@@ -490,26 +436,8 @@
 																		</li>
 																		
 																		
-																		<li class="kt-nav__item">
-																			<a href="skb-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="skb-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
+																		
 																		
 																	</ul>
 																</div>

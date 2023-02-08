@@ -332,9 +332,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="jukir-plb-detail.php" class="kt-nav__link">
+																			<a href="customer-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -343,6 +343,7 @@
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
+																		
 																		
 																		
 																		<li class="kt-nav__item">
@@ -397,9 +398,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="jukir-plb-detail.php" class="kt-nav__link">
+																			<a href="customer-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -462,9 +463,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="jukir-plb-detail.php" class="kt-nav__link">
+																			<a href="customer-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

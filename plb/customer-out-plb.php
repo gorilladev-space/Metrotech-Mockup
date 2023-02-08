@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Surat Kesepakatan Bersama
+                    Data Customer Berhenti Langganan
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -49,7 +49,10 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-               
+              <a href="customer-plb-out-add.php" class="btn btn-info btn-sm">
+                    <i class="fa fa-plus"></i> Tambah Data</button>
+                    <!--<i class="flaticon2-plus"></i>-->
+                </a>
             </div>
         </div>
     </div>
@@ -261,11 +264,10 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>SKB</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">No. SKB</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>PLB</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer PLB</th>
 											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
 											  <th colspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
@@ -275,7 +277,7 @@
 											  <th width="1%" colspan="2" bgcolor="#f7fcff">SKB</th>
 											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
 											    <th width="5%" colspan="2" rowspan="2" bgcolor="#f7fcff">Tarif Pengelolaan<br>( / Bulan )</th>
-											    <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi Perubahan</th>
+											    <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -297,7 +299,6 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>001/30.SKB-PLB/I/2023</td>
 												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -330,34 +331,20 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="customer-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		
 																	
-																		<li class="kt-nav__item">
-																			<a href="skb-cetak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="skb-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah SKB</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="skb-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History SKB</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -366,7 +353,6 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>002/30.SKB-PLB/I/2023</td>
 												<td style="text-align:center" nowrap>000000002</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -397,18 +383,21 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
 																		<li class="kt-nav__item">
-																			<a href="skb-cetak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
+																			<a href="customer-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		
 																		
-																		
-																		
-																		
+																	
 																	</ul>
 																</div>
 															</div></td>
@@ -416,7 +405,6 @@
 										  <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>003/30.SKB-PLB/I/2023</td>
 												<td style="text-align:center" nowrap>000000003</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -447,17 +435,21 @@
 																</a>
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
-																	
 																		<li class="kt-nav__item">
-																			<a href="skb-cetak.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak SKB</span>
+																			<a href="customer-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
 																			</a>
 																		</li>
 																		
 																		
-																		
-																		
+																	
 																		
 																	</ul>
 																</div>
