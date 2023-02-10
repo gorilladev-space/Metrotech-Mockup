@@ -119,7 +119,7 @@ $(function () {
       selectHelper: true,
       select: function select(start, end, allDay) {
         var title;
-        title = prompt("Event Title:");
+        title = prompt("Tambah Kegiatan :");
         if (title) {
           calendar.fullCalendar("renderEvent", {
             title: title,
@@ -132,16 +132,16 @@ $(function () {
       },
       editable: true,
       events: [{
-        title: "Long Event",
+        title: "",
         start: new Date(y, m, 3, 12, 0),
         end: new Date(y, m, 7, 14, 0)
       }, {
-        title: "Lunch",
+        title: "IMMIM EVENT",
         start: new Date(y, m, d, 12, 0),
         end: new Date(y, m, d + 2, 14, 0),
         allDay: false
       }, {
-        title: "Click for Google",
+        title: "BAMBUDEN EVENT",
         start: new Date(y, m, 28),
         end: new Date(y, m, 29),
         url: "http://google.com/"

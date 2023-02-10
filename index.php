@@ -410,6 +410,32 @@ License: You must have a valid license purchased only from themeforest(the above
 																<span class="kt-grid-nav__title">Team Reaksi Cepat</span>
 																<span class="kt-grid-nav__desc">Pengawasan Operasional</span>
 															</a>
+															<a href="./parking-gate/index.php" class="kt-grid-nav__item">
+																<span class="kt-grid-nav__icon">
+																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">
+   <defs></defs>
+    <g id="Stockholm-icons-/-Tools-/-Road-Cone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M14.8520384,9 L15.7780576,12 L8.22196243,12 L9.14797495,9 L14.8520384,9 Z M13.9260192,6 L10.0739875,6 L10.7050601,3.95551581 C10.8804029,3.38745846 11.4054966,3 12,3 C12.5945036,3 13.1195978,3.38745798 13.2949418,3.95551522 L13.9260192,6 Z M16.7040768,15 L17.9387691,19 L6.06126654,19 L7.2959499,15 L16.7040768,15 Z" id="Combined-Shape" fill="#000000"></path>
+        <rect id="Rectangle" fill="#000000" opacity="0.3" x="3" y="20" width="18" height="2" rx="1"></rect>
+    </g>
+</svg> </span>
+																<span class="kt-grid-nav__title">Parking</span>
+																<span class="kt-grid-nav__desc">Gate System</span>
+															</a>
+															<a href="./parking-member/index.php" class="kt-grid-nav__item">
+																<span class="kt-grid-nav__icon">
+																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">
+    <g id="Stockholm-icons-/-Communication-/-Shield-user" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4,4 L11.6314229,2.5691082 C11.8750185,2.52343403 12.1249815,2.52343403 12.3685771,2.5691082 L20,4 L20,13.2830094 C20,16.2173861 18.4883464,18.9447835 16,20.5 L12.5299989,22.6687507 C12.2057287,22.8714196 11.7942713,22.8714196 11.4700011,22.6687507 L8,20.5 C5.51165358,18.9447835 4,16.2173861 4,13.2830094 L4,4 Z" id="Path-50" fill="#000000" opacity="0.3"></path>
+        <path d="M12,11 C10.8954305,11 10,10.1045695 10,9 C10,7.8954305 10.8954305,7 12,7 C13.1045695,7 14,7.8954305 14,9 C14,10.1045695 13.1045695,11 12,11 Z" id="Mask" fill="#000000" opacity="0.3"></path>
+        <path d="M7.00036205,16.4995035 C7.21569918,13.5165724 9.36772908,12 11.9907452,12 C14.6506758,12 16.8360465,13.4332455 16.9988413,16.5 C17.0053266,16.6221713 16.9988413,17 16.5815,17 C14.5228466,17 11.463736,17 7.4041679,17 C7.26484009,17 6.98863236,16.6619875 7.00036205,16.4995035 Z" id="Mask-Copy" fill="#000000" opacity="0.3"></path>
+    </g>
+</svg> </span>
+																<span class="kt-grid-nav__title">Parking</span>
+																<span class="kt-grid-nav__desc">Member System</span>
+															</a>
 															<!--<a href="./employee-affair/index.php" class="kt-grid-nav__item">
 																<span class="kt-grid-nav__icon">
 																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">

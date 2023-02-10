@@ -28,6 +28,14 @@ function goBack() {
 </script>
 											</a>
 										</div>
+										<div class="btn-group">
+				<button type="button" class="btn btn-brand">
+					<i class="la la-check"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
 								</div>
 								
 							</div>
@@ -111,23 +119,11 @@ function goBack() {
                        <div class="form-group row">
                        <div class="col-lg-12">
                           <label>Zona Area Tugas :</label>
-                          <select class="form-control kt-selectpicker" multiple="multiple">
-                                      <option value="1" selected="">Biringkanaya</option>
-                                      <option value="2">Bontoala</option>
-                                      <option value="3">Kepulauan Sangkarrang</option>
-                                      <option value="4">Makassar</option>
-                                      <option value="5">Mamajang</option>
-                                      <option value="6">Manggala</option>
-                                      <option value="7">Mariso</option>
-                                      <option value="8">Panakkukang</option>
-                                      <option value="9">Rappocini</option>
-                                      <option value="10">Tallo</option>
-                                      <option value="11">Tamalanrea</option>
-                                      <option value="12">Tamalate</option>
-                                      <option value="13">Ujung Pandang</option>
-                                      <option value="14">Ujung Tanah</option>
-                                      <option value="15">Wajo</option>
-                                  </select>
+                          <div class="form-group row">
+                                        
+<input id="kt_tagify_5" name='tags3' placeholder="Pilih Syarat Berkas" value="Surat Keterangan Catatan Kepolisian, Surat Keterangan Bebas Narkoba, Curriculum Vitae, Nomor Pokok Wajib Pajak, Ijazah Pendidikan Terakhir, Sertifikat Keahlian, Portofolio, Kartu Keluarga, Foto Ukuran (3x4)"> 
+
+									</div>
 									</div>
 									</div>
 						
