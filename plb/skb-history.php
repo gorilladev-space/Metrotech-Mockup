@@ -184,20 +184,25 @@ function goBack() {
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff" id="kt_table_2">Daya Tampung</th>
 											  
-											  <th width="2%" colspan="4" bgcolor="#f7fcff">Ketetapan Tarif Lama ( / Bulan)</th>
-											  <th width="2%"  colspan="4" bgcolor="#feffed">Ketetapan Tarif Baru ( / Bulan)</th>
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Tarif</th>
-											 
+											  <th width="12%" colspan="4" bgcolor="#f7fcff">Satuan Tarif Lama</th>
+											  <th width="4%"  colspan="2" rowspan="2" bgcolor="#f7fcff">Total Tarif Pengelolaan Lama<br>( / Bulan )</th>
+											  <th  colspan="4" bgcolor="#feffed">Ketetapan Tarif Baru ( / Bulan)</th>
+											  <th width="4%" colspan="2" rowspan="2" bgcolor="#feffed">Total Tarif Pengelolaan Baru<br>( / Bulan )</th>
+											  <th colspan="2" bgcolor="#f7fcff">Penetapan<br />
+										      Tarif</th>
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th colspan="2" width="1%" bgcolor="#f7fcff">Roda 2</th>
-											  <th colspan="2" width="1%"  bgcolor="#f7fcff">Roda 4</th>
-											   <th colspan="2" width="1%" bgcolor="#feffed">Roda 2</th>
-											  <th colspan="2" width="1%"  bgcolor="#feffed">Roda 4</th>
-											  <th bgcolor="#f7fcff">Dibuat</th>
-											  <th bgcolor="#f7fcff">Terakhir Diubah</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Roda 2</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Roda 4</th>
+											  <th colspan="2" width="3%" bgcolor="#f7fcff">Roda 2</th>
+											  <th colspan="2" width="3%"  bgcolor="#f7fcff">Roda 4</th>
+											   <th colspan="2" width="3%" bgcolor="#feffed">Roda 2</th>
+										      <th colspan="2"  width="3%" bgcolor="#feffed">Roda 4</th>
+										      <th width="3%" bgcolor="#f7fcff">Dibuat</th>
+											  <th width="1%" bgcolor="#f7fcff">Terakhir Diubah</th>
 											  
 											  <th width="1%" bgcolor="#f7fcff">Kabag Pengelolaan</th>
 											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>
@@ -208,16 +213,22 @@ function goBack() {
 											
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">1</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
 												
 											
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">15.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">30.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td nowrap="nowrap" style="text-align:right">500.000,-</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
+												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
+												<td width="1%" nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td width="1%" nowrap="nowrap" style="text-align:right">500.000,-</td>
 												<td nowrap style="text-align:center">23/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">24/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
@@ -233,16 +244,22 @@ function goBack() {
 										  </tr>
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">2</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
 												
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td nowrap="nowrap" style="text-align:right">350.000,-</td>
+												<td nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">15.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">30.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td nowrap="nowrap" style="text-align:right">250.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
