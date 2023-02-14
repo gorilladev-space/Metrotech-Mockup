@@ -184,10 +184,11 @@ function goBack() {
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff" id="kt_table_2">Daya Tampung</th>
+											  <th width="1%" colspan="4" bgcolor="#f7fcff" id="kt_table_2">Daya Tampung<br>Lama</th>
 											  
 											  <th width="12%" colspan="4" bgcolor="#f7fcff">Satuan Tarif Lama</th>
 											  <th width="4%"  colspan="2" rowspan="2" bgcolor="#f7fcff">Total Tarif Pengelolaan Lama<br>( / Bulan )</th>
+											  <th  colspan="4" bgcolor="#feffed">Daya Tampung Baru</th>
 											  <th  colspan="4" bgcolor="#feffed">Ketetapan Tarif Baru ( / Bulan)</th>
 											  <th width="4%" colspan="2" rowspan="2" bgcolor="#feffed">Total Tarif Pengelolaan Baru<br>( / Bulan )</th>
 											  <th colspan="2" bgcolor="#f7fcff">Penetapan<br />
@@ -195,11 +196,13 @@ function goBack() {
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Roda 2</th>
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Roda 4</th>
-											  <th colspan="2" width="3%" bgcolor="#f7fcff">Roda 2</th>
-											  <th colspan="2" width="3%"  bgcolor="#f7fcff">Roda 4</th>
-											   <th colspan="2" width="3%" bgcolor="#feffed">Roda 2</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff" id="kt_table_2">Roda 2</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff" id="kt_table_2">Roda 4</th>
+											  <th colspan="2" width="1%" bgcolor="#f7fcff">Roda 2</th>
+											  <th colspan="2" width="1%"  bgcolor="#f7fcff">Roda 4</th>
+											   <th width="1%" colspan="2" bgcolor="#feffed">Roda 2</th>
+											   <th width="1%" colspan="2" bgcolor="#feffed">Roda 4</th>
+											   <th colspan="2" bgcolor="#feffed">Roda 2</th>
 										      <th colspan="2"  width="3%" bgcolor="#feffed">Roda 4</th>
 										      <th width="3%" bgcolor="#f7fcff">Dibuat</th>
 											  <th width="1%" bgcolor="#f7fcff">Terakhir Diubah</th>
@@ -213,8 +216,10 @@ function goBack() {
 											
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">1</td>
-												<td id="kt_table_1" style="text-align:right">3</td>
-												<td id="kt_table_1" style="text-align:right">3</td>
+												<td id="kt_table_1" style="text-align:right">5</td>
+												<td id="kt_table_1" style="text-align:right">Unit</td>
+												<td id="kt_table_1" style="text-align:right">5</td>
+												<td id="kt_table_1" style="text-align:right">Unit</td>
 												
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
@@ -223,8 +228,12 @@ function goBack() {
 												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
 												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">500.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap style="text-align:left; border-right: 1px solid #fff">7</td>
+												<td nowrap style="text-align:left;">Unit</td>
+												<td nowrap style="text-align:left; border-right: 1px solid #fff">7</td>
+												<td nowrap style="text-align:left;">Unit</td>
+												<td width="1%" nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
+												<td width="1%" nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td width="1%" nowrap="nowrap" style="text-align:right">50.000,-</td>
 												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
@@ -245,7 +254,9 @@ function goBack() {
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">2</td>
 												<td id="kt_table_1" style="text-align:right">3</td>
+												<td id="kt_table_1" style="text-align:right">Unit</td>
 												<td id="kt_table_1" style="text-align:right">3</td>
+												<td id="kt_table_1" style="text-align:right">Unit</td>
 												
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
@@ -254,6 +265,10 @@ function goBack() {
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">350.000,-</td>
+												<td nowrap style="text-align:left; border-right: 1px solid #fff">5</td>
+												<td nowrap style="text-align:left;">Unit</td>
+												<td nowrap style="text-align:left; border-right: 1px solid #fff">5</td>
+												<td nowrap style="text-align:left;">Unit</td>
 												<td nowrap style="text-align:left; border-right: 1px solid #fff">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
