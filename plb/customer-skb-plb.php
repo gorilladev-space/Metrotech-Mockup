@@ -267,7 +267,7 @@
 											  
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
-											  <th colspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th colspan="3" bgcolor="#f7fcff"> Zonasi Customer</th>
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
 											  
 											 
@@ -281,6 +281,7 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="1%" bgcolor="#f7fcff">Titik Parkir</th>
 											  <th width="5%" bgcolor="#f7fcff">Alamat</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
@@ -307,6 +308,7 @@
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -357,6 +359,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -406,6 +409,7 @@
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>

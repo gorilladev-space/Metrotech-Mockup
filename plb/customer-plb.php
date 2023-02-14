@@ -267,9 +267,8 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>PLB</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer PLB</th>
 											  
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
-											  <th colspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th colspan="4" bgcolor="#f7fcff"> Zonasi Customer</th>
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
 											  
 											 
@@ -283,7 +282,9 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="5%" bgcolor="#f7fcff">Alamat</th>
+											  <th width="1%" bgcolor="#f7fcff">Nama<br>Titik Parkir</th>
+											  <th width="1%" bgcolor="#f7fcff">Alamat<br>Titik Parkir</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama PIC</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
@@ -300,15 +301,12 @@
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
-													</a></td>
-
 												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Pak Bambang</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -367,16 +365,12 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
+												<td style="text-align:center" nowrap>000000002</td><td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Roni Dg Kulle</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -432,16 +426,12 @@
 										  <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
+												<td style="text-align:center" nowrap>000000003</td><td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>BPJS Ketenagakerjaan</td>
 												<td style="text-align:left" nowrap>Jl. Urip Sumoharjo No 344</td>
+												<td style="text-align:left" nowrap>Daeng Gassing</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>

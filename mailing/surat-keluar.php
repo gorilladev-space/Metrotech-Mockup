@@ -123,7 +123,7 @@
 						                        
 												
 												
-<div class="col-lg-2">
+<div class="col-lg-1">
 						                          <label>Sifat :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Biasa</option>
@@ -133,7 +133,7 @@
 
 						                          </select>
 						                        </div>
-												<div class="col-lg-4">
+												<div class="col-lg-2">
 						                          <label>Tujuan Surat Keluar :</label>
 																		<div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -142,6 +142,22 @@
     		                        </span>
 
     		                    </div>
+						                        </div>
+												<div class="col-lg-3">
+						                          <label>Klasifikasi Surat :</label>
+																		 <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="PLB">
+
+					 																<option value="AK" selected>Surat Penetapan</option>
+					 																<option value="AK">Surat Negosiasi Tarif</option>
+					 															</optgroup>
+<optgroup label="Tepi Jalan Umum">
+					 																<option value="AK">Surat Penetapan</option>
+					 																<option value="AK">Lainnya</option>
+					 																
+					 															</optgroup>
+																				
+					 														</select>
 						                        </div>
 						                      </div>
 
@@ -267,7 +283,7 @@
 												<th width="2%" rowspan="2" bgcolor="#f7fcff">Waktu Input</th>
 												
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Jenis Surat</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Klasifikasi Surat</th>
+												<th width="3%" bgcolor="#f7fcff" rowspan="2">Klasifikasi Surat</th>
 												<th colspan="6" bgcolor="#f7fcff"><b>Detail Surat</b></th>
 												
 												
@@ -295,7 +311,7 @@
 													</a></td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" id="kt_table_1">Surat Dinas</td>
-												<td style="text-align:center">Penugasan Dinas</td>
+												<td style="text-align:center">Penetapan Tarif - PLB</td>
 												<td style="text-align:center">005/167/SETKOT</td>
 												<td style="text-align:center">HM.003/12/3/2017</td>
 												<td style="text-align:center">Jumat, 28 Juli 2017</td>
