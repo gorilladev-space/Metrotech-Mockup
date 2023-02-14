@@ -226,14 +226,19 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Titik Parkir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Zonasi Customer</div><br>
 										 <div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												
+											<div class="form-group row">
+								<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Nama Titik Parkir :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="Bpjs Ketenagakerjaan" disabled>
+                        </div>			
+                        </div>			
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>						
                      <div class="form-group row">
                       
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
+                          <label><span style="color:#ff0000">*</span> Alamat Titik Parkir :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="Jl. Urip Sumoharjo" disabled>
                         </div>
 						<div class="col-lg-4">
@@ -299,8 +304,6 @@ function goBack() {
 					  
 					  
 					
-									</div>
-									
 									</div>
 									
 									

@@ -211,9 +211,9 @@ function goBack() {
 												
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">15.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">30.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
@@ -240,9 +240,9 @@ function goBack() {
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">10.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">15.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">30.000,-</td>
 												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
 												<td nowrap style="text-align:center">22/01/2023<br>06:00:00</td>
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
