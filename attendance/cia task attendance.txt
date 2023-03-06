@@ -1,0 +1,4 @@
+1. pengaturan - mesin absen
+2. pengaturan - jam kerja
+3. pengaturan - Kalender Libur Perusahaan
+4. Dashboard Absensi

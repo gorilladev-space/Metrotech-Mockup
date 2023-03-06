@@ -1,0 +1,278 @@
+<!--
+Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 4 & Angular 8
+Author: KeenThemes
+Website: http://www.keenthemes.com/
+Contact: support@keenthemes.com
+Follow: www.twitter.com/keenthemes
+Dribbble: www.dribbble.com/keenthemes
+Like: www.facebook.com/keenthemes
+Purchase: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+Renew Support: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
+-->
+
+<?php require '../layouts/head.php' ?>
+<link href="../assets/dist/main/main.css" rel="stylesheet" type="text/css" />
+<?php require 'layouts/header.php' ?>
+
+<div class="kt-subheader  kt-grid__item" id="kt_subheader">
+							<div class="kt-container  kt-container--fluid ">
+								<div class="kt-subheader__main">
+									<h3 class="kt-subheader__title">
+										<span class="kt-portlet__head-icon">
+											<i class="kt-font-brand flaticon2-list-1"></i>
+										</span>
+										&nbsp;
+										&nbsp;
+											Surat Perintah Perjalanan Dinas
+									</h3>
+								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Sri Suhartini, SE </span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+										</form>
+									</div>
+								</div>
+								<div class="kt-subheader__toolbar">
+								<a href="#.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
+											<div>&nbsp;</div>
+			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
+				<i class="fa fa-print"></i> Export Data</button>
+			</a>
+			<div class="dropdown-menu dropdown-menu-fit dropdown-menu-md dropdown-menu-right">
+				<!--begin::Nav-->
+				<ul class="kt-nav">
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-file-pdf"></i>
+							<span class="kt-nav__link-text">PDF</span>
+						</a>
+					</li>
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-print"></i>
+							<span class="kt-nav__link-text">Cetak</span>
+						</a>
+					</li>
+				</ul>
+				<!--end::Nav-->
+			</div>
+		</div>
+
+							</div>
+						</div>
+
+							<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
+								<div class="bg-white w-50 ml-auto mr-auto">
+									<img src="../assets/img/header.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;"/>
+									<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+  <tr>
+    <td width="19" style="text-align: right">&nbsp;</td>
+    <td width="6">&nbsp;</td>
+    <td width="205">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="66">Nomor</td>
+    <td width="8" style="text-align: center">:</td>
+    <td width="256">002/10.1/PERUMDA-PMR/XII/2022</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Lembar</td>
+    <td style="text-align: center">:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: center"><u><b>SURAT PERINTAH PERJALANAN DINAS</b></u></td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: center"><strong>SPPD</strong></td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: right">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">1.</td>
+    <td>&nbsp;</td>
+    <td>Pejabat yang memberi perintah</td>
+    <td>:</td>
+    <td colspan="3">Direktur Utama</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">2.</td>
+    <td>&nbsp;</td>
+    <td>Nama Pegawai Pelaksana</td>
+    <td>:</td>
+    <td colspan="3">Yulianti Tomu, SE</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">3.</td>
+    <td>&nbsp;</td>
+    <td>Department</td>
+    <td>:</td>
+    <td colspan="3">Direksi</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">4.</td>
+    <td>&nbsp;</td>
+    <td>Bagian</td>
+    <td>:</td>
+    <td colspan="3">Direksi</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">5.</td>
+    <td>&nbsp;</td>
+    <td>Jabatan</td>
+    <td>:</td>
+    <td colspan="3">Direktur Utama</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">6.</td>
+    <td>&nbsp;</td>
+    <td>Pangkat / Golongan</td>
+    <td>:</td>
+    <td colspan="3">Pembina Utama / IV E</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">7.</td>
+    <td>&nbsp;</td>
+    <td>Kantor</td>
+    <td>:</td>
+    <td colspan="3">Pusat</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">8.</td>
+    <td>&nbsp;</td>
+    <td>Jenis Perjalanan Dinas</td>
+    <td>:</td>
+    <td colspan="3">Luar Kota</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">9.</td>
+    <td>&nbsp;</td>
+    <td>Kota Asal</td>
+    <td>:</td>
+    <td colspan="3">Makassar</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">10.</td>
+    <td>&nbsp;</td>
+    <td>Kota Tujuan</td>
+    <td>:</td>
+    <td colspan="3">Bali</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">11.</td>
+    <td>&nbsp;</td>
+    <td>Tanggal Berangkat</td>
+    <td>:</td>
+    <td colspan="3">29 Desember 2022</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">12.</td>
+    <td>&nbsp;</td>
+    <td>Estimasi Tanggal Kembali</td>
+    <td>:</td>
+    <td colspan="3">31 Desember 2022</td>
+  </tr>
+  <tr>
+    <td style="text-align: right">13.</td>
+    <td>&nbsp;</td>
+    <td>Transportasi</td>
+    <td>:</td>
+    <td colspan="3">Pesawat Udara</td>
+  </tr>
+  <tr>
+    <td valign="top" style="text-align: right">14.</td>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">Maksud Perjalanan Dinas</td>
+    <td valign="top">:</td>
+    <td colspan="3">Melakukan Rapat Kordinasi Khusus dengan Bapak Walikota Makassar pada Kegiatan RAKORSUS BUMD Kota Makassar</td>
+  </tr>
+  <tr>
+    <td colspan="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>Makassar, 9 Desember 2022</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2"><p>&nbsp;</p></td>
+    <td>Direksi Perusahaan Umum Daerah<br>Parkir Makassar Raya</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td><u><b>YULIANTI TOMU, SE</b></u></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;</td>
+    <td>Direktur Utama</td>
+  </tr>
+  <tr>
+    <td colspan="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7">&nbsp;</td>
+  </tr>
+</table>
+									<img src="../assets/img/footer.png" style="width:600px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px"/>
+</div>
+								</div>
+
+								<!--End:: App Content-->
+							</div>
+
+							<!--End::App-->
+						</div>
+
+<?php require '../layouts/footer.php' ?>
+<?php require '../layouts/foot.php' ?>
