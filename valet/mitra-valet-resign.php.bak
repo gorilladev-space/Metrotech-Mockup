@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Mitra Jukir Keluar
+                    Data Mitra Jukir Valet Keluar
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -337,12 +337,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="mitra-edit.php" class="kt-nav__link">
@@ -412,12 +407,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="mitra-edit.php" class="kt-nav__link">
@@ -485,12 +475,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="mitra-edit.php" class="kt-nav__link">
@@ -562,12 +547,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="mitra-edit.php" class="kt-nav__link">

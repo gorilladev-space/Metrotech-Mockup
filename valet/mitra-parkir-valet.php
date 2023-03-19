@@ -400,38 +400,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-insidentil-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-rompi">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
-																			</div>
-																		</li>
 																		
-																			<a href="mitra-insidentil-remove.php" class="kt-nav__link">
+																		
+																		
+																		
+																			
 																		<li class="kt-nav__item">
+																		<a href="mitra-valet-remove.php" class="kt-nav__link">
+																			
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-insidentil-edit-area.php" class="kt-nav__link">
+																			<a href="mitra-valet-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
@@ -490,38 +477,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-insidentil-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-rompi">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
-																			</div>
-																		</li>
 																		
-																			<a href="mitra-insidentil-remove.php" class="kt-nav__link">
+																		
+																		
+																		
+																			
 																		<li class="kt-nav__item">
+																		<a href="mitra-valet-remove.php" class="kt-nav__link">
+																			
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-insidentil-edit-area.php" class="kt-nav__link">
+																			<a href="mitra-valet-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
@@ -532,6 +506,7 @@
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																			
+																		</li>
 																		</li>
 																		
 																	</ul>
@@ -578,38 +553,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-insidentil-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-rompi">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
-																			</div>
-																		</li>
 																		
-																			<a href="mitra-insidentil-remove.php" class="kt-nav__link">
+																		
+																		
+																		
+																			
 																		<li class="kt-nav__item">
+																		<a href="mitra-valet-remove.php" class="kt-nav__link">
+																			
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-insidentil-edit-area.php" class="kt-nav__link">
+																			<a href="mitra-valet-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
@@ -664,38 +626,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-insidentil-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-rompi">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
-																			</div>
-																		</li>
 																		
-																			<a href="mitra-insidentil-remove.php" class="kt-nav__link">
+																		
+																		
+																		
+																			
 																		<li class="kt-nav__item">
+																		<a href="mitra-valet-remove.php" class="kt-nav__link">
+																			
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-insidentil-edit-area.php" class="kt-nav__link">
+																			<a href="mitra-valet-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
@@ -754,38 +703,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-insidentil-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-atribut">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-rompi">
-																				<i class="kt-nav__link-icon fa fa-tasks"></i>
-																				<span class="kt-nav__link-text">Serah Terima Rompi</span>
-																			</div>
-																		</li>
 																		
-																			<a href="mitra-insidentil-remove.php" class="kt-nav__link">
+																		
+																		
+																		
+																			
 																		<li class="kt-nav__item">
+																		<a href="mitra-valet-remove.php" class="kt-nav__link">
+																			
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Berhentikan Mitra</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="mitra-insidentil-edit-area.php" class="kt-nav__link">
+																			<a href="mitra-valet-edit-area.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Area Tugas</span>
 																			</a>
