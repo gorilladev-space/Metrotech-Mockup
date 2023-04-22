@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data User Group
+                    Hak Akses
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -32,7 +32,10 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_tipe-pegawai"><i class="fa fa-plus"></i>Tambah Data</button>
+				<a href="add-hak-akses.php" class="btn btn-info btn-sm">
+												<i class="fa fa-plus"></i> Tambah Data</button>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
                 
 				
             </div>

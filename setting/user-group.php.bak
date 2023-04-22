@@ -1134,22 +1134,22 @@
 												<div class="form-group row">
 												<div class="col-lg-6">
 														<label>Pilih Jabatan:</label>
-														<select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Dewan Pengawas</option>
-														<option>Direktur Utama</option>
-														<option>Direktur Operasional</option>
-														<option>Direktur Keuangan dan Asset</option>
-														<option>Direktur Umum</option>
-														<option>Direktur Pengembangan Usaha dan Kerja Sama</option>
-														<option>Kepala Bagian Umum dan Kepegawaian</option>
-														<option>Kepala Seksi Administrasi Kepegawaian</option>
-														
-														</select>
+														<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
+                                  </select>
 
 												</div>
 												<div class="col-lg-6">
 														<label>User Group:</label>
-														<input type="text" class="form-control form-control-sm" value="" placeholder="Isikan Nama Jabatan">
+														<input type="text" class="form-control form-control-sm" value="" placeholder="Isikan User Group">
 
 												</div>
 
