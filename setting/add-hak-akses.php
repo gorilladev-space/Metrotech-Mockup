@@ -69,27 +69,36 @@
 										<div class="kt-portlet__body">
 													<div class="row">
 
-								<div class="col-xl-4">
+								<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Pegawai</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data User Group</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 
                      <div class="form-group row">
-						<div class="col-lg-3">
-                          <label class="">Kantor :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Pusat</option>
-						                              <option value="3">Cabang</option>
-						                             
-													
-						                          </select>
+						
+						
+                       
+
+                       
+						<div class="col-lg-12">
+                          <label class="">User Group :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Super Admin">
+                      </div>
                         </div>
-						<div class="col-lg-9">
-                          <label>Cari Pegawai :</label>
-                        <select class="form-control kt-selectpicker form-control" data-live-search="true">
+						
+
+                        </div>
+
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Multi Select User :</label>
+                          <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
 																					<option value="HI">000 000 002 - Rizal Asjadad</option>
@@ -120,41 +129,7 @@
 
 					 														</select>
                         </div>
-                       
-
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-5">
-                          <label class="">NIP :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
-                      </div>
-                        </div>
-						<div class="col-lg-7">
-                          <label class="">Jabatan :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian">
-                      </div>
-                        </div>
-
-                        </div>
-
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-5">
-                          <label class="">Type Pegawai :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap">
-                      </div>
-                        </div>
-						<div class="col-lg-7">
-                          <label class="">Department :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
-                      </div>
-                        </div>
+						
 
                         </div>
 
@@ -169,52 +144,216 @@
 									<!--end::Portlet-->
 								</div>
 
-								<div class="col-xl-3">
+								<div class="col-xl-9">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Lupa Absen</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Hak Akses</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
-												<div class="form-group row">
-												<div class="col-lg-12">
-                          <label>Jenis Lupa Absen :</label>
-						  <select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Absen Datang</option>
-						                              <option value="3">Absen Pulang</option>
-						                              <option value="3">Kembali dari Istirahat</option>
-						                              <option value="3">Lembur Masuk</option>
-						                              <option value="3">Lembur Keluar</option>
-													<option data-content="<a href='#' class='btn btn-facebook btn-sm m-button-add'><i class='flaticon-add-circular-button text-white'></i> Tambah Data</a>" class="select-option-add" value="add"></option>
-						                          </select>
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="2%" bgcolor="#f7fcff">Modul</td>
+																								  <td width="3%" bgcolor="#f7fcff">Menu</td>
+																								  <td width="3%" bgcolor="#f7fcff">Sub Menu</td>
+																								  <td width="1%" bgcolor="#f7fcff">Add</td>
+																								  <td width="1%" bgcolor="#f7fcff">View</td>
+																								  <td width="1%" bgcolor="#f7fcff">Edit</td>
+																								  <td width="1%" bgcolor="#f7fcff">Delete</td>
+																								  <td width="1%" bgcolor="#f7fcff">Validate</td>
+																								  <td width="1%" bgcolor="#f7fcff">Approve</td>
+																								  <td width="1%" bgcolor="#f7fcff">Aksi</td>
+																								  </tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								
+																								
+																								
+																								
+																								
+																								
+																								
 
-                        </div>
-                        </div>
+																								<tr>
+																								  <td style="text-align:right">1</td>
+																									<td style="text-align:left">HR Department</td>
+																									<td style="text-align:left">Pegawai</td>
+																									<td style="text-align:left">Pegawai Tetap</td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																								  <td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+													</tr>
+													
+													<tr>
+																								  <td style="text-align:right">2</td>
+																									<td style="text-align:left">HR Department</td>
+																									<td style="text-align:left">Pegawai</td>
+																									<td style="text-align:left">Pegawai Kontrak Bulanan</td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																								  <td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+													</tr>
+													<tr>
+																								  <td style="text-align:right">3</td>
+																									<td style="text-align:left">HR Department</td>
+																									<td style="text-align:left">Pegawai</td>
+																									<td style="text-align:left">Pegawai Kontrak Harian</td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																								  <td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+													</tr>
+													<tr>
+																								  <td style="text-align:right">4</td>
+																									<td style="text-align:left">HR Department</td>
+																									<td style="text-align:left">Pegawai</td>
+																									<td style="text-align:left">Calon Pegawai</td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																								  <td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+													</tr>
+													<tr>
+																								  <td style="text-align:right">5</td>
+																									<td style="text-align:left">HR Department</td>
+																									<td style="text-align:left">Pegawai</td>
+																									<td style="text-align:left">Pegawai Honor</td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																									<td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+																								  <td style="text-align:center"><label class="kt-checkbox kt-checkbox--success" checked="checked">
+																		<input type="checkbox" checked="checked">
+																		<span></span>
+																	</label></td>
+													</tr>
+													
+													
+																							</tbody>
+																							
+																						</table>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-						<div class="col-lg-6">
-                          <label class="">Tanggal Lupa Absen :</label>
-						                          <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" readonly="" placeholder="Pilih Tanggal" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-						                        </div>
-<div class="col-lg-6">
-                          <label class="">Jam Lupa Absen :</label>
-						                          <div class="input-group timepicker">
-													<input class="form-control form-control-sm" id="kt_timepicker_2" readonly="" placeholder="Pilih Jam" type="text">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-clock-o"></i>
-														</span>
-													</div>
-												</div>
-						                        </div>
-                        </div>
+						
 
 
 
@@ -230,68 +369,8 @@
 									</div>
 
 
-								<div class="col-xl-3">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Keterangan</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-12">
-                          <label>Keterangan Lupa Absen :</label>
-                         <textarea class="form-control" id="exampleTextarea" rows="6" placeholder="Khilaf"></textarea>
-
-                        </div>
-                        </div>
-
-
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<!--end::Portlet-->
-								</div>
-								<div class="col-xl-2">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Lampiran</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-12">
-                          <label>Upload Lampiran (Jika Ada) :</label>
-                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
-													<div class="dropzone-msg dz-message needsclick">
-														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
-														<span class="dropzone-msg-desc">Upload up to 10 files</span>
-													</div>
-												</div>
-                        </div>
-                        </div>
-
-
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<!--end::Portlet-->
-								</div>
+								
+								
 							</div>
 
 
