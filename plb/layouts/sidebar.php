@@ -99,6 +99,7 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Customer</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-skb-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Kesepakatan Bersama</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-invoice-kwitansi-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Invoice & Kwitansi</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-edit-tarif.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Penyesuaian Tarif</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-out-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Berhenti Langganan</span></a></li>
 											
@@ -170,8 +171,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="setup-cuti.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Cuti Pegawai</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Izn Pegawai</span></a></li>
+											
 
 										</ul>
 									</div>
