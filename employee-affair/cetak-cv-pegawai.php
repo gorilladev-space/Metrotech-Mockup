@@ -79,7 +79,7 @@ function goBack() {
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;">
 							<tr>
-								<th colspan="10" class="text-center"><span style="font-family: &quot;Bookman Old Style&quot;; font-size: 10px; margin-bottom:3rem;">
+								<th colspan="10" class="text-center"><span style="font-family: &quot;Bookman Old Style&quot;; font-size: 11px; margin-bottom:3rem;">
 													  <span style="text-align: center"><b></b></span><b><u>CURRICULUM VITAE</u></b></span>
 						      <span style="text-align: center"></span></th>
 							</tr>
