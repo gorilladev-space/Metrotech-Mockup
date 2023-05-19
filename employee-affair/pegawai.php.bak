@@ -325,6 +325,12 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-portrait"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -378,6 +384,18 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
@@ -434,6 +452,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -486,6 +516,18 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
@@ -543,6 +585,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -597,58 +651,16 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
-
 																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-pegawai-log.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon flaticon-share"></i>
-																				<span class="kt-nav__link-text">History Log</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-<tr>
-												<td width="1%" id="kt_table_1">7</td>
-												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_16.jpg" alt="image">
-													</a></td>
-
-												<td width="3%" style="text-align:left" nowrap>Sri Suhartini, SE</td>
-												<td width="1%" style="text-align:center" nowrap>238 004 032</td>
-												<td width="1%" style="text-align:center" nowrap>Umum</td>
-												<td width="3%" style="text-align:center" nowrap>Umum dan Kepegawaian</td>
-												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
-												<td width="3%" style="text-align:center" nowrap>Pusat</td>
-												<td width="3%" style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
-												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="pegawai-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
@@ -674,6 +686,7 @@
 																</div>
 															</div></td>
 										  </tr>
+
 										  
 										</tbody>
 									</table>

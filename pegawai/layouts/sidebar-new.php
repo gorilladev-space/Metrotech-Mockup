@@ -121,6 +121,8 @@
 </svg></span><span class="kt-menu__link-text">Administrasi Pegawai</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-cetak-id-card.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">ID Card Anda</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-cetak-cv.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Curriculum Vitae</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-peraturan-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Peraturan Perusahaan</span></a></li>
 														<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-peraturan-direksi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Peraturan Direksi</span></a></li>
 														<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-kontrak-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kontrak Pegawai</span></a></li>

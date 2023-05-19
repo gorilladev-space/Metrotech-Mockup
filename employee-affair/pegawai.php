@@ -325,6 +325,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -378,6 +390,18 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
@@ -434,6 +458,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -486,6 +522,18 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
@@ -543,6 +591,18 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -595,6 +655,18 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-id-card"></i>
+																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
 																			</a>
 																		</li>
 
