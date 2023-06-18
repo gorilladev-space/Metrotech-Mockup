@@ -297,7 +297,7 @@ function goBack() {
 														<td width="3%" style="text-align:center" nowrap>HR &amp; GA</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>Pegawai Kontrak</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Kontrak"> <i class="fa flaticon-download-1"></i> </span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK Kontrak"> <i class="fa flaticon-download-1"></i> </span></td>
 
 										  </tr>
 											<tr>
@@ -308,7 +308,7 @@ function goBack() {
 														<td width="3%" style="text-align:center" nowrap>HR &amp; GA</td>
 												<td width="3%" style="text-align:center" nowrap>Sulawesi Barat</td>
 												<td width="3%" style="text-align:center" nowrap>Pegawai Tetap</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK"> <i class="fa flaticon-download-1"></i> </span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK Pegawai"> <i class="fa flaticon-download-1"></i> </span></td>
 
 										  </tr>
 										</tbody>

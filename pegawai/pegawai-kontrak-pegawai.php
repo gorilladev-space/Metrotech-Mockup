@@ -11,503 +11,552 @@ Renew Support: http://themeforest.net/item/metronic-responsive-admin-dashboard-t
 License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
 -->
 
-
 <?php require '../layouts/head.php' ?>
-<?php require './layouts/header.php' ?>
+<link href="../assets/dist/main/main.css" rel="stylesheet" type="text/css" />
+<?php require 'layouts/header.php' ?>
 
 <div class="kt-subheader  kt-grid__item" id="kt_subheader">
-	<div class="kt-container  kt-container--fluid ">
-		<div class="kt-subheader__main">
-			<h3 class="kt-subheader__title">
-				<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-				Kontrak Pegawai
-			</h3>
+							<div class="kt-container  kt-container--fluid ">
+								<div class="kt-subheader__main">
+									<h3 class="kt-subheader__title">
+										<span class="kt-portlet__head-icon">
+											<i class="kt-font-brand flaticon2-list-1"></i>
+										</span>
+										&nbsp;
+										&nbsp;
+											Cetak SK Kontrak Pegawai
+									</h3>
+								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Viana Lamuda </span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
+								</div>
+								<div class="kt-subheader__toolbar">
+								<a href="#.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
+											<div>&nbsp;</div>
+			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
+				<i class="fa fa-print"></i> Export Data</button>
+			</a>
+			<div class="dropdown-menu dropdown-menu-fit dropdown-menu-md dropdown-menu-right">
+				<!--begin::Nav-->
+				<ul class="kt-nav">
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-file-pdf"></i>
+							<span class="kt-nav__link-text">PDF</span>
+						</a>
+					</li>
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-print"></i>
+							<span class="kt-nav__link-text">Cetak</span>
+						</a>
+					</li>
+				</ul>
+				<!--end::Nav-->
+			</div>
 		</div>
 
-	</div>
-</div>
+							</div>
+						</div>
 
-<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
-	<div class="container mb-5">
-		<div class="row mtb-3">
-			<div class="col-lg-6">
-				<div class="page v-center">
-					<img src="../assets/img/kontrak.png" class="w-75 h-center">
-					<div class="alert alert-im ml-auto mt-5 w-50 float-right d-block text-right" role="alert">
-											<strong>KONTRAK KERJA PEGAWAI</strong>
-											<br> <small>Keputusan Direksi No. 028/IM-HRD/VI/2019</small>
-										</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<table class="page-2-start">
-							<tbody>
+							<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
+				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
+					<div class="bg-white w-50 ml-auto mr-auto mt-3">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
-							<td colspan="4">
-							<p class="m--font-metal">Document Name</p>
-							<h5 class="judul"><i>Kontrak Kerja Pegawai</i></h5>
-							</td>
+								<th colspan="6" class="text-center">
+									<span style="text-align: center"><span style="font-family: Bookman Old Style; font-size: 12px;"><u>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</b></u></span><br /><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+														<b>Nomor : 088/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</b></span>
+								</th>
 							</tr>
-							<tr class="text-center">
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document No</p>
-							<p>028/IM-HRD/IV/2019</p>
-							</td>
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document Date</p>
-							<p>25 Juni 2019</p>
-							</td>
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document Version</p>
-							<p>Version 1.0</p>
-							</td>
-							<td style="border:1px solid #000; border-right:none !important">
-							<p class="m--font-metal">Document Status</p>
-							<p>Final</p>
-							</td>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;">TENTANG</span></p></td>
+  </tr>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS</b></span><br />
+							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
+						      <span style="font-family: Bookman Old Style; font-size: 12px;"><b>MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></span></p></td>
 							</tr>
-							</tbody>
-							</table>
-
-							<div class="page-2-end text-justify"><i class="ml-3">
-We retain all copyright and other intellectual property rights in everything developed either before or during the course of an engagement including systems, methodologies, software and know-how.  We also retain all copyright and other intellectual property rights in all reports, written advice or other materials provided by us to you although you will have the full right to use these materials within your own organization. Any use of these materials outside your own organization, will require our permission. All other logo or trademarks on this document are owned by their respective owner. </i></div>
-				</div>
-			</div>
-		</div>
-			<div class="page-break"></div>
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2 ">
-	<p>Kontrak kerja ini dibuat di Makassar pada hari Selasa, Tanggal Dua Puluh Lima, Bulan Juni, Tahun Dua Ribu Sembilan Belas, oleh dan antara:</p>
-
-<ol>
-<li><strong>PT. iLugroup Multimedia Indonesia</strong>, sebuah perusahaan yang didirikan dan tunduk pada hukum Indonesia, berkedudukan di Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9 Makassar 90233 Indonesia, dalam hal ini diwakili oleh <strong>Hj. Nurhayati Nurdin, A.Md</strong> dengan Jabatan HR &amp; GA Supervisor serta bertindak untuk dan atas nama PT. iLugroup Multimedia Indonesia. Selanjutnya disebut juga sebagai <strong>PIHAK PERTAMA</strong>.&nbsp;</li>
-</ol>
-
-<ol start="2">
-<li><strong>Azman, S. ST</strong> pemegang Tanda Pengenal berupa <strong>KTP</strong> dengan No. <strong>7605060612950001 </strong>bertempat tinggal Dusun Karema Kelurahan Tammerodo Kecamatan Tamerodo Sendana, Sulawesi Barat Selanjutnya disebut juga sebagai <strong>PIHAK KEDUA. </strong></li>
-</ol>
-
-<p>Kedua belah pihak tersebut sepakat untuk mengikatkan diri dalam Kontrak Kerja ini dengan syarat dan ketentuan sebagai berikut.</p>
-
-
-<p class="text-center"><strong>Pasal 1</strong></p>
-<p class="text-center"><strong>MAKSUD DAN TUJUAN</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA dengan ini bermaksud mempekerjakan PIHAK KEDUA dan PIHAK KEDUA dengan ini menerangkan setuju untuk bekerja pada PIHAK PERTAMA dengan status sebagai <strong>Pegawai Kontrak</strong>.</li>
-</ol>
-
-<ol start="2">
-<li>Tujuan PIHAK PERTAMA mempekerjakan PIHAK KEDUA adalah untuk jabatan <strong>Electrical Engineering</strong></li>
-</ol>
-
-
-<p class="text-center"><strong>Pasal 2</strong></p>
-<p class="text-center"><strong>TEMPAT/LOKASI KERJA</strong></p>
-
-<p>PIHAK KEDUA akan dipekerjakan di wilayah kerja/lokasi kerja PIHAK PERTAMA yang penempatannya akan ditetapkan kemudian.</p>
-				</div>
-			</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2">
-						<p class="text-center"><strong>Pasal 3</strong></p>
-<p class="text-center"><strong>KEWAJIBAN MASING-MASING PIHAK</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA berkewajiban untuk:</li>
-</ol>
-
-<ol>
-<li>Memberikan tugas atau perintah kerja/<em>job description</em>.</li>
-<li>Membayar imbalan jasa/upah sesuai pada Kontrak Kerja ini</li>
-</ol>
-<p><em>&nbsp;</em></p>
-
-<ol start="2">
-<li>PIHAK KEDUA berkewajiban untuk:</li>
-</ol>
-
-<ol>
-<li>Bersedia ditempatkan di seluruh wilayah kerja perusahaan sesuai dengan pekerjaannya dan alokasi waktu yang telah ditetapkan.</li>
-<li>Melaksanakan semua perintah kerja / deskripsi kerja (<em>job description</em>) dan petunjuk atau instruksi yang diberikan oleh atasannya, baik secara lisan maupun tertulis, dalam hal urusan kedinasan dengan penuh tanggung jawab dan sebaik-baiknya.</li>
-<li>Mematuhi dan/atau menjalankan peraturan dan tata tertib yang ditetapkan oleh PIHAK PERTAMA.</li>
-<li>Menghormati dan menaati pengaturan kewenangan yang telah ada dan petunjuk-petunjuk dari pimpinan/atasan.</li>
-<li>Menjaga dan memelihara suasana yang sehat dan harmonis dalam hubungan kerja dengan atasan, teman sekerja, dan relasi.</li>
-<li>Memelihara dan menjaga nama baik dan kewibawaan PIHAK PERTAMA.</li>
-<li>Memelihara dan menjaga rahasia perusahaan.</li>
-<li>Memberikan laporan dan/atau keterangan yang diperlukan dengan jujur dan benar apabila diperlukan atau sesuai dengan waktu yang telah ditentukan.</li>
-<li>Melaporkan, baik secara lisan maupun tertulis, tentang kesalahan/kekeliruan yang mungkin dapat menghambat kelancaran jalannya pekerjaan atau merugikan kepentingan Perusahaan kepada atasan/pejabat yang berkepentingan di Perusahaan.</li>
-<li>Siap untuk bekerja di tempat kerja 10 (Sepuluh) menit sebelum waktu yang telah ditentukan.</li>
-<li>Melapor secara lisan atau tertulis kepada atasannya apabila berhalangan masuk kerja.</li>
-<li>Menggunakan dan merawat serta menjaga alat/sarana kerja dan perlengkapan keselamatan kerja yang telah dipercayakan kepada PIHAK KEDUA.</li>
-<li>Menaati dan tunduk kepada Peraturan Perusahaan dan taat terhadap Job Deskripsi yang telah ditentukan.</li>
-</ol>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+								<td colspan="6"><div align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>Dengan Rahmat Tuhan Yang Maha Esa</b></span></div></td>
+							</tr>
+							<tr>
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</b></span></p></td>
+  </tr>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">Menimbang</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">:</td>
+							  <td width="10" valign="top">a.</td>
+							  <td>&nbsp;</td>
+							  <td>bahwa  untuk menunjang kelancaran pelaksanaan tugas-tugas Perusahaan Umum Daerah  Parkir Makassar Raya Kota Makassar, maka dipandang perlu mengangkat tenaga Kontrak  Kerja waktu terbatas sesuai dengan kebutuhan tiap Bagian  dengan memperhatikan Analisis beban kerja dan kemampuan keuangan perusahaan.   </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td>&nbsp;</td>
+							  <td>bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a diatas dipandang perlu ditetapkan dengan Keputusan Direksi Perusahaan Umum  Daerah Parkir Makassar Raya tentang Pengangkatan Tenaga Kontrak Kerja Waktu  Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya  Kota Makassar Tahun 2023. </td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">Mengingat</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="10" valign="top">1.</td>
+							  <td>&nbsp;</td>
+							  <td>Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan  Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun  1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);
+						      <span style="text-align: justify"></span></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">2.</td>
+							  <td>&nbsp;</td>
+							  <td>Undang – Undang Nomor 28 Tahun 1999 tentang Penyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, Kolusi dan Nepotisme (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 75, tambahan Lembaran Negara Republik Indonesia Nomor 3851);</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">3.</td>
+							  <td>&nbsp;</td>
+							  <td>Undang – Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang – Undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234) sebagaimana telah diubah dengan Undang-Undang Nomor 15 Tahun 2019 Tentang Perubahan atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 183, Tambahan Lembaran Negara Republik Indonesia Nomor 6398);</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">4.</td>
+							  <td>&nbsp;</td>
+							  <td>Undang – Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Noomor 5587) sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="page-break"></div>
-		<div class="row">
-			<div class="col-lg-6 mtb-3">
-					<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page page-2" >
-						<p class="text-center"><strong>Pasal 4</strong></p>
-<p class="text-center"><strong>UPAH</strong><strong> DAN CARA PEMBAYARAN</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA akan memberikan Upah kepada PIHAK KEDUA sebesar yakni :</li>
-</ol>
-
-<div class="row">
-<div class="col-lg-6">
-<table class="upah">
-<thead>
-<tr style="border-top:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-	<th colspan="3">PENDAPATAN</th>
-</tr>
-<tr style="border-bottom:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-	<td width="60">Gaji Pokok</td>
-	<td width="1">:</td>
-	<td width="39">Rp 2.941.270</td>
-</tr>
-<tr>
-	<td>Tunj. Jabatan</td>
-	<td>:</td>
-	<td>Rp 75.000</td>
-</tr>
-<tr>
-	<td>Tunj. Keluarga</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Tunj. Komunikasi & Data</td>
-	<td>:</td>
-	<td>Rp 100.000</td>
-</tr>
-<tr>
-	<td>Tunj. Konsumsi & Transportasi</td>
-	<td>:</td>
-	<td>Rp 520.000</td>
-</tr>
-<tr>
-	<td>Tunj. Kinerja</td>
-	<td>:</td>
-	<td>Rp 250.000</td>
-</tr>
-<tr>
-	<td>THR</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Lembur</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Lainnya</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 4%</td>
-	<td>:</td>
-	<td>Rp 127.663</td>
-</tr>
-<tr>
-	<td>JHT 3,7%</td>
-	<td>:</td>
-	<td>Rp 108.827</td>
-</tr>
-<tr>
-	<td>JKK & JKM</td>
-	<td>:</td>
-	<td>Rp 15.883</td>
-</tr>
-<tr>
-	<td colspan="3"></td>
-</tr>
-</tbody>
-<tfoot>
-	<tr style="border-top:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-		<th>Total Pendapatan</th>
-		<th>:</th>
-		<th>Rp 4.138.643</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ccecff">
-		<th>Total Penerimaan</th>
-		<th>:</th>
-		<th>Rp 3.695.529</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-</tfoot>
-</table>
-</div>
-<div class="col-lg-6">
-<table class="upah">
-<thead>
-<tr style="border-top:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-	<th colspan="3">POTONGAN</th>
-</tr>
-<tr style="border-bottom:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-</thed>
-<tbody>
-<tr>
-	<td width="60">Keterlambatan</td>
-	<td width="1">:</td>
-	<td width="39">Rp -</td>
-</tr>
-<tr>
-	<td>Absensi</td>
-	<td>:</td>
-	<td>Rp -</td>
-</tr>
-<tr>
-	<td>Pinjaman</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 4% ded</td>
-	<td>:</td>
-	<td>Rp 127.663</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 1%</td>
-	<td>:</td>
-	<td>Rp 31.916</td>
-</tr>
-<tr>
-	<td>JHT 3,7% ded</td>
-	<td>:</td>
-	<td>Rp 108.827</td>
-</tr>
-<tr>
-	<td>JKK & JKM ded</td>
-	<td>:</td>
-	<td>Rp 15.883</td>
-</tr>
-<tr>
-	<td>JHT 2%</td>
-	<td>:</td>
-	<td>Rp 58.825</td>
-</tr>
-<tr>
-	<td>PPh 21 Terutang</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Iuran Wajib</td>
-	<td>:</td>
-	<td>Rp 100.000</td>
-</tr>
-<tr>
-	<td colspan="3" style="padding-top:6.5rem"></td>
-</tr>
-</tbody>
-<tfoot>
-	<tr style="border-top:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-		<th>Total Potongan</th>
-		<th>:</th>
-		<th>Rp 443.114</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-</tfoot>
-</table>
-</div>
-</div>
-
-
-<table class="upah mt-3">
-	<tr>
-		<td  style="font-size:9px !important; font-style:italic;border-top:1px solid #000">Terbilang : Tiga juta enam ratus sembilan puluh lima ribu lima ratus dua puluh sembilan rupiah</td>
-	</tr>
-</table>
-
-<ol start="2" class="mt-3">
-<li>Ketentuan tentang gaji karyawan tunduk pada Peraturan Perusahaan.</li>
-<li>Pembayaran gaji setiap bulannya akan mengikuti tanggal gaji yang telah ditentukan oleh Perusahaan.</li>
-</ol>
-
+  <div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">5.</td>
+							  <td>&nbsp;</td>
+							  <td>Undang – Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 292, Tambahan Lembaran Negara Republik Indosesia Nomor 5601); </td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">6.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Daerah Kota Makassar Nomor 10 Tahun 2000 tentang Pokok-Pokok Badan Pengawas Direksi dan Kepegawaian PD.Parkir Makassar Raya;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">7.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Daerah Kota Makassar  Nomor 16 Tahun 2006 tentang Perubahan atas Peraturan Daerah Kota Makassar Nomor 5 Tahun 1999 tentang pendirian Perusahaan Daerah Parkir Makassar Raya Kotamadya Daerah Tingkat II Ujung Pandang;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">8.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Daerah Kota Makassar Nomor 17 Tahun 2006 tentang Pengelolaan Parkir Tepi Jalan Umum dalam daerah Kota Makassar;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">9.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Pemerintah Nomor 51 Tahun 1971 tentang Perubahan Batas – batas Daerah Kotamadya Makassar dan Kabupaten – Kabupaten Gowa, Maros dan Pangkajene dan Kepulauan dalam lingkungan Daerah Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 1971 Nomor 65, Tambahan Lembaran Negara Republik Indonesia Nomor 2970);</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">10.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan pemerintah Nomor 54 Tahun 2017 tentang Badan Usaha Milik Daerah;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">11.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Pemerintah Nomor 86 Tahun 1999 tentang Perubahan Nama Kota Ujung Pandang menjadi Kota Makassar dalam Wilayah Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Nomor 5258);</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">12.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Pemerintah Dalam Negeri Daerah Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036) sebagaimana telah diubah terakhir dengan Peraturan Menteri dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">13.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Menteri Dalam Negeri Nomor 37 Tahun 2018 tentang Pengangkatan dan Pemberhentian Anggota Dewan Pengawas atau Anggota Komisaris dan Anggota Direksi Badan Usaha Milik Daerah;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">14.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Menteri Dalam Negeri Nomor 118 tahun 2018 tentang Rencan Bisnis, Rencana Kerja dan Anggaran, Kerja Sama, Pelaporan dan Evaluasi Badan Usaha Milik Daerah; </td>
+  </tr>
+							<tr>
+								<td colspan="6">&nbsp;</td>
+							</tr>
+						</table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-				</div>
-			</div>
-			<div class="col-lg-6 mtb-3">
-					<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2">
-						<p class="text-center"><strong>Pasal 5</strong></p>
-						<p class="text-center"><strong>LARANGAN-LARANGAN</strong></p>
-
-						<p>PIHAK KEDUA selama Kontrak Kerja &nbsp;ini berlangsung dilarang:</p>
-						<ol>
-						<li>Melakukan tindakan yang diperkirakan dapat menimbulkan kerugian bagi Perusahaan.</li>
-						<li>Keluar dari Perusahaan sebelum <strong>1 ( Satu ) Tahun</strong> Masa Kerja tanpa alasan yang dapat ditoleransi.</li>
-						<li>Memberikan keterangan/informasi kepada pihak ketiga di luar batas kewenangannya yang patut diduga mengakibatkan kerugian bagi Perusahaan.</li>
-						<li>Menerima pemberian hadiah berupa apa pun dari pihak ketiga, jika diketahui atau patut diketahui pemberian hadiah dimaksud dapat mengakibatkan kerugian bagi Perusahaan.</li>
-						<li>Tidur pada waktu jam kerja.</li>
-						<li>Membawa/mempergunakan barang-barang milik Perusahaan keluar lingkungan kerja tanpa izin atau menyalahgunakan alat-alat, barang-barang, dan lain-lain benda milik Perusahaan.</li>
-						<li>Meninggalkan tempat kerja selama jam kerja tanpa izin terlebih dahulu dari atasannya.</li>
-						<li>Pada saat kesepakatan kerja diadakan memberikan keterangan palsu atau dipalsukan.</li>
-						<li>Menyalahgunakan atau memanfaatkan jabatan, tugas, wewenang, atau tanggung jawab yang diberikan PIHAK PERTAMA untuk kepentingan atau keuntungan pribadi dan atau pihak ketiga.</li>
-						<li>Membawa, minum-minuman yang mengandung alkohol, terlebih mabuk, madat, memakai obat bius atau narkotika di tempat kerja.</li>
-						<li>Merencanakan dan atau melakukan pencurian, menggelapkan, menipu, atau melakukan kejahatan lainnya.</li>
-						<li>Menganiaya, menghina secara kasar, atau mengancam atasan, keluarga atasan, atau teman sekerja.</li>
-						<li>Dengan sengaja atau karena kecerobohannya merusak atau membiarkan dalam keadaan bahaya barang milik Perusahaan.</li>
-						<li>Dengan sengaja, walaupun sudah diperingatkan membiarkan dirinya atau teman sekerjanya dalam keadaan bahaya.</li>
-						<li>Membongkar rahasia perusahaan yang seharusnya dirahasiakan.</li>
-						<li>Berjudi atau melakukan permainan bersifat judi di tempat kerja atau lingkungan perusahaan.</li>
-						<li>Membuat dan atau menyebarkan pengumuman, pamflet, selebaran-selebaran, atau corat-coret di lingkungan tempat kerja yang bersifat menghasut, memfitnah, melanggar tata susila, atau hal-hal lain semacam itu.</li>
-						<li>Membawa ke dalam kawasan Perusahaan, barang atau benda-benda dalam bentuk apa pun yang dapat membahayakan keselamatan jiwa manusia dan atau Perusahaan, kecuali barang atau benda tersebut bagian dalam pelaksanaan pekerjaannya.</li>
-						<li>Melakukan sesuatu di tempat kerja yang bertentangan dengan hukum dan atau kesusilaan.</li>
-						</ol>
-
+						<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="9"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+														<b>MEMUTUSKAN</b></p></td>
+							</tr>
+							<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="76" valign="top" style="text-align: left">Menetapkan</td>
+							  <td width="1" valign="top" style="text-align: left">&nbsp;</td>
+							  <td width="3" valign="top" style="text-align: left">:</td>
+							  <td width="10" valign="top" style="text-align: left"></td>
+							  <td width="1" style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left"><b>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA  TENTANG  PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS PADA PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></td>
+  </tr>
+							<tr>
+							  <td colspan="9" valign="top" style="text-align: left">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KESATU</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left"></td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KEDUA</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td width="10" valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KETIGA</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Segala Biaya yang timbul dari pelaksanaan Keputusan ini, akan dibebankan pada  Anggaran Belanja Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun Anggaran 2023;</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KEEMPAT</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Ketentuan yang berkaitan dengan teknis pelaksanaan Keputusan ini akan diatur lebih lanjut dalam Surat Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KELIMA</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Keputusan ini berlaku terhitung mulai tanggal 01 Januari 2023 sampai dengan 31 Desember 2023.</td>
+  </tr>
+							<tr>
+							  <td colspan="9" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" rowspan="9" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+							  <td width="84" style="text-align: left">Ditetapkan di </td>
+							  <td width="8" style="text-align: left">:</td>
+							  <td width="130" style="text-align: left">Makassar</td>
+  </tr>
+							<tr>
+							  <td style="text-align: left"><u>Pada Tanggal</u></td>
+							  <td style="text-align: left"><u>:</u></td>
+							  <td style="text-align: left"><u>30 Desember 2022</u></td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left">Direksi Perusahaan Umum Daerah </td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left">Parkir Makassar Raya</td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
+  </tr>
+							<tr>
+							  <td colspan="3" style="text-align: left">Direktur Utama</td>
+  </tr>
+							<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="9" style="text-align: left"><u>Tembusan disampaikan Kepada Yth.:</u></td>
+  </tr>
+							<tr>
+							  <td colspan="9" style="text-align: left">1. Walikota Makassar;</td>
+  </tr>
+							<tr>
+							  <td colspan="9" style="text-align: left">2.	Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
+  </tr>
+							<tr>
+								<td colspan="9" style="text-align: left">3.	Pertinggal.</td>
+							</tr>
+							<tr>
+								<td colspan="9">&nbsp;</td>
+							</tr>
+							<tr>
+							  <td colspan="9">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="9"></td>
+  </tr>
+							<tr>
+								<td colspan="9">&nbsp;</td>
+							</tr>
+						</table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
+					<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+  <tr>
+    <td width="84"><b>Daftar</b></td>
+    <td width="8">:</td>
+    <td width="4">&nbsp;</td>
+    <td width="437">Lampiran Keputusan Direksi PERUMDA Parkir Makassar Raya</td>
+  </tr>
+							<tr>
+							  <td><b>Nomor</b></td>
+							  <td>:</td>
+							  <td>&nbsp;</td>
+							  <td>001/20-S/Kep.Dir/PERUMDA-PMR/XI/2022</td>
+  </tr>
+							<tr>
+							  <td><b>Tanggal</b></td>
+							  <td>:</td>
+							  <td>&nbsp;</td>
+							  <td>29 November 2022</td>
+  </tr>
+							<tr>
+							  <td colspan="4">&nbsp;</td>
+  </tr>
+						</table>
+						<table align="center" border="1" cellpadding="1" style="width: 600px; text-align:justify; line-height:2.0; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td valign="center" style="text-align: right">1&nbsp;</td>
+							  <td valign="center">&nbsp;Nomor</td>
+							  <td valign="center">&nbsp;001</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">2&nbsp;</td>
+							  <td valign="center">&nbsp;Nama</td>
+							  <td valign="center">&nbsp;Mardiyah, SE</td>
+  </tr>
+							<tr>
+							  <td width="24" valign="center" style="text-align: right">3&nbsp;</td>
+							  <td width="214" valign="center">&nbsp;Nomor Pokok Pegawai</td>
+							  <td width="331" valign="center">&nbsp;2381980022062</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">4&nbsp;</td>
+							  <td valign="center">&nbsp;Tempat/Tanggal Lahir</td>
+							  <td valign="center">&nbsp;Sungguminasa, 13 Januari 1980</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">5&nbsp;</td>
+							  <td valign="center">&nbsp;Jenis Kelamin</td>
+							  <td valign="center">&nbsp;Perempuan</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">6&nbsp;</td>
+							  <td valign="center">&nbsp;Pendidikan Terakhir</td>
+							  <td valign="center">&nbsp;S.1</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">7&nbsp;</td>
+							  <td valign="center">&nbsp;Status</td>
+							  <td valign="center">&nbsp;Calon Pegawai</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">8&nbsp;</td>
+							  <td valign="center">&nbsp;Pangkat / Golongan</td>
+							  <td valign="center">&nbsp;Staf Muda / C.1</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">9&nbsp;</td>
+							  <td valign="center">&nbsp;Masa kerja Golongan</td>
+							  <td valign="center">&nbsp;0 Tahun 0 Bulan</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">10&nbsp;</td>
+							  <td valign="center">&nbsp;Gaji Pokok</td>
+							  <td valign="center">&nbsp;80% x 2.456.700 = Rp. 1.965.360</td>
+  </tr>
+							<tr>
+							  <td valign="center" style="text-align: right">11&nbsp;</td>
+							  <td valign="center">&nbsp;Terhitung Mulai tanggal</td>
+							  <td valign="center">&nbsp;01 Desember 2022</td>
+  </tr>
+  <tr>
+							  <td valign="center" style="text-align: right">12&nbsp;</td>
+							  <td valign="center">&nbsp;Tempat Bekerja</td>
+							  <td valign="center">&nbsp;PERUMDA Parkir Makassar Raya</td>
+  </tr>
+  <tr>
+							  <td valign="center" style="text-align: right">13&nbsp;</td>
+							  <td valign="center">&nbsp;Keterangan</td>
+							  <td valign="center">&nbsp;Masa Kerja Tambahan 15 Tahun</td>
+  </tr>
+   <tr>
+							  <td valign="center" style="text-align: right">&nbsp;</td>
+							  <td valign="center">&nbsp;</td>
+							  <td valign="center">&nbsp;</td>
+  </tr>
+						</table>
+						<br>
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+  <tr>
+    <td width="24" valign="center" style="text-align: right">&nbsp;</td>
+    <td width="331" rowspan="3" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+    <td width="90" valign="center" style="text-align: left">Ditetapkan di</td>
+    <td width="7" valign="center" style="text-align: left">:</td>
+    <td width="126" valign="center" style="text-align: left">Makassar</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center" style="text-align: left">Pada Tanggal </td>
+    <td valign="center" style="text-align: left">:</td>
+    <td valign="center" style="text-align: left">29 November 2022</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direksi Perusahaan Umum Daerah
+Parkir Makassar Raya</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direktur Utama</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: left"></td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
+  </tr>
+</table>
+						
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+
+					
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-6">
-					<div class="page pasal-6">
-						<div class="page-6">
-							<p class="text-center"><strong>Pasal 6</strong></p>
-								<p class="text-center"><strong>SANKSI</strong></p>
-<ol>
-<li>Apabila PIHAK KEDUA tidak melaksanakan kewajiban sebagaimana ditentukan dalam Kontrak Kerja ini dan Peraturan Perusahaan dapat dikenakan sanksi, baik berupa teguran lisan maupun surat peringatan.</li>
-</ol>
+								</div>
 
-<ol start="2">
-<li>PIHAK PERTAMA dapat memberikan surat peringatan terakhir kepada PIHAK KEDUA karena kesalahan melakukan perbuatan-perbuatan sebagai berikut.</li>
-</ol>
-<ol type="a">
-<li>Tetap menolak untuk menaati perintah atau penugasan yang layak diberikan kepadanya oleh atasannya, sedangkan perintah itu sesuai dengan kesepakatan kerja yang telah diadakan.</li>
-<li>Dengan atau karena lalai mengakibatkan dirinya dalam keadaan demikian lupa sehingga tidak dapat menjalankan pekerjaannya.</li>
-<li>Apabila ternyata di kemudian hari PIHAK KEDUA tidak melaksanakan pekerjaannya sesuai dengan ketentuan yang sudah diperjanjikan.</li>
-<li>Melanggar ketentuan yang telah ditetapkan dalam kesepakatan kerja sedangkan kepadanya telah diberikan surat peringatan pertama atau kedua yang masih berlaku.</li>
-<li>Apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5</li>
-</ol>
-<div class="page-break"></div>
-<ol start="3">
-<li>Apabila setelah surat peringatan terakhir PIHAK KEDUA masih tetap melakukan perbuatan sebagaimana dimaksud pada ayat 1 dan ayat 2 maka PIHAK PERTAMA dapat mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK).</li>
-</ol>
+								<!--End:: App Content-->
+							</div>
 
-<ol start="4">
-<li>PIHAK PERTAMA dapat langsung mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK) apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5 poin 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dan 19.</li>
-</ol>
+							<!--End::App-->
 						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="page pasal-6">
-						<div class="page-6">
-							<div class="pasal-6-next">
-							<ol start="3">
-							<li>Apabila setelah surat peringatan terakhir PIHAK KEDUA masih tetap melakukan perbuatan sebagaimana dimaksud pada ayat 1 dan ayat 2 maka PIHAK PERTAMA dapat mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK).</li>
-							</ol>
-
-							<ol start="4">
-							<li>PIHAK PERTAMA dapat langsung mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK) apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5 poin 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dan 19.</li>
-							</ol>
-						</div>
-							<p class="text-center"><strong>Pasal 7</strong></p>
-<p class="text-center"><strong>JANGKA WAKTU</strong></p>
-
-<p>Kontrak Kerja ini berlaku untuk jangka waktu hingga <strong>25 Juni 2020</strong> dan akan diperbaharui selanjutnya sesuai dengan keputusan Perusahaan.</p>
-
-
-<p class="text-center"><strong>Pasal 8</strong></p>
-<p class="text-center"><strong>LAIN-LAIN</strong></p>
-
-<ol>
-<li>Kontrak Kerja ini tidak dapat ditarik kembali dan atau diubah, kecuali atas persetujuan tertulis dari kedua belah pihak.</li>
-<li>Perubahan dan atau tambahan berkenaan dengan keterangan-keterangan dan syarat-syarat dalam Kontrak Kerja ini hanya berlaku secara sah apabila perubahan atau tambahan itu dibuat secara tertulis serta ditandatangani oleh kedua belah pihak.</li>
-<li>Segala sesuatu yang tidak/atau belum cukup diatur dalam Kontrak Kerja ini tunduk kepada ketentuan Peraturan Perusahaan yang ditetapkan oleh PIHAK PERTAMA.</li>
-</ol>
-
-
-<p class="text-center"><strong>Pasal 9</strong></p>
-<p class="text-center"><strong>PENUTUP</strong></p>
-
-<p>Demikian Kontrak Kerja ini dibuat dan ditandatangani oleh kedua belah pihak dalam keadaan sehat dan sadar, serta tanpa paksaan dari pihak mana pun. Kontrak Kerja ini dibuat rangkap 2 (dua) yang sama bunyinya, semuanya bermaterai cukup dan mempunyai kekuatan hukum yang sama bagi kedua belah pihak.</p>
-
-<table style="width:430px; margin: 16px auto; text-align:left;" class="w-100">
-<tbody>
-<tr>
-<td style="text-align: center;width:250px"></td>
-<td style="text-align: center;width:250px">Makassar, 25 Juni 2019</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 250px; font-weight:bold;">PIHAK KEDUA</td>
-<td style="text-align: center; width: 250px; font-weight:bold;">PIHAK PERTAMA</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 250px;"></td>
-<td style="text-align: center; width: 250px;font-weight:bold;">PT. ILUGROUP MULTIMEDIA INDONESIA</td>
-</tr>
-<tr>
-						<td style="text-align: center; border-top: 0px; vertical-align: bottom;">
-								<div style="min-height:64px">&nbsp;</div>
-								<div><b>Azman, S. ST</b></div>
-								<div style="text-align: center;">Electrical Engineering</div>
-						</td>
-						<td style="text-align: center; border-top: 0px; vertical-align: bottom;">
-								<div style="min-height:64px">&nbsp;</div>
-								<div><u><b>Oklan Zulkifli, SE</b></u></div>
-							<div style="text-align: center;">HR & GA Director</div></td>
-				</tr>
-</tbody>
-</table>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-<!--End::App-->
-</div>
-</div>
-</div>
-</div>
-</div>
 
 <?php require '../layouts/footer.php' ?>
 <?php require '../layouts/foot.php' ?>
