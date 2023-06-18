@@ -495,8 +495,6 @@ function goBack() {
 						
 
                         </div>
-                        </div>
-                        </div>
 					<div class="col-lg-5">
 					    <label>Tembusan Surat Tugas :</label>
                           <div id="kt_repeater_2">

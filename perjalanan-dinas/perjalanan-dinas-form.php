@@ -1021,12 +1021,12 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
     <td><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
     <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
