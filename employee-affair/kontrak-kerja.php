@@ -402,7 +402,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hr-view-perjanjian-kontrak.php" class="kt-nav__link">
+																			<a href="hr-view-perjanjian-kontrak-approve.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>

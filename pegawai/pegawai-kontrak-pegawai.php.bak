@@ -11,503 +11,1328 @@ Renew Support: http://themeforest.net/item/metronic-responsive-admin-dashboard-t
 License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
 -->
 
-
 <?php require '../layouts/head.php' ?>
-<?php require './layouts/header.php' ?>
+<link href="../assets/dist/main/main.css" rel="stylesheet" type="text/css" />
+<?php require 'layouts/header.php' ?>
 
 <div class="kt-subheader  kt-grid__item" id="kt_subheader">
-	<div class="kt-container  kt-container--fluid ">
-		<div class="kt-subheader__main">
-			<h3 class="kt-subheader__title">
-				<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-				Kontrak Pegawai
-			</h3>
+							<div class="kt-container  kt-container--fluid ">
+								<div class="kt-subheader__main">
+									<h3 class="kt-subheader__title">
+										<span class="kt-portlet__head-icon">
+											<i class="kt-font-brand flaticon2-list-1"></i>
+										</span>
+										&nbsp;
+										&nbsp;
+											Cetak Perjanjian Kontrak Pegawai
+									</h3>
+								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+									<div class="kt-subheader__group" id="kt_subheader_search">
+										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
+											Viana Lamuda </span>
+										<form class="kt-margin-l-20" id="kt_subheader_search_form">
+
+										</form>
+									</div>
+
+								</div>
+								<div class="kt-subheader__toolbar">
+								<a href="#.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
+											<div>&nbsp;</div>
+			<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
+				<i class="fa fa-print"></i> Export Data</button>
+			</a>
+			<div class="dropdown-menu dropdown-menu-fit dropdown-menu-md dropdown-menu-right">
+				<!--begin::Nav-->
+				<ul class="kt-nav">
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-file-pdf"></i>
+							<span class="kt-nav__link-text">PDF</span>
+						</a>
+					</li>
+					<li class="kt-nav__item">
+						<a href="#" class="kt-nav__link">
+							<i class="kt-nav__link-icon fa fa-print"></i>
+							<span class="kt-nav__link-text">Cetak</span>
+						</a>
+					</li>
+				</ul>
+				<!--end::Nav-->
+			</div>
 		</div>
 
-	</div>
-</div>
+							</div>
+						</div>
 
-<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid mt-3">
-	<div class="container mb-5">
-		<div class="row mtb-3">
-			<div class="col-lg-6">
-				<div class="page v-center">
-					<img src="../assets/img/kontrak.png" class="w-75 h-center">
-					<div class="alert alert-im ml-auto mt-5 w-50 float-right d-block text-right" role="alert">
-											<strong>KONTRAK KERJA PEGAWAI</strong>
-											<br> <small>Keputusan Direksi No. 028/IM-HRD/VI/2019</small>
-										</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<table class="page-2-start">
-							<tbody>
+							<div class="tab-content" style="background:#f2f3f8;overflow:scroll;height:800px">
+				<div class="tab-pane active" id="kt_tabs_1_1" role="tabpanel">
+					<div class="bg-white w-50 ml-auto mr-auto mt-3">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
-							<td colspan="4">
-							<p class="m--font-metal">Document Name</p>
-							<h5 class="judul"><i>Kontrak Kerja Pegawai</i></h5>
-							</td>
+								<th colspan="6" class="text-center">
+									<span style="text-align: center"><span style="font-family: Bookman Old Style; font-size: 12px;"><u>SURAT PERJANJIAN KONTRAK KERJA</b></u></span><br /><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
+														<b>Nomor : 001/80-KK/PERUMDA-PMR/X/2022</b></span>
+								</th>
 							</tr>
-							<tr class="text-center">
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document No</p>
-							<p>028/IM-HRD/IV/2019</p>
-							</td>
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document Date</p>
-							<p>25 Juni 2019</p>
-							</td>
-							<td style="border:1px solid #000; border-left:none !important">
-							<p class="m--font-metal">Document Version</p>
-							<p>Version 1.0</p>
-							</td>
-							<td style="border:1px solid #000; border-right:none !important">
-							<p class="m--font-metal">Document Status</p>
-							<p>Final</p>
-							</td>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;">TENTANG</span></p></td>
+  </tr>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>KESEPAKATAN KERJA ANTARA PERUMDA PARKIR MAKASSAR RAYA</b></span><br />
+							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>DENGAN TENAGA KONTRAK WAKTU TERBATAS</b></span><br />
+						      <span style="font-family: Bookman Old Style; font-size: 12px;"><b>TAHUN ANGGARAN : 2022</b></span></p></td>
 							</tr>
-							</tbody>
-							</table>
-
-							<div class="page-2-end text-justify"><i class="ml-3">
-We retain all copyright and other intellectual property rights in everything developed either before or during the course of an engagement including systems, methodologies, software and know-how.  We also retain all copyright and other intellectual property rights in all reports, written advice or other materials provided by us to you although you will have the full right to use these materials within your own organization. Any use of these materials outside your own organization, will require our permission. All other logo or trademarks on this document are owned by their respective owner. </i></div>
-				</div>
-			</div>
-		</div>
-			<div class="page-break"></div>
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2 ">
-	<p>Kontrak kerja ini dibuat di Makassar pada hari Selasa, Tanggal Dua Puluh Lima, Bulan Juni, Tahun Dua Ribu Sembilan Belas, oleh dan antara:</p>
-
-<ol>
-<li><strong>PT. iLugroup Multimedia Indonesia</strong>, sebuah perusahaan yang didirikan dan tunduk pada hukum Indonesia, berkedudukan di Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9 Makassar 90233 Indonesia, dalam hal ini diwakili oleh <strong>Hj. Nurhayati Nurdin, A.Md</strong> dengan Jabatan HR &amp; GA Supervisor serta bertindak untuk dan atas nama PT. iLugroup Multimedia Indonesia. Selanjutnya disebut juga sebagai <strong>PIHAK PERTAMA</strong>.&nbsp;</li>
-</ol>
-
-<ol start="2">
-<li><strong>Azman, S. ST</strong> pemegang Tanda Pengenal berupa <strong>KTP</strong> dengan No. <strong>7605060612950001 </strong>bertempat tinggal Dusun Karema Kelurahan Tammerodo Kecamatan Tamerodo Sendana, Sulawesi Barat Selanjutnya disebut juga sebagai <strong>PIHAK KEDUA. </strong></li>
-</ol>
-
-<p>Kedua belah pihak tersebut sepakat untuk mengikatkan diri dalam Kontrak Kerja ini dengan syarat dan ketentuan sebagai berikut.</p>
-
-
-<p class="text-center"><strong>Pasal 1</strong></p>
-<p class="text-center"><strong>MAKSUD DAN TUJUAN</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA dengan ini bermaksud mempekerjakan PIHAK KEDUA dan PIHAK KEDUA dengan ini menerangkan setuju untuk bekerja pada PIHAK PERTAMA dengan status sebagai <strong>Pegawai Kontrak</strong>.</li>
-</ol>
-
-<ol start="2">
-<li>Tujuan PIHAK PERTAMA mempekerjakan PIHAK KEDUA adalah untuk jabatan <strong>Electrical Engineering</strong></li>
-</ol>
-
-
-<p class="text-center"><strong>Pasal 2</strong></p>
-<p class="text-center"><strong>TEMPAT/LOKASI KERJA</strong></p>
-
-<p>PIHAK KEDUA akan dipekerjakan di wilayah kerja/lokasi kerja PIHAK PERTAMA yang penempatannya akan ditetapkan kemudian.</p>
-				</div>
-			</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2">
-						<p class="text-center"><strong>Pasal 3</strong></p>
-<p class="text-center"><strong>KEWAJIBAN MASING-MASING PIHAK</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA berkewajiban untuk:</li>
-</ol>
-
-<ol>
-<li>Memberikan tugas atau perintah kerja/<em>job description</em>.</li>
-<li>Membayar imbalan jasa/upah sesuai pada Kontrak Kerja ini</li>
-</ol>
-<p><em>&nbsp;</em></p>
-
-<ol start="2">
-<li>PIHAK KEDUA berkewajiban untuk:</li>
-</ol>
-
-<ol>
-<li>Bersedia ditempatkan di seluruh wilayah kerja perusahaan sesuai dengan pekerjaannya dan alokasi waktu yang telah ditetapkan.</li>
-<li>Melaksanakan semua perintah kerja / deskripsi kerja (<em>job description</em>) dan petunjuk atau instruksi yang diberikan oleh atasannya, baik secara lisan maupun tertulis, dalam hal urusan kedinasan dengan penuh tanggung jawab dan sebaik-baiknya.</li>
-<li>Mematuhi dan/atau menjalankan peraturan dan tata tertib yang ditetapkan oleh PIHAK PERTAMA.</li>
-<li>Menghormati dan menaati pengaturan kewenangan yang telah ada dan petunjuk-petunjuk dari pimpinan/atasan.</li>
-<li>Menjaga dan memelihara suasana yang sehat dan harmonis dalam hubungan kerja dengan atasan, teman sekerja, dan relasi.</li>
-<li>Memelihara dan menjaga nama baik dan kewibawaan PIHAK PERTAMA.</li>
-<li>Memelihara dan menjaga rahasia perusahaan.</li>
-<li>Memberikan laporan dan/atau keterangan yang diperlukan dengan jujur dan benar apabila diperlukan atau sesuai dengan waktu yang telah ditentukan.</li>
-<li>Melaporkan, baik secara lisan maupun tertulis, tentang kesalahan/kekeliruan yang mungkin dapat menghambat kelancaran jalannya pekerjaan atau merugikan kepentingan Perusahaan kepada atasan/pejabat yang berkepentingan di Perusahaan.</li>
-<li>Siap untuk bekerja di tempat kerja 10 (Sepuluh) menit sebelum waktu yang telah ditentukan.</li>
-<li>Melapor secara lisan atau tertulis kepada atasannya apabila berhalangan masuk kerja.</li>
-<li>Menggunakan dan merawat serta menjaga alat/sarana kerja dan perlengkapan keselamatan kerja yang telah dipercayakan kepada PIHAK KEDUA.</li>
-<li>Menaati dan tunduk kepada Peraturan Perusahaan dan taat terhadap Job Deskripsi yang telah ditentukan.</li>
-</ol>
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+								<td colspan="6"><div align="justify"><span style="font-family: Bookman Old Style; font-size: 12px;">Pada hari ini Senin Tanggal Tiga Puluh Satu Bulan Oktober Tahun Dua Ribu Dua Puluh Dua masing-masing :</span></div></td>
+							</tr>
+							
+							<tr>
+							  <td colspan="6">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="11" valign="top">1.</td>
+							  <td width="124" valign="top">Yulianti Tomu, SE</td>
+							  <td width="7" valign="top">&nbsp;</td>
+							  <td width="9" valign="top">:</td>
+							  <td width="8">&nbsp;</td>
+							  <td width="415"><div align="justify"><p>Direktur Utama PERUMDA Parkir Makassar Raya Berdasarkan  <br />
+						      Peraturan Pemerintah No. 54  Tahun 2017 tentang Badan Usaha Milik Negara. Dalam hal ini bertindak untuk dan  atas nama Perusahaan Umum Daerah Parkir Makassar Raya, yang untuk selanjutnya  disebut PIHAK PERTAMA. </p></div></td>
+  </tr>
+							<tr>
+							  <td valign="top">2.</td>
+							  <td valign="top">N a m a</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">:</td>
+							  <td>&nbsp;</td>
+							  <td><strong>YUNUS  TULAK, S.IP</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Tempat / Tgl. Lahir</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">:</td>
+							  <td>&nbsp;</td>
+							  <td>Tator, 05 Oktober 1964</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">Pendidikan Terakhir</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">:</td>
+							  <td>&nbsp;</td>
+							  <td>S.1</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">A l a m a t</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">:</td>
+							  <td>&nbsp;</td>
+							  <td>Jl. Haji Kalla II. No. 10</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>Selanjutnya disebut <strong>PIHAK KEDUA</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><div align="justify"><p>Bahwa berdasarkan Surat Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Nomor : 154/20-S.Kep.Dir/PERUMDA-PMR/X/2022, Tanggal 31 Oktober  2022, <strong>PIHAK PERTAMA</strong> dan <strong>PIHAK KEDUA</strong> sepakat untuk mengadakan  kesepakatan kerja waktu terbatas dengan syarat-syarat dan ketentuan sebagai  berikut :</p></div></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top" style="text-align: center"><strong>TEMPAT DAN JANGKA WAKTU PEKERJAAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top" style="text-align: center"><strong>PASAL 1</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top"><p><strong>PIHAK PERTAMA</strong> setuju menerima, sebagaimana <strong>PIHAK  KEDUA</strong> bersedia dan sanggup untuk menjadi Tenaga Kontrak pada Perusahaan  Umum Daerah Parkir Makassar Raya untuk Jangka waktu pekerjaan terhitung mulai  tanggal 01 November 2022 s/d 31 Desember 2022.</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top" style="text-align: center"><strong>PENGUPAHAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top" style="text-align: center"><strong>PASAL 2</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(1).</td>
+							  <td colspan="5" valign="top">PIHAK KEDUA sebagai tenaga pendukung pada  Perusahaan Umum Daerah Parkir  Makassar Raya dengan status sebagai Tenaga Kontrak Kerja Waktu Terbatas, diberi  Gaji / Upah oleh PIHAK PERTAMA dan ditambah penghasilan lainnya berdasarkan  ketentuan Perusahaan yang berlaku. </td>
+  </tr>
+							<tr>
+							  <td valign="top">(2).</td>
+							  <td colspan="5" valign="top">Gaji/Upah hanya diberikan  jika PIHAK KEDUA mentaati ketentuan dalam  surat perjanjian ini.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="6" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+  <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="page-break"></div>
-		<div class="row">
-			<div class="col-lg-6 mtb-3">
-					<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page page-2" >
-						<p class="text-center"><strong>Pasal 4</strong></p>
-<p class="text-center"><strong>UPAH</strong><strong> DAN CARA PEMBAYARAN</strong></p>
-
-<ol>
-<li>PIHAK PERTAMA akan memberikan Upah kepada PIHAK KEDUA sebesar yakni :</li>
-</ol>
-
-<div class="row">
-<div class="col-lg-6">
-<table class="upah">
-<thead>
-<tr style="border-top:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-	<th colspan="3">PENDAPATAN</th>
-</tr>
-<tr style="border-bottom:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-	<td width="60">Gaji Pokok</td>
-	<td width="1">:</td>
-	<td width="39">Rp 2.941.270</td>
-</tr>
-<tr>
-	<td>Tunj. Jabatan</td>
-	<td>:</td>
-	<td>Rp 75.000</td>
-</tr>
-<tr>
-	<td>Tunj. Keluarga</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Tunj. Komunikasi & Data</td>
-	<td>:</td>
-	<td>Rp 100.000</td>
-</tr>
-<tr>
-	<td>Tunj. Konsumsi & Transportasi</td>
-	<td>:</td>
-	<td>Rp 520.000</td>
-</tr>
-<tr>
-	<td>Tunj. Kinerja</td>
-	<td>:</td>
-	<td>Rp 250.000</td>
-</tr>
-<tr>
-	<td>THR</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Lembur</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Lainnya</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 4%</td>
-	<td>:</td>
-	<td>Rp 127.663</td>
-</tr>
-<tr>
-	<td>JHT 3,7%</td>
-	<td>:</td>
-	<td>Rp 108.827</td>
-</tr>
-<tr>
-	<td>JKK & JKM</td>
-	<td>:</td>
-	<td>Rp 15.883</td>
-</tr>
-<tr>
-	<td colspan="3"></td>
-</tr>
-</tbody>
-<tfoot>
-	<tr style="border-top:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-		<th>Total Pendapatan</th>
-		<th>:</th>
-		<th>Rp 4.138.643</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ccecff">
-		<th>Total Penerimaan</th>
-		<th>:</th>
-		<th>Rp 3.695.529</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-</tfoot>
-</table>
-</div>
-<div class="col-lg-6">
-<table class="upah">
-<thead>
-<tr style="border-top:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-	<th colspan="3">POTONGAN</th>
-</tr>
-<tr style="border-bottom:1px solid #000">
-	<th colspan="3" style="padding:0.1rem"></th>
-</tr>
-</thed>
-<tbody>
-<tr>
-	<td width="60">Keterlambatan</td>
-	<td width="1">:</td>
-	<td width="39">Rp -</td>
-</tr>
-<tr>
-	<td>Absensi</td>
-	<td>:</td>
-	<td>Rp -</td>
-</tr>
-<tr>
-	<td>Pinjaman</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 4% ded</td>
-	<td>:</td>
-	<td>Rp 127.663</td>
-</tr>
-<tr>
-	<td>BPJS Kesehatan 1%</td>
-	<td>:</td>
-	<td>Rp 31.916</td>
-</tr>
-<tr>
-	<td>JHT 3,7% ded</td>
-	<td>:</td>
-	<td>Rp 108.827</td>
-</tr>
-<tr>
-	<td>JKK & JKM ded</td>
-	<td>:</td>
-	<td>Rp 15.883</td>
-</tr>
-<tr>
-	<td>JHT 2%</td>
-	<td>:</td>
-	<td>Rp 58.825</td>
-</tr>
-<tr>
-	<td>PPh 21 Terutang</td>
-	<td>:</td>
-	<td>-</td>
-</tr>
-<tr>
-	<td>Iuran Wajib</td>
-	<td>:</td>
-	<td>Rp 100.000</td>
-</tr>
-<tr>
-	<td colspan="3" style="padding-top:6.5rem"></td>
-</tr>
-</tbody>
-<tfoot>
-	<tr style="border-top:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-	<tr style="border-top:2px solid #000;border-bottom:2px solid #000;background:#ffffcc">
-		<th>Total Potongan</th>
-		<th>:</th>
-		<th>Rp 443.114</th>
-	</tr>
-	<tr style="border-bottom:1px solid #000">
-		<th colspan="3" style="padding:0.1rem"></th>
-	</tr>
-</tfoot>
-</table>
-</div>
-</div>
-
-
-<table class="upah mt-3">
-	<tr>
-		<td  style="font-size:9px !important; font-style:italic;border-top:1px solid #000">Terbilang : Tiga juta enam ratus sembilan puluh lima ribu lima ratus dua puluh sembilan rupiah</td>
-	</tr>
-</table>
-
-<ol start="2" class="mt-3">
-<li>Ketentuan tentang gaji karyawan tunduk pada Peraturan Perusahaan.</li>
-<li>Pembayaran gaji setiap bulannya akan mengikuti tanggal gaji yang telah ditentukan oleh Perusahaan.</li>
-</ol>
-
+  <div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>HARI KERJA DAN JAM KERJA</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 3</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="19" valign="top"><p>(1).</p></td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Hari  Kerja adalah  5 (lima) hari dalam  seminggu dan atau disesuaikan dengan hari kerja yang berlaku sesuai  ketentuan Perusahaan.</td>
+  </tr>
+							<tr>
+							  <td valign="top">(2).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Jam Kerja adalah 8 (delapan) jam kerja efektif sehari, atau 40 (empat puluh)  jam seminggu.</td>
+  </tr>
+							<tr>
+							  <td valign="top">(3).</td>
+							  <td valign="top"><p>&nbsp;</p></td>
+							  <td colspan="6" valign="top">Jam  istirahat selama 1 (satu) jam setelah bekerja 4 (empat) jam terus-menerus.</td>
+  </tr>
+							<tr>
+							  <td valign="top">(4).</td>
+							  <td valign="top"><p>&nbsp;</p></td>
+							  <td colspan="6" valign="top">Jam  mulai dan berakhir kerja adalah sesuai ketentuan jam kerja Perusahaan Umum  Daerah Parkir Makassar Raya.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="19" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="315">&nbsp;</td>
+							  <td colspan="3">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>IZIN MENINGGALKAN PEKERJAAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 4</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td colspan="3">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(1).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top"><p>PIHAK  KEDUA dapat diberikan izin meninggalkan pekerjaan dengan pembayaran gaji/upah penuh  dalam hal sebagai berikut :</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Pihak Kedua menjalankan cuti</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Izin Perkawinan PIHAK KEDUA sendiri </td>
+							  <td width="10">&nbsp;</td>
+							  <td width="11">:</td>
+							  <td width="184">12 (dua  belas) hari  kerja</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Cuti Bersalin PIHAK KEDUA (Wanita)</td>
+							  <td>&nbsp;</td>
+							  <td>:</td>
+							  <td>12 (dua  belas) hari  kerja</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Perkawinan anak PIHAK KEDUA</td>
+							  <td>&nbsp;</td>
+							  <td>:</td>
+							  <td>3 (tiga) hari</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Pengkhitanan / Pembabtisan anak PIHAK KEDUA</td>
+							  <td>&nbsp;</td>
+							  <td>:</td>
+							  <td>2 (dua) hari</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Istri Pihak Kedua melahirkan</td>
+							  <td>&nbsp;</td>
+							  <td>:</td>
+							  <td>2 (dua) hari</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">f).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Istri, anak, orang tua dan saudara</td>
+							  <td>&nbsp;</td>
+							  <td>:</td>
+							  <td>7 (tujuh) hari</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td><p>PIHAK KEDUA meninggal dunia</p></td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(2).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Prosedur pemberian izin tersebut ayat (1) huruf a, b, c, dan d pasal ini  diajukan selambat -lambatnya 6 (enam)   hari sebelumnya, sedang prosedur pemberian izin tersebut ayat  (1) huruf c dan f pasal ini dapat diajukan  pada hari / saat itu juga dan masing-masing izin tersebut baru dapat  dilaksanakan setelah memperoleh persetujuan dari PIHAK PERTAMA dan atau pejabat  yang ditunjuk.</td>
+  </tr>
+							<tr>
+							  <td valign="top">(3).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top"><p>Surat izin dimaksud ayat (1) pasal ini  diberikan/ditandatangani oleh PIHAK PERTAMA dan atau pejabat yang ditunjuk.</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>CUTI</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 5</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">Cuti dimaksud Pasal 4 ayat (1) huruf a adalah:</td>
+  </tr>
+							<tr>
+							  <td valign="top">1.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Cuti tahunan dapat diberikan apabila<strong> </strong>telah bekerja selama 12 (dua belas)  bulan berturut-turut dengan ketentuan bagi PIHAK KEDUA (WANITA)  tidak pernah  cuti bersalin ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Cuti bersalin dapat diberikan kepada PIHAK KEDUA (WANITA)  untuk persalinan anak pertama dan kedua selama 45 (empat puluh lima) hari kerja  sebelum dan sesudah persalinan terhitung sejak pertama diangkat berdasarkan  Surat Keputusan Direksi PERUMDA Parkir Makassar Raya sebagai Tenaga Kontrak waktu  terbatas ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">3.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Cuti sakit hanya dapat diberikan kepada PIHAK KEDUA  dengan syarat :</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Ada pemberitahuan kepada  atasannya baik secara tertulis maupun dengan lisan apabila sakit selama 1  (satu) atau 2 (dua) hari;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Apabila sakit lebih dari 2 (dua) hari s/d 14 (empat  belas) hari, PIHAK KEDUA mengajukan permintaan cuti sakit secara tertulis  kepada PIHAK PERTAMA dengan melampirkan Surat Keterangan Dokter. </td>
+  </tr>
+  
+							<tr>
+							  <td valign="top">4.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">Penandatanganan Surat Cuti dimaksud ayat (1) dan ayat  (2) pasal ini dilakukan oleh PIHAK PERTAMA atau Pejabat yang  ditunjuk.</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-				</div>
-			</div>
-			<div class="col-lg-6 mtb-3">
-					<div class="page-break"></div>
-				<div class="page v-center page-enter">
-					<div class="page-2">
-						<p class="text-center"><strong>Pasal 5</strong></p>
-						<p class="text-center"><strong>LARANGAN-LARANGAN</strong></p>
-
-						<p>PIHAK KEDUA selama Kontrak Kerja &nbsp;ini berlangsung dilarang:</p>
-						<ol>
-						<li>Melakukan tindakan yang diperkirakan dapat menimbulkan kerugian bagi Perusahaan.</li>
-						<li>Keluar dari Perusahaan sebelum <strong>1 ( Satu ) Tahun</strong> Masa Kerja tanpa alasan yang dapat ditoleransi.</li>
-						<li>Memberikan keterangan/informasi kepada pihak ketiga di luar batas kewenangannya yang patut diduga mengakibatkan kerugian bagi Perusahaan.</li>
-						<li>Menerima pemberian hadiah berupa apa pun dari pihak ketiga, jika diketahui atau patut diketahui pemberian hadiah dimaksud dapat mengakibatkan kerugian bagi Perusahaan.</li>
-						<li>Tidur pada waktu jam kerja.</li>
-						<li>Membawa/mempergunakan barang-barang milik Perusahaan keluar lingkungan kerja tanpa izin atau menyalahgunakan alat-alat, barang-barang, dan lain-lain benda milik Perusahaan.</li>
-						<li>Meninggalkan tempat kerja selama jam kerja tanpa izin terlebih dahulu dari atasannya.</li>
-						<li>Pada saat kesepakatan kerja diadakan memberikan keterangan palsu atau dipalsukan.</li>
-						<li>Menyalahgunakan atau memanfaatkan jabatan, tugas, wewenang, atau tanggung jawab yang diberikan PIHAK PERTAMA untuk kepentingan atau keuntungan pribadi dan atau pihak ketiga.</li>
-						<li>Membawa, minum-minuman yang mengandung alkohol, terlebih mabuk, madat, memakai obat bius atau narkotika di tempat kerja.</li>
-						<li>Merencanakan dan atau melakukan pencurian, menggelapkan, menipu, atau melakukan kejahatan lainnya.</li>
-						<li>Menganiaya, menghina secara kasar, atau mengancam atasan, keluarga atasan, atau teman sekerja.</li>
-						<li>Dengan sengaja atau karena kecerobohannya merusak atau membiarkan dalam keadaan bahaya barang milik Perusahaan.</li>
-						<li>Dengan sengaja, walaupun sudah diperingatkan membiarkan dirinya atau teman sekerjanya dalam keadaan bahaya.</li>
-						<li>Membongkar rahasia perusahaan yang seharusnya dirahasiakan.</li>
-						<li>Berjudi atau melakukan permainan bersifat judi di tempat kerja atau lingkungan perusahaan.</li>
-						<li>Membuat dan atau menyebarkan pengumuman, pamflet, selebaran-selebaran, atau corat-coret di lingkungan tempat kerja yang bersifat menghasut, memfitnah, melanggar tata susila, atau hal-hal lain semacam itu.</li>
-						<li>Membawa ke dalam kawasan Perusahaan, barang atau benda-benda dalam bentuk apa pun yang dapat membahayakan keselamatan jiwa manusia dan atau Perusahaan, kecuali barang atau benda tersebut bagian dalam pelaksanaan pekerjaannya.</li>
-						<li>Melakukan sesuatu di tempat kerja yang bertentangan dengan hukum dan atau kesusilaan.</li>
-						</ol>
-
+					<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>SAKIT DAN PENGOBATAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 6</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="19" valign="top"><p>(1).</p></td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK  PERTAMA dapat memberikan jaminan pemeriksaan dokter dan pengobatan kepada PIHAK  KEDUA melalui Dokter yang ditunjuk atau puskesmas-puskesmas yang ditetapkan  oleh PIHAK PERTAMA ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(2).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK  KEDUA yang sakit wajib menyampaikan kepada PIHAK PERTAMA dan atau atasan  langsungnya, baik secara tertulis atau lisan pada saat hari kerja pertama tidak  masuk kerja selanjutnya pada hari kedua dan berikutnya dikuatkan dengan Surat  Keterangan Dokter.</td>
+  </tr>
+							<tr>
+							  <td valign="top">(3).</td>
+							  <td valign="top"><p>&nbsp;</p></td>
+							  <td colspan="6" valign="top">PIHAK  KEDUA yang sakit tetapi tanpa pemberitahuan sebagairnana dimaksud ayat (1) dan  ayat (2) pasal ini dianggap lalai masuk kerja,</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="19" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="315">&nbsp;</td>
+							  <td colspan="3">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PERALATAN KERJA</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 7</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td colspan="3">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(1).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK  PERTAMA dapat memberikan peralatan kerja dan alat keselamatan kerja kepada  PIHAK KEDUA yang disesuaikan dengan kondisi dan sifat pekerjaan ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">(2).</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK  KEDUA wajib menjaga dan memelihara keselamatan dan keamanan peralatan kerja  tersebut sebagai tanggung jawab.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td width="10">&nbsp;</td>
+							  <td width="11">&nbsp;</td>
+							  <td width="184">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>DISIPLIN DAN TATA TERTIB KERJA</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 8</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">1.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK KEDUA tunduk dan taat kepada Peraturan Perundang-Undangan yang  berlaku ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK KEDUA dalam menjalankan tugasnya sebagai tenaga Kontrak Waktu  terbatas (Tenaga Pendukung) mempunyai kewajiban yang dilaksanakan sebagai  berikut :</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Setia dan taat sepenuhnya  kepada Pancasila, Undang-Undang Dasar 1945, Negara dan Pemerintah;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Mengutamakan  kepentingan Negara diatas kepentingan golongan atau diri sendiri, serta  menghindarkan segala sesuatu yang mendesak kepentingan Negera oleh kepentingan  golongan diri sendiri, atau pihak lain ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menjunjung tinggi  kehormatan, martabat Negara dan   Pemerintah ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menyimpan rahasia  Negara dengan sebaik-baiknya ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Memperhatikan dan  melaksanakan segala ketentuan Pemerintah baik yang langsung menyangkut tugas  kedinasannya maupun yang berlaku secara umum;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">f.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Melaksanakan tugas  kedinasan dengan sebaik-baiknya dan penuh pengabdian, kesadaran dan tanggung  jawab ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">g.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Bekerja dengan  jujur, tertib, cermat dan bersemangat untuk kepentingan Negara ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">h.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Memelihara dan  meningkatkan keutuhan, kekompakan dan persatuan ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">i.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Segera melaporkan  kepada atasannya apabaila mengetahui ada hal yang dapat membahayakan atau  merugikan Negara/Pemerintah, terutama di bidang keamanan, keuangan dan materil  ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">j.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Mentaati ketentuan  jam kerja ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">k.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menciptakan dan memelihara  suasana kerja yang baik ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">l.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menggunakan dan  memelihara barang-barang milik Negara dengan sebaik-baiknya ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">m.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Memberikan  pelayanan dengan sebaik-baiknya kepada masyarakat menurut bidang tugasnya  masing-masing ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">n.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Berpakaian rapi dan  sopan serta bersikap dan bertingkah laku sopan santun terhadap masyarakat dan  terhadap atasan ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">o.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Hormat menghormati  antara sesama warga negara pemeluk agama/kepercayaan terhadap Tuhan Yang Maha  Esa, yang berlainan ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">p.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menjadi teladan  sebagai warganegara yang baik dalam masyarakat ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">q.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Mentaati segala  peraturan perundang-undangan dan peraturan kedinasan yang berlaku;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">r.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Mentaati perintah  kedinasan dari atasan yang berwenang.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
+					<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td width="19" valign="top">3.</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK KEDUA dilarang melakukan hal-hal berupa :</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="19" valign="top">a.</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td colspan="4">Melakukan hal-hal  yang dapat menurunkan kehormatan atau martabat Negara dan Pemerintah ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menyalahgunakan  wewenangnya ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Tanpa izin  Pemerintah Kota Makassar menjadi Pegawai atau bekerja di tempat lain ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Melakukan  pernikahan kedua, ketiga dan bagi Wanita tidak menjadi atau berkedudukan sebagai  Istri kedua, ketiga dan seterusnya ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menyalahgunakan  barang-barang, uang atau surat-surat berharga milik Negara &amp; Pemerintah ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">f.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Memiliki, menjual,  membeli, menggadaikan, menyewakan atau meminjamkan barang-barang, dokumen atau  surat-surat berharga milik Negara dan Pemerintah secara tidah sah;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">g.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Melakukan kegiatan  bersama dengan atasan, teman sejawat, bawahan atau orang lain dalam maupun  diluar lingkungan kerjanya dengan tujuan untuk keuntungan pribadi, golongan  atau pihak lain yang secara langsung atau tidak langsung merugikan Negara ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">h.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menerima hadiah  atau sesuatu pemberian berupa apa saja dari siapapun juga yang diketahui atau  patut dapat diduga bahwa pemberian itu bersangkutan atau mungkin bersangkutan  dengan pekerjaan Pegawai ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">i.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Memasuki  tempat-tempat yang dapat mencermarkan kehormatan, kecuali untuk kepentingan  tugas ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">j.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Melakukan suatu  tindakan atau segaja tidak melakukan suatu tindakan yang dapat berakibat  menghalangi atau mempersulit salah  satu  pihak yang dilayaninya sehingga mengakibatkan kerugian bagi pihak yang dilayani  ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">k.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Menghalangi  berjalannya tugas kedinasan ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">l.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Membocorkan dan  atau memanfaatkan rahasia Negara yang diketahui karena kedudukan jabatan untuk  kepentingan pribadi, golongan atau pihak lain ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">m.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Bertindak selaku  perantara bagi sesuatu pengusaha atau golongan untuk mendapatkan pekerjaan atau  pesanan dari kantor/instansi Pemerintah ;</td>
+  </tr>
+							<tr>
+							  <td valign="top">4.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">PIHAK PERTAMA dan atau pejabat yang ditunjuk memberikan peringatan jika  PIHAK KEDUA lalai apel kerja pagi/siang dan atau tidak masuk kerja tanpa  keterangan yang dibuktikan sesuai absensi bulanan yang dilaporkan.</td>
+  </tr>
+							<tr>
+							  <td valign="top">5.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top"><p>PIHAK KEDUA wajib menjaga tertib administrasi ditempat  kerjanya dan kerahasiaan pekerjaan yang dibebankan kepadanya,</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>KESALAHAN RINGAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top" style="text-align: center"><strong>PASAL 9</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top"><p>Yang termasuk kesalahan ringan adalah :</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Terlambat masuk  kerja dari jam kerja yang telah ditetapkan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Pulang  sebelum jam kerja berakhir</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Tidak masuk kerja  tanpa izin dari atasan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Tidak  melaksanakan perintah atasan.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="4">Tidak masuk kantor  selama 10 (sepuluh) hari kerja berturut-turut dalam bulan berjalan tanpa  keterangan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="315">&nbsp;</td>
+							  <td width="10">&nbsp;</td>
+							  <td width="11">&nbsp;</td>
+							  <td width="184">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+							  <td>&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="8" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+					<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>KESALAHAN BERAT</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>PASAL 10</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top"><p>Yang termasuk kesalahan berat adalah :</p></td>
+  </tr>
+							<tr>
+							  <td width="19" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="19" valign="top">a.</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td>Pada saat  perjanjian kerja diadakan memberikan keterangan palsu atau yang dipalsukan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Mabuk, pemakai obat  bius atau narkotika baik ditempat kerja maupun diluar</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Melakukan tindakan  kejahatan, misalnya : mencuri, menggelapkan, menipu, pemalsuan, memperdagangkan barang terlarang baik dalam lingkungan  kerja maupun diluar lingkungan kerja</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Penganiayaan,  menghina secara kasar atau mengancam Atasan / Pimpinan dan teman sekerja</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Membujuk Atasan /  Pimpinan atau teman sekerja untuk melakukan sesuatu yang bertentangan dengan  hukum atau kesusilaan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">f.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Dengan sengaja atau  ceroboh merusak, merugikan atau membiarkannya dalam keadaan rusak peralatan  kerja milik PIHAK PERTAMA</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">g.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Mencemarkan nama  baik atau membocorkan rahasia PIHAK PERTAMA termasuk pimpinan / atasan dan  keluarganya, teman sekerjanya dalam keadaan bahaya</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">h.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td><p>Membocorkan rahasia PIHAK PERTAMA atau mencermarkan nama  baik Pimpinan / atasan dan  keluarganya  yang seharusnya dirahasiakan, kecuali untuk kepentingan Negara</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">i.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td><p>Melakukan suatu perbuatan <em>I </em>kegiatan  yang cenderung menghambat kelancaran pekerjaan.</p></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>SANKSI KESALAHAN RINGAN</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>PASAL 11</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top"><p>PIHAK KEDUA dikenakan sanksi :</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Berupa  teguran lisan oleh atasan langsungnya apabila melakukan kesalahan sebagaimana dalam  Pasal 9 Huruf. a, b, c, d dan e, Surat Perjanjian ini.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Bagi  yang tidak masuk kantor selama 10 (sepuluh) hari berturut-turut tanpa  keterangan, gaji / upah tidak dibayarkan dalam bulan berjalan. </td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>PEMUTUSAN HUBUNGAN KERJA</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top" style="text-align: center"><strong>PASAL 12</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top"><p>PIHAK  PERTAMA akan memutuskan hubungan kerja kepada PIHAK KEDUA secara sepihak tanpa  menuntut uang pesangon, apabila ;</p></td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">a.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Jangka  waktu yang telah ditentukan dalam Perjanjian Kerja berakhir dan atau  PIHAK KEDUA tidak mendaftar ulang sesuai jadwal  yang telah ditetapkan oleh PIHAK PERTAMA.</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">b.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>PIHAK  PERTAMA tidak lagi membutuhkan tenaga pendukung (tenaga kontrak)</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">c.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Pengunduran  diri atas permintaan PIHAK KEDUA sendiri</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">d.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>PIHAK  KEDUA meninggal dunia</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">e.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>PIHAK  KEDUA telah terangkat menjadi CPNS atau telah bekerja sebagai Pegawai pada  pihak lain menggunakan jam kerja sesuai maksud Surat Perjanjian ini</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">f.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Kesehatan  PIHAK KEDUA tidak memungkinkan lagi melakukan pekerjaannya</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">g.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Melakukan  pelanggaran / kesalahan sebagaimana diatur dalam Pasal 8, 9 dan 10 Surat Perjanjian  ini</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">h.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>PIHAK  KEDUA tertangkap tangan dan atan nyata-nyata telah melakukan / turut serta  dalam suatu perbuatan kejahatan dan pelanggaran sebagaimana diatur dalam Kitab  Undang Undang Hukum Pidana (KUHP)</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">i.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>Jika  terjadi. kelalaian PIHAK KEDUA dalam mentaati ketentuan jam kerja dimaksud  Pasal 3 ayat (4) sesuai. dengan laporan rekap Absensi bulanan dengan jumlah  ketidakhadiran Tanpa Keterangan (TK) sekurang-kurangnya 30 (tiga puluh) hari  kerja secara berturut-turut tanpa keterangan (TK) terhitung sejak  penandatanganan Surat Perjanjian ini yang dibuktikan dengan laporan rekap absen  bulanan</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">j.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td>PIHAK  PERTAMA menemukan dan atau menerima laporan yang dapat dipertanggungjawabkan  bahwa PIHAK KEDUA menyerahkan pekerjaan atau tugasnya kepada orang lain sebagai  pengganti, maka perbuatan ini adalah pelanggaran</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="5" valign="top">&nbsp;</td>
+  </tr>
+  </table>
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+						
+					<div class="bg-white w-50 ml-auto mr-auto">
+						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:center; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="12" valign="top" style="text-align: center"><strong>PENUTUP</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top" style="text-align: center"><strong>PASAL 13</strong></td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="14" valign="top" style="text-align: left">1.</td>
+							  <td width="2" valign="top">&nbsp;</td>
+							  <td width="534" colspan="10" valign="top" style="text-align: left">Perjanjian Kontrak ini bukan  merupakan jaminan akan diangkat menjadi Calon Pegawai Organik PERUMDA Parkir  Makassar Raya </td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">2.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="10" valign="top" style="text-align: left">Apabila terjadi perselisihan  antara kedua belah pihak, maka dapat diselesaikan secara kekeluargaan dan  musyawarah oleh atasan langsung secara berjenjang kepada <strong>PIHAK PERTAMA .</strong></td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">3.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="10" valign="top" style="text-align: left">Segala biaya yang  dikeluarkan sehubungan dengan pelaksanaan Surat Perjanjian ini dibebankan pada  Anggaran Belanja Perusahaan Umum Daerah Parkir Makassar Raya Tahun 2022.</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">4.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="10" valign="top" style="text-align: left">Surat Perjanjian ini dibuat  dengan sukarela tanpa paksaan dari siapapun, setelah membaca dan memahami  isinya kemudian ditandatangani oleh kedua belah pihak.</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">5.</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="10" valign="top" style="text-align: left">Surat Perjanjian ini dibuat diatas materai,  ditandatangani oleh Pihak Kedua sebagai bukti sah yang mempunyai kekuatan hukum  atas Surat Perjanjian ini.</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+</table>
+  <br />
+  <table align="center" border="0" cellpadding="1" style="width: 600px; text-align:center; line-height:1; font-family: Bookman Old Style; font-size: 12px;">
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td width="14" valign="top">&nbsp;</td>
+							  <td width="2" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td width="4" valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top" style="text-align: center"><strong>PIHAK PERTAMA</strong></td>
+							  <td width="1" valign="top">&nbsp;</td>
+							  <td width="12" valign="top">&nbsp;</td>
+							  <td width="197" valign="top"><strong>PIHAK KEDUA</strong></td>
+							  <td width="18" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top" style="text-align: center"><strong>DIREKSI PERUMDA PARKIR MAKASSAR RAYA</strong></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top" style="text-align: center"><strong>KOTA MAKASSAR</strong></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td width="128" valign="top">&nbsp;</td>
+							  <td width="17" valign="top">&nbsp;</td>
+							  <td width="149" valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"><p align="center"><strong><u>YULIANTI TOMU, SE</u></strong></p></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top"><strong>YUNUS TULAK, S.IP</strong></td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top" >Direktur Utama</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+    </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+    </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+    </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+    </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+    </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><hr /></td>
+  </tr>
+							<tr>
+							  <td colspan="11" valign="top"><span style="text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 10px;"><i>Sesuai dengan ketentuan yang berlaku, Perusahaan Umum Daerah Parkir Makassar Raya mengatur bahwa surat ini telah ditandatangani dan diverifikasi secara elektronik, sehingga tidak diperlukan tanda tangan basah pada Surat ini</i></span></td>
+  </tr>
+							<tr>
+							  <td colspan="12" valign="top">&nbsp;</td>
+  </tr>
+  
+  </table>
+						
+						
+						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
+					</div>
+
+					
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-6">
-					<div class="page pasal-6">
-						<div class="page-6">
-							<p class="text-center"><strong>Pasal 6</strong></p>
-								<p class="text-center"><strong>SANKSI</strong></p>
-<ol>
-<li>Apabila PIHAK KEDUA tidak melaksanakan kewajiban sebagaimana ditentukan dalam Kontrak Kerja ini dan Peraturan Perusahaan dapat dikenakan sanksi, baik berupa teguran lisan maupun surat peringatan.</li>
-</ol>
+								</div>
 
-<ol start="2">
-<li>PIHAK PERTAMA dapat memberikan surat peringatan terakhir kepada PIHAK KEDUA karena kesalahan melakukan perbuatan-perbuatan sebagai berikut.</li>
-</ol>
-<ol type="a">
-<li>Tetap menolak untuk menaati perintah atau penugasan yang layak diberikan kepadanya oleh atasannya, sedangkan perintah itu sesuai dengan kesepakatan kerja yang telah diadakan.</li>
-<li>Dengan atau karena lalai mengakibatkan dirinya dalam keadaan demikian lupa sehingga tidak dapat menjalankan pekerjaannya.</li>
-<li>Apabila ternyata di kemudian hari PIHAK KEDUA tidak melaksanakan pekerjaannya sesuai dengan ketentuan yang sudah diperjanjikan.</li>
-<li>Melanggar ketentuan yang telah ditetapkan dalam kesepakatan kerja sedangkan kepadanya telah diberikan surat peringatan pertama atau kedua yang masih berlaku.</li>
-<li>Apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5</li>
-</ol>
-<div class="page-break"></div>
-<ol start="3">
-<li>Apabila setelah surat peringatan terakhir PIHAK KEDUA masih tetap melakukan perbuatan sebagaimana dimaksud pada ayat 1 dan ayat 2 maka PIHAK PERTAMA dapat mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK).</li>
-</ol>
+								<!--End:: App Content-->
+							</div>
 
-<ol start="4">
-<li>PIHAK PERTAMA dapat langsung mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK) apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5 poin 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dan 19.</li>
-</ol>
+							<!--End::App-->
 						</div>
-					</div>
-				</div>
-				<div class="col-lg-6">
-					<div class="page pasal-6">
-						<div class="page-6">
-							<div class="pasal-6-next">
-							<ol start="3">
-							<li>Apabila setelah surat peringatan terakhir PIHAK KEDUA masih tetap melakukan perbuatan sebagaimana dimaksud pada ayat 1 dan ayat 2 maka PIHAK PERTAMA dapat mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK).</li>
-							</ol>
-
-							<ol start="4">
-							<li>PIHAK PERTAMA dapat langsung mengakhiri Kontrak Kerja atau melakukan Pemutusan Hubungan Kerja (PHK) apabila PIHAK KEDUA melakukan perbuatan yang dilarang sebagaimana disebut pada pasal 5 poin 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dan 19.</li>
-							</ol>
-						</div>
-							<p class="text-center"><strong>Pasal 7</strong></p>
-<p class="text-center"><strong>JANGKA WAKTU</strong></p>
-
-<p>Kontrak Kerja ini berlaku untuk jangka waktu hingga <strong>25 Juni 2020</strong> dan akan diperbaharui selanjutnya sesuai dengan keputusan Perusahaan.</p>
-
-
-<p class="text-center"><strong>Pasal 8</strong></p>
-<p class="text-center"><strong>LAIN-LAIN</strong></p>
-
-<ol>
-<li>Kontrak Kerja ini tidak dapat ditarik kembali dan atau diubah, kecuali atas persetujuan tertulis dari kedua belah pihak.</li>
-<li>Perubahan dan atau tambahan berkenaan dengan keterangan-keterangan dan syarat-syarat dalam Kontrak Kerja ini hanya berlaku secara sah apabila perubahan atau tambahan itu dibuat secara tertulis serta ditandatangani oleh kedua belah pihak.</li>
-<li>Segala sesuatu yang tidak/atau belum cukup diatur dalam Kontrak Kerja ini tunduk kepada ketentuan Peraturan Perusahaan yang ditetapkan oleh PIHAK PERTAMA.</li>
-</ol>
-
-
-<p class="text-center"><strong>Pasal 9</strong></p>
-<p class="text-center"><strong>PENUTUP</strong></p>
-
-<p>Demikian Kontrak Kerja ini dibuat dan ditandatangani oleh kedua belah pihak dalam keadaan sehat dan sadar, serta tanpa paksaan dari pihak mana pun. Kontrak Kerja ini dibuat rangkap 2 (dua) yang sama bunyinya, semuanya bermaterai cukup dan mempunyai kekuatan hukum yang sama bagi kedua belah pihak.</p>
-
-<table style="width:430px; margin: 16px auto; text-align:left;" class="w-100">
-<tbody>
-<tr>
-<td style="text-align: center;width:250px"></td>
-<td style="text-align: center;width:250px">Makassar, 25 Juni 2019</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 250px; font-weight:bold;">PIHAK KEDUA</td>
-<td style="text-align: center; width: 250px; font-weight:bold;">PIHAK PERTAMA</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 250px;"></td>
-<td style="text-align: center; width: 250px;font-weight:bold;">PT. ILUGROUP MULTIMEDIA INDONESIA</td>
-</tr>
-<tr>
-						<td style="text-align: center; border-top: 0px; vertical-align: bottom;">
-								<div style="min-height:64px">&nbsp;</div>
-								<div><b>Azman, S. ST</b></div>
-								<div style="text-align: center;">Electrical Engineering</div>
-						</td>
-						<td style="text-align: center; border-top: 0px; vertical-align: bottom;">
-								<div style="min-height:64px">&nbsp;</div>
-								<div><u><b>Oklan Zulkifli, SE</b></u></div>
-							<div style="text-align: center;">HR & GA Director</div></td>
-				</tr>
-</tbody>
-</table>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-<!--End::App-->
-</div>
-</div>
-</div>
-</div>
-</div>
 
 <?php require '../layouts/footer.php' ?>
 <?php require '../layouts/foot.php' ?>
