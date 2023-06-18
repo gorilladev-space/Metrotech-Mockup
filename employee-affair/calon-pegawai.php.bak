@@ -819,6 +819,12 @@
 																				<span class="kt-nav__link-text">Ajukan Menjadi Pegawai</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-sk-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Calon Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">

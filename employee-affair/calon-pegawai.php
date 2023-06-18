@@ -285,7 +285,7 @@
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal SK<br>Calon Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" colspan="3" bgcolor="#f7fcff">Status</th>
+											  <th width="3%" colspan="3" bgcolor="#f7fcff">Status Pengajuan Pegawai</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">

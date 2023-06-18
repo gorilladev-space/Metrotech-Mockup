@@ -340,7 +340,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th colspan="3" bgcolor="#f7fcff">Status</th>
+											  <th colspan="3" bgcolor="#f7fcff">Status Pengajuan<br> Calon Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -435,7 +435,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-info btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Diusulkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
