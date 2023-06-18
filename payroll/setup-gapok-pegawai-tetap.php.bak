@@ -497,35 +497,19 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="pegawai-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
+																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-id-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-id-card-alt"></i>
-																				<span class="kt-nav__link-text">Cetak ID Card</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-cv-pegawai.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-id-card"></i>
-																				<span class="kt-nav__link-text">Cetak CV Pegawai</span>
-																			</a>
-																		</li>
-
-																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
+																		
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">

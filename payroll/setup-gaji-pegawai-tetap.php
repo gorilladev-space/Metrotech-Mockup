@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Setup Gaji Pokok Pegawai Tetap
+                    Setup Gaji Pegawai Tetap
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -32,7 +32,11 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                
+                <a href="setup-gaji-pegawai-add.php" class="btn btn-info btn-sm">
+												<i class="fa fa-calculator"></i> Tambah Data</button>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
+
             </div>
         </div>
     </div>
@@ -220,8 +224,8 @@
 											  <th width="3%" bgcolor="#f7fcff">Pangkat / Golongan</th>
 											  <th width="3%" bgcolor="#f7fcff">Kantor</th>
 											  <th width="3%" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
-											  <th colspan="2" bgcolor="#f7fcff">Gaji Pokok</th>
-											  <th colspan="2" bgcolor="#f7fcff">Lembur / Jam</th>
+											  <th width="5%" colspan="2" bgcolor="#feffed">Pendapatan</th>
+											  <th width="5%" colspan="2" bgcolor="#feffed">Potongan</th>
 											  <th width="3%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
@@ -243,7 +247,7 @@
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
 												<td width="1%" style="text-align:right" nowrap>5.000.000,-</td>
 												<td width="1%" style="text-align:center" nowrap>Rp.</td>
-												<td width="1%" style="text-align:right" nowrap>50.000,-</td>
+												<td width="1%" style="text-align:right" nowrap>1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -251,9 +255,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		
@@ -292,7 +296,7 @@
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">5.000.000,-</td>
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -300,9 +304,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		
@@ -341,7 +345,7 @@
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">5.000.000,-</td>
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -349,9 +353,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		
@@ -390,7 +394,7 @@
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">5.000.000,-</td>
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -398,9 +402,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		
@@ -440,7 +444,7 @@
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">5.000.000,-</td>
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -448,9 +452,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		
@@ -489,7 +493,7 @@
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">5.000.000,-</td>
 												<td nowrap="nowrap" style="text-align:center">Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">50.000,-</td>
+												<td nowrap="nowrap" style="text-align:right">1.000.000,-</td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -497,9 +501,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="update-gapok-pegawai-tetap.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-money-bill"></i>
-																				<span class="kt-nav__link-text">Update Gaji Pokok</span>
+																			<a href="view-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-money-check"></i>
+																				<span class="kt-nav__link-text">Lihat Detail Gaji</span>
 																			</a>
 																		</li>
 																		

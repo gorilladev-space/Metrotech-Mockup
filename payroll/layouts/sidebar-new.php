@@ -135,6 +135,7 @@
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="parameter-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Parameter Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="tunjangan-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tunjangan Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="potongan-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Potongan Gaji</span></a></li>
+														<li class="kt-menu__item " aria-haspopup="true"><a href="setup-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Setup Gaji Pegawai</span></a></li>
 																	
 																</ul>
 															</div>
