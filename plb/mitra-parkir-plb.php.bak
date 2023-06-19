@@ -412,6 +412,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-jukir-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -499,6 +505,12 @@
 																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-jukir-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -590,6 +602,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-jukir-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#serah-terima-id-card-plb">
 																				<i class="kt-nav__link-icon fa fa-tasks"></i>
 																				<span class="kt-nav__link-text">Serah Terima ID Card</span>
@@ -673,6 +691,12 @@
 																			<a href="kolektor-plb-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-jukir-plb.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -1368,7 +1392,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Jukir PLB</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
