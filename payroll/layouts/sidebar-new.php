@@ -141,7 +141,6 @@
 															<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 																<ul class="kt-menu__subnav">
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-gapok-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Setup Gaji Pokok</span></a></li>
-																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-tanggal-gajian-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tanggal Gajian</span></a></li>
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="parameter-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Parameter Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="tunjangan-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tunjangan Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="potongan-gaji-pegawai-tetap.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Potongan Gaji</span></a></li>
@@ -154,7 +153,6 @@
 															<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 																<ul class="kt-menu__subnav">
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-gapok-pegawai-bulanan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Gaji Pokok</span></a></li>
-																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-tanggal-gajian-pegawai-bulanan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tanggal Gajian</span></a></li>
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="parameter-gaji-pegawai-bulanan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Parameter Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="tunjangan-gaji-pegawai-bulanan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tunjangan Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="potongan-gaji-pegawai-bulanan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Potongan Gaji</span></a></li>
@@ -168,7 +166,6 @@
 															<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 																<ul class="kt-menu__subnav">
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-gapok-pegawai-harian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Gaji Pokok</span></a></li>
-																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-tanggal-gajian-pegawai-harian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tanggal Gajian</span></a></li>
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="parameter-gaji-pegawai-harian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Parameter Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="tunjangan-gaji-pegawai-harian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tunjangan Gaji</span></a></li>
 														
@@ -182,7 +179,6 @@
 															<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 																<ul class="kt-menu__subnav">
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-gapok-calon-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Setup Gaji Pokok</span></a></li>
-																	<li class="kt-menu__item " aria-haspopup="true"><a href="setup-tanggal-gajian-calon-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tanggal Gajian</span></a></li>
 																	<li class="kt-menu__item " aria-haspopup="true"><a href="parameter-gaji-calon-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Parameter Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="tunjangan-gaji-calon-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Tunjangan Gaji</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="potongan-gaji-calon-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Potongan Gaji</span></a></li>
