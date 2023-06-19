@@ -149,11 +149,9 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item  kt-menu__item--parent" aria-haspopup="true"><span class="kt-menu__link"><span class="kt-menu__link-text">Manajemen Kinerja</span></span></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-laporan-harian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Harian</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-tasking.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tasking</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-job-desk.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Job Desk</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-kpi-divisi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">KPI Divisi</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-kpi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">KPI Pegawai</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-penilaian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Penilaian Anda</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-penilaian-divisi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Penilaian Divisi Anda</span></a></li>
 
 										</ul>
 									</div>
