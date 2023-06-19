@@ -71,70 +71,25 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-2">
-                                <label>Nama Pegawai :</label>
+                                <label>Nama Tunjangan :</label>
     	                       <div class="form-group">
 
 					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
+					 															
+					 																<option value="AK"selected >Tunjangan Jabatan</option>
+																					<option value="HI">Tunjangan Keluarga</option>
+																					<option value="HI">Tunjangan Kesehatan</option>
+																					<option value="HI">Tunjangan Transport</option>
+																					<option value="HI">Tunjangan Telekomunikasi</option>
+																					<option value="HI">Tunjangan Makan / Minum</option>
+																					<option value="HI">Tunjangan Representasi</option>
+																					
 					 														</select>
 					                       </div>
         					
                             </div>
-                            <div class="col-lg-2">
-                                <label>Department :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
-                                      <option value="4">Keuangan dan Asset</option>
-                                      <option value="5">Operasional</option>
-                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>Bagian :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Direksi</option>
-                                      <option value="4">Umum dan Kepegawaian</option>
-                                      <option value="5" selected="">Hukum dan Humas</option>
-                                      <option value="6">Keuangan</option>
-                                      <option value="12">Asset</option>
-                                      <option value="12" >Pengelolaan</option>
-                                      <option value="12" >Produksi</option>
-                                      <option value="12" >Pengembangan</option>
-                                      <option value="12" >Kerjasama</option>
-                                  </select>
-                            </div>
+                            
+							
                             <div class="col-lg-2">
                                 <label class="">Jabatan :</label>
 								  <select class="form-control kt-selectpicker" data-live-search="true">
@@ -150,46 +105,10 @@
                                   </select>
                              
                             </div>
-							<div class="col-lg-2">
-                                <label class="">Pangkat / Golongan :</label>
-								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Penata Muda / IV A</option>
-                                      <option value="2" selected="">Penata Muda / IV A</option>
-                                      <option value="2">Penata Muda / IV A</option>
-                                     
-                                  </select>
-                             
+							
+							
                             </div>
-							<div class="col-lg-2">
-                                <label class="">Kantor :</label>
-								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Pusat</option>
-                                      <option value="2">Cabang</option>
-                                  </select>
-                             
-                            </div>
-                            </div>
-							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-							<div class="col-lg-2">
-                                <label class="">Tanggal Mulai Kerja :</label>
-                                <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-                            </div>
-							<div class="col-lg-2">
-                                <label class="">Tanggal SK :</label>
-                                <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-                            </div>
-                            </div>
+							
 							
 							
 						
@@ -214,19 +133,138 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="10%" bgcolor="#f7fcff">Nama Tunjangan</th>
-											  <th width="3%" bgcolor="#f7fcff">Kode Tunjangan</th>
-											  <th width="15%" bgcolor="#f7fcff">Keterangan</th>
-											  <th width="2%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="15%" bgcolor="#f7fcff">Nama Tunjangan</th>
+											  <th width="5%" bgcolor="#f7fcff">Keterangan</th>
+											  <th width="5%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="2%" colspan="2" bgcolor="#f7fcff">Nilai Tunjangan</th>
+											  <th width="3%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Jabatan</td>
-												<td width="1%" style="text-align:center" nowrap>TJB</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">1</td>
+												<td style="text-align:left" nowrap>Tunjangan Jabatan</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Direktur Utama</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">4.950.000,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-share"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+											<tr>
+											  <td id="kt_table_9">2</td>
+											  <td style="text-align:left" nowrap="nowrap">Tunjangan Jabatan</td>
+											  <td style="text-align:center" nowrap="nowrap">&nbsp;</td>
+											  <td style="text-align:left" nowrap="nowrap">Direksi</td>
+											  <td style="text-align:center" nowrap="nowrap">Rp.</td>
+											  <td style="text-align:right" nowrap="nowrap">4.500.000,-</td>
+											  <td style="text-align:center" nowrap="nowrap"><div class="kt-widget2__actions"> <a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown"> <i class="flaticon-more-1"></i> </a>
+											    <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+											      <ul class="kt-nav">
+											        <li class="kt-nav__item"> <a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-eye"></i> <span class="kt-nav__link-text">Lihat</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-user-edit"></i> <span class="kt-nav__link-text">Edit</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_"> <i class="kt-nav__link-icon fa fa-trash-alt"></i> <span class="kt-nav__link-text">Hapus</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hr-pegawai-log.php" class="kt-nav__link"> <i class="kt-nav__link-icon flaticon-share"></i> <span class="kt-nav__link-text">History Log</span> </a> </li>
+										          </ul>
+										        </div>
+											    </div></td>
+										  </tr>
+											<tr>
+											  <td id="kt_table_10">3</td>
+											  <td style="text-align:left" nowrap="nowrap">Tunjangan Jabatan</td>
+											  <td style="text-align:center" nowrap="nowrap">&nbsp;</td>
+											  <td style="text-align:left" nowrap="nowrap">Kepala Bagian</td>
+											  <td style="text-align:center" nowrap="nowrap">Rp.</td>
+											  <td style="text-align:right" nowrap="nowrap">1.250.000,-</td>
+											  <td style="text-align:center" nowrap="nowrap"><div class="kt-widget2__actions"> <a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown"> <i class="flaticon-more-1"></i> </a>
+											    <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+											      <ul class="kt-nav">
+											        <li class="kt-nav__item"> <a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-eye"></i> <span class="kt-nav__link-text">Lihat</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-user-edit"></i> <span class="kt-nav__link-text">Edit</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_2"> <i class="kt-nav__link-icon fa fa-trash-alt"></i> <span class="kt-nav__link-text">Hapus</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hr-pegawai-log.php" class="kt-nav__link"> <i class="kt-nav__link-icon flaticon-share"></i> <span class="kt-nav__link-text">History Log</span> </a> </li>
+										          </ul>
+										        </div>
+											    </div></td>
+										  </tr>
+											<tr>
+											  <td id="kt_table_11">4</td>
+											  <td style="text-align:left" nowrap="nowrap">Tunjangan Jabatan</td>
+											  <td style="text-align:center" nowrap="nowrap">&nbsp;</td>
+											  <td style="text-align:left" nowrap="nowrap">Kepala Seksi</td>
+											  <td style="text-align:center" nowrap="nowrap">Rp.</td>
+											  <td style="text-align:right" nowrap="nowrap">950.000,-</td>
+											  <td style="text-align:center" nowrap="nowrap"><div class="kt-widget2__actions"> <a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown"> <i class="flaticon-more-1"></i> </a>
+											    <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+											      <ul class="kt-nav">
+											        <li class="kt-nav__item"> <a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-eye"></i> <span class="kt-nav__link-text">Lihat</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-user-edit"></i> <span class="kt-nav__link-text">Edit</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_3"> <i class="kt-nav__link-icon fa fa-trash-alt"></i> <span class="kt-nav__link-text">Hapus</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hr-pegawai-log.php" class="kt-nav__link"> <i class="kt-nav__link-icon flaticon-share"></i> <span class="kt-nav__link-text">History Log</span> </a> </li>
+										          </ul>
+										        </div>
+											    </div></td>
+										  </tr>
+											<tr>
+											  <td id="kt_table_12">5</td>
+											  <td style="text-align:left" nowrap="nowrap">Tunjangan Jabatan</td>
+											  <td style="text-align:center" nowrap="nowrap">&nbsp;</td>
+											  <td style="text-align:left" nowrap="nowrap">Staff</td>
+											  <td style="text-align:center" nowrap="nowrap">Rp.</td>
+											  <td style="text-align:right" nowrap="nowrap">-</td>
+											  <td style="text-align:center" nowrap="nowrap"><div class="kt-widget2__actions"> <a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown"> <i class="flaticon-more-1"></i> </a>
+											    <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+											      <ul class="kt-nav">
+											        <li class="kt-nav__item"> <a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-eye"></i> <span class="kt-nav__link-text">Lihat</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link"> <i class="kt-nav__link-icon fa fa-user-edit"></i> <span class="kt-nav__link-text">Edit</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_4"> <i class="kt-nav__link-icon fa fa-trash-alt"></i> <span class="kt-nav__link-text">Hapus</span> </a> </li>
+											        <li class="kt-nav__item"> <a href="hr-pegawai-log.php" class="kt-nav__link"> <i class="kt-nav__link-icon flaticon-share"></i> <span class="kt-nav__link-text">History Log</span> </a> </li>
+										          </ul>
+										        </div>
+											    </div></td>
+										  </tr>
+											
+										  <tr>
+												<td id="kt_table_1">6</td>
+												<td style="text-align:left" nowrap>Tunjangan Keluarga</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Direktur Utama</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">495.000,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -263,11 +301,13 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">2</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Keluarga</td>
-												<td width="1%" style="text-align:center" nowrap>TKG</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">6</td>
+												<td style="text-align:left" nowrap>Tunjangan Keluarga</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Direksi</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">550.000,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -304,11 +344,13 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">3</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Kesehatan</td>
-												<td width="1%" style="text-align:center" nowrap>TKS</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">6</td>
+												<td style="text-align:left" nowrap>Tunjangan Keluarga</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Kepala Bagian</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">144.975,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -345,11 +387,13 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">4</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Transport</td>
-												<td width="1%" style="text-align:center" nowrap>TTR</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">6</td>
+												<td style="text-align:left" nowrap>Tunjangan Keluarga</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Kepala Seksi</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">151.105,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -386,11 +430,13 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">5</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Telekomunikasi</td>
-												<td width="1%" style="text-align:center" nowrap>TTI</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">6</td>
+												<td style="text-align:left" nowrap>Tunjangan Keluarga</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:left" nowrap>Staff</td>
+												<td style="text-align:center" nowrap>Rp.</td>
+												<td style="text-align:right" nowrap="nowrap">139.090,-</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -427,11 +473,13 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">6</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Makan / Minum</td>
-												<td width="1%" style="text-align:center" nowrap>TMM</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">7</td>
+												<td style="text-align:left" nowrap>Tunjangan Kesehatan</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -468,11 +516,142 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%" id="kt_table_1">7</td>
-												<td width="3%" style="text-align:left" nowrap>Tunjangan Representasi</td>
-												<td width="1%" style="text-align:center" nowrap>TRI</td>
-												<td width="3%" style="text-align:center" nowrap>-</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">8</td>
+												<td style="text-align:left" nowrap>Tunjangan Transport</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-share"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">9</td>
+												<td style="text-align:left" nowrap>Tunjangan Telekomunikasi</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-share"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">10</td>
+												<td style="text-align:left" nowrap>Tunjangan Makan / Minum</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-parameter-gaji-pegawai-tetap.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="hapus-parameter-gaji-pegawai-tetap.php" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-pegawai-log.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon flaticon-share"></i>
+																				<span class="kt-nav__link-text">History Log</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">11</td>
+												<td style="text-align:left" nowrap>Tunjangan Representasi</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap>&nbsp;</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
