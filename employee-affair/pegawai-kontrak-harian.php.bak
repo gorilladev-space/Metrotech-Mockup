@@ -339,8 +339,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th colspan="3" bgcolor="#f7fcff">Status Pengajuan
-Menjadi Calon Pegawai</th>
+											  <th colspan="3" bgcolor="#f7fcff">Status Pengajuan<br>Menjadi Calon Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -381,6 +380,12 @@ Menjadi Calon Pegawai</th>
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -448,6 +453,12 @@ Menjadi Calon Pegawai</th>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
@@ -511,6 +522,12 @@ Menjadi Calon Pegawai</th>
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -578,6 +595,12 @@ Menjadi Calon Pegawai</th>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
@@ -643,10 +666,16 @@ Menjadi Calon Pegawai</th>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text"Pengajuan Calon Pegawai</span>
+																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -707,6 +736,12 @@ Menjadi Calon Pegawai</th>
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -777,6 +812,12 @@ Menjadi Calon Pegawai</th>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
@@ -840,6 +881,12 @@ Menjadi Calon Pegawai</th>
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-harian.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">

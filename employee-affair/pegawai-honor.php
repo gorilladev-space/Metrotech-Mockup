@@ -278,6 +278,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" bgcolor="#f7fcff">QR Code Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Foto</th>
 											  <th width="1%" bgcolor="#f7fcff">NIP</th>
 											  <th width="3%" bgcolor="#f7fcff">Nama Pegawai</th>
@@ -297,6 +298,7 @@
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -324,6 +326,12 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-honor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -332,6 +340,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+
 																			<a href="pegawai-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
@@ -349,6 +358,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -376,6 +386,12 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-honor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -401,6 +417,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">3</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -428,6 +445,12 @@
 																				<span class="kt-nav__link-text">Lihat Profil</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-honor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 
 																		<li class="kt-nav__item">
 																			<a href="pegawai-edit.php" class="kt-nav__link">
@@ -453,6 +476,7 @@
 										  </tr>
 										  <tr>
 												<td width="1%" id="kt_table_1">4</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -478,6 +502,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-honor.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 
