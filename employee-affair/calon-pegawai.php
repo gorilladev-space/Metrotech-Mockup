@@ -273,19 +273,19 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code Pegawai</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NPP</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Department</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
-											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Pangkat / Golongan</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>Mulai Kerja</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Tanggal SK<br>Calon Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" colspan="3" bgcolor="#f7fcff">Status</th>
+											  <th width="2%" colspan="3" bgcolor="#f7fcff">Status Pengajuan Pegawai</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -297,6 +297,7 @@
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -306,7 +307,6 @@
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Utama</td>
-												<td width="3%" style="text-align:center" nowrap>Pembina Utama / IV E</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -332,6 +332,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -373,6 +379,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirum.jpg" alt="image">
 													</a></td>
@@ -382,7 +389,6 @@
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Umum</td>
-												<td width="3%" style="text-align:center" nowrap>Pembina Madya / IV D</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -403,6 +409,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -441,6 +453,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">3</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirops.jpg" alt="image">
 													</a></td>
@@ -450,7 +463,6 @@
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Operasional</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -470,6 +482,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -509,6 +527,7 @@
 										  </tr>
 										  <tr>
 												<td width="1%" id="kt_table_1">4</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirkeu.jpg" alt="image">
 													</a></td>
@@ -518,7 +537,6 @@
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Keuangan dan Asset</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -538,6 +556,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -578,6 +602,7 @@
 
 <tr>
 												<td width="1%" id="kt_table_1">5</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirjasa.jpg" alt="image">
 													</a></td>
@@ -587,7 +612,6 @@
 												<td width="1%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td width="3%" style="text-align:left" nowrap>Direktur Pengembangan Usaha & Kerjasama</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -607,6 +631,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -646,6 +676,7 @@
 										  </tr>
 <tr>
 												<td width="1%" id="kt_table_1">6</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/300_21.jpg" alt="image">
 													</a></td>
@@ -655,7 +686,6 @@
 												<td width="1%" style="text-align:center" nowrap>Umum</td>
 												<td width="3%" style="text-align:center" nowrap>Umum</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Bagian Umum</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -675,6 +705,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -714,6 +750,7 @@
 										  </tr>
 <tr>
 												<td width="1%" id="kt_table_1">7</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -723,7 +760,6 @@
 												<td width="1%" style="text-align:center" nowrap>Umum</td>
 												<td width="3%" style="text-align:center" nowrap>Umum dan Kepegawaian</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -743,6 +779,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -782,6 +824,7 @@
 										  </tr>
 										  <tr>
 												<td width="1%" id="kt_table_1">8</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
@@ -791,7 +834,6 @@
 												<td width="1%" style="text-align:center" nowrap>Pengembangan Usaha & Kerja Sama</td>
 												<td width="3%" style="text-align:center" nowrap>Pengembangan</td>
 												<td width="3%" style="text-align:left" nowrap>Kepala Seksi Administrasi Kepegawaian</td>
-												<td width="3%" style="text-align:center" nowrap>X / IV A</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
 												<td width="3%" style="text-align:center" nowrap>24 September 2008</td>
@@ -811,6 +853,12 @@
 																			<a href="pegawai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-calon-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

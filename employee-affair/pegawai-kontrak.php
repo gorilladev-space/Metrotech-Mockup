@@ -329,6 +329,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
@@ -340,7 +341,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th colspan="3" bgcolor="#f7fcff">Status</th>
+											  <th colspan="3" bgcolor="#f7fcff">Status Pengajuan<br>Menjadi Calon Pegawai</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -354,6 +355,7 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -381,6 +383,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -419,6 +427,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -446,6 +455,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -484,6 +499,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">3</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -511,6 +527,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -549,6 +571,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">4</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -576,6 +599,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -614,6 +643,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">5</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -643,10 +673,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
+																			</a>
+																		</li>
 <li class="kt-nav__item">
 																			<a href="kontrak-add-tetap.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-tie"></i>
-																				<span class="kt-nav__link-text"Pengajuan Calon Pegawai</span>
+																				<span class="kt-nav__link-text">Pengajuan Calon Pegawai</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -664,7 +700,6 @@
 																		<li class="kt-nav__item">
 																			<a href="pegawai-kontrak-hapus.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
@@ -680,6 +715,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">6</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -707,6 +743,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -746,6 +788,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">7</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -775,6 +818,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">
@@ -813,6 +862,7 @@
 										  </tr>
 <tr>
 												<td id="kt_table_1">8</td>
+												<td align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
@@ -840,6 +890,12 @@
 																			<a href="pegawai-kontrak-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="cetak-id-card-pegawai-kontrak-bulanan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
+																				<span class="kt-nav__link-text">Cetak ID Card Pegawai</span>
 																			</a>
 																		</li>
 <li class="kt-nav__item">

@@ -276,6 +276,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" bgcolor="#f7fcff">QR Code Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Foto</th>
 											  <th width="3%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">NIP</th>
@@ -296,6 +297,7 @@
 										<tbody>
 											<tr>
 												<td width="1%" id="kt_table_1">1</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -363,6 +365,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">2</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30" /></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirum.jpg" alt="image">
 													</a></td>
@@ -429,6 +432,7 @@
 										  </tr>
 											<tr>
 												<td width="1%" id="kt_table_1">3</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30" /></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirops.jpg" alt="image">
 													</a></td>
@@ -495,6 +499,7 @@
 										  </tr>
 										  <tr>
 												<td width="1%" id="kt_table_1">4</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30" /></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirkeu.jpg" alt="image">
 													</a></td>
@@ -562,6 +567,7 @@
 
 <tr>
 												<td width="1%" id="kt_table_1">5</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30" /></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/dirjasa.jpg" alt="image">
 													</a></td>
@@ -628,6 +634,7 @@
 										  </tr>
 <tr>
 												<td width="1%" id="kt_table_1">6</td>
+												<td width="1%" align="center" valign="middle" style="text-align:center"><img src="../assets/img/qrcode.jpg" width="30" height="30" /></td>
 												<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/300_21.jpg" alt="image">
 													</a></td>

@@ -1222,7 +1222,55 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
-							  <td colspan="3" valign="top"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+							  <td colspan="3" valign="top"></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"></td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td colspan="3" valign="top"></td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
