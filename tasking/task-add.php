@@ -451,6 +451,37 @@ function goBack() {
                           <label class="">No. Surat Tugas :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="097/TASK/PMR/XII/2023">
                         </div>
+						<div class="col-lg-6">
+                          <label class="">Kategori Tugas :</label>
+                          <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
+							                              <option value="2">Keuangan</option>
+							                              <option value="3">Operasional</option>
+							                              <option value="3">Administrasi</option>
+							                              <option value="4">Kepegawaian</option>
+							                              <option value="4">Team Reaksi Cepat</option>
+							                          </select>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+					  <div class="col-lg-6">
+                          <label class="">Tanggal Awal Tugas :</label>
+                          <div class="input-group">
+							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
+							                        <div class="input-group-append">
+							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+							                        </div>
+							                      </div>
+                        </div>
+						<div class="col-lg-6">
+                          <label class="">Tanggal Akhir Tugas :</label>
+                          <div class="input-group">
+							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
+							                        <div class="input-group-append">
+							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+							                        </div>
+							                      </div>
+                        </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 					  <div class="form-group row">
@@ -480,13 +511,7 @@ function goBack() {
                                             
                                                                                                     
 																								</tr>
-																								<tr data-repeater-item>
-																								  <td style="text-align:center">3</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 3"></textarea></td>
-																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
-                                            
-                                                                                                    
-																								</tr>
+																								
 																							</tbody>
 																							<tfoot>
 																								<tr>

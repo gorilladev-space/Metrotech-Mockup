@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Buat Tugas Baru
+											Detail Tugas
 									</h3>
 
 								</div>
@@ -118,39 +118,7 @@ function goBack() {
                       <div class="form-group row">
                        <div class="col-lg-3">
                           <label>Nama Pejabat :</label>
-                           <div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai">
                         </div>
 						
 <div class="col-lg-1">
@@ -194,7 +162,7 @@ function goBack() {
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="1%" bgcolor="#f7fcff">No</td>
-																									<td width="2%" bgcolor="#f7fcff">Nama Pegawai</td>
+																									<td width="10%" bgcolor="#f7fcff">Nama Pegawai</td>
 																									<td width="4%" bgcolor="#f7fcff">Department</td>
 																									<td width="6%" bgcolor="#f7fcff">Bagian</td>
 																									<td width="15%" bgcolor="#f7fcff">Jabatan</td>
@@ -206,39 +174,7 @@ function goBack() {
 																								<tr>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
@@ -248,39 +184,7 @@ function goBack() {
 																								<tr>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI"selected>000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
@@ -290,39 +194,7 @@ function goBack() {
 																								<tr>
 																								  <td style="text-align:center">3</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI"selected>000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
@@ -333,39 +205,7 @@ function goBack() {
 																								<tr>
 																								  <td style="text-align:center">4</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI"selected>000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha dan Kerjasama"></td>
@@ -378,39 +218,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">5</td>
 																									<td style="text-align:center">
-																										<div class="form-group">
-
-					                         <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI"selected>000 000 008 - Mahdinar, SE</option>
-																					<option value="HI">000 000 009 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-					                       </div></td>
+																										<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Pegawai"></td>
 																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
@@ -418,13 +226,7 @@ function goBack() {
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 																									</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="7">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
 
 						
@@ -451,37 +253,6 @@ function goBack() {
                           <label class="">No. Surat Tugas :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="097/TASK/PMR/XII/2023">
                         </div>
-						<div class="col-lg-6">
-                          <label class="">Kategori Tugas :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-							                              <option value="2">Keuangan</option>
-							                              <option value="3">Operasional</option>
-							                              <option value="3">Administrasi</option>
-							                              <option value="4">Kepegawaian</option>
-							                              <option value="4">Team Reaksi Cepat</option>
-							                          </select>
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-					  <div class="col-lg-6">
-                          <label class="">Tanggal Awal Tugas :</label>
-                          <div class="input-group">
-							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
-							                        <div class="input-group-append">
-							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-							                        </div>
-							                      </div>
-                        </div>
-						<div class="col-lg-6">
-                          <label class="">Tanggal Akhir Tugas :</label>
-                          <div class="input-group">
-							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
-							                        <div class="input-group-append">
-							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-							                        </div>
-							                      </div>
-                        </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 					  <div class="form-group row">
@@ -499,33 +270,27 @@ function goBack() {
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 1"></textarea></td>
+																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 1"></textarea></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 2"></textarea></td>
+																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 2"></textarea></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:left"><textarea class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 3"></textarea></td>
+																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 3"></textarea></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
