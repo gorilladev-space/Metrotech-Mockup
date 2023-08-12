@@ -511,8 +511,8 @@
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div></td>
 														
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
-															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Batal" data-html="true">
+															<i class="fa fa-file-excel kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -595,8 +595,8 @@
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div></td>
 
 													
-														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
-															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="On Progress" data-html="true">
+															<i class="fa fa-tasks kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -680,8 +680,8 @@
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div></td>
 
 													
-														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
-															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="On Progress" data-html="true">
+															<i class="fa fa-tasks kt_sweetalert_demo_9" data-html="true"></i>
 														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -765,7 +765,7 @@
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div></td>
 
 													
-														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Lengkap" data-html="true">
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Selesai" data-html="true">
 															<i class="fa flaticon2-check-mark"></i>
 														</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
