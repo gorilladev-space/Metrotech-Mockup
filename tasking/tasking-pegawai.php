@@ -465,12 +465,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-tugas.php" class="kt-nav__link">
@@ -533,12 +528,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-tugas.php" class="kt-nav__link">
@@ -617,12 +607,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+																	
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-tugas.php" class="kt-nav__link">
@@ -702,12 +687,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-tugas.php" class="kt-nav__link">
@@ -787,12 +767,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
-																				<span class="kt-nav__link-text">Print</span>
-																			</a>
-																		</li>
+																	
 																		
 																		<li class="kt-nav__item">
 																			<a href="edit-tugas.php" class="kt-nav__link">
