@@ -24,7 +24,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Cetak SK Pegawai Tetap
+											Cetak SK Kontrak Pegawai
 									</h3>
 								<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
@@ -81,7 +81,7 @@ function goBack() {
 							<tr>
 								<th colspan="6" class="text-center">
 									<span style="text-align: center"><span style="font-family: Bookman Old Style; font-size: 12px;"><u>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA</b></u></span><br /><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem">
-														<b>Nomor : 80.l-Peg/001/VIII/2022</b></span>
+														<b>Nomor : 088/20.S-Kep.Dir/PERUMDA-PMR/VIII/2022</b></span>
 								</th>
 							</tr>
 							<tr>
@@ -94,7 +94,7 @@ function goBack() {
 							  <td colspan="6">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>PENGANGKATAN PEGAWAI</b></span><br />
+							  <td colspan="6"><p align="center"><span style="font-family: Bookman Old Style; font-size: 12px;"><b>PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS</b></span><br />
 							    <span style="font-family: Bookman Old Style; font-size: 12px;"><b>PADA PERUSAHAAN UMUM DAERAH PARKIR</b></span><br />
 						      <span style="font-family: Bookman Old Style; font-size: 12px;"><b>MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></span></p></td>
 							</tr>
@@ -116,7 +116,7 @@ function goBack() {
 							  <td valign="top">:</td>
 							  <td width="10" valign="top">a.</td>
 							  <td>&nbsp;</td>
-							  <td>bahwa sesuai ketentuan Peraturan Daerah No. 10 Tahun 2000 tentang Ketentuan badan Pengawas, Direksi dan Pegawai Perumda Parkir Makassar Raya, calon pegawai perusahaan yang namanya  tersebut  dalam  lajur  2 (dua) selama masa percobaan sejak tanggal sebagimana  tersebut  dalam  laJur 6 (enam) dari daftar  lampiran  keputusan  ini,  temyata  telah memenuhi syarat dan dipandang cakap untuk diangkat menjadi Pegawai PD. Parkir Makassar Raya.</td>
+							  <td>bahwa  untuk menunjang kelancaran pelaksanaan tugas-tugas Perusahaan Umum Daerah  Parkir Makassar Raya Kota Makassar, maka dipandang perlu mengangkat tenaga Kontrak  Kerja waktu terbatas sesuai dengan kebutuhan tiap Bagian  dengan memperhatikan Analisis beban kerja dan kemampuan keuangan perusahaan.   </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -124,7 +124,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">b.</td>
 							  <td>&nbsp;</td>
-							  <td>bahwa untuk maksud pada huruf a diatas dituangkan dalam Surat Keputusan Direksi Perumda Parkir Makassar Raya.</td>
+							  <td>bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a diatas dipandang perlu ditetapkan dengan Keputusan Direksi Perusahaan Umum  Daerah Parkir Makassar Raya tentang Pengangkatan Tenaga Kontrak Kerja Waktu  Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya  Kota Makassar Tahun 2023. </td>
   </tr>
 							<tr>
 							  <td colspan="6" valign="top">&nbsp;</td>
@@ -135,7 +135,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td width="10" valign="top">1.</td>
 							  <td>&nbsp;</td>
-							  <td>Undang-undang Nomor S Tahun 1962 tentang Perusahaan Daerah (Lembaran Negara Tahun 1962 No.10, Tambahan Lembaran Negara Nomor 2787)
+							  <td>Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan  Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun  1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);
 						      <span style="text-align: justify"></span></td>
   </tr>
 							<tr>
@@ -152,7 +152,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">3.</td>
 							  <td>&nbsp;</td>
-							  <td>Undang-Undang Nomor  22  Tahun  1999  Tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 60, Tambahan Lenibaran Negara Republik Indonesia Nomor 3839)</td>
+							  <td>Undang – Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang – Undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234) sebagaimana telah diubah dengan Undang-Undang Nomor 15 Tahun 2019 Tentang Perubahan atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 183, Tambahan Lembaran Negara Republik Indonesia Nomor 6398);</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -160,18 +160,13 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">4.</td>
 							  <td>&nbsp;</td>
-							  <td>Peraturan Pemerintah Nomor 51 Tahun 1971 Tentang Perubahan Batas-Batas Daerah Kota Madya Makassar dan Kabupaten Gowa ,Maros dan Pangkajene Kepulauan dalam lingkungan Propinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia tahun 1971 Nomor 65, Tambahan Lembaran Negara Republik Indonesia Nomor 2970)</td>
+							  <td>Undang – Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Noomor 5587) sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);</td>
   </tr>
 							<tr>
 							  <td colspan="6" valign="top">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
+							  <td colspan="6" valign="top">&nbsp;</td>
   </tr>
   </table>
   <img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
@@ -180,12 +175,12 @@ function goBack() {
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
 							<tr>
-							  <td valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">5.</td>
 							  <td>&nbsp;</td>
-							  <td>Peraturan Pemerintah No. 86 tahun 1999 Tentang Perubahan Kota Madya Ujung Pandang menjadi Kota Makassar dalam Wilayah Propinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 193)</td>
+							  <td>Undang – Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 292, Tambahan Lembaran Negara Republik Indosesia Nomor 5601); </td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -193,7 +188,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">6.</td>
 							  <td>&nbsp;</td>
-							  <td>Peraturan Daerah Nomor 5 Tentang Tentang Pembentukan Perusahaan Umum Daerah Parkir Makassar Raya ( Lembaran Daerah Kota Makassar Nomor 19 Tahun 1999 Seri D Nomor 6)</td>
+							  <td>Peraturan Daerah Kota Makassar Nomor 10 Tahun 2000 tentang Pokok-Pokok Badan Pengawas Direksi dan Kepegawaian PD.Parkir Makassar Raya;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -201,7 +196,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">7.</td>
 							  <td>&nbsp;</td>
-							  <td>Peraturan Daerah Makassar No. 10 Tahun 2000 tentang Ketentuan Pokok Badan Pengawas, Direksi dan Kepegawaian Perusahaan Umum Daerah Parkir Makassar Raya. (Lembaran daerah nomor 2 tahun 2000 seri D Nomor 2)</td>
+							  <td>Peraturan Daerah Kota Makassar  Nomor 16 Tahun 2006 tentang Perubahan atas Peraturan Daerah Kota Makassar Nomor 5 Tahun 1999 tentang pendirian Perusahaan Daerah Parkir Makassar Raya Kotamadya Daerah Tingkat II Ujung Pandang;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -209,7 +204,7 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">8.</td>
 							  <td>&nbsp;</td>
-							  <td>Keputusan Walikota Makassar No.736/S.Kep/137/2000 Tentang Penugasan Pengelolaan Perparkiran dalam Wilayah Kota Makassar kepada Perusahaan Umum Daerah Parkir Makassar Raya.</td>
+							  <td>Peraturan Daerah Kota Makassar Nomor 17 Tahun 2006 tentang Pengelolaan Parkir Tepi Jalan Umum dalam daerah Kota Makassar;</td>
   </tr>
 							<tr>
 							  <td valign="top">&nbsp;</td>
@@ -217,29 +212,48 @@ function goBack() {
 							  <td valign="top">&nbsp;</td>
 							  <td valign="top">9.</td>
 							  <td>&nbsp;</td>
-							  <td>Keputusan Walikota Makassar No.7040 tahun 1999 Tentang Struktur Organisasi dan tata kerja Perusahaan Daerah Parkir Makassar Raya Kota Makassar (Lembaran Daerah Kota Makassar Nomor 24 Tahun 1999 seri D Nomor 11).</td>
+							  <td>Peraturan Pemerintah Nomor 51 Tahun 1971 tentang Perubahan Batas – batas Daerah Kotamadya Makassar dan Kabupaten – Kabupaten Gowa, Maros dan Pangkajene dan Kepulauan dalam lingkungan Daerah Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 1971 Nomor 65, Tambahan Lembaran Negara Republik Indonesia Nomor 2970);</td>
   </tr>
-							
 							<tr>
-								<td colspan="6">&nbsp;</td>
-							</tr>
-							<tr>
-								<td valign="top">Memperhatikan</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">10.</td>
 							  <td>&nbsp;</td>
-								<td valign="middle">Persetujuan Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
-							</tr>
+							  <td>Peraturan pemerintah Nomor 54 Tahun 2017 tentang Badan Usaha Milik Daerah;</td>
+  </tr>
 							<tr>
-								<td colspan="6">&nbsp;</td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">11.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Pemerintah Nomor 86 Tahun 1999 tentang Perubahan Nama Kota Ujung Pandang menjadi Kota Makassar dalam Wilayah Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Nomor 5258);</td>
+  </tr>
 							<tr>
-								<td colspan="6">&nbsp;</td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">12.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Pemerintah Dalam Negeri Daerah Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036) sebagaimana telah diubah terakhir dengan Peraturan Menteri dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);</td>
+  </tr>
 							<tr>
-								<td colspan="6">&nbsp;</td>
-							</tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">13.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Menteri Dalam Negeri Nomor 37 Tahun 2018 tentang Pengangkatan dan Pemberhentian Anggota Dewan Pengawas atau Anggota Komisaris dan Anggota Direksi Badan Usaha Milik Daerah;</td>
+  </tr>
+							<tr>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">&nbsp;</td>
+							  <td valign="top">14.</td>
+							  <td>&nbsp;</td>
+							  <td>Peraturan Menteri Dalam Negeri Nomor 118 tahun 2018 tentang Rencan Bisnis, Rencana Kerja dan Anggaran, Kerja Sama, Pelaporan dan Evaluasi Badan Usaha Milik Daerah; </td>
+  </tr>
 							<tr>
 								<td colspan="6">&nbsp;</td>
 							</tr>
@@ -262,36 +276,51 @@ function goBack() {
 							  <td width="3" valign="top" style="text-align: left">:</td>
 							  <td width="10" valign="top" style="text-align: left"></td>
 							  <td width="1" style="text-align: left">&nbsp;</td>
-							  <td colspan="4" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem"><b>KEPUTUSAN DIREKSI PERUSAHAAN DAERAH PARKIR MAKASSAR RAYA TENTANG PENGANGKATAN PEGAWAI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA.</b></td>
+							  <td colspan="4" style="text-align: left"><b>KEPUTUSAN DIREKSI PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA  TENTANG  PENGANGKATAN TENAGA KONTRAK KERJA WAKTU TERBATAS PADA PERUSAHAAN UMUM DAERAH PARKIR MAKASSAR RAYA KOTA MAKASSAR TAHUN 2023</b></td>
   </tr>
 							<tr>
-							  <td colspan="9" valign="top">&nbsp;</td>
+							  <td colspan="9" valign="top" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td valign="top" style="text-align: left">PERTAMA</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top"></td>
-							  <td>&nbsp;</td>
-							  <td colspan="4" style="text-align: left">Calon pegawai yang namanya tersebut pada lampiran surat keputusan ini dalam lajur 2 (dua) diangkat menjadi Pegawai Perusahaan Umum Daerah Parkir Makassar Raya, dalam golongsn/ruang pada lajur  7 (tujuh)  dan  diberikan Gaji pokok sebagaimana tersebut dalam lajur 9 (sembilan) terhitung mulai tanggal tertera dalam lajur 10 (sepuluh) serta penghasilan lainnya sesuai ketentuan yang berlaku.</td>
+							  <td valign="top" style="text-align: left">KESATU</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left"></td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Mengangkat Tenaga Kontrak Kerja Waktu Terbatas pada Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun 2023, sebagaimana namanya tercantum dalam Lampiran Keputusan ini yang merupakan satu kesatuan yang tidak terpisahkan dengan Keputusan ini; </td>
   </tr>
 							<tr>
 							  <td valign="top" style="text-align: left">KEDUA</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td width="10" valign="top">&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td colspan="4" style="text-align: left">Surat keputusan ini berlaku sejak tanggal ditetapkannya dan bilamana terdapat kekeliruan dalam Keputusan ini, maka akan dilakukan perbaikan sebagaimana mestinya.</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td width="10" valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Hak dan Kewajiban Tenaga Kontrak Kerja Waktu Terbatas sebagaimana dimaksud dalam Diktum KESATU, dituangkan dalam Surat Perjanjian Kesepakatan Kerja Waktu terbatas yang ditandatangani oleh yang bersangkutan dengan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
   </tr>
 							<tr>
 							  <td valign="top" style="text-align: left">KETIGA</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td valign="top">&nbsp;</td>
-							  <td>&nbsp;</td>
-							  <td colspan="4" style="text-align: left">Keputusan ini disampaikan kepada yang bersangkutan untuk dipergunakan seperlunya.</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Segala Biaya yang timbul dari pelaksanaan Keputusan ini, akan dibebankan pada  Anggaran Belanja Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar Tahun Anggaran 2023;</td>
   </tr>
-							
+							<tr>
+							  <td valign="top" style="text-align: left">KEEMPAT</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Ketentuan yang berkaitan dengan teknis pelaksanaan Keputusan ini akan diatur lebih lanjut dalam Surat Keputusan Direksi Perusahaan Umum Daerah Parkir Makassar Raya Kota Makassar;</td>
+  </tr>
+							<tr>
+							  <td valign="top" style="text-align: left">KELIMA</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td valign="top" style="text-align: left">&nbsp;</td>
+							  <td style="text-align: left">&nbsp;</td>
+							  <td colspan="4" style="text-align: left">Keputusan ini berlaku terhitung mulai tanggal 01 Januari 2023 sampai dengan 31 Desember 2023.</td>
+  </tr>
 							<tr>
 							  <td colspan="9" valign="top">&nbsp;</td>
   </tr>
@@ -322,7 +351,7 @@ function goBack() {
 							  <td colspan="3" style="text-align: left">&nbsp;</td>
   </tr>
 							<tr>
-							  <td colspan="3" style="text-align: left"><span style="font-family: Bookman Old Style; font-size: 12px; margin-bottom:3rem"><u><b>Yulianti Tomu, SE</b></u></td>
+							  <td colspan="3" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
 							<tr>
 							  <td colspan="3" style="text-align: left">Direktur Utama</td>
@@ -334,10 +363,10 @@ function goBack() {
 							  <td colspan="9" style="text-align: left"><u>Tembusan disampaikan Kepada Yth.:</u></td>
   </tr>
 							<tr>
-							  <td colspan="9" style="text-align: left">1. Bapak Walikota Makassar di Makassar;</td>
+							  <td colspan="9" style="text-align: left">1. Walikota Makassar;</td>
   </tr>
 							<tr>
-							  <td colspan="9" style="text-align: left">2. Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
+							  <td colspan="9" style="text-align: left">2.	Dewan Pengawas Perusahaan Umum Daerah Parkir Makassar Raya</td>
   </tr>
 							<tr>
 								<td colspan="9" style="text-align: left">3.	Pertinggal.</td>
@@ -357,7 +386,6 @@ function goBack() {
 						</table>
 						<img src="../assets/img/footer.png" style="width:700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-bottom:20px" />
 					</div>
-					
 					<div class="bg-white w-50 ml-auto mr-auto">
 						<img src="../assets/img/header.png" style="width: 700px; display:block; margin-left:auto;margin-right:auto;margin-bottom:20px;padding-top:20px;" />
 						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
@@ -456,66 +484,64 @@ function goBack() {
   </tr>
 						</table>
 						<br>
-						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:justify; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
+						<table align="center" border="0" cellpadding="1" style="width: 600px; text-align:right; line-height:1.5; font-family: Bookman Old Style; font-size: 12px;">
   <tr>
     <td width="24" valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td width="90" valign="center">Ditetapkan di</td>
-    <td width="7" valign="center">:</td>
-    <td width="126" valign="center">Makassar</td>
+    <td width="331" rowspan="3" valign="top"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
+    <td width="90" valign="center" style="text-align: left">Ditetapkan di</td>
+    <td width="7" valign="center" style="text-align: left">:</td>
+    <td width="126" valign="center" style="text-align: left">Makassar</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td valign="center" style="text-align: left">Pada Tanggal </td>
+    <td valign="center" style="text-align: left">:</td>
+    <td valign="center" style="text-align: left">29 November 2022</td>
+  </tr>
+  <tr>
+    <td valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direksi Perusahaan Umum Daerah
+Parkir Makassar Raya</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
     <td valign="center">&nbsp;</td>
-    <td width="47" rowspan="2" valign="center"><img src="../assets/img/paraf.png" width="50" height="50" /></td>
-    <td valign="center">Pada Tanggal </td>
-    <td valign="center">:</td>
-    <td valign="center">29 November 2022</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td width="280" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">PERUMDA Parkir Makassar Raya</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><img src="../assets/img/qrcode.jpg" width="75" height="75" /></td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left"><u><b>Yulianti Tomu, SE</b></u></td>
   </tr>
   <tr>
     <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">&nbsp;</td>
+    <td valign="center">&nbsp;</td>
+    <td colspan="3" valign="center" style="text-align: left">Direktur Utama</td>
   </tr>
   <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center"><u><b>Yulianti Tomu, SE</b></u></td>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td valign="center" style="text-align: right">&nbsp;</td>
-    <td colspan="2" valign="center">&nbsp;</td>
-    <td colspan="3" valign="center">Direktur Utama</td>
+    <td colspan="5" valign="center" style="text-align: right">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="6" valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="5" valign="center" style="text-align: left"></td>
   </tr>
   <tr>
-    <td colspan="6" valign="center" style="text-align: right">&nbsp;</td>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="6" valign="center" style="text-align: left"></td>
-  </tr>
-  <tr>
-    <td colspan="6" valign="center" style="text-align: left">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="6" valign="center" style="text-align: left">&nbsp;</td>
+    <td colspan="5" valign="center" style="text-align: left">&nbsp;</td>
   </tr>
 </table>
 						

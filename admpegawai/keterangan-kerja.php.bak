@@ -49,7 +49,7 @@
 												<!--end::Nav-->
 											</div>
 
-											<a href="pegawai-request-surat-keterangan-kerja.php" class="btn btn-info btn-sm">
+											<a href="hr-request-surat-keterangan-kerja.php" class="btn btn-info btn-sm">
 												<i class="fa fa-plus"></i>Ajukan Permohonan</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
@@ -226,6 +226,70 @@
 												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td id="kt_table_1"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
+														<img src="../assets/media/users/100_10.jpg" alt="image">
+													</a></td>
+												<td id="kt_table_1">Muhammad Nasrullah, S.Kom</td>
+												<td id="kt_table_1">238 004 032</td>
+												<td id="kt_table_1">003/10.1/PERUMDA-PMR/XII/2022</td>
+												
+												
+												<td style="text-align:left">Kelengkapan Administrasi Pengurusan SKCK</td>
+												
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+
+													
+												
+												
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+														
+												
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
+															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="print-surat-keterangan-bekerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
+																				<span class="kt-nav__link-text">Print</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-data-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">2</td>
+												<td id="kt_table_1">004/RSKK/PERUMDA-PMR/XII/2022</td>
+												<td style="text-align:center">Pegawai Ybs</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td id="kt_table_1"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
