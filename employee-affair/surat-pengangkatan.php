@@ -187,8 +187,8 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="13%" bgcolor="#f7fcff" rowspan="2">No. Surat<br>Pengangkatan Pegawai</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Foto</th>
+												<th width="14%" bgcolor="#f7fcff" rowspan="2">No. Surat<br>Pengangkatan Pegawai</th>
+												<th width="3%" bgcolor="#f7fcff" rowspan="2">Foto</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Nama Pegawai</th>
 												<th width="5%" bgcolor="#f7fcff" rowspan="2">Nip</th>
 												<th width="12%" bgcolor="#f7fcff" rowspan="2">Department</th>
@@ -204,7 +204,7 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center">004/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
+												<td style="text-align:left">004/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -255,7 +255,7 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center">003/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
+												<td style="text-align:left">003/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -306,7 +306,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center">002/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
+												<td style="text-align:left">002/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -357,7 +357,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center">001/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
+												<td style="text-align:left">001/20-S.Kep.Dir/PERUMDA-PMR/XI/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
