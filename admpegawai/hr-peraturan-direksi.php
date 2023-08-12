@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Peraturan Perusahaan
+											Data Peraturan Direksi
 									</h3>
 
 								</div>
@@ -49,6 +49,10 @@
 
 												<!--end::Nav-->
 											</div>
+											<a href="hr-peraturan-direksi-add.php" class="btn btn-info btn-sm">
+												<i class="fa fa-plus-circle"></i> Buat Peraturan Direksi</button>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
 										
 
 
@@ -178,18 +182,21 @@
 												<th width="1%" rowspan="2" bgcolor="#f7fcff">#</th>
 												<th width="6%" rowspan="2" bgcolor="#f7fcff">No Dokumen</th>
 												<th width="2%" colspan="3" bgcolor="#f7fcff">Dibuat</th>
-												<th width="6%" colspan="2" bgcolor="#f7fcff">Diubah</th>
+												<th width="6%" colspan="2" bgcolor="#f7fcff">Perubahan</th>
 												<th width="8%" rowspan="2" bgcolor="#f7fcff">Jenis<br>Peraturan Perusahaan</th>
 												<th width="30%" rowspan="2" bgcolor="#f7fcff">Perihal</th>
+												<th width="3%" colspan="2" bgcolor="#f7fcff">Verifikasi Dokumen</th>
 												<th width="3%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 											</tr>
 											<tr>
 											  <th width="1%" bgcolor="#f7fcff">Tahun</th>
 											  <th width="5%" bgcolor="#f7fcff">Tanggal</th>
-											  <th width="1%" bgcolor="#f7fcff">Pejabat</th>
+											  <th width="2%" bgcolor="#f7fcff">Pejabat</th>
 											  <th width="5%" bgcolor="#f7fcff">Tanggal</th>
-											  <th width="1%" bgcolor="#f7fcff">Pejabat</th>
-							              </tr>
+											  <th width="3%" bgcolor="#f7fcff">Pejabat</th>
+											  <th bgcolor="#f7fcff">Direktur Umum</th>
+											  <th bgcolor="#f7fcff">Direktur Utama</th>
+									      </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -205,7 +212,9 @@
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Kepegawaian</td>
-												<td style="text-align:left">Terlambat masuk selama 5 (lima) hari berturut-turut tanpa alasan yang sah</td>
+												<td style="text-align:left">Absensi Kepegawaian</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -213,7 +222,7 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="pegawai-view-peraturan.php" class="kt-nav__link">
+																			<a href="hr-view-peraturan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -224,6 +233,20 @@
 																				<span class="kt-nav__link-text">Download Peraturan</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="edit-hr-peraturan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
+																		
 																	</ul>
 																</div>
 															</div></td>
