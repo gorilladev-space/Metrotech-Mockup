@@ -87,7 +87,7 @@
 																		<div class="kt-portlet__body">
 							                      <div class="form-group row">
 							                        <div class="col-lg-2">
-							                          <label>Nama Pegawai :</label>
+							                          <label>Pejabat Pembuat Tugas :</label>
 													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
@@ -121,56 +121,166 @@
 
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Departemen :</label>
-							                           <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
-                                      <option value="4">Keuangan dan Asset</option>
-                                      <option value="5">Operasional</option>
-                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
-                                  </select>
+							                          <label>Pemberi Tugas :</label>
+													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+
 							                        </div>
 
 							                        <div class="col-lg-2">
-							                          <label>Jabatan :</label>
-							                          <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-									  <optgroup label="Direksi">
-                                      <option value="2" selected="">Direktur Utama</option>
-                                      <option value="2">Direktur Umum</option>
-                                      <option value="2">Direktur Keuangan dan Asset</option>
-                                      <option value="2">Direktur Operasional</option>
-                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
-									  </optgroup>
-                                     
-                                  </select>
+							                          <label>Pelaksana Tugas :</label>
+													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+
+							                        </div>
+													
+												
+							                        
+							                      </div>
+												  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												  <div class="form-group row">
+							                        <div class="col-lg-2">
+							                          <label>Uraian Tugas :</label>
+													  <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+
 							                        </div>
 													<div class="col-lg-2">
-							                          <label>Jenis Cuti :</label>
+							                          <label>Pemberi Tugas :</label>
+													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+
+							                        </div>
+													<div class="col-lg-2">
+							                          <label>Kategori :</label>
 							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-							                              <option value="2">cuti alasan penting</option>
-							                              <option value="3">cuti bersalin</option>
-							                              <option value="4">cuti besar</option>
-							                              <option value="5">cuti khusus</option>
-							                              <option value="6">cuti sakit</option>
-							                              <option value="7" selected="">cuti tahunan</option>
-							                              <option value="12">menikah</option>
+							                              <option value="2">Keuangan</option>
+							                              <option value="3">Operasional</option>
+							                              <option value="3">Administrasi</option>
+							                              <option value="4">Kepegawaian</option>
+							                              <option value="4">Team Reaksi Cepat</option>
 							                          </select>
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Tanggal :</label>
+							                          <label class="">Tanggal Input :</label>
 							                          <div class="input-group">
-							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date range">
+							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
 							                        <div class="input-group-append">
 							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
 							                        </div>
 							                      </div>
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Keterangan :</label>
-							                          <textarea class="form-control" id="exampleTextarea" rows="1"></textarea>
+						                          <label class="">Tanggal Deadline :</label>
+						                          <div class="input-group">
+						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+						                        </div>
+												<div class="col-lg-2">
+							                          <label>Status :</label>
+							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
+							                              <option value="2">Selesai</option>
+							                              <option value="3">On Progress</option>
+							                              <option value="3">Batal</option>
+							                          </select>
 							                        </div>
+
+							                        
+													
+													
+													
+												
 							                        
 							                      </div>
 							                      
@@ -203,7 +313,7 @@
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-brand">
-														4
+														5
 													</span>
 												</div>
 
@@ -247,7 +357,7 @@
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-danger">
-														1
+														4
 													</span>
 												</div>
 
@@ -269,7 +379,7 @@
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-warning">
-														2
+														0
 													</span>
 												</div>
 
@@ -295,8 +405,8 @@
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
 												<th width="35%" bgcolor="#f7fcff" rowspan="2">Uraian Tugas</th>
-												<th width="4%" bgcolor="#f7fcff" rowspan="2">Kategori</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Kategori</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Waktu Tugas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Progress</th>
 												
@@ -322,7 +432,7 @@
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
-												<td style="text-align:left">Lainnya</td>
+												<td style="text-align:left">Team Reaksi Cepat</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
@@ -348,21 +458,21 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																			<a href="laporan-tugas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
+																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="print-laporan-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="edit-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -415,21 +525,21 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																			<a href="laporan-tugas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
+																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="print-laporan-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="edit-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -499,21 +609,21 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																			<a href="laporan-tugas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
+																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="print-laporan-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="edit-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -583,21 +693,21 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																			<a href="laporan-tugas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
+																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="print-laporan-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="edit-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -667,21 +777,21 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="laporan-perjalanan-dinas-add.php" class="kt-nav__link">
+																			<a href="laporan-tugas-add.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Perjalanan Dinas</span>
+																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="print-laporan-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
+																			<a href="edit-tugas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>

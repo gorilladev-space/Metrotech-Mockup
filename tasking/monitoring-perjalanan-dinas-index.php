@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Task Management System
+											Monitoring Perjalanan Dinas
 									</h3>
 
 								</div>
@@ -48,13 +48,8 @@
 
 												<!--end::Nav-->
 											</div>
-											<a href="task-add.php" class="btn btn-info btn-sm">
-												<i class="fa fa-tasks"></i> Buat Tugas Baru</button>
-												<!--<i class="flaticon2-plus"></i>-->
-											</a>
 
 											
-
 
 										</div>
 							</div>
@@ -87,7 +82,7 @@
 																		<div class="kt-portlet__body">
 							                      <div class="form-group row">
 							                        <div class="col-lg-2">
-							                          <label>Pejabat Pembuat Tugas :</label>
+							                          <label>Nama Pegawai :</label>
 													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
@@ -121,168 +116,56 @@
 
 							                        </div>
 													<div class="col-lg-2">
-							                          <label>Pemberi Tugas :</label>
-													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-
+							                          <label class="">Departemen :</label>
+							                           <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Direksi</option>
+                                      <option value="2">Dewan Pengawas</option>
+                                      <option value="3">Umum</option>
+                                      <option value="4">Keuangan dan Asset</option>
+                                      <option value="5">Operasional</option>
+                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                  </select>
 							                        </div>
 
 							                        <div class="col-lg-2">
-							                          <label>Pelaksana Tugas :</label>
-													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-
-							                        </div>
-													
-												
-							                        
-							                      </div>
-												  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-												  <div class="form-group row">
-							                        <div class="col-lg-2">
-							                          <label>Uraian Tugas :</label>
-													  <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-
+							                          <label>Jabatan :</label>
+							                          <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
+                                  </select>
 							                        </div>
 													<div class="col-lg-2">
-							                          <label>Pemberi Tugas :</label>
-													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-
-							                        </div>
-													<div class="col-lg-2">
-							                          <label>Kategori :</label>
+							                          <label>Jenis Cuti :</label>
 							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-							                              <option value="2">Keuangan</option>
-							                              <option value="3">Operasional</option>
-							                              <option value="3">Administrasi</option>
-							                              <option value="4">Kepegawaian</option>
-							                              <option value="4">Team Reaksi Cepat</option>
+							                              <option value="2">cuti alasan penting</option>
+							                              <option value="3">cuti bersalin</option>
+							                              <option value="4">cuti besar</option>
+							                              <option value="5">cuti khusus</option>
+							                              <option value="6">cuti sakit</option>
+							                              <option value="7" selected="">cuti tahunan</option>
+							                              <option value="12">menikah</option>
 							                          </select>
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Tanggal Input :</label>
+							                          <label class="">Tanggal :</label>
 							                          <div class="input-group">
-							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date">
+							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date range">
 							                        <div class="input-group-append">
 							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
 							                        </div>
 							                      </div>
 							                        </div>
 													<div class="col-lg-2">
-						                          <label class="">Tanggal Deadline :</label>
-						                          <div class="input-group">
-						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-						                        </div>
-												<div class="col-lg-2">
-							                          <label>Status :</label>
-							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-							                              <option value="2">Selesai</option>
-							                              <option value="3">On Progress</option>
-							                              <option value="3">Administrasi</option>
-							                              <option value="4">Kepegawaian</option>
-							                              <option value="4">Team Reaksi Cepat</option>
-							                          </select>
+							                          <label class="">Keterangan :</label>
+							                          <textarea class="form-control" id="exampleTextarea" rows="1"></textarea>
 							                        </div>
-
-							                        
-													
-													
-													
-												
 							                        
 							                      </div>
 							                      
@@ -308,14 +191,14 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Total Tasking
+															Total
 														</h4>
 														<span class="kt-widget24__desc">
-															Jumlah Keseluruhan
+															Perjalanan Dinas
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-brand">
-														5
+														4
 													</span>
 												</div>
 
@@ -330,10 +213,10 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Selesai
+															Perjalanan Dinas Disetujui
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Tugas Selesai
+															yang telah disetujui
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-success">
@@ -352,14 +235,14 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															On Progress
+															Perjalanan Dinas Ditolak
 														</h4>
 														<span class="kt-widget24__desc">
-															Sedang Berlangsung
+															yang telah ditolak
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-danger">
-														4
+														1
 													</span>
 												</div>
 
@@ -374,14 +257,14 @@
 												<div class="kt-widget24__details">
 													<div class="kt-widget24__info">
 														<h4 class="kt-widget24__title">
-															Batal
+															Perjalanan Dinas Pending
 														</h4>
 														<span class="kt-widget24__desc">
-															Total Tugas Batal
+															yang sedang menunggu persetujuan
 														</span>
 													</div>
 													<span class="kt-widget24__stats kt-font-warning">
-														0
+														2
 													</span>
 												</div>
 
@@ -402,45 +285,66 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="6%" bgcolor="#f7fcff" rowspan="2">ID Tasking</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">No. SPPD</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
-												<th width="35%" bgcolor="#f7fcff" rowspan="2">Uraian Tugas</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Kategori</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
-												<th colspan="2" bgcolor="#f7fcff">Waktu Tugas</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Progress</th>
+												<th width="20%" bgcolor="#f7fcff" rowspan="2">Keterangan Perjalanan Dinas</th>
+												
+												<th colspan="2" bgcolor="#f7fcff">Kota</th>
+												<th colspan="2" bgcolor="#f7fcff">Estimasi Perjalanan Dinas</th>
+												<th width="18%" colspan="4" bgcolor="#f7fcff">Verifikasi Perjalanan Dinas</th>
+												<th width="20%" colspan="3" bgcolor="#f7fcff">Keuangan</th>
+												<th width="28%" bgcolor="#f7fcff" rowspan="2">Progress<br>Laporan</th>
 												
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="8%" bgcolor="#f7fcff">Mulai </th>
-												<th width="8%" bgcolor="#f7fcff">Deadline </th>
+											  <th width="5%" bgcolor="#f7fcff">Berangkat</th>
+											  <th width="5%" bgcolor="#f7fcff">Tujuan</th>
+												<th width="8%" bgcolor="#f7fcff">Mulai </th>
+												<th width="8%" bgcolor="#f7fcff">Hingga </th>
+												<th width="4%" bgcolor="#f7fcff">Atasan<br />
+											    Langsung</th>
+												<th width="4%" bgcolor="#f7fcff">Bagian Umum</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Umum</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Utama</th>
+												<th width="4%" bgcolor="#f7fcff">Direktur Keuangan</th>
+												<th width="4%" bgcolor="#f7fcff">Bendahara Pengeluaran</th>
+												<th width="4%" bgcolor="#f7fcff">Realiasasi Biaya</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td id="kt_table_1">005/TASK/PMR/XII/2022</td>
+												<td id="kt_table_1">005/10.1/PERUMDA-PMR/XII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="left" valign="middle" style="text-align:left"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
-												<td style="text-align:left">Team Reaksi Cepat</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												
+												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
+												
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Ambon</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td nowrap style="text-align:center"><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+											  <td nowrap style="text-align:center"><span class="btn btn btn-outline-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+															<i class="fa fa-eye-slash"></i>
+														</span></td>
+											  <td nowrap style="text-align:center"><span class="btn btn btn-outline-danger btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Belum Dibaca" data-html="true">
+															<i class="fa fa-eye-slash"></i>
+														</span></td>
+											  <td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+											  <td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+											  <td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
+											  <td nowrap style="text-align:center"><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Persetujuan"><i class="fa fa-clock"></i></button></td>
 												<td style="text-align:center" nowrap>
                           <div class="progress">
-													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
 												</td>
 														
 												
@@ -459,22 +363,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
-																			</a>
-																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
+																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-tugas.php" class="kt-nav__link">
+																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -492,23 +390,40 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td id="kt_table_1">004/TASK/PMR/XII/2022</td>
+												<td id="kt_table_1">004/10.1/PERUMDA-PMR/XII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="left" valign="middle" style="text-align:left"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
-												<td style="text-align:left">Kepegawaian</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
+												
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Ambon</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											 <td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+
+													<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Menunggu Pembayaran"><i class="fa fa-coins"></i></button></td>
+												
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
+															<i class="fa fa-stopwatch kt_sweetalert_demo_9" data-html="true"></i>
+														</span></td>
 												<td style="text-align:center" nowrap> <div class="progress">
-													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div></td>
+													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 40%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div></td>
 														
 												
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Pending" data-html="true">
@@ -526,22 +441,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
-																			</a>
-																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
+																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-tugas.php" class="kt-nav__link">
+																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -559,38 +468,40 @@
 										  </tr>
 											<tr>
 												<td id="kt_table_1">3</td>
-												<td id="kt_table_1">003/TASK/PMR/XII/2022</td>
+												<td id="kt_table_1">003/10.1/PERUMDA-PMR/XII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center">
-												<div class="kt-media-group" align="center" valign="middle" style="text-align:center">
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-																<img src="../assets/media/users/100_15.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Rizal Asjadad<hr>Direktur Umum" data-html="true">
-																<img src="../assets/media/users/dirum.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Mu’amar Nor Amin<hr>Direktur Keuangan" data-html="true">
-																<img src="../assets/media/users/dirkeu.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Christofher Rio Aviary<hr>Direktur Operasional" data-html="true">
-																<img src="../assets/media/users/dirops.jpg" alt="image">
-															</a>
-															
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Zulfadli Syahrir<hr>Direktur Pengembangan Usaha dan Jasa" data-html="true">
-																<img src="../assets/media/users/dirjasa.jpg" alt="image">
-															</a>
-														</div>
-														</td>
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
-												<td style="text-align:left">Administrasi</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
+												
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											 <td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+
+													<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-money-bill-wave-alt"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div></td>
 
@@ -610,22 +521,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
-																			</a>
-																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
+																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-tugas.php" class="kt-nav__link">
+																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -643,38 +548,40 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td id="kt_table_1">002/TASK/PMR/XII/2022</td>
+												<td id="kt_table_1">002/10.1/PERUMDA-PMR/XII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center">
-												<div class="kt-media-group" align="center" valign="middle" style="text-align:center">
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-																<img src="../assets/media/users/100_15.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Rizal Asjadad<hr>Direktur Umum" data-html="true">
-																<img src="../assets/media/users/dirum.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Mu’amar Nor Amin<hr>Direktur Keuangan" data-html="true">
-																<img src="../assets/media/users/dirkeu.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Christofher Rio Aviary<hr>Direktur Operasional" data-html="true">
-																<img src="../assets/media/users/dirops.jpg" alt="image">
-															</a>
-															
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Zulfadli Syahrir<hr>Direktur Pengembangan Usaha dan Jasa" data-html="true">
-																<img src="../assets/media/users/dirjasa.jpg" alt="image">
-															</a>
-														</div>
-														</td>
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
-												<td style="text-align:left">Keuangan</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
+												
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+
+													<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-money-bill-wave-alt"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div></td>
 
@@ -694,22 +601,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
-																			</a>
-																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
+																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-tugas.php" class="kt-nav__link">
+																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
@@ -727,38 +628,40 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">5</td>
-												<td id="kt_table_1">001/TASK/PMR/XII/2022</td>
+												<td id="kt_table_1">001/10.1/PERUMDA-PMR/XII/2022</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="center" valign="middle" style="text-align:center">
-												<div class="kt-media-group" align="center" valign="middle" style="text-align:center">
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-																<img src="../assets/media/users/100_15.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Rizal Asjadad<hr>Direktur Umum" data-html="true">
-																<img src="../assets/media/users/dirum.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Mu’amar Nor Amin<hr>Direktur Keuangan" data-html="true">
-																<img src="../assets/media/users/dirkeu.jpg" alt="image">
-															</a>
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Christofher Rio Aviary<hr>Direktur Operasional" data-html="true">
-																<img src="../assets/media/users/dirops.jpg" alt="image">
-															</a>
-															
-															<a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" data-placement="top" title="" data-original-title="Zulfadli Syahrir<hr>Direktur Pengembangan Usaha dan Jasa" data-html="true">
-																<img src="../assets/media/users/dirjasa.jpg" alt="image">
-															</a>
-														</div>
-														</td>
-												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
-												<td style="text-align:left">Operasional</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
+												
+												<td align="center" valign="middle" style="text-align:center">Makassar</td>
+												<td align="center" valign="middle" style="text-align:center">Samarinda</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
 											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+
+													<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="btn btn btn-outline-success btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="Diketahui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-eye"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
+												
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Terbayar<hr>Yuni Saslia, SE<br>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa fa-money-bill-wave-alt"></i>
+														</span></td>
+														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
+															<i class="fa flaticon2-check-mark"></i>
+														</span></td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div></td>
 
@@ -778,22 +681,16 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
-																			</a>
-																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="print-laporan-tugas.php" class="kt-nav__link">
+																			<a href="print-laporan-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon2-print"></i>
 																				<span class="kt-nav__link-text">Print</span>
 																			</a>
 																		</li>
 																		
 																		<li class="kt-nav__item">
-																			<a href="edit-tugas.php" class="kt-nav__link">
+																			<a href="edit-perjalanan-dinas.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
