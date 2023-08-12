@@ -191,90 +191,116 @@ function goBack() {
 
   <tbody><tr style="text-align:center">
     <td width="1%" bgcolor="#f7fcff">NO</td>
-    <td width="20%" bgcolor="#f7fcff">Nama Pegawai</td>
+    <td width="15%" bgcolor="#f7fcff">Nama Pegawai</td>
+    <td width="7%" bgcolor="#f7fcff">NIP</td>
     <td width="20%" bgcolor="#f7fcff">Department</td>
+    <td width="20%" bgcolor="#f7fcff">Bagian</td>
     <td width="20%" bgcolor="#f7fcff">Jabatan</td>
-    <td width="30%" bgcolor="#f7fcff">Keterangan</td>
-    <td width="5%" bgcolor="#f7fcff">AKSI</td>
+    <td width="5%" bgcolor="#f7fcff">Tipe Pegawai</td>
+    <td width="5%" bgcolor="#f7fcff">Kantor</td>
+   
   </tr>
   <tr>
     <td style="text-align:center">1</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Yulianti Tomu, SE"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
    <tr>
     <td style="text-align:center">2</td>
      <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Rizal Asjahad"></td>
+     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 002"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
  <tr>
     <td style="text-align:center">3</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Christofher Rio Aviary">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 003">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
 
   </tr>
   <tr>
     <td style="text-align:center">4</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mu’amar Nor Amin">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 004">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
   </tr>
   <tr>
     <td style="text-align:center">5</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Zulfadli Syahrir">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 005">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   <tr>
     <td style="text-align:center">6</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Ir. Asrarudin Mamonto, MM">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 006">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum"></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   <tr>
     <td style="text-align:center">7</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini, SE">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
 	</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum"></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum dan Kepegawaian"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tetap"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+   
   </tr>
   <tr>
     <td style="text-align:center">8</td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mahdinar, SE">
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 007">
 	</td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan dan Asset"></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keuangan"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan"></td>
-    <td><input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="">
+	<td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kontrak"></td>
+	 <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pusat"></td>
 													</div></td>
-    <td><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+    
   </tr>
   
 </tbody></table>
@@ -306,8 +332,7 @@ function goBack() {
     <td colspan="2" bgcolor="#f7fcff">VOL</td>
     <td width="6%" bgcolor="#f7fcff">BIAYA</td>
     <td width="6%" bgcolor="#f7fcff">JUMLAH</td>
-    <td width="3%" bgcolor="#f7fcff">AKSI</td>
-  </tr>
+    </tr>
   <tr style="text-align:center">
     <td bgcolor="#f5f5f5">a</td>
     <td colspan="2" bgcolor="#f5f5f5">b</td>
@@ -316,11 +341,10 @@ function goBack() {
     <td width="3%" bgcolor="#f5f5f5">e</td>
     <td bgcolor="#f5f5f5">f</td>
     <td bgcolor="#f5f5f5">g</td>
-    <td bgcolor="#f5f5f5">&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">1</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Penginapan"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Penginapan"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -345,8 +369,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -370,8 +393,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -395,8 +417,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -420,8 +441,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -445,8 +465,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -470,8 +489,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -495,8 +513,7 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -520,11 +537,10 @@ function goBack() {
 														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">2</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Saku"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Saku"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -549,8 +565,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -574,8 +589,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -599,8 +613,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -624,8 +637,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -649,8 +661,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -674,8 +685,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.850.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -699,8 +709,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.150.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -724,11 +733,10 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
 <tr>
     <td style="text-align:center">3</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Makan"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Uang Makan"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -753,8 +761,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -778,8 +785,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -803,8 +809,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -828,8 +833,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -853,8 +857,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.200.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -878,8 +881,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -903,8 +905,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.800.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -928,11 +929,10 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.750.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">4</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi Setempat"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi Setempat"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -957,8 +957,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -982,8 +981,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -1007,8 +1005,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -1032,8 +1029,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -1057,8 +1053,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.500.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -1082,8 +1077,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.150.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -1107,8 +1101,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.450.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -1132,11 +1125,10 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.400.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">5</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biaya Berangkat dan Kepulangan"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biaya Berangkat dan Kepulangan"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -1161,8 +1153,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -1186,8 +1177,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -1211,8 +1201,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -1236,8 +1225,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -1261,8 +1249,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -1286,8 +1273,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.900.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -1311,8 +1297,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -1336,11 +1321,10 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.100.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">6</td>
-    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi"></td>
+    <td colspan="7"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transportasi"></td>
     </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
@@ -1377,8 +1361,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">b</td>
@@ -1386,7 +1369,7 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
+    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
                               <option value="AK">1</option>
                               <option value="HI">2</option>
                               <option value="HI">3</option>
@@ -1394,7 +1377,7 @@ function goBack() {
                               <option value="HI">5</option>
                               <option value="HI">6</option>
                             </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
+    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
                               <option value="AK">Tiket</option>
                               <option value="AK">Hari</option>
                               <option value="HI">Ls</option>
@@ -1414,8 +1397,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">c</td>
@@ -1423,7 +1405,7 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
+    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
                               <option value="AK">1</option>
                               <option value="HI">2</option>
                               <option value="HI">3</option>
@@ -1431,7 +1413,7 @@ function goBack() {
                               <option value="HI">5</option>
                               <option value="HI">6</option>
                             </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
+    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
                               <option value="AK">Tiket</option>
                               <option value="AK">Hari</option>
                               <option value="HI">Ls</option>
@@ -1451,8 +1433,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">d</td>
@@ -1488,8 +1469,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">e</td>
@@ -1525,8 +1505,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">f</td>
@@ -1562,8 +1541,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">g</td>
@@ -1599,8 +1577,7 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   <tr>
     <td style="text-align:center">&nbsp;</td>
      <td style="text-align:center" width="1%">h</td>
@@ -1636,55 +1613,13 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">3</td>
-    <td colspan="2"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Transportasi</option>
-                              <option value="HI">Uang Saku</option>
-                              <option value="HI">Lainnya</option>
-                            </select></td>
-    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="" style="text-align:center"></td>
-    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
-                              <option value="AK">7</option>
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" disabled="disabled" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
-    <td><div class="input-group input-group-sm" >
-														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.000.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-    <td><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="7.000.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-
-    <td width="3%" style="text-align:center"><button type="button" class="btn btn-outline-success btn-elevate btn-icon btn-icon btn-sm"><i class="fa fa-plus-circle"></i></button> <button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
-  </tr>
+    </tr>
   
   
+  
+ 
   <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
+    <td colspan="8" style="text-align:center">&nbsp;</td>
   </tr>
   
   <tr>
@@ -1694,13 +1629,12 @@ function goBack() {
 														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
-    <td style="text-align:center" bgcolor="#feffed">&nbsp;</td>
+    </tr>
+  <tr>
+    <td colspan="8" style="text-align:center">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="9" style="text-align:center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="9" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
+    <td colspan="8" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
   </tr>
 </tbody></table>
 															</div>

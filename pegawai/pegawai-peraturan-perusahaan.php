@@ -89,15 +89,6 @@
     		                            <span><i class="la la-search"></i></span>
     		                        </span>
     		                    </div>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label>Tanggal Release :</label>
-																		<div class="input-group">
-						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
 								
 						                        </div>
 												<div class="col-lg-3">
@@ -111,6 +102,27 @@
     		                    </div>
 								
 						                        </div>
+												<div class="col-lg-2">
+						                          <label>Tanggal Release :</label>
+																		<div class="input-group">
+						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+								
+						                        </div>
+												<div class="col-lg-2">
+						                          <label>Last Update:</label>
+																		<div class="input-group">
+						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+								
+						                        </div>
+												
 												
 												<div class="col-lg-2">
 						                          <label class="">Jenis Peraturan :</label>

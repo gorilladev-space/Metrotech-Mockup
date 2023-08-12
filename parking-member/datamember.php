@@ -143,8 +143,9 @@
                                 <label>Tipe Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pribadi</option>
-                                      <option value="2">Corporate</option>
+                                      <option value="1" selected="">Silver</option>
+                                      <option value="2">Gold</option>
+                                      <option value="2">Platinum</option>
                                                                            
                                   </select>
                             </div>
@@ -244,9 +245,9 @@
 											  
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Username</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
 											 
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
 											  
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Kendaraan</th>
@@ -278,7 +279,7 @@
 
 												<td style="text-align:left" nowrap>iluchie</td>
 												
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
@@ -288,7 +289,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -352,7 +353,7 @@
 
 												<td style="text-align:left" nowrap>iluchie</td>
 												
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
@@ -362,7 +363,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -414,6 +415,7 @@
 																</div>
 															</div></td>
 										  </tr>
+
 <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
@@ -426,7 +428,7 @@
 
 												<td style="text-align:left" nowrap>iluchie</td>
 												
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
+												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
@@ -436,81 +438,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate - Gold</span></td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
-																		<li class="kt-nav__item">
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-<tr>
-												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
-													</a></td>
-												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
-
-												<td style="text-align:left" nowrap>iluchie</td>
-												
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-												
-												<td nowrap style="text-align:center">1</td>
-												<td nowrap style="text-align:center">2</td>
-												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate - Platinum</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">

@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Member Parkir
+                    Data Member Parkir - Perusahaan
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -50,7 +50,7 @@
                     <!--end::Nav-->
                 </div>
                 <a href="member-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-user-plus"></i> Registrasi Member</button>
+                    <i class="fa fa-user-plus"></i> Registrasi Perusahaan</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
             </div>
@@ -143,9 +143,9 @@
                                 <label>Tipe Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Silver</option>
-                                      <option value="2">Gold</option>
-                                      <option value="2">Gold</option>
+                                      <option value="1" selected="">Corporate Silver</option>
+                                      <option value="2">Corporate Gold</option>
+                                      <option value="2">Corporate Platinum</option>
                                                                            
                                   </select>
                             </div>
@@ -240,17 +240,18 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NFC<br>Member</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code<br>Perusahaan</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Perusahaan</th>
 											  
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Nama Perusahaan</th>
+											  
 											 
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Perusahaan</th>
 											  
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Kendaraan</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Member</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi</th>
@@ -275,9 +276,9 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
-												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
+												<td style="text-align:left" nowrap>ilugroup</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
@@ -289,7 +290,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -298,15 +299,15 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
+																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -363,7 +364,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate Gold</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -372,15 +373,15 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
+																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
@@ -438,7 +439,7 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -447,15 +448,15 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
+																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

@@ -280,8 +280,9 @@ function goBack() {
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="3%" bgcolor="#f7fcff">Tanggal Penetapan</th>
 											  <th width="3%" bgcolor="#f7fcff">No. SK Penetapan</th>
+											   <th bgcolor="#f7fcff">Department<br />Baru</th>
 											  <th bgcolor="#f7fcff">Jabatan<br />Baru</th>
-											  <th bgcolor="#f7fcff">Department<br />Baru</th>
+											 
 											  <th bgcolor="#f7fcff">Kantor<br />Baru</th>
 											  <th width="3%" bgcolor="#f7fcff">Status</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
@@ -289,26 +290,28 @@ function goBack() {
 										  </tr>
 										</thead>
 										<tbody>
+											
 											<tr>
 												<td width="1%" style="text-align:center"  id="kt_table_1">1</td>
+												<td width="3%" style="text-align:center" nowrap>29 Oktober 2019</td>
+												<td width="3%" style="text-align:center" nowrap>32/SK-DIR-IM/X/2019</td>
+												
+														<td width="3%" style="text-align:center" nowrap>HR &amp; GA</td>
+												<td width="5%" style="text-align:center" nowrap>Staff Administrasi</td>
+												<td width="3%" style="text-align:center" nowrap>Sulawesi Barat</td>
+												<td width="3%" style="text-align:center" nowrap>Pegawai Tetap</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK Pegawai"> <i class="fa flaticon-download-1"></i> </span></td>
+
+										  </tr>
+										  <tr>
+												<td width="1%" style="text-align:center"  id="kt_table_1">2</td>
 												<td width="3%" style="text-align:center" nowrap>25 Oktober 2019</td>
 												<td width="3%" style="text-align:center" nowrap>29/SK-DIR-IM/X/2019</td>
 												<td width="5%" style="text-align:center" nowrap>Project Administrasi</td>
 														<td width="3%" style="text-align:center" nowrap>HR &amp; GA</td>
 												<td width="3%" style="text-align:center" nowrap>Pusat</td>
 												<td width="3%" style="text-align:center" nowrap>Pegawai Kontrak</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK"> <i class="fa flaticon-download-1"></i> </span></td>
-
-										  </tr>
-											<tr>
-												<td width="1%" style="text-align:center"  id="kt_table_1">2</td>
-												<td width="3%" style="text-align:center" nowrap>29 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap>32/SK-DIR-IM/X/2019</td>
-												<td width="5%" style="text-align:center" nowrap>Staff Administrasi</td>
-														<td width="3%" style="text-align:center" nowrap>HR &amp; GA</td>
-												<td width="3%" style="text-align:center" nowrap>Sulawesi Barat</td>
-												<td width="3%" style="text-align:center" nowrap>Pegawai Tetap</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK"> <i class="fa flaticon-download-1"></i> </span></td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download SK Kontrak"> <i class="fa flaticon-download-1"></i> </span></td>
 
 										  </tr>
 										</tbody>
@@ -340,17 +343,6 @@ function goBack() {
 										<tbody>
 											<tr>
 												<td width="1%" style="text-align:center"  id="kt_table_1">1</td>
-												<td width="3%" style="text-align:center" nowrap>25 Oktober 2019</td>
-												<td width="3%" style="text-align:center" nowrap>001/80.2/PERUMDA-PMR/ST/XII/2022</td>
-												<td width="3%" style="text-align:center" nowrap>Peringatan I</td>
-												<td width="5%" style="text-align:center" nowrap>01 Desember 2022</td>
-														<td width="3%" style="text-align:center" nowrap>31 Desember 2022</td>
-												<td width="3%" style="text-align:center" nowrap>Pusat</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Surat"> <i class="fa flaticon-download-1"></i> </span></td>
-
-										  </tr>
-											<tr>
-												<td width="1%" style="text-align:center"  id="kt_table_1">2</td>
 												<td width="3%" style="text-align:center" nowrap>29 Oktober 2019</td>
 												<td width="3%" style="text-align:center" nowrap>001/80.2/PERUMDA-PMR/ST/XII/2022</td>
 												<td width="3%" style="text-align:center" nowrap>Peringatan II</td>
@@ -360,6 +352,18 @@ function goBack() {
 												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Surat"> <i class="fa flaticon-download-1"></i> </span></td>
 
 										  </tr>
+											<tr>
+												<td width="1%" style="text-align:center"  id="kt_table_1">2</td>
+												<td width="3%" style="text-align:center" nowrap>25 Oktober 2019</td>
+												<td width="3%" style="text-align:center" nowrap>001/80.2/PERUMDA-PMR/ST/XII/2022</td>
+												<td width="3%" style="text-align:center" nowrap>Peringatan I</td>
+												<td width="5%" style="text-align:center" nowrap>01 Desember 2022</td>
+														<td width="3%" style="text-align:center" nowrap>31 Desember 2022</td>
+												<td width="3%" style="text-align:center" nowrap>Pusat</td>
+												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Download Surat"> <i class="fa flaticon-download-1"></i> </span></td>
+
+										  </tr>
+											
 										</tbody>
 									</table>
 

@@ -27,7 +27,17 @@
                     Data Member Parkir
                 </h3>
             </div>
+			
             <div class="kt-subheader__toolbar">
+			<a href="" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali</button>
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+												<!--<i class="flaticon2-plus"></i>-->
+											</a>
                 <button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
                 <a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
                     <i class="flaticon2-printer"></i> Export Data</button>
@@ -145,7 +155,7 @@
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Silver</option>
                                       <option value="2">Gold</option>
-                                      <option value="2">Gold</option>
+                                      <option value="2">Platinum</option>
                                                                            
                                   </select>
                             </div>
