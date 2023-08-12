@@ -405,17 +405,17 @@
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
-												<th width="35%" bgcolor="#f7fcff" rowspan="2">Uraian Tugas</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Kategori</th>
-												<th colspan="2" bgcolor="#f7fcff">Waktu Tugas</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Progress</th>
+												<th width="35%" bgcolor="#feffed" rowspan="2">Uraian Tugas</th>
+												<th width="8%" bgcolor="#feffed" rowspan="2">Kategori</th>
+												<th colspan="2" bgcolor="#feffed">Waktu Tugas</th>
+												<th width="10%" bgcolor="#feffed" rowspan="2">Progress</th>
 												
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="8%" bgcolor="#f7fcff">Mulai </th>
-												<th width="8%" bgcolor="#f7fcff">Deadline </th>
+											  <th width="8%" bgcolor="#feffed">Mulai </th>
+												<th width="8%" bgcolor="#feffed">Deadline </th>
 											</tr>
 										</thead>
 										<tbody>
