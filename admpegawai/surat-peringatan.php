@@ -201,25 +201,25 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="16%" bgcolor="#f7fcff" rowspan="2">No. SP pegawai</th>
-												<th width="3%" bgcolor="#f7fcff" rowspan="2">Foto</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Nama Pegawai</th>
-												<th width="7%" bgcolor="#f7fcff" rowspan="2">Nip</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Tipe Pegawai</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Departement</th>
-												<th width="10%" bgcolor="#f7fcff" rowspan="2">Bagian</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Jabatan</th>
-												<th width="5%" bgcolor="#f7fcff" rowspan="2">Pangkat / Golongan</th>
-												<th width="3%" bgcolor="#f7fcff" rowspan="2">Kantor</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Tanggal SP Pegawai</th>
+												<th width="17%" bgcolor="#f7fcff" rowspan="2">No. SP pegawai</th>
+												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
+												<th colspan="8" bgcolor="#feffed">Data Pegawai Penerima Peringatan</th>
+												<th width="15%" bgcolor="#f7fcff" rowspan="2">Tanggal<br>Surat Peringatan</th>
 												<th width="12%" bgcolor="#f7fcff" rowspan="2">Jenis Peringatan</th>
 												<th colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Status</th>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-
-												<th width="1%" bgcolor="#f7fcff">Kabag Umum</th>
+											  <th width="3%" bgcolor="#feffed">Foto</th>
+											  <th width="15%" bgcolor="#feffed">Nama Pegawai</th>
+											  <th width="7%" bgcolor="#feffed">Nip</th>
+											  <th width="2%" bgcolor="#feffed">Tipe Pegawai</th>
+											  <th width="15%" bgcolor="#feffed">Department</th>
+											  <th width="10%" bgcolor="#feffed">Bagian</th>
+											  <th width="15%" bgcolor="#feffed">Jabatan</th>
+											  <th width="3%" bgcolor="#feffed">Kantor</th>
+											  <th width="1%" bgcolor="#f7fcff">Kabag Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
 											</tr>
@@ -228,6 +228,7 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center">001/80.2/PERUMDA-PMR/ST/XII/2022</td>
+												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par&lt;hr&gt;Electrical Engineer Supervisor Assistant" data-html="true"><img src="../assets/media/users/100_10.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
 														<img src="../assets/media/users/100_10.jpg" alt="image">
 													</a></td>
@@ -237,7 +238,6 @@
 												<td style="text-align:left">Keuangan dan Asset</td>
 												<td style="text-align:left">Keuangan</td>
 												<td style="text-align:left">Staf Keuangan</td>
-												<td style="text-align:left">Madya I/D</td>
 												<td style="text-align:center">Pusat</td>
 												<td style="text-align:center">1 November 2019</td>
 												<td style="text-align:center">Peringatan Pertama</td>

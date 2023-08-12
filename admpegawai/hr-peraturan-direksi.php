@@ -183,7 +183,7 @@
 												<th width="6%" rowspan="2" bgcolor="#f7fcff">No Dokumen</th>
 												<th width="2%" colspan="3" bgcolor="#f7fcff">Dibuat</th>
 												<th width="6%" colspan="2" bgcolor="#f7fcff">Perubahan</th>
-												<th width="8%" rowspan="2" bgcolor="#f7fcff">Jenis<br>Peraturan Perusahaan</th>
+												<th width="8%" rowspan="2" bgcolor="#f7fcff">Jenis<br>Peraturan Direksi</th>
 												<th width="30%" rowspan="2" bgcolor="#f7fcff">Perihal</th>
 												<th width="3%" colspan="2" bgcolor="#f7fcff">Verifikasi Dokumen</th>
 												<th width="3%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -222,19 +222,19 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="hr-view-peraturan.php" class="kt-nav__link">
+																			<a href="hr-view-peraturan-direksi.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-download-peraturan.php" class="kt-nav__link">
+																			<a href="hr-download-peraturan-direksi.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-download"></i>
 																				<span class="kt-nav__link-text">Download Peraturan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="edit-hr-peraturan.php" class="kt-nav__link">
+																			<a href="edit-hr-peraturan-direksi.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
