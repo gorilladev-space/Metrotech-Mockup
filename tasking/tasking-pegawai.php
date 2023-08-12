@@ -402,11 +402,11 @@
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
 												<th width="6%" bgcolor="#f7fcff" rowspan="2">ID Tasking</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pejabat Pembuat</th>
+												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Pemberi Tugas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Pelaksana Tugas</th>
 												<th width="35%" bgcolor="#f7fcff" rowspan="2">Uraian Tugas</th>
 												<th width="8%" bgcolor="#f7fcff" rowspan="2">Kategori</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
 												<th colspan="2" bgcolor="#f7fcff">Waktu Tugas</th>
 												<th width="10%" bgcolor="#f7fcff" rowspan="2">Progress</th>
 												
@@ -425,6 +425,8 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+													
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -434,8 +436,7 @@
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
 												<td style="text-align:left">Team Reaksi Cepat</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap>
                           <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div>
@@ -494,6 +495,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+													<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -503,8 +505,8 @@
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
 												<td style="text-align:left">Kepegawaian</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">0%</div></td>
 														
@@ -561,6 +563,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+													<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -587,8 +590,7 @@
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
 												<td style="text-align:left">Administrasi</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											 <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div></td>
 
@@ -645,6 +647,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+													<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -671,8 +674,8 @@
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
 												<td style="text-align:left">Keuangan</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											  
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div></td>
 
@@ -729,6 +732,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
+													<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
 														<img src="../assets/media/users/100_15.jpg" alt="image">
 													</a></td>
@@ -755,8 +759,8 @@
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Ambon</td>
 												<td style="text-align:left">Operasional</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
-											  <td align="center" valign="middle" style="text-align:center">12 Oktober 2019</td>
+											 
+											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td style="text-align:center" nowrap> <div class="progress">
 													<div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div></td>
 
