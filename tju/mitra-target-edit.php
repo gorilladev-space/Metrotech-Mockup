@@ -365,7 +365,7 @@ function goBack() {
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
-																								<tr data-repeater-item>
+																								<tr bgcolor="#feffed" data-repeater-item>
 																								  <td style="text-align:center">Baru</td>
 																									<td style="text-align:center">
 																										<div class="input-group input-group-sm">

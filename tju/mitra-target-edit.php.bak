@@ -357,7 +357,7 @@ function goBack() {
 													<td style="text-align:center">
 																										<div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
   
@@ -365,7 +365,7 @@ function goBack() {
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
-																								<tr data-repeater-item>
+																								<tr bgcolor="#f7fcff" data-repeater-item>
 																								  <td style="text-align:center">Baru</td>
 																									<td style="text-align:center">
 																										<div class="input-group input-group-sm">
