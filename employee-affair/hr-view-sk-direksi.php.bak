@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Peraturan Direksi
+											Form SK Direksi
 									</h3>
 
 								</div>
@@ -72,7 +72,7 @@ function goBack() {
 														Dokumen
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Peraturan Direksi
+														SK Direksi
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -109,7 +109,7 @@ function goBack() {
 														Preview
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Peraturan Direksi
+														Dokumen SK Direksi
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -216,7 +216,7 @@ function goBack() {
 
                         </div>
 						 <div class="col-lg-6">
-                          <label>Kategori Peraturan Direksi :</label>
+                          <label>Kategori SK Direksi :</label>
 						  <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepegawaian">
 
                         </div>
@@ -226,13 +226,13 @@ function goBack() {
 						<div class="col-lg-6">
                           <label class="">Akses Department :</label>
                          
-											<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keseluruhan">
+											 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Umum Dan Kepegawaian">
 									
                         </div>
 						<div class="col-lg-6">
                           <label class="">Akses Bagian :</label>
                          
-											<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Keseluruhan">
+											 <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepegawaian">
 									
                         </div>
 						
@@ -243,7 +243,7 @@ function goBack() {
 						<div class="form-group row">
 						<div class="col-lg-12">
                           <label class="">Uraian Dokumen :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Peraturan Perusahaan Mengenai Absensi">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Absensi Kepegawaian">
                         </div>
 
                     </div>
@@ -1321,7 +1321,17 @@ function goBack() {
 													<!--end: Form Wizard Step 4-->
 
 													<!--begin: Form Actions -->
-													
+													<div class="kt-form__actions">
+														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
+															Kembali
+														</button>
+														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
+															Simpan
+														</button>
+														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
+															Selanjutnya
+														</button>
+													</div>
 
 													<!--end: Form Actions -->
 												</form>

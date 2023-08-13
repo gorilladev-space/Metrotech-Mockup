@@ -216,7 +216,7 @@ function goBack() {
 
                         </div>
 						 <div class="col-lg-6">
-                          <label>Kategori Peraturan :</label>
+                          <label>Kategori SOP :</label>
 						  <select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Administrasi</option>
 						                              <option value="3">Kepegawaian</option>

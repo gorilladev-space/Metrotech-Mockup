@@ -72,7 +72,7 @@ function goBack() {
 														Dokumen
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Peraturan Perusahaan
+														SK Direksi
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -109,7 +109,7 @@ function goBack() {
 														Preview
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Dokumen Peraturan
+														SK Direksi
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -216,7 +216,7 @@ function goBack() {
 
                         </div>
 						 <div class="col-lg-6">
-                          <label>Kategori Peraturan :</label>
+                          <label>Kategori SK Direksi :</label>
 						  <select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Administrasi</option>
 						                              <option value="3">Kepegawaian</option>
