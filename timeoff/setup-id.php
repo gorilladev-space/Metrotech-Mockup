@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Jenis Cuti
+                    Data Format ID
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -32,7 +32,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_agama"><i class="fa fa-plus"></i>Tambah Data</button>
+				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_kantor"><i class="fa fa-plus"></i>Tambah Data</button>
                 
 				
             </div>
@@ -69,8 +69,14 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-6">
-                                <label>Jenis Cuti :</label>
+                            <div class="col-lg-4">
+                                <label>Nama Kantor :</label>
+    	                       
+        							<input type="text" class="form-control form-control-sm" placeholder="">
+        					
+                            </div>
+							<div class="col-lg-4">
+                                <label>Alamat Kantor :</label>
     	                       
         							<input type="text" class="form-control form-control-sm" placeholder="">
         					
@@ -101,73 +107,37 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="10%" bgcolor="#f7fcff">Jenis Cuti</th>
-											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Uraian</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Format ID</th>
+											  <th width="7%" colspan="4" bgcolor="#f7fcff">Pejabat Pembuat</th>
+											  <th width="7%" colspan="2" bgcolor="#f7fcff">Tanggal</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
+											<tr style="text-align:center">
+											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama</th>
+											  <th width="2%" bgcolor="#f7fcff">NIP</th>
+											  <th width="7%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="3%" bgcolor="#f7fcff">Dibuat</th>
+											  <th width="3%" bgcolor="#f7fcff">Diubah</th>
+							              </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td width="1%">1</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Alasan Penting</td>
+												<td>1</td>
+												<td align="left" valign="left" style="text-align:left">Izin</td>
+												<td align="left" valign="left" style="text-align:left">004LOHRXI2022</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-											<tr>
-												<td width="1%">2</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Bersalin</td>
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%">3</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Besar</td>
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -192,10 +162,19 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td width="1%">4</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Khusus</td>
+												<td>2</td>
+												<td align="left" valign="left" style="text-align:left">Cuti</td>
+												<td align="left" valign="left" style="text-align:left">001TOHRXI2022</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -219,90 +198,7 @@
 																</div>
 															</div></td>
 										  </tr>
-										  <tr>
-												<td width="1%">5</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Sakit</td>
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%">6</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Tahunan</td>
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%">7</td>
-												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Menikah</td>
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
+										  
 										</tbody>
 									</table>
                     <!--end: Datatable -->
@@ -557,7 +453,7 @@
 							</div>
 							<!--End::Modal 1-->
 							<!--begin::Modal 2-->
-									<div class="modal fade" id="modal_agama" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal_kantor" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
@@ -566,7 +462,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH JENIS CUTI</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH ID</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -576,13 +472,13 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-6">
-														<label>Jenis Cuti:</label>
+												<div class="col-lg-4">
+														<label>Uraian:</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
-<div class="col-lg-6">
-														<label>Quota Tahunan :</label>
+<div class="col-lg-8">
+														<label>Format ID:</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
