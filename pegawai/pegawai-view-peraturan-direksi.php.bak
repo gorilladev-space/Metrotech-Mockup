@@ -19,7 +19,7 @@
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" data-placement="left">
-											<a href="#" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
+											<a href="surat-peringatan.php" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali
                         <script>
 function goBack() {
@@ -72,7 +72,7 @@ function goBack() {
 														Dokumen
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Peraturan Perusahaan
+														Peraturan Direksi
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -109,7 +109,7 @@ function goBack() {
 														Preview
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Dokumen Peraturan
+														Peraturan Direksi
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">

@@ -257,7 +257,7 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
+																			<a href="hr-detail-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -288,7 +288,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td id="kt_table_1">004/RSKK/PERUMDA-PMR/XII/2022</td>
+												<td id="kt_table_1">002/RSKK/PERUMDA-PMR/XII/2022</td>
 												<td style="text-align:center">Pegawai Ybs</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 												<td id="kt_table_1"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Amalia Restu Sugiarty S.Tr.Par<hr>Electrical Engineer Supervisor Assistant" data-html="true">
