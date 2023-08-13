@@ -264,6 +264,7 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="10px" bgcolor="#f7fcff">No</td>
 																								  <td width="700px" bgcolor="#f7fcff">Uraian</td>
+																								  <td width="80px" bgcolor="#f7fcff">Bobot</td>
 																								   <td width="50px" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
 																								  </tr>
 																								<thead>
@@ -271,6 +272,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 1"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
@@ -278,6 +280,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 2"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
@@ -285,6 +288,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 3"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     

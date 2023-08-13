@@ -271,6 +271,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 1"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
@@ -278,6 +279,7 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 2"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
@@ -285,18 +287,13 @@ function goBack() {
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
 																									<td style="text-align:left"><textarea disabled="disabled" class="form-control" id="exampleTextarea" rows="2" placeholder="Uraian Tugas 3"></textarea></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10"></td>
 																									<td style="text-align:center"><a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a></td>
                                             
                                                                                                     
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="6">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
                                           </div>
 													
