@@ -810,7 +810,7 @@
 
 												</div>
 <div class="col-lg-8">
-														<label>Format Nomor Surat :</label>
+														<label>Alamat Kantor:</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
