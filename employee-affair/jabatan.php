@@ -103,9 +103,9 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">Department</th>
-											  <th width="8%" bgcolor="#f7fcff">Bagian</th>
-											  <th width="8%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="15%" bgcolor="#f7fcff">Department</th>
+											  <th width="15%" bgcolor="#f7fcff">Bagian</th>
+											  <th width="15%" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>

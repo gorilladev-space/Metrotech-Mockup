@@ -581,11 +581,7 @@
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
-<div class="col-lg-6">
-														<label>Quota Tahunan :</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
-												</div>
 												
 
 												</div>

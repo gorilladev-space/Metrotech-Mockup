@@ -102,19 +102,15 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="10%" bgcolor="#f7fcff">Jenis Izin</th>
-											  <th width="1%" bgcolor="#f7fcff">Quota / Bulan</th>
-											  <th width="1%" bgcolor="#f7fcff">Quota / Tahun</th>
+											  <th width="8%" bgcolor="#f7fcff">Jenis Izin</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td>1</td>
-												<td align="left" valign="left" style="text-align:left">	Jam Kerja</td>
-												<td align="left" valign="left" style="text-align:left">	1</td>
-												<td align="left" valign="left" style="text-align:left">	12</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%">1</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">	Jam Kerja</td>
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -139,11 +135,9 @@
 															</div></td>
 										  </tr>
 											<tr>
-												<td>2</td>
-												<td align="left" valign="left" style="text-align:left">Pulang Cepat</td>
-												<td align="left" valign="left" style="text-align:left">	1</td>
-												<td align="left" valign="left" style="text-align:left">	12</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%">2</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Pulang Cepat</td>
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -168,12 +162,10 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Terlambat Datang</td>
-												<td align="left" valign="left" style="text-align:left">	1</td>
-												<td align="left" valign="left" style="text-align:left">	12</td>
+												<td width="1%">3</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Terlambat Datang</td>
 												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>

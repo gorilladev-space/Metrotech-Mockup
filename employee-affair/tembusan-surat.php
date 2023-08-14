@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Tipe Pegawai
+                    Data Tembusan Surat
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -32,7 +32,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_tipe-pegawai"><i class="fa fa-plus"></i>Tambah Data</button>
+				<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#modal_agama"><i class="fa fa-plus"></i>Tambah Data</button>
                 
 				
             </div>
@@ -69,13 +69,12 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-4">
-                                <label>Tipe Pegawai :</label>
+                            <div class="col-lg-6">
+                                <label>Jenis Pensiun :</label>
     	                       
         							<input type="text" class="form-control form-control-sm" placeholder="">
         					
                             </div>
-							
                             
 							
 							
@@ -103,14 +102,14 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">Tipe Pegawai</th>
+											  <th width="40%" bgcolor="#f7fcff">Tembusan Surat</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td width="1%">1</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Pegawai Tetap</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Walikota Makassar</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -138,7 +137,7 @@
 										  </tr>
 											<tr>
 												<td width="1%">2</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Pegawai Kontrak Bulanan</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Dewan Pengawas Perumda Parkir Makassar Raya</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -166,7 +165,7 @@
 										  </tr>
 										  <tr>
 												<td width="1%">3</td>
-												<td width="8%" align="left" valign="left" style="text-align:left">Pegawai Kontrak Harian</td>
+												<td width="8%" align="left" valign="left" style="text-align:left">Pertinggal</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -192,6 +191,7 @@
 																</div>
 															</div></td>
 										  </tr>
+										  
 										</tbody>
 									</table>
                     <!--end: Datatable -->
@@ -446,7 +446,7 @@
 							</div>
 							<!--End::Modal 1-->
 							<!--begin::Modal 2-->
-									<div class="modal fade" id="modal_tipe-pegawai" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									<div class="modal fade" id="modal_agama" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
 									<div class="modal-content">
 
@@ -455,7 +455,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH TIPE PEGAWAI</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH DATA TEMBUSAN SURAT </h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -466,7 +466,7 @@
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-6">
-														<label>Tipe Pegawai:</label>
+														<label>Jenis Pensiun :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>

@@ -108,8 +108,8 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" bgcolor="#f7fcff">Nama Kantor</th>
-											  <th width="7%" bgcolor="#f7fcff">Alamat Kantor</th>
+											  <th width="10%" bgcolor="#f7fcff">Nama Kantor</th>
+											  <th width="30%" bgcolor="#f7fcff">Alamat Kantor</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
@@ -127,7 +127,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="pegawai-edit.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
