@@ -123,14 +123,14 @@
 
 
 										</div>
-										<div class="col-xl-6">
+										<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Referensi Surat Masuk</div>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
-                       <div class="col-lg-6">
+                       <div class="col-lg-12">
                           <label>No Agenda Surat Masuk :</label>
                           <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Cari Agenda Surat Masuk..." id="generalSearch">
@@ -155,6 +155,29 @@
 
 
 										</div>
+										<div class="col-xl-3">
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">File Soft Copy</div>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                       <div class="col-lg-12">
+                          <label>Upload Surat Keluar :</label>
+                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
+													<div class="dropzone-msg dz-message needsclick">
+														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
+														<span class="dropzone-msg-desc">Upload up to 10 files</span>
+													</div>
+												</div>
+                        </div>
+                      </div>
+
+                      </div>
+                    </div>
+							<!--end:: Portlet-->
+
+
+										</div>
 										<div class="col-xl-6">
 
 									<!--begin::Portlet-->
@@ -162,11 +185,11 @@
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Surat Keluar</div>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
-                       <div class="col-lg-6">
+                       <div class="col-lg-3">
                           <label>No. Agenda Surat Keluar:</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Generate">
                         </div>
-<div class="col-lg-6">
+<div class="col-lg-3">
                           <label class="">Tanggal Surat Keluar :</label>
                           <div class="form-group">
                          <div class="input-group date">
@@ -179,6 +202,10 @@
 												</div>
                       </div>
                         </div>
+						<div class="col-lg-6">
+                          <label class="">Kurir :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="Isikan Kurir">
+                        </div>
                        
                         </div>
 						
@@ -190,52 +217,35 @@
                         </div>
 <div class="col-lg-6">
                           <label>Pengirim Surat :</label>
-                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_3" name="param">
+                           <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
+					 																<option value="AK" >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
-<optgroup label="Bagian Umum dan Kepegawaian">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI"selected>000 000 008 - Mahdinar, SE</option>
+																					<option value="HI">000 000 009 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
-																				<optgroup label="Bagian Hukum dan Humas">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
-																				<optgroup label="Bagian Keuangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
 					 																
 					 															</optgroup>
-																				<optgroup label="Bagian Asset">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengelolaan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Produksi">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Pengembangan">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Bagian Kerjasama">
-					 																<option value="AK">Maghfirah Sharifuddin Andy Omar, S.Psi</option>
-					 																<option value="AK" selected>Deddy Rafsanjani, S.Sos</option>
-					 																
-					 															</optgroup>
+
 					 														</select>
                         </div>
                        
@@ -283,12 +293,12 @@
 										<div class="col-xl-3">
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">File Soft Copy</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">File Lampiran</div>
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                        <div class="col-lg-12">
                           <label>Upload Surat Keluar :</label>
-                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
+                          <div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_3">
 													<div class="dropzone-msg dz-message needsclick">
 														<h3 class="dropzone-msg-title">Drop files here or click to upload.</h3>
 														<span class="dropzone-msg-desc">Upload up to 10 files</span>
