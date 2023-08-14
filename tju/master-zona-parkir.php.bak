@@ -808,7 +808,7 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-4">
+												<div class="col-lg-6">
 														<label>Nama Zona :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 

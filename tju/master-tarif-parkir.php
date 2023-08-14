@@ -191,12 +191,12 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="5%" bgcolor="#f7fcff">Nama Tarif</th>
-											  <th width="1%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
-											  <th width="2%" bgcolor="#f7fcff">Zona</th>
-											  <th width="2%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="1%" bgcolor="#f7fcff">Type Tarif</th>
-											  <th width="2%" bgcolor="#f7fcff">Nominal</th>
+											  <th width="30%" bgcolor="#f7fcff">Nama Tarif</th>
+											  <th width="10%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
+											  <th width="8%" bgcolor="#f7fcff">Zona</th>
+											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="7%" bgcolor="#f7fcff">Type Tarif</th>
+											  <th width="10%" bgcolor="#f7fcff">Nominal</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>

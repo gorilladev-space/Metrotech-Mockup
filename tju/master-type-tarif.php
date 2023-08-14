@@ -103,7 +103,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="10%" bgcolor="#f7fcff">Type Tarif</th>
+											  <th width="40%" bgcolor="#f7fcff">Type Tarif</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
