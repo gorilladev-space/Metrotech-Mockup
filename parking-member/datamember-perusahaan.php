@@ -254,17 +254,17 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi</th>
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Member</th>
+											  <th width="2%" colspan="2" bgcolor="#feffed">Kendaraan</th>
+											  <th width="2%" rowspan="2" bgcolor="#feffed">Total<br>Member</th>
 											  
 											  
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th bgcolor="#f7fcff">Mobil</th>
-											  <th bgcolor="#f7fcff">Motor</th>
+											  <th bgcolor="#feffed">Mobil</th>
+											  <th bgcolor="#feffed">Motor</th>
 										  </tr>
 										</thead>
 										<tbody>
