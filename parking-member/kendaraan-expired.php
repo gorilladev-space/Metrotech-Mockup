@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Kendaraan Aktif
+                    Data Kendaraan Expired
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -148,7 +148,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-1">
-                                <label>Jenis Kendaraan :</label>
+                                <label>Jenis Kendaran :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Mobil</option>
@@ -188,7 +188,7 @@
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Member Aktif
+											Member Expired
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -202,27 +202,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Total
+											Motor Expired
 										</h4>
 										<span class="kt-widget24__desc">
-											Kendaraan Aktif
-										</span>
-									</div>
-									<span class="kt-widget24__stats kt-font-brand">
-										40
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-lg-6 col-xl-3">
-							<div class="kt-widget24">
-								<div class="kt-widget24__details">
-									<div class="kt-widget24__info">
-										<h4 class="kt-widget24__title">
-											Motor Aktif
-										</h4>
-										<span class="kt-widget24__desc">
-											Statistik Motor Aktif
+											Statistik Motor Expired 
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -236,10 +219,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Mobil Aktif
+											Mobil Expired
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Mobil Aktif
+											Statistik Mobil Expired
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
@@ -316,7 +299,7 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
@@ -375,7 +358,7 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
@@ -435,7 +418,7 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
