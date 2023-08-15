@@ -106,8 +106,8 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">User Group</th>
-											  <th width="8%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="20%" bgcolor="#f7fcff">User Group</th>
+											  <th width="20%" bgcolor="#f7fcff">Jabatan</th>
 											 
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>

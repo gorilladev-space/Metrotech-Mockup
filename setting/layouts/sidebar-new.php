@@ -3,7 +3,7 @@
 					<!-- begin:: Aside -->
 					<div class="kt-aside__brand kt-grid__item " id="kt_aside_brand" kt-hidden-height="65" style="">
 						<div class="kt-aside__brand-logo">
-							<a href="../reception">
+							<a href="../setting">
 								<img alt="Logo" src="../assets/img/logos/logo-new-ilu.png" style="width:90%">
 							</a>
 						</div>
@@ -42,7 +42,7 @@
 									<h4 class="kt-menu__section-text">SETTING</h4>
 									<i class="kt-menu__section-icon flaticon-more-v2"></i>
 								</li>
-								<li class="kt-menu__item " aria-haspopup="true"><a href="../reception/index.php" class="kt-menu__link "><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
+								<li class="kt-menu__item " aria-haspopup="true"><a href="#" class="kt-menu__link "><span class="kt-menu__link-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect x="0" y="0" width="24" height="24"/>
         <path d="M11,20 L11,17 C11,16.4477153 11.4477153,16 12,16 C12.5522847,16 13,16.4477153 13,17 L13,20 L15.5,20 C15.7761424,20 16,20.2238576 16,20.5 C16,20.7761424 15.7761424,21 15.5,21 L8.5,21 C8.22385763,21 8,20.7761424 8,20.5 C8,20.2238576 8.22385763,20 8.5,20 L11,20 Z" fill="#000000" opacity="0.3"/>

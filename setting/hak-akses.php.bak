@@ -126,7 +126,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="edit-hak-akses.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
