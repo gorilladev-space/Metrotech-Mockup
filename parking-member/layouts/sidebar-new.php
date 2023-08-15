@@ -96,8 +96,8 @@
 </svg></span><span class="kt-menu__link-text">Validasi Member</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datamember.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Member</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="datamember.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Validasi Member</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-pribadi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pribadi</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Perusahaan</span></a></li>
 
 											
 

@@ -249,15 +249,15 @@
 											  
 											 
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Perusahaan</th>
-											  
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Member</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
-											    Registrasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
+											    Registrasi</th>
+											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Member</th>
+											  
+											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -281,15 +281,15 @@
 												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td nowrap style="text-align:center">1</td>
-												<td nowrap style="text-align:center">2</td>
-												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td nowrap style="text-align:right">30</td>
+												<td nowrap style="text-align:right">70</td>
+												<td style="text-align:right" nowrap>100</td>
+												
+												
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -355,15 +355,15 @@
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td nowrap style="text-align:center">1</td>
-												<td nowrap style="text-align:center">2</td>
-												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td nowrap style="text-align:right">50</td>
+												<td nowrap style="text-align:right">200</td>
+												<td style="text-align:right" nowrap>250</td>
+												
+												
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate Gold</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -430,15 +430,15 @@
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td nowrap style="text-align:center">1</td>
-												<td nowrap style="text-align:center">2</td>
-												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td nowrap style="text-align:right">150</td>
+												<td nowrap style="text-align:right">350</td>
+												<td style="text-align:right" nowrap>500</td>
+												
+												
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
