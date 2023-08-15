@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Form Tambah Member
+											Tambah Kendaraan Member
 									</h3>
 
 								</div>
@@ -158,12 +158,12 @@ function goBack() {
 						
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom" />
                         </div>
                        <div class="col-lg-6">
                           <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP / SIM :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7371122301870002" >
                       </div>
                       </div>
 						
@@ -173,25 +173,16 @@ function goBack() {
 						<div class="col-lg-6">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder=""  >
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder=""  >
                       </div>
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Pria</option>
-														<option>Wanita</option>
-														
-													</select>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pria" >
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Status Pernikahan :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Single</option>
-														<option>Menikah</option>
-														<option>Janda</option>
-														<option>Duda</option>
-														</select>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Menikah" >
                         </div>
 						
                         </div>
@@ -200,39 +191,16 @@ function goBack() {
 
 <div class="col-lg-6">
 					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
-					                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_2_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
+					                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar" >
 					                         </div>
 						<div class="col-lg-3">
                           <label class=""><span style="color:#ff0000">*</span> Tanggal Kelahiran :</label>
-                          <div class="form-group">
-                         <div class="input-group date">
-													<input type="text" class="form-control form-control-sm" readonly="" placeholder="== Pilih Tanggal ==" id="kt_datepicker_2">
-													<div class="input-group-append">
-														<span class="input-group-text">
-															<i class="la la-calendar-check-o"></i>
-														</span>
-													</div>
-												</div>
-                      </div>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="22 Januari 1987" >
 
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Agama :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Islam</option>
-														<option>Kristen Protestan</option>
-														<option>Kristen Katholik</option>
-														<option>Hindu</option>
-														<option>Budha</option>
-														<option>Konghucu</option>
-														</select>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Islam" >
 					                         </div>
 						
 						
@@ -245,15 +213,15 @@ function goBack() {
 
 						<div class="col-lg-6">
                           <label>Email :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx"  >
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="xxx@xxx.xxx"  >
                         </div>
 						<div class="col-lg-3">
 					                           <label>Tlp / HP :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder=""  >
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
 					                         </div>
 											 <div class="col-lg-3">
 					                           <label>Whatsapp :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder=""  >
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
 					                         </div>
 						
 
@@ -265,7 +233,7 @@ function goBack() {
 
 						<div class="col-lg-6">
 					                           <label>NPWP :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="917345100801000">
 					                         </div>
 					                         </div>
 
@@ -274,24 +242,15 @@ function goBack() {
 
 						<div class="col-lg-3">
 					                           <label>No. Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="1520017942547">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1520017942547">
 					                         </div>
 						<div class="col-lg-3">
 					                           <label class="">Bank :</label>
-                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Mandiri</option>
-														<option>BNI</option>
-														<option>BRI</option>
-														<option>BTN</option>
-														<option>Bukopin</option>
-														<option>Mega</option>
-														<option>BCA</option>
-														
-														</select>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mandiri">
                       </div>
 						<div class="col-lg-6">
 					                           <label>Nama Pemilik Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Isikan Nama Pemilik Rekening">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
 					                         </div>
 
 									</div>
@@ -314,18 +273,18 @@ function goBack() {
 
 						<div class="col-lg-9">
                           <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
 						<div class="col-lg-3">
                           <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="90233">
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="90233">
                         </div>
                         </div>
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                        <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm"  placeholder="Kompleks Villa Surya Mas Blok J/9">
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
 
                         </div>
                         </div>
@@ -333,19 +292,12 @@ function goBack() {
 						  <div class="form-group row">
                         <div class="col-lg-6">
                           <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                         <select class="form-control kt-select2 form-control-sm" id="kt_select2_1_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Makassar">
                       </div>
 						<div class="col-lg-6">
                           <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
+                        <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="082244444436">
                       </div>
                         </div>
 
@@ -367,18 +319,18 @@ function goBack() {
 
 						<div class="col-lg-9">
                           <label>Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Jl. Toddopuli Raya Timur">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
 						<div class="col-lg-3">
                           <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="90233">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="90233">
                         </div>
                         </div>
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                        <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm" placeholder="Kompleks Villa Surya Mas Blok J/9">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
 
                         </div>
                         </div>
@@ -386,19 +338,12 @@ function goBack() {
 						  <div class="form-group row">
                         <div class="col-lg-6">
                           <label class="">Kota :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_3_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Makassar">
                       </div>
 						<div class="col-lg-6">
                           <label class="">No. Handphone :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="082244444436">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436">
                       </div>
                         </div>
 
@@ -424,7 +369,7 @@ function goBack() {
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/100_15.jpg&quot;);"></div>
 																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Upload Foto">
 																													<i class="fa fa-pen"></i>
 																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
@@ -469,26 +414,41 @@ function goBack() {
     <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
     <td width="5%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
-    <td width="1%" bgcolor="#f7fcff">Aksi</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
 																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
-    <td><input type="text" class="form-control form-control-sm" placeholder="scan NFC Sticker" /></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="DD 1111 LUU" /></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="002DD516A51351" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 1111 LUU" /></td>
     <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
       </div></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
     <td style="text-align:left">
-      <input type="text" class="form-control form-control-sm" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
       </div></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="2023" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="006079598" /></td>
-    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="2023" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="006079598" /></td>
+    
+																								</tr>
+																								<tr data-repeater-item>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2" /></td>
+    <td><input type="text" class="form-control form-control-sm" placeholder="Scan NFC Sticker" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center">
+      <input type="text" class="form-control form-control-sm" placeholder="" style="text-align:left">
+      </div></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:left">
+      <input type="text" class="form-control form-control-sm" placeholder="" style="text-align:left">
+      </div></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    
 																								</tr>
 																								
 
@@ -527,31 +487,44 @@ function goBack() {
     <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
     <td width="5%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
-    <td width="1%" bgcolor="#f7fcff">Aksi</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
+																								<tr>
 																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
-    <td><input type="text" class="form-control form-control-sm" placeholder="scan NFC Sticker" /></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="DD 1111 LUU" /></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="002DD516A51351" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 1111 LUU" /></td>
     <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
       </div></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
     <td style="text-align:left">
-      <input type="text" class="form-control form-control-sm" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
       </div></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="2023" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="006079598" /></td>
-    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="2023" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
+    <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="006079598" /></td>
+    
 																								</tr>
 																								
 
 																								<tr data-repeater-item>
-																								  
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2" /></td>
+    <td><input type="text" class="form-control form-control-sm" placeholder="Scan NFC Sticker" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center">
+      <input type="text" class="form-control form-control-sm" placeholder="" style="text-align:left">
+      </div></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:left">
+      <input type="text" class="form-control form-control-sm" placeholder="" style="text-align:left">
+      </div></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    
 																								</tr>
 																							</tbody>
 																							<tfoot>

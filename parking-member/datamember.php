@@ -50,7 +50,7 @@
                     <!--end::Nav-->
                 </div>
                 <a href="member-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-user-plus"></i> Registrasi Member</button>
+                    <i class="fa fa-address-card"></i> Daftar Member</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
             </div>
@@ -98,7 +98,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Member :</label>
+                                <label>Nama Lengkap :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -130,16 +130,8 @@
 							
                             
 							
-							<div class="col-lg-2">
-                                <label>Jenis Kelamin :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pria</option>
-                                      <option value="2">Wanita</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
+							
+							<div class="col-lg-1">
                                 <label>Tipe Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -240,7 +232,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NFC<br>Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code<br>Member</th>
 											  <th width="1%" bgcolor="#f7fcff" rowspan="2">ID<br>Member</th>
 											  
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
@@ -313,7 +305,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<i class="kt-nav__link-icon fa fa-car"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 																			</a>
 																		</li>
@@ -321,6 +313,12 @@
 																			<a href="ubah-member.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="add-vehicle.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-plus-circle"></i>
+																				<span class="kt-nav__link-text">Tambah Kendaraan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

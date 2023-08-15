@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Member Parkir
+                    Data Kendaraan Aktif
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -49,10 +49,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="member-add.php" class="btn btn-info btn-sm">
-                    <i class="fa fa-address-card"></i> Daftar Member</button>
-                    <!--<i class="flaticon2-plus"></i>-->
-                </a>
+               
             </div>
         </div>
     </div>
@@ -231,41 +228,33 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NFC<br>Member</th>
-											  <th width="1%" bgcolor="#f7fcff" rowspan="2">ID<br>Member</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" bgcolor="#feffed">NFC Kendaraan</th>
+											  <th width="1%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
+											  <th width="1%" bgcolor="#feffed">Tanggal Expired</th>
+											  <th width="1%" bgcolor="#feffed">Tipe Member</th>
+											  <th width="1%" bgcolor="#f7fcff">QR Code Member</th>
+											  <th width="1%" bgcolor="#f7fcff">ID<br>Member</th>
 											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
-											 
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
-											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
-											    Registrasi</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Kendaraan</th>
-											  <th width="1%" colspan="4" bgcolor="#feffed">Total Kendaraan</th>
-											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
-											  <th width="1%" rowspan="2" bgcolor="#feffed">Poin Member</th>
-											 
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" bgcolor="#f7fcff">Foto<br>Member</th>
+											  <th width="7%" bgcolor="#f7fcff">Nama Lengkap</th>
+											  <th width="10%" bgcolor="#f7fcff">Alamat Member</th>
+											  <th width="1%" bgcolor="#f7fcff">Email</th>
+											  <th width="1%" bgcolor="#f7fcff">HP</th>
+											  <th width="1%" bgcolor="#f7fcff">WA</th>
+											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>
+											    Registrasi Member</th>
+											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
-											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#feffed">Mobil</th>
-											  <th width="1%" bgcolor="#feffed">Motor</th>
-											  <th width="1%" bgcolor="#feffed">Aktif</th>
-											  <th width="1%" bgcolor="#feffed">Expired</th>
-											  <th width="1%" bgcolor="#feffed">Suspend</th>
-											  <th width="1%" bgcolor="#feffed">Total</th>
-						                  </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
+												<td style="text-align:center" nowrap>002DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
 												
@@ -274,23 +263,11 @@
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
-												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center">1</td>
-												<td nowrap="nowrap" style="text-align:center">2</td>
-												<td nowrap="nowrap" style="text-align:center">3</td>
-												<td nowrap="nowrap" style="text-align:center">0</td>
-												<td nowrap="nowrap" style="text-align:center">0</td>
-												<td nowrap="nowrap" style="text-align:center">3</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
-												<td style="text-align:right" nowrap>100</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -298,50 +275,33 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-car"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="add-vehicle.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-plus-circle"></i>
-																				<span class="kt-nav__link-text">Tambah Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
+									  <a href="member-detail.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-eye"></i>
+										  <span class="kt-nav__link-text">Lihat Profil Member</span>
+									  </a>
+							    </li>
+								<li class="kt-nav__item">
+									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+										<i class="kt-nav__link-icon fa fa-eye"></i>
+										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+									</a>
+							    </li>
+								
+								<li class="kt-nav__item">
+									<a href="member-suspend.php" class="kt-nav__link">
+																	
+										<i class="kt-nav__link-icon fa fa-user-slash"></i>
+										<span class="kt-nav__link-text">Suspend</span>
+									</li></a>
+								
 																		
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
-																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
+								<li class="kt-nav__item">
+									<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+										<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+										<span class="kt-nav__link-text">Hapus</span>
+									</a>
 																			
-																		</li>
+							    </li>
 																		
 																	</ul>
 																</div>
@@ -349,158 +309,122 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
+												<td nowrap="nowrap" style="text-align:center">003DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Motor</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000000002</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
-												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center">1</td>
-												<td nowrap="nowrap" style="text-align:center">2</td>
-												<td nowrap="nowrap" style="text-align:center">2</td>
-												<td nowrap="nowrap" style="text-align:center">1</td>
-												<td nowrap="nowrap" style="text-align:center">0</td>
-												<td nowrap="nowrap" style="text-align:center">3</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
-												<td style="text-align:right" nowrap>500</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
-																
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
+											<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+															<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																<i class="flaticon-more-1"></i>
+															</a>
+															<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																<ul class="kt-nav">
+																  <li class="kt-nav__item">
+									  <a href="member-detail.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-eye"></i>
+										  <span class="kt-nav__link-text">Lihat Profil Member</span>
+									  </a>
+							    </li>
+								<li class="kt-nav__item">
+									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+										<i class="kt-nav__link-icon fa fa-eye"></i>
+										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+									</a>
+							    </li>
+								
+								<li class="kt-nav__item">
+									<a href="member-suspend.php" class="kt-nav__link">
+																	
+										<i class="kt-nav__link-icon fa fa-user-slash"></i>
+										<span class="kt-nav__link-text">Suspend</span>
+									</li></a>
+								
 																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
+								<li class="kt-nav__item">
+									<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+										<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+										<span class="kt-nav__link-text">Hapus</span>
+									</a>
 																			
-																		</li>
+							    </li>
 																		
-																	</ul>
-																</div>
-															</div></td>
+															    </ul>
+														    </div>
+														</div></td>
 										  </tr>
 
 <tr>
 												<td id="kt_table_1">3</td>
+												<td nowrap="nowrap" style="text-align:center">004DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000000003</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
-												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center">1</td>
-												<td nowrap="nowrap" style="text-align:center">2</td>
-												<td nowrap="nowrap" style="text-align:center">1</td>
-												<td nowrap="nowrap" style="text-align:center">2</td>
-												<td nowrap="nowrap" style="text-align:center">0</td>
-												<td nowrap="nowrap" style="text-align:center">3</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
-												<td style="text-align:right" nowrap>1.000</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
+	  <td style="text-align:center" nowrap><div class="kt-widget2__actions">
+						<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+							<i class="flaticon-more-1"></i>
+						</a>
+						<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+							<ul class="kt-nav">
+							  <li class="kt-nav__item">
+									  <a href="member-detail.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-eye"></i>
+										  <span class="kt-nav__link-text">Lihat Profil Member</span>
+									  </a>
+							    </li>
+								<li class="kt-nav__item">
+									<a href="kendaraan-member-detail.php" class="kt-nav__link">
+										<i class="kt-nav__link-icon fa fa-eye"></i>
+										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+									</a>
+							    </li>
+								
+								<li class="kt-nav__item">
+									<a href="member-suspend.php" class="kt-nav__link">
 																	
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
+										<i class="kt-nav__link-icon fa fa-user-slash"></i>
+										<span class="kt-nav__link-text">Suspend</span>
+									</li></a>
+								
 																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
+								<li class="kt-nav__item">
+									<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+										<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+										<span class="kt-nav__link-text">Hapus</span>
+									</a>
 																			
-																		</li>
+							    </li>
 																		
-																	</ul>
-																</div>
-															</div></td>
+						    </ul>
+					    </div>
+					</div></td>
 										  </tr>
 									    </tbody>
 									</table>
