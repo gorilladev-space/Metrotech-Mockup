@@ -259,44 +259,46 @@
 										<thead style="text-align:center">
 											<tr>
 												<th width="1%" bgcolor="#f7fcff" rowspan="2">#</th>
-												<th width="2%" bgcolor="#f7fcff" rowspan="2">Petugas</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Waktu<br>Input</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Nama<br>Pengunjung</th>
-												<th width="15%" bgcolor="#f7fcff" rowspan="2">Alamat<br>Pengunjung</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">No. Tlp / Wa</th>
-												<th width="8%" bgcolor="#f7fcff" rowspan="2">Instansi</th>
-												<th width="2%" colspan="3" bgcolor="#f7fcff">Tujuan Kunjungan</th>
-												<th width="20%" bgcolor="#feffed" rowspan="2">Maksud Kunjungan</th>
+												<th width="1%" bgcolor="#f7fcff" rowspan="2">ID</th>
+												<th colspan="2" bgcolor="#f7fcff">Resepsionis</th>
+												<th colspan="3" bgcolor="#f7fcff">Tujuan Kunjungan</th>
+												<th colspan="3" bgcolor="#feffed">Pengunjung</th>
+												<th width="8%" bgcolor="#feffed" rowspan="2">Instansi</th>
+												<th width="18%" bgcolor="#feffed" rowspan="2">Maksud Kunjungan</th>
 												<th colspan="2" bgcolor="#feffed">Waktu Kunjungan</th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Status </th>
 												<th width="3%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="2%" bgcolor="#f7fcff">Pegawai</th>
-											  <th width="1%" bgcolor="#f7fcff">Department</th>
-											  <th width="2%" bgcolor="#f7fcff">Bagian</th>
-											  <th width="8%" bgcolor="#feffed">Mulai </th>
-												<th width="8%" bgcolor="#feffed">Berakhir </th>
+											  <th width="3%" bgcolor="#f7fcff">Foto</th>
+											  <th width="8%" bgcolor="#f7fcff">Waktu</th>
+											  <th width="4%" bgcolor="#f7fcff">Pegawai</th>
+											  <th width="4%" bgcolor="#f7fcff">Department</th>
+											  <th width="8%" bgcolor="#f7fcff">Bagian</th>
+											  <th width="8%" bgcolor="#feffed">Nama</th>
+											  <th width="15%" bgcolor="#feffed">Alamat</th>
+											  <th width="6%" bgcolor="#feffed">No. Tlp / Wa</th>
+											  <th width="9%" bgcolor="#feffed">Mulai </th>
+												<th width="10%" bgcolor="#feffed">Berakhir </th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
+												<td id="kt_table_1">002REPMRVIII2023</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
 													
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE&lt;hr&gt;Direktur Utama" data-html="true"> <img src="../assets/media/users/100_15.jpg" alt="image" /> </a></td>
+											  <td align="left" valign="middle" style="text-align:center">Direksi</td>
+											  <td align="left" valign="middle" style="text-align:center">Direksi</td>
 											  <td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 											  <td style="text-align:left">Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 											  <td style="text-align:left">082244444436</td>
 											  <td style="text-align:left">PT. iLugroup Multimedia Indonesia</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="left" valign="middle" style="text-align:center">Direksi</td>
-												<td align="left" valign="middle" style="text-align:center">Direksi</td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -318,7 +320,7 @@
 																		<li class="kt-nav__item">
 																			<a href="tamu-keluar.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Lapor Pengunjung Keluar</span>
+																				<span class="kt-nav__link-text">Lapor Keluar</span>
 																			</a>
 																		</li>
 																		
@@ -343,21 +345,20 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
+												<td id="kt_table_1">001REPMRVIII2023</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
 													
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
+											  <td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE&lt;hr&gt;Direktur Utama" data-html="true"> <img src="../assets/media/users/100_15.jpg" alt="image" /> </a></td>
+											  <td align="left" valign="middle" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
+											  <td align="left" valign="middle" style="text-align:center">Pengembangan</td>
 											  <td style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 											  <td style="text-align:left">Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 											  <td style="text-align:left">082244444436</td>
 											  <td style="text-align:left">PT. iLugroup Multimedia Indonesia</td>
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Yulianti Tomu, SE<hr>Direktur Utama" data-html="true">
-														<img src="../assets/media/users/100_15.jpg" alt="image">
-													</a></td>
-												<td align="left" valign="middle" style="text-align:center">Pengembangan Usaha dan Kerjasama</td>
-												<td align="left" valign="middle" style="text-align:center">Pengembangan</td>
 												<td style="text-align:left">Instalasi Epass Management System PT. Pelabuhan Indonesia IV (Persero) Cabang Manado</td>
 												<td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
@@ -371,15 +372,9 @@
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="detail-tugas.php" class="kt-nav__link">
+																			<a href="detail-pengunjung.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="laporan-tugas-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-export"></i>
-																				<span class="kt-nav__link-text">Buat Laporan Tugas</span>
 																			</a>
 																		</li>
 																		
