@@ -244,15 +244,15 @@ function goBack() {
 
 
 						<div class="col-lg-6">
-                          <label><span style="color:#ff0000">Email :</label>
+                          <label>Email :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx"  >
                         </div>
 						<div class="col-lg-3">
-					                           <label><span style="color:#ff0000">Tlp / HP :</label>
+					                           <label>Tlp / HP :</label>
                           <input type="text" class="form-control form-control-sm" placeholder=""  >
 					                         </div>
 											 <div class="col-lg-3">
-					                           <label><span style="color:#ff0000">Whatsapp :</label>
+					                           <label>Whatsapp :</label>
                           <input type="text" class="form-control form-control-sm" placeholder=""  >
 					                         </div>
 						
