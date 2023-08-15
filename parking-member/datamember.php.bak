@@ -256,7 +256,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Kendaraan</th>
-											  <th width="1%" rowspan="2" bgcolor="#feffed">Total Kendaraan</th>
+											  <th width="1%" colspan="3" bgcolor="#feffed">Total Kendaraan</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Poin Member</th>
 											 
@@ -265,7 +265,10 @@
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#feffed">Mobil</th>
 											  <th width="1%" bgcolor="#feffed">Motor</th>
-								          </tr>
+											  <th width="1%" bgcolor="#feffed">Aktif</th>
+											  <th width="1%" bgcolor="#feffed">Expired</th>
+											  <th width="1%" bgcolor="#feffed">Total</th>
+						                  </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -289,6 +292,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center">1</td>
 												<td nowrap="nowrap" style="text-align:center">2</td>
+												<td nowrap="nowrap" style="text-align:center">3</td>
+												<td nowrap="nowrap" style="text-align:center">0</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:right" nowrap>100</td>
@@ -322,13 +327,13 @@
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
-																		
-																			<a href="member-suspend.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
+																			<a href="member-suspend.php" class="kt-nav__link">
+																		
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
-																			</a>
-																		</li>
+																			</li></a>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
@@ -363,6 +368,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center">1</td>
 												<td nowrap="nowrap" style="text-align:center">2</td>
+												<td nowrap="nowrap" style="text-align:center">2</td>
+												<td nowrap="nowrap" style="text-align:center">1</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td style="text-align:right" nowrap>500</td>
@@ -396,13 +403,13 @@
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
-																		
-																			<a href="member-suspend.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
+																			<a href="member-suspend.php" class="kt-nav__link">
+																
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
-																			</a>
-																		</li>
+																			</li></a>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
@@ -438,6 +445,8 @@
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center">1</td>
 												<td nowrap="nowrap" style="text-align:center">2</td>
+												<td nowrap="nowrap" style="text-align:center">1</td>
+												<td nowrap="nowrap" style="text-align:center">2</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:right" nowrap>1.000</td>
@@ -460,24 +469,24 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-member-card.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
-																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
+																			<a href="member-suspend.php" class="kt-nav__link">
+																	
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
-																			</a>
-																		</li>
+																			</li></a>
+																		
 																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
