@@ -299,17 +299,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="perusahaan-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			</a>
+																		</li>
+																	<li class="kt-nav__item">
 																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			<a href="member-perusahaan-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-plus"></i>
+																				<span class="kt-nav__link-text">Tambah Member</span>
 																			</a>
 																		</li>
+																		
+																		
 																		<li class="kt-nav__item">
 																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
@@ -373,17 +381,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="perusahaan-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			</a>
+																		</li>
+																	<li class="kt-nav__item">
 																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			<a href="member-perusahaan-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-plus"></i>
+																				<span class="kt-nav__link-text">Tambah Member</span>
 																			</a>
 																		</li>
+																		
+																		
 																		<li class="kt-nav__item">
 																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
@@ -448,17 +464,25 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="perusahaan-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			</a>
+																		</li>
+																	<li class="kt-nav__item">
 																			<a href="corporate-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Perusahaan</span>
+																			<a href="member-perusahaan-add.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-plus"></i>
+																				<span class="kt-nav__link-text">Tambah Member</span>
 																			</a>
 																		</li>
+																		
+																		
 																		<li class="kt-nav__item">
 																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
