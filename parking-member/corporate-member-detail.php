@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Member Parkir
+                    Data Member Parkir - Perusahaan
                 </h3>
             </div>
 			
@@ -59,7 +59,7 @@ function goBack() {
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="member-add.php" class="btn btn-info btn-sm">
+                <a href="member-perusahaan-add.php" class="btn btn-info btn-sm">
                     <i class="fa fa-user-plus"></i> Registrasi Member</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
@@ -191,7 +191,7 @@ function goBack() {
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Member Parkir
+											Kendaraan Member
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -250,30 +250,28 @@ function goBack() {
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NFC<br>Member</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Member</th>
-											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
-											 
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
-											  
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Kendaraan</th>
+											  <th colspan="9" bgcolor="#f7fcff">Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Nama Perusahaan</th>
+											  <th colspan="2" bgcolor="#f7fcff">Kendaraan</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Total<br>Kendaraan</th>
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">HP</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">WA</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th bgcolor="#f7fcff">Mobil</th>
-											  <th bgcolor="#f7fcff">Motor</th>
+											  <th width="1%" bgcolor="#f7fcff">QR Code<br /></th>
+											  <th width="1%" bgcolor="#f7fcff">ID<br /></th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
+											  <th width="7%" bgcolor="#f7fcff">Nama Lengkap</th>
+											  <th width="4%" bgcolor="#f7fcff">Username</th>
+											  <th width="10%" bgcolor="#f7fcff">Alamat</th>
+											  <th width="1%" bgcolor="#f7fcff">Email</th>
+											  <th width="1%" bgcolor="#f7fcff">HP</th>
+											  <th width="1%" bgcolor="#f7fcff">WA</th>
+											  <th width="1%" bgcolor="#f7fcff">Mobil</th>
+											  <th width="1%" bgcolor="#f7fcff">Motor</th>
 										  </tr>
 										</thead>
 										<tbody>
@@ -290,16 +288,15 @@ function goBack() {
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">PT. iLugroup Multimedia Indonesia</td>
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -308,7 +305,7 @@ function goBack() {
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="member-detail.php" class="kt-nav__link">
+																			<a href="member-perusahaan-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Member</span>
 																			</a>
@@ -320,20 +317,19 @@ function goBack() {
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
-																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
 																			</a>
@@ -364,16 +360,15 @@ function goBack() {
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">PT. iLugroup Multimedia Indonesia</td>
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -394,19 +389,19 @@ function goBack() {
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
@@ -439,16 +434,15 @@ function goBack() {
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
-												
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
+												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">PT. iLugroup Multimedia Indonesia</td>
 												<td nowrap style="text-align:center">1</td>
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
-												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -469,19 +463,19 @@ function goBack() {
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																		<li class="kt-nav__item">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>

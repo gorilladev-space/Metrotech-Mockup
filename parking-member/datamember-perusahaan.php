@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Member Parkir - Perusahaan
+                    Data Member - Perusahaan
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -243,7 +243,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code<br>Perusahaan</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Perusahaan</th>
 											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Logo</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
 											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Nama Perusahaan</th>
 											  
@@ -274,9 +274,9 @@
 												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
+														<img src="../assets/media/project-logos/1.png" alt="image">
 													</a></td>
-												<td style="text-align:left" nowrap>ilugroup</td>
+												<td style="text-align:left" nowrap>airbnb</td>
 
 												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												
@@ -311,20 +311,20 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
-																		<li class="kt-nav__item">
+																			<li class="kt-nav__item">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
 																			</a>
@@ -348,11 +348,11 @@
 												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
+														<img src="../assets/media/project-logos/2.png" alt="image">
 													</a></td>
-												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
+												<td style="text-align:left" nowrap>adidas</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -385,20 +385,20 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
-																		<li class="kt-nav__item">
+																			<li class="kt-nav__item">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
 																			</a>
@@ -423,11 +423,11 @@
 												<td style="text-align:center" nowrap>000000001</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
+														<img src="../assets/media/project-logos/4.png" alt="image">
 													</a></td>
-												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
+												<td style="text-align:left" nowrap>bnq</td>
 
-												<td style="text-align:left" nowrap>iluchie</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
@@ -460,20 +460,20 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kolektor-detail.php" class="kt-nav__link">
+																			<a href="ubah-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
+																			<a href="cetak-kartu-member-perusahaan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
 																			</a>
 																		</li>
 																		
-																			<a href="mitra-remove.php" class="kt-nav__link">
-																		<li class="kt-nav__item">
+																			<li class="kt-nav__item">
+																			<a href="member-perusahaan-suspend.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
 																				<span class="kt-nav__link-text">Suspend</span>
 																			</a>
