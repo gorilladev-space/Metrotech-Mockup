@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Kendaraan Expired
+                    Data Kendaraan Perusahaan Suspend
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -124,7 +124,7 @@
 						                      </div>
                             </div>
 							<div class="col-lg-2">
-                                <label class="">Tanggal Expired :</label>
+                                <label class="">Tanggal Suspend :</label>
                                 <div class="input-group">
 						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
 						                        <div class="input-group-append">
@@ -148,7 +148,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-1">
-                                <label>Jenis Kendaran :</label>
+                                <label>Jenis Kendaraan :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Mobil</option>
@@ -188,7 +188,7 @@
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Member Expired
+											Member Aktif
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -202,10 +202,27 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Motor Expired
+											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Motor Expired 
+											Member Perusahaan Suspend
+										</span>
+									</div>
+									<span class="kt-widget24__stats kt-font-brand">
+										40
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							<div class="kt-widget24">
+								<div class="kt-widget24__details">
+									<div class="kt-widget24__info">
+										<h4 class="kt-widget24__title">
+											Motor Suspend
+										</h4>
+										<span class="kt-widget24__desc">
+											Statistik Motor Perusahaan Suspend
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -219,10 +236,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Mobil Expired
+											Mobil Suspend
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Mobil Expired
+											Statistik Mobil Perusahaan Suspend
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
@@ -250,18 +267,21 @@
 											  <th width="1%" bgcolor="#feffed">NFC Kendaraan</th>
 											  <th width="1%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
 											  <th width="1%" bgcolor="#feffed">Tanggal Expired</th>
+											  <th width="1%" bgcolor="#feffed">Tanggal Suspend</th>
+											  <th width="1%" bgcolor="#feffed">Suspend By</th>
+											  <th width="5%" bgcolor="#feffed">Keterangan Suspend</th>
 											  <th width="1%" bgcolor="#feffed">Tipe Member</th>
 											  <th width="1%" bgcolor="#f7fcff">QR Code Member</th>
 											  <th width="1%" bgcolor="#f7fcff">ID<br>Member</th>
 											  
 											  <th width="1%" bgcolor="#f7fcff">Foto<br>Member</th>
 											  <th width="7%" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="10%" bgcolor="#f7fcff">Alamat Member</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi Member</th>
+												<th width="2%" bgcolor="#f7fcff">Nama Perusahaan</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
@@ -271,7 +291,10 @@
 												<td style="text-align:center" nowrap>002DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>Yulianti Tomu, SE</td>
+												<td style="text-align:left" nowrap>Duplikat</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
@@ -280,12 +303,11 @@
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
-
-												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -293,30 +315,24 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-									  <a href="member-detail.php" class="kt-nav__link">
+									  <a href="member-perusahaan-detail.php" class="kt-nav__link">
 										  <i class="kt-nav__link-icon fa fa-eye"></i>
 										  <span class="kt-nav__link-text">Lihat Profil Member</span>
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-perusahaan-suspend-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
-										<i class="kt-nav__link-icon fa fa-user-check"></i>
-										<span class="kt-nav__link-text">Renew Member</span>
-									</a>
+									  <a href="vehicle-recovery.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-check-circle"></i>
+										  <span class="kt-nav__link-text">Pulihkan</span>
+									  </a>
 							    </li>
 								
-								<li class="kt-nav__item">
-									<a href="member-suspend.php" class="kt-nav__link">
-																	
-										<i class="kt-nav__link-icon fa fa-user-slash"></i>
-										<span class="kt-nav__link-text">Suspend</span>
-									</li></a>
 								
 																		
 								<li class="kt-nav__item">
@@ -336,7 +352,10 @@
 												<td nowrap="nowrap" style="text-align:center">003DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Motor</span></td>
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td nowrap="nowrap" style="text-align:left">Muhammad Nasrullah</td>
+												<td style="text-align:left" nowrap>Duplikat</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate - Gold</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000002</td>
@@ -345,12 +364,11 @@
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
-
-												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 											<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 															<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																<i class="flaticon-more-1"></i>
@@ -364,24 +382,17 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-perusahaan-suspend-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
-								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
-										<i class="kt-nav__link-icon fa fa-user-check"></i>
-										<span class="kt-nav__link-text">Renew Member</span>
-									</a>
+							<li class="kt-nav__item">
+									  <a href="vehicle-recovery.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-check-circle"></i>
+										  <span class="kt-nav__link-text">Pulihkan</span>
+									  </a>
 							    </li>
-								
-								<li class="kt-nav__item">
-									<a href="member-suspend.php" class="kt-nav__link">
-																	
-										<i class="kt-nav__link-icon fa fa-user-slash"></i>
-										<span class="kt-nav__link-text">Suspend</span>
-									</li></a>
 								
 																		
 								<li class="kt-nav__item">
@@ -402,7 +413,10 @@
 												<td nowrap="nowrap" style="text-align:center">004DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td nowrap="nowrap" style="text-align:left">Muhammad Nasrullah</td>
+												<td style="text-align:left" nowrap>Duplikat</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate - Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000003</td>
@@ -411,12 +425,11 @@
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
-
-												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 	  <td style="text-align:center" nowrap><div class="kt-widget2__actions">
 						<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 							<i class="flaticon-more-1"></i>
@@ -424,31 +437,25 @@
 						<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 							<ul class="kt-nav">
 							  <li class="kt-nav__item">
-									  <a href="member-detail.php" class="kt-nav__link">
+									  <a href="member-perusahaan-detail.php" class="kt-nav__link">
 										  <i class="kt-nav__link-icon fa fa-eye"></i>
 										  <span class="kt-nav__link-text">Lihat Profil Member</span>
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-perusahaan-suspend-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
-										<i class="kt-nav__link-icon fa fa-user-check"></i>
-										<span class="kt-nav__link-text">Renew Member</span>
-									</a>
+									  <a href="vehicle-recovery.php" class="kt-nav__link">
+										  <i class="kt-nav__link-icon fa fa-check-circle"></i>
+										  <span class="kt-nav__link-text">Pulihkan</span>
+									  </a>
 							    </li>
 								
-								<li class="kt-nav__item">
-									<a href="member-suspend.php" class="kt-nav__link">
-																	
-										<i class="kt-nav__link-icon fa fa-user-slash"></i>
-										<span class="kt-nav__link-text">Suspend</span>
-									</li></a>
-								
+							
 																		
 								<li class="kt-nav__item">
 									<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">

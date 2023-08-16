@@ -304,6 +304,12 @@
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
+								<li class="kt-nav__item">
+									<a href="renew-membership.php" class="kt-nav__link" >
+										<i class="kt-nav__link-icon fa fa-eye"></i>
+										<span class="kt-nav__link-text">Renew Member</span>
+									</a>
+							    </li>
 								
 								<li class="kt-nav__item">
 									<a href="member-suspend.php" class="kt-nav__link">
@@ -363,6 +369,12 @@
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
+								<li class="kt-nav__item">
+									<a href="renew-membership.php" class="kt-nav__link" >
+										<i class="kt-nav__link-icon fa fa-user-check"></i>
+										<span class="kt-nav__link-text">Renew Member</span>
+									</a>
+							    </li>
 								
 								<li class="kt-nav__item">
 									<a href="member-suspend.php" class="kt-nav__link">
@@ -418,9 +430,15 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
+									</a>
+							    </li>
+								<li class="kt-nav__item">
+									<a href="renew-membership.php" class="kt-nav__link" >
+										<i class="kt-nav__link-icon fa fa-user-check"></i>
+										<span class="kt-nav__link-text">Renew Member</span>
 									</a>
 							    </li>
 								

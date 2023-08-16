@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Kendaraan Expired
+                    Data Member Perusahaan Expired
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -148,7 +148,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-1">
-                                <label>Jenis Kendaran :</label>
+                                <label>Jenis Kendaraan :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Mobil</option>
@@ -188,7 +188,24 @@
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Member Expired
+											Perusahaan Aktif
+										</span>
+									</div>
+									<span class="kt-widget24__stats kt-font-brand">
+										40
+									</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-6 col-xl-3">
+							<div class="kt-widget24">
+								<div class="kt-widget24__details">
+									<div class="kt-widget24__info">
+										<h4 class="kt-widget24__title">
+											Total Kendaraan
+										</h4>
+										<span class="kt-widget24__desc">
+											Perusahaan Expired
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -205,7 +222,7 @@
 											Motor Expired
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Motor Expired 
+											Statistik Motor Perusahaan Expired
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -222,7 +239,7 @@
 											Mobil Expired
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Mobil Expired
+											Statistik Mobil Perusahaan Expired
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
@@ -262,6 +279,7 @@
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi Member</th>
+												<th width="2%" bgcolor="#f7fcff">Nama Perusahaan</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
@@ -271,7 +289,7 @@
 												<td style="text-align:center" nowrap>002DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
@@ -286,6 +304,7 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -293,19 +312,19 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-									  <a href="member-detail.php" class="kt-nav__link">
+									  <a href="member-perusahaan-detail.php" class="kt-nav__link">
 										  <i class="kt-nav__link-icon fa fa-eye"></i>
 										  <span class="kt-nav__link-text">Lihat Profil Member</span>
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-perusahaan-aktif-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
+									<a href="renew-corporate-membership.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-user-check"></i>
 										<span class="kt-nav__link-text">Renew Member</span>
 									</a>
@@ -336,7 +355,7 @@
 												<td nowrap="nowrap" style="text-align:center">003DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Motor</span></td>
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate - Gold</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000002</td>
@@ -351,6 +370,7 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 											<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 															<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																<i class="flaticon-more-1"></i>
@@ -364,13 +384,13 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
+									<a href="renew-corporate-membership.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-user-check"></i>
 										<span class="kt-nav__link-text">Renew Member</span>
 									</a>
@@ -402,7 +422,7 @@
 												<td nowrap="nowrap" style="text-align:center">004DD516A51351</td>
 												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate - Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000003</td>
@@ -417,6 +437,7 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
 	  <td style="text-align:center" nowrap><div class="kt-widget2__actions">
 						<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 							<i class="flaticon-more-1"></i>
@@ -430,13 +451,13 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-expired-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-aktif-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="renew-membership.php" class="kt-nav__link" >
+									<a href="renew-corporate-membership.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-user-check"></i>
 										<span class="kt-nav__link-text">Renew Member</span>
 									</a>
