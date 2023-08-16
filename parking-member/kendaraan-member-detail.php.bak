@@ -211,7 +211,7 @@ function goBack() {
   <tr>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="002DD516A51351" /></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 1111 LUU" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 4444 ILA" /></td>
     <td style="text-align:center">
       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
       </div></td>
@@ -1021,9 +1021,11 @@ function goBack() {
 
 									</div>
 																						</div>
+																						
 
 									</div>
-												<div class="col-xl-12">
+												
+								<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -1031,15 +1033,21 @@ function goBack() {
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-4">
+																					<div class="col-lg-12">
 																						<label>ID Member :</label>
 																						<input type="text" class="form-control form-control-sm" value="000000001" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-4">
+																					</div>
+																					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																					<div class="form-group row">
+																					<div class="col-lg-12">
 																						<label>Waktu Registrasi Member :</label>
 																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-4">
+																					</div>
+																					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																					<div class="form-group row">
+																					<div class="col-lg-12">
 																						<label>Aktif Hingga :</label>
 																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 23:59:00 WITA" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
@@ -1066,8 +1074,62 @@ function goBack() {
 									</div>
 
 									</div>
+									
 								</div>
+								<div class="col-xl-7">
+								<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Kendaraan</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-5">
+                          <label>&nbsp;</label>
+                         
+																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
+
+
+																		</div>
+																		
+
+                        </div>
+																					<div class="col-lg-5">
+                          <label>&nbsp;</label>
+                         
+																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
+
+
+																		</div>
+																		
+
+                        </div>
+																					
+																					
+																					
+																					
+																				</div>
+						
+                     
+						
+                     
+
+                        </div>
+
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+												
+												
+									
+
+
+
+
+									</div>
+
+									</div>
 								</div>
+								
 								</div>
 								</div>
 								</div>

@@ -408,15 +408,17 @@ function goBack() {
     <td width="3%" bgcolor="#f7fcff">ID NFC<br>KENDARAAN</td>
     <td width="2%" bgcolor="#f7fcff">NO. PLAT<br>KENDARAAN</td>
     <td width="6%" bgcolor="#f7fcff">NAMA PEMILIK</td>
-    <td width="9%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
+    <td width="9.5%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
     <td width="6%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
     <td width="2%" bgcolor="#f7fcff">JENIS<br>/ MODEL</td>
     <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
     <td width="5%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
+    <td width="4%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
+																								<tr>
 																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="002DD516A51351" /></td>
     <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 1111 LUU" /></td>
@@ -431,8 +433,17 @@ function goBack() {
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="2023" /></td>
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="006079598" /></td>
+    <td style="text-align:center"><div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
+															<span>
+																<i class="fa fa-download"></i>
+																<span>Download File</span>
+															</span>
+														</a>
+                        </div></td>
     
 																								</tr>
+																								
+
 																								<tr data-repeater-item>
 																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2" /></td>
     <td><input type="text" class="form-control form-control-sm" placeholder="Scan NFC Sticker" /></td>
@@ -448,12 +459,14 @@ function goBack() {
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><div class="form-group m-form__group">
+												
+												<div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile">-Pilih-</label>
+												</div>
+											</div></td>
     
-																								</tr>
-																								
-
-																								<tr data-repeater-item>
-																								  
 																								</tr>
 																							</tbody>
 																							<tfoot>
@@ -481,12 +494,13 @@ function goBack() {
     <td width="3%" bgcolor="#f7fcff">ID NFC<br>KENDARAAN</td>
     <td width="2%" bgcolor="#f7fcff">NO. PLAT<br>KENDARAAN</td>
     <td width="6%" bgcolor="#f7fcff">NAMA PEMILIK</td>
-    <td width="9%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
+    <td width="9.5%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
     <td width="6%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
     <td width="2%" bgcolor="#f7fcff">JENIS<br>/ MODEL</td>
     <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
     <td width="5%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
+    <td width="4%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -505,6 +519,13 @@ function goBack() {
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="2023" /></td>
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
     <td style="text-align:center"><input type="text" disabled="disabled" class="form-control form-control-sm" placeholder="006079598" /></td>
+    <td style="text-align:center"><div><a href="#" class="btn btn-outline-primary btn-sm 	m-btn m-btn--icon">
+															<span>
+																<i class="fa fa-download"></i>
+																<span>Download File</span>
+															</span>
+														</a>
+                        </div></td>
     
 																								</tr>
 																								
@@ -524,6 +545,13 @@ function goBack() {
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="" /></td>
+    <td style="text-align:center"><div class="form-group m-form__group">
+												
+												<div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile">-Pilih-</label>
+												</div>
+											</div></td>
     
 																								</tr>
 																							</tbody>
