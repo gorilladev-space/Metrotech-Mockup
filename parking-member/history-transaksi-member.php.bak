@@ -267,7 +267,7 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">ID Mitra</th>
 											  <th width="2%" bgcolor="#f7fcff">Qr Code</th>
-											  <th width="2%" bgcolor="#f7fcff">Foto</th>
+											  <th width="3%" bgcolor="#f7fcff">Foto</th>
 											  <th width="10%" bgcolor="#f7fcff">Nama Mitra</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
@@ -275,7 +275,7 @@
 											  <th width="2%" bgcolor="#feffed">Nama</th>
 											  <th width="2%" bgcolor="#feffed">NFC</th>
 											  <th width="2%" bgcolor="#feffed">ID<br>Transaksi</th>
-											  <th width="2%" bgcolor="#feffed">Waktu  Transaksi</th>
+											  <th width="2%" bgcolor="#feffed">Waktu<br>Transaksi</th>
 											  <th width="2%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
 										  </tr>
 										</thead>
@@ -298,7 +298,7 @@
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000000001</td>
+												<td nowrap style="text-align:left">000001MP823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">002DD516A51351</td>
 												<td nowrap style="text-align:left">001PS823</td>
@@ -341,7 +341,7 @@
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000000002</td>
+												<td nowrap style="text-align:left">000001CS823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">003DD516A51351</td>
 												<td nowrap style="text-align:left">001CS823</td>
@@ -386,7 +386,7 @@
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000000003</td>
+												<td nowrap style="text-align:left">000001CG823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">004DD516A51351</td>
 												<td nowrap style="text-align:left">001CG823</td>
@@ -430,7 +430,7 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000000004</td>
+												<td nowrap style="text-align:left">000001CP823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">005DD516A51351</td>
 												<td nowrap style="text-align:left">001CP823</td>
@@ -475,7 +475,7 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000000005</td>
+												<td nowrap style="text-align:left">000001MP823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">006DD516A51351</td>
 												<td nowrap style="text-align:left">001PS824</td>

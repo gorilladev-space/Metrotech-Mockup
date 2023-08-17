@@ -75,12 +75,7 @@
         							<input type="text" class="form-control form-control-sm" placeholder="">
         					
                             </div>
-							<div class="col-lg-4">
-                                <label>Alamat Kantor :</label>
-    	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
-        					
-                            </div>
+							
                             
 							
 							
@@ -126,8 +121,8 @@
 										<tbody>
 											<tr>
 												<td>1</td>
-												<td align="left" valign="left" style="text-align:left">ID Mitra Jukir</td>
-												<td align="left" valign="left" style="text-align:left">000000001</td>
+												<td align="left" valign="left" style="text-align:left">ID Transaksi Member Pribadi</td>
+												<td align="left" valign="left" style="text-align:left">001PS823</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -163,8 +158,8 @@
 										  </tr>
 										  <tr>
 												<td>2</td>
-												<td align="left" valign="left" style="text-align:left">ID Setoran Jukir</td>
-												<td align="left" valign="left" style="text-align:left">001/TJU/PMR/VIII/2023</td>
+												<td align="left" valign="left" style="text-align:left">ID Transaksi Member Corporate Silver</td>
+												<td align="left" valign="left" style="text-align:left">001CS823</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -200,8 +195,8 @@
 										  </tr>
 										  <tr>
 												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">ID Transaksi Non Member Tunai</td>
-												<td align="left" valign="left" style="text-align:left">001NMT823</td>
+												<td align="left" valign="left" style="text-align:left">ID Transaksi Member Corporate Gold</td>
+												<td align="left" valign="left" style="text-align:left">001CG823</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -236,9 +231,46 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td>4</td>
-												<td align="left" valign="left" style="text-align:left">ID Transaksi Non Member Elektronik</td>
-												<td align="left" valign="left" style="text-align:left">001NME823</td>
+												<td>3</td>
+												<td align="left" valign="left" style="text-align:left">ID Transaksi Member Corporate Platinum</td>
+												<td align="left" valign="left" style="text-align:left">001CP823</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td>3</td>
+												<td align="left" valign="left" style="text-align:left">ID Member</td>
+												<td align="left" valign="left" style="text-align:left">000001MP823</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
