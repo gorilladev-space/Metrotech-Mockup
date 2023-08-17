@@ -110,7 +110,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-layers"></i>
+													<i class="	flaticon-medal"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -740,7 +740,7 @@ function goBack() {
 													<label class="custom-file-label" for="customFile">-Pilih-</label>
 												</div>
 											</div></td>
-    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
+    
 																								</tr>
 																								
 
