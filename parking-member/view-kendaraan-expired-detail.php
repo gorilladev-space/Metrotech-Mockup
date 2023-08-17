@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Detail Kendaraan Member Aktif
+											Detail Kendaraan Member Expired
 									</h3>
 
 								</div>
@@ -183,7 +183,7 @@ function goBack() {
 
                         </div>
 						<div class="col-lg-6">
-                          <label>Aktif Hingga :</label>
+                          <label>Tanggal Kendaraan Expired :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
                         </div>
                         </div>

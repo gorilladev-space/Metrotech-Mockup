@@ -1040,6 +1040,24 @@ function goBack() {
 																					</div>
 																					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 																					<div class="form-group row">
+																					<div class="col-lg-6">
+																						<label>Tipe Member :</label>
+																						<input type="text" class="form-control form-control-sm" value="Pribadi" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-6">
+																						<label>Jenis Member :</label>
+																						<input type="text" class="form-control form-control-sm" value="Silver" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					</div>
+																					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																					<div class="form-group row">
+																					<div class="col-lg-12">
+																						<label>Nama Member :</label>
+																						<input type="text" class="form-control form-control-sm" value="Muhammad Nasrullah, S.Kom" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					</div>
+																					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																					<div class="form-group row">
 																					<div class="col-lg-12">
 																						<label>Waktu Registrasi Member :</label>
 																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>

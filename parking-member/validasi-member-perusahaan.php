@@ -132,7 +132,7 @@
 							
 							
 							<div class="col-lg-1">
-                                <label>Tipe Member :</label>
+                                <label>Jenis Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Silver</option>

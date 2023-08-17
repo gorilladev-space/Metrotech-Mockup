@@ -215,7 +215,7 @@ function goBack() {
 									
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-4">
+<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 									
@@ -299,7 +299,7 @@ function goBack() {
 								</div>
 
                     </div>
-<div class="col-xl-4">
+<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -313,9 +313,13 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
 
                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate Silver - gold - platinum">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pribadi">
+                        </div>
+						<div class="col-lg-3">
+                          <label>Jenis Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
                         </div>
                         </div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>

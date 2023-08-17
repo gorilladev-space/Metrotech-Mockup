@@ -88,7 +88,7 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-2">
-                                <label>ID Member :</label>
+                                <label>ID Perusahaan :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -98,7 +98,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Member :</label>
+                                <label>Nama Perusahaan :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -108,7 +108,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>No. Hp :</label>
+                                <label>Alamat Perusahaan :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -130,22 +130,14 @@
 							
                             
 							
-							<div class="col-lg-2">
-                                <label>Jenis Kelamin :</label>
+							
+							<div class="col-lg-1">
+                                <label>Jenis Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pria</option>
-                                      <option value="2">Wanita</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>Tipe Member :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Corporate Silver</option>
-                                      <option value="2">Corporate Gold</option>
-                                      <option value="2">Corporate Platinum</option>
+                                      <option value="1" selected="">Silver</option>
+                                      <option value="2">Gold</option>
+                                      <option value="2">Platinum</option>
                                                                            
                                   </select>
                             </div>

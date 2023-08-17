@@ -138,7 +138,7 @@
 							
 							
 							<div class="col-lg-1">
-                                <label>Tipe Member :</label>
+                                <label>Jenis Member :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Silver</option>
@@ -264,11 +264,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" bgcolor="#feffed">NFC Kendaraan</th>
-											  <th width="1%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
-											  <th width="1%" bgcolor="#feffed">Tanggal Expired</th>
-											  <th width="1%" bgcolor="#feffed">Tipe Member</th>
-											  <th width="1%" bgcolor="#feffed">Jenis Member</th>
+											  
 											  <th width="1%" bgcolor="#f7fcff">QR Code Member</th>
 											  <th width="1%" bgcolor="#f7fcff">ID<br>Member</th>
 											  
@@ -280,18 +276,19 @@
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi Member</th>
-												<th width="2%" bgcolor="#f7fcff">Nama Perusahaan</th>
+												<th width="2%" bgcolor="#feffed">Nama Perusahaan</th>
+												<th width="1%" bgcolor="#feffed">NFC Kendaraan</th>
+											  <th width="1%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
+											  <th width="1%" bgcolor="#feffed">Tanggal Expired</th>
+											  <th width="1%" bgcolor="#feffed">Tipe Member</th>
+											  <th width="1%" bgcolor="#feffed">Jenis Member</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap>002DD516A51351</td>
-												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
-												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Silver</span></td>
+												
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
@@ -307,6 +304,11 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
+												<td style="text-align:center" nowrap>002DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
+												<td style="text-align:center" nowrap>24 September 2008</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -414,7 +416,7 @@
 												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Platinum</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000003</td>
