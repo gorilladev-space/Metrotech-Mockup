@@ -240,7 +240,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
 											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
-											   <th width="1%" colspan="3" bgcolor="#f7fcff">Detail Transaksi</th>
+											   <th width="1%" colspan="4" bgcolor="#feffed">Detail Transaksi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>
 											  Transaksi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -252,9 +252,10 @@
 											  <th width="10%" bgcolor="#f7fcff">Nama Mitra</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Waktu  Transaksi</th>
-											  <th width="2%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
-											  <th width="7%" bgcolor="#f7fcff">Nominal</th>
+											  <th width="2%" bgcolor="#feffed">ID Transaksi</th>
+											  <th width="2%" bgcolor="#feffed">Waktu  Transaksi</th>
+											  <th width="2%" bgcolor="#feffed">Jenis<br>Kendaraan</th>
+											  <th width="7%" bgcolor="#feffed">Nominal</th>
 										  </tr>
 										</thead>
 										<tbody>
@@ -276,6 +277,7 @@
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:left">001NMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 17:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -291,7 +293,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -320,6 +322,7 @@
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">002NMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 16:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -366,6 +369,7 @@
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">001NME823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 15:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -411,6 +415,7 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">003NMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 14:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -457,6 +462,7 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:center">004NMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 13:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
