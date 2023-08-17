@@ -143,6 +143,7 @@
                             </div>
 							
 							
+							
                             </div>
 							<br>
 							
@@ -171,7 +172,7 @@
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Titik Parkir
+											Data Transaksi
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -185,10 +186,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Aktif
+											Tunai
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Titik Parkir
+											Data Transaksi Tunai
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -202,10 +203,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Non Aktif
+											Non Tunai
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Titik Parkir
+											Data Transaksi Non Tunai
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
@@ -239,33 +240,22 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
 											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
-											   <th width="1%" colspan="5" bgcolor="#f7fcff">Kolektor</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">Titik Parkir</th>
-											 
-											 
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>Titik Parkir</th>
+											   <th width="1%" colspan="3" bgcolor="#f7fcff">Detail Transaksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>
+											  Transaksi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">ID Mitra</th>
 											  <th width="2%" bgcolor="#f7fcff">Qr Code</th>
-											  <th width="3%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Foto</th>
 											  <th width="10%" bgcolor="#f7fcff">Nama Mitra</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="3%" bgcolor="#f7fcff">Foto</th>
-											  <th width="2%" bgcolor="#f7fcff">NIK</th>
-											  <th width="10%" bgcolor="#f7fcff">Nama Pegawai</th>
-											  <th width="1%" bgcolor="#f7fcff">Hp</th>
-											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Tanggal Dibuat</th>
-											  <th width="2%" bgcolor="#f7fcff">Dibuat Oleh</th>
-											  
-											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
-											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
-											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>
-						                  </tr>
+											  <th width="2%" bgcolor="#f7fcff">Waktu  Transaksi</th>
+											  <th width="2%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
+											  <th width="7%" bgcolor="#f7fcff">Nominal</th>
+										  </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -286,22 +276,14 @@
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
-												<td nowrap style="text-align:left">000 000 000</td>
-												<td nowrap style="text-align:left">UMAR MALIK, SE</td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
+												<td nowrap style="text-align:left">17 Agustus 2023 - 17:00:00 WITA</td>
+												<td nowrap style="text-align:center">Mobil</td>
+												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="20.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tunai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -309,7 +291,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -337,20 +319,15 @@
 
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
-												<td nowrap style="text-align:left">000 000 000</td>
-												<td nowrap style="text-align:left">LEONY HESTI KILALA	</td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
+												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
+												<td nowrap style="text-align:left">17 Agustus 2023 - 16:00:00 WITA</td>
+												<td nowrap style="text-align:center">Motor</td>
+												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tunai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -358,7 +335,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -389,19 +366,14 @@
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
-												<td nowrap style="text-align:left">000 000 000</td>
-												<td nowrap style="text-align:left">MUSLIMIN</td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Non Aktif</span></td>
+												<td nowrap style="text-align:left">17 Agustus 2023 - 15:00:00 WITA</td>
+												<td nowrap style="text-align:center">Mobil</td>
+												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="20.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Non Tunai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -409,7 +381,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -439,25 +411,14 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
-												<td nowrap style="text-align:left">000 000 000</td>
-												<td nowrap style="text-align:left">HAERUL</td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
+												<td nowrap style="text-align:left">17 Agustus 2023 - 14:00:00 WITA</td>
+												<td nowrap style="text-align:center">Motor</td>
+												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="20.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tunai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -465,7 +426,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -496,25 +457,14 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" ><img src="../assets/media/users/100_1.jpg" alt="image" /></a></td>
-												<td nowrap style="text-align:left">000 000 000</td>
-												<td nowrap style="text-align:left">WIRA YUDHA SAKTI. D	</td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">12/01/2023<br>06:00:00</td>
-												<td nowrap style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
-														<img src="../assets/media/users/100_10.jpg" alt="image">
-													</a></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Aktif</span></td>
+												<td nowrap style="text-align:left">17 Agustus 2023 - 13:00:00 WITA</td>
+												<td nowrap style="text-align:center">Mobil</td>
+												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="20.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Tunai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -522,7 +472,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="titik-parkir-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
