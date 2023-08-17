@@ -645,7 +645,7 @@ function goBack() {
     <td width="6%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
     <td width="2%" bgcolor="#f7fcff">STATUS<br>MEMBER</td>
     <td width="3%" bgcolor="#f7fcff">TANGGAL<br>EXPIRED</td>
-    <td width="3%" bgcolor="#f7fcff">Aksi</td>
+    <td width="1%" bgcolor="#f7fcff">Aksi</td>
   </tr>
   <tr>
     <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
@@ -715,7 +715,6 @@ function goBack() {
     <td width="6%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3.5%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
     <td width="5%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
-    <td width="0.7%" bgcolor="#f7fcff">Aksi</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -749,13 +748,7 @@ function goBack() {
 																								  
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="12">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
 															</div>
 														</div>

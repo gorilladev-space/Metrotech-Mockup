@@ -715,7 +715,6 @@ function goBack() {
     <td width="6%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
     <td width="3.5%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
     <td width="5%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
-    <td width="0.7%" bgcolor="#f7fcff">Aksi</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -741,7 +740,7 @@ function goBack() {
 													<label class="custom-file-label" for="customFile">-Pilih-</label>
 												</div>
 											</div></td>
-    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
+    
 																								</tr>
 																								
 
@@ -749,13 +748,7 @@ function goBack() {
 																								  
 																								</tr>
 																							</tbody>
-																							<tfoot>
-																								<tr>
-																									<td colspan="12">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
-																							</tfoot>
+																							
 																						</table>
 															</div>
 														</div>

@@ -232,7 +232,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th colspan="11" bgcolor="#f7fcff">Data Member</th>
+											  <th colspan="10" bgcolor="#f7fcff">Data Member</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Kendaraan</th>
 											  <th width="1%" colspan="4" bgcolor="#feffed">Total Kendaraan</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
@@ -247,7 +247,6 @@
 											  <th width="7%" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="4%" bgcolor="#f7fcff">Username</th>
 											  <th width="10%" bgcolor="#f7fcff">Alamat</th>
-											  <th width="2%" bgcolor="#f7fcff">Metode Registrasi</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br />
 											    Registrasi</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
@@ -276,7 +275,6 @@
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
-												<td style="text-align:left" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Online</span></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -302,44 +300,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
+																			<a href="validasi-kendaraan-member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-car"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="add-vehicle.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-plus-circle"></i>
-																				<span class="kt-nav__link-text">Tambah Kendaraan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
 																		
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
-																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -359,7 +325,6 @@
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
-												<td style="text-align:left" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Online</span></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -385,38 +350,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																			<a href="validasi-kendaraan-member-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
-																
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
 																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
@@ -437,7 +376,6 @@
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
 												
-												<td style="text-align:left" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Perumda Parkir Makassar Raya</span></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -463,38 +401,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="kendaraan-member-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																			<a href="validasi-kendaraan-member-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="ubah-member.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Data Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="cetak-member-card.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-address-card"></i>
-																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="member-suspend.php" class="kt-nav__link">
-																	
-																				<i class="kt-nav__link-icon fa fa-user-slash"></i>
-																				<span class="kt-nav__link-text">Suspend</span>
-																			</li></a>
 																		
-																		
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																			
-																		</li>
 																		
 																	</ul>
 																</div>
