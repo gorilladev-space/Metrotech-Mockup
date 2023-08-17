@@ -250,6 +250,7 @@
 											  <th width="1%" colspan="2" bgcolor="#feffed">Kendaraan</th>
 											  <th width="1%" colspan="4" bgcolor="#feffed">Total Kendaraan</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#feffed">Jenis Member</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Poin Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -289,6 +290,7 @@
 												<td nowrap="nowrap" style="text-align:center">0</td>
 												<td nowrap="nowrap" style="text-align:center">0</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:right" nowrap>100</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -372,6 +374,7 @@
 												<td nowrap="nowrap" style="text-align:center">1</td>
 												<td nowrap="nowrap" style="text-align:center">0</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td style="text-align:right" nowrap>500</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -450,6 +453,7 @@
 												<td nowrap="nowrap" style="text-align:center">2</td>
 												<td nowrap="nowrap" style="text-align:center">0</td>
 												<td nowrap="nowrap" style="text-align:center">3</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:right" nowrap>1.000</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">

@@ -257,6 +257,7 @@ function goBack() {
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe Member</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Jenis Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -296,7 +297,8 @@ function goBack() {
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -368,7 +370,8 @@ function goBack() {
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -442,7 +445,8 @@ function goBack() {
 												<td nowrap style="text-align:center">2</td>
 												<td style="text-align:center" nowrap>3</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">

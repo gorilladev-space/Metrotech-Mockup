@@ -261,7 +261,8 @@
 											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
 											   <th colspan="3" bgcolor="#feffed">Data Member</th>
 											   <th colspan="3" bgcolor="#feffed">Detail Transaksi</th>
-										      <th width="1%" rowspan="2" bgcolor="#f7fcff">Type<br>Member</th>
+										      <th width="1%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Member</th>
+										      <th width="1%" rowspan="2" bgcolor="#f7fcff">Jenis<br>Member</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -304,7 +305,8 @@
 												<td nowrap style="text-align:left">001PS823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 17:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td style="text-align:center" nowrap>Corporate</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -347,7 +349,8 @@
 												<td nowrap style="text-align:left">001CS823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 16:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap>Corporate</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -392,7 +395,8 @@
 												<td nowrap style="text-align:left">001CG823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 15:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate - Gold</span></td>
+												<td style="text-align:center" nowrap>Corporate</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -436,7 +440,8 @@
 												<td nowrap style="text-align:left">001CP823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 14:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate - Platinum</span></td>
+												<td style="text-align:center" nowrap>Corporate</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -475,13 +480,14 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:left">000001MP823</td>
+												<td nowrap style="text-align:left">000002MP823</td>
 												<td nowrap style="text-align:left">Muhammad Nasrullah, S.Kom</td>
 												<td nowrap style="text-align:left">006DD516A51351</td>
 												<td nowrap style="text-align:left">001PS824</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 13:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td style="text-align:center" nowrap>Pribadi</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>

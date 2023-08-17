@@ -271,6 +271,7 @@
 											  <th width="1%" bgcolor="#feffed">Suspend By</th>
 											  <th width="5%" bgcolor="#feffed">Keterangan Suspend</th>
 											  <th width="1%" bgcolor="#feffed">Tipe Member</th>
+											  <th width="1%" bgcolor="#feffed">Jenis Member</th>
 											  <th width="1%" bgcolor="#f7fcff">QR Code Member</th>
 											  <th width="1%" bgcolor="#f7fcff">ID<br>Member</th>
 											  
@@ -294,7 +295,8 @@
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:left" nowrap>Yulianti Tomu, SE</td>
 												<td style="text-align:left" nowrap>Duplikat</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Corporate - Silver</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000001</td>
@@ -355,7 +357,8 @@
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
 												<td nowrap="nowrap" style="text-align:left">Muhammad Nasrullah</td>
 												<td style="text-align:left" nowrap>Duplikat</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Corporate - Gold</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000002</td>
@@ -416,7 +419,8 @@
 												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
 												<td nowrap="nowrap" style="text-align:left">Muhammad Nasrullah</td>
 												<td style="text-align:left" nowrap>Duplikat</td>
-												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Corporate - Platinum</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Platinum</span></td>
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000003</td>
@@ -443,7 +447,7 @@
 									  </a>
 							    </li>
 								<li class="kt-nav__item">
-									<a href="view-kendaraan-suspend-detail.php" class="kt-nav__link" >
+									<a href="view-kendaraan-perusahaan-suspend-detail.php" class="kt-nav__link" >
 										<i class="kt-nav__link-icon fa fa-eye"></i>
 										<span class="kt-nav__link-text">Lihat Profil Kendaraan</span>
 									</a>

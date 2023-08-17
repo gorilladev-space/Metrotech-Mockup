@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Tipe Member
+                    Data Pengaturan Membership
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -70,7 +70,7 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-4">
-                                <label>Type Member :</label>
+                                <label>Uraian :</label>
     	                       
         							<input type="text" class="form-control form-control-sm" placeholder="">
         					
@@ -102,16 +102,39 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="40%" bgcolor="#f7fcff">Tipe Member</th>
-											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Tipe Member</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Jenis Member</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Ketentuan</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Keterangan</th>
+											  <th width="15%" colspan="4" bgcolor="#f7fcff">Pejabat Pembuat</th>
+											  <th width="7%" colspan="2" bgcolor="#f7fcff">Tanggal</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
+											<tr style="text-align:center">
+											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama</th>
+											  <th width="3%" bgcolor="#f7fcff">NIP</th>
+											  <th width="7%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="3%" bgcolor="#f7fcff">Dibuat</th>
+											  <th width="3%" bgcolor="#f7fcff">Diubah</th>
+							              </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td>1</td>
 												<td align="left" valign="left" style="text-align:left">Pribadi</td>
-												
+												<td align="left" valign="left" style="text-align:left">Silver</td>
+												<td align="left" valign="left" style="text-align:right">1-100</td>
+												<td align="left" valign="left" style="text-align:left">Poin</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -137,9 +160,20 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
+										  <tr>
 												<td>2</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Silver</td>
+												<td align="left" valign="left" style="text-align:left">Pribadi</td>
+												<td align="left" valign="left" style="text-align:left">Gold</td>
+												<td align="left" valign="left" style="text-align:right">101-500</td>
+												<td align="left" valign="left" style="text-align:left">Poin</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -167,7 +201,18 @@
 										  </tr>
 										  <tr>
 												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Gold</td>
+												<td align="left" valign="left" style="text-align:left">Pribadi</td>
+												<td align="left" valign="left" style="text-align:left">Platinum</td>
+												<td align="left" valign="left" style="text-align:right">501-10.000</td>
+												<td align="left" valign="left" style="text-align:left">Poin</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -194,8 +239,19 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Platinum</td>
+												<td>4</td>
+												<td align="left" valign="left" style="text-align:left">Corporate</td>
+												<td align="left" valign="left" style="text-align:left">Silver</td>
+												<td align="left" valign="left" style="text-align:right">1 - 250</td>
+												<td align="left" valign="left" style="text-align:left">Member</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -221,6 +277,85 @@
 																</div>
 															</div></td>
 										  </tr>
+										  <tr>
+												<td>5</td>
+												<td align="left" valign="left" style="text-align:left">Corporate</td>
+												<td align="left" valign="left" style="text-align:left">Gold</td>
+												<td align="left" valign="left" style="text-align:right">251 - 1.000</td>
+												<td align="left" valign="left" style="text-align:left">Member</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td>6</td>
+												<td align="left" valign="left" style="text-align:left">Corporate</td>
+												<td align="left" valign="left" style="text-align:left">Platinum</td>
+												<td align="left" valign="left" style="text-align:right">1.001 - 10.000</td>
+												<td align="left" valign="left" style="text-align:left">Member</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
+																	<ul class="kt-nav">
+																	
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
+																				<span class="kt-nav__link-text">Edit</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																		
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  
 										  
 										</tbody>
 									</table>
@@ -485,7 +620,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH TIPE MEMBER</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH DATA</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -495,12 +630,44 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nama Tipe Member :</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
+												<div class="col-lg-3">
+														<label>Tipe Member:</label>
+														<select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
+                                      <option value="1" selected="">Pribadi</option>
+                                      <option value="2">Corporate</option>
+                                      
+                                  </select>
 
 												</div>
+<div class="col-lg-3">
+														<label>Jenis Member:</label>
+														<select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
+                                      <option value="1" selected="">Silver</option>
+                                      <option value="2">Gold</option>
+                                      <option value="2">Platinum</option>
+                                      
+                                  </select>
 
+												</div>
+												<div class="col-lg-2">
+														<label>Range Awal:</label>
+														<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="1"></td>
+
+												</div>
+												<div class="col-lg-2">
+														<label>Range Akhir:</label>
+														<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="10000"></td>
+
+												</div>
+												<div class="col-lg-2">
+														<label>Satuan:</label>
+														<select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
+                                      <option value="1" selected="">Poin</option>
+                                      <option value="2">Member</option>
+                                      
+                                  </select>
+
+												</div>
 												
 
 												</div>

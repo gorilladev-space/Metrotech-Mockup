@@ -7,7 +7,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Tipe Member
+                    Data Jenis Member
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -70,7 +70,7 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-4">
-                                <label>Type Member :</label>
+                                <label>Jenis Member :</label>
     	                       
         							<input type="text" class="form-control form-control-sm" placeholder="">
         					
@@ -103,15 +103,15 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="40%" bgcolor="#f7fcff">Tipe Member</th>
+											  <th width="40%" bgcolor="#f7fcff">Jenis Member</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
 										<tbody>
+											
 											<tr>
 												<td>1</td>
-												<td align="left" valign="left" style="text-align:left">Pribadi</td>
-												
+												<td align="left" valign="left" style="text-align:left">Silver</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -137,9 +137,9 @@
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
+										  <tr>
 												<td>2</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Silver</td>
+												<td align="left" valign="left" style="text-align:left">Gold</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -167,35 +167,7 @@
 										  </tr>
 										  <tr>
 												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Gold</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Corporate - Platinum</td>
+												<td align="left" valign="left" style="text-align:left">Platinum</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -485,7 +457,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH TIPE MEMBER</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH JENIS MEMBER</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -496,7 +468,7 @@
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-4">
-														<label>Nama Tipe Member :</label>
+														<label>Nama Jenis Member :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>

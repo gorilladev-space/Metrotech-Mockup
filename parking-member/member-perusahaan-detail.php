@@ -325,9 +325,13 @@ function goBack() {
                           <label>Nama Perusahaan :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="PT. iLugroup Multimedia Indonesia">
                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate Platinum">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
+                        </div>
+						<div class="col-lg-3">
+                          <label>Jenis Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Platinum">
                         </div>
                         </div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>

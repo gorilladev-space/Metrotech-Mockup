@@ -163,9 +163,13 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Tipe Member :</label>
-                           <input type="text" class="form-control form-control-sm" placeholder="Corporate - Silver" disabled>
+                           <input type="text" class="form-control form-control-sm" placeholder="Corporate" disabled>
+                        </div>
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Jenis Member :</label>
+                           <input type="text" class="form-control form-control-sm" placeholder="Silver" disabled>
                         </div>
 						<div class="col-lg-6">
 					                           <label>Email :</label>
