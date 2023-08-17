@@ -90,7 +90,7 @@
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-1">
+							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -122,6 +122,55 @@
     		                    </div>
     		                    </div>
 								 <div class="col-lg-2">
+                                <label>ID Transaksi :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							<div class="col-lg-2">
+                                <label>Tanggal Transaksi :</label>
+    	                     <div class="input-group">
+						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+        					
+                            </div>
+							<div class="col-lg-1">
+                                <label>Jenis Kendaraan :</label>
+    	                       <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Mobil</option>
+                                      <option value="2">Motor</option>
+                                     
+                                  </select>
+        					
+                            </div>
+							<div class="col-lg-1">
+                                <label>Status Transaksi :</label>
+    	                       <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Tunai</option>
+                                      <option value="2">Non Tunai</option>
+                                     
+                                  </select>
+        					
+                            </div>
+                            
+							
+							
+							
+							
+							
+							
+							
+                            </div>
+							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+							<div class="form-group row">
+						<div class="col-lg-2">
                                 <label>ID Mitra :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
@@ -131,7 +180,7 @@
     		                        </span>
     		                    </div>
     		                    </div>
-                            <div class="col-lg-2">
+                           <div class="col-lg-2">
                                 <label>Nama Mitra :</label>
     	                      <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -141,6 +190,9 @@
     		                    </div>
         					
                             </div>
+							
+							
+							
 							
 							
 							
@@ -239,7 +291,7 @@
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
-											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
+											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir Bertugas</th>
 											   <th width="1%" colspan="4" bgcolor="#feffed">Detail Transaksi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>
 											  Transaksi</th>
