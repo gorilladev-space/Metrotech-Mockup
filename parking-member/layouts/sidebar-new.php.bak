@@ -81,7 +81,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="datamember-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Member Perusahaan</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="datamember-perusahaan-aktif.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Perusahaan Aktif</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="member-perusahaan-expired.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Perusahaan Expired</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="member-perusahaan-suspend.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Perusahaan Suspend</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="member-perusahaan-suspend.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Suspend</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="member-perusahaan-subscribe.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Subscribe Perusahaan</span></a></li>
 
 											
@@ -100,6 +100,8 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-pribadi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pribadi</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Perusahaan</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Sudah Tervalidasi</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="validasi-member-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kendaraan Belum Tervalidasi</span></a></li>
 
 											
 
