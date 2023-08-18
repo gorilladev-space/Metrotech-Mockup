@@ -717,22 +717,7 @@ function goBack() {
                           &nbsp;
                         </div>
                        
-						<div class="col-lg-3">
-                          <label>Tanggal Transaksi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18 Agustus 2023 - 18:06 WITA">
-                        </div>
-						<div class="col-lg-2">
-                          <label>ID Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Metode Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
-                        </div>
-						<div class="col-lg-2">
-                          <label>Status Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Terbayar">
-                        </div>
+						
                         </div>
 						
                      
@@ -774,11 +759,11 @@ function goBack() {
                         </div>
 						<div class="col-lg-2">
                           <label>ID Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PMPS823">
                         </div>
 						<div class="col-lg-3">
                           <label>Metode Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transfer Bank">
                         </div>
 						<div class="col-lg-2">
                           <label>Status Pembayaran :</label>

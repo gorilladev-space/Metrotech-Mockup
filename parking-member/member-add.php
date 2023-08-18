@@ -33,14 +33,7 @@ function goBack() {
 
 
 										</div>
-										<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
-					<span class="kt-hidden-mobile">Simpan</span>
-				</button>
-				
-				
-			</div>
+										
 							</div>
 						</div>
 						</div>
@@ -875,6 +868,11 @@ function goBack() {
 						<div class="col-lg-6">
                           <label>ID Transaksi :</label>
                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000001PS823">
+
+                        </div>
+						<div class="col-lg-6">
+                          <label>ID Pembayaran :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000001PMPS823">
 
                         </div>
 						

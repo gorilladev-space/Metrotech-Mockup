@@ -759,11 +759,11 @@ function goBack() {
                         </div>
 						<div class="col-lg-2">
                           <label>ID Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PMP823">
                         </div>
 						<div class="col-lg-3">
                           <label>Metode Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transfer Bank">
                         </div>
 						<div class="col-lg-2">
                           <label>Status Pembayaran :</label>
