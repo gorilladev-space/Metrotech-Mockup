@@ -1,5 +1,6 @@
 <?php require '../layouts/head.php' ?>
 <?php require 'layouts/header.php' ?>
+<link href="../assets/css/pages/invoices/invoice-2.css" rel="stylesheet" type="text/css" />
 
 
 
@@ -99,10 +100,10 @@ function goBack() {
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Data Kendaraan
+														Kendaraan
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Roda Empat / Mobil
+														Data Kendaraan Member
 													</div>
 												</div>
 													<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -115,14 +116,14 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="fa fa-motorcycle"></i>
+													<i class="flaticon-list-1"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Data Kendaraan
+														Transaksi
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Roda Dua / Motor
+														Detail Transaksi Member
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -130,6 +131,25 @@ function goBack() {
 												</div>
 											</div>
 										</div>
+										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step">
+											<div class="kt-wizard-v4__nav-body">
+												<div class="kt-wizard-v4__nav-icon">
+													<i class="flaticon-layers"></i>
+												</div>
+												<div class="kt-wizard-v4__nav-label">
+													<div class="kt-wizard-v4__nav-label-title">
+														E-Receipt
+													</div>
+													<div class="kt-wizard-v4__nav-label-desc">
+														Bukti Transaksi
+													</div>
+												</div>
+												<div class="kt-wizard-v4__nav-number kt-block-center">
+													4
+												</div>
+											</div>
+										</div>
+										
 									</div>
 								</div>
 
@@ -416,12 +436,12 @@ function goBack() {
 									<div class="col-xl-2">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Member</div><br>
+									<div class="kt-portlet kt-portlet--height-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Membership</div><br>
 										<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
-																										<div class="col-lg-12">
+																									<div class="form-group row">
+																										<div class="col-lg-12" style="text-align:center">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
 																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
@@ -434,29 +454,81 @@ function goBack() {
 																												</span>
 																											</div>
 																										</div>
+																										</div>
+																										<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																										
+																										<div class="form-group row">
+																										<div class="col-lg-12">
+                          <label class="">ID Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001CS823">
+                      </div>
+                        </div>
+						
+																								</div>
+																								</div>
+																								<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																								<div class="form-group row">
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="col-lg-12">
+                          <label class="">Tipe Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
+                      </div>
+                        </div>
 																										
 																									</div>
-																								</div>
+																									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																								<div class="form-group row">
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="col-lg-12">
+                          <label class="">Jenis Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
+                      </div>
+                        </div>
+																										
+																									</div>
+																									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																								<div class="form-group row">
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="col-lg-12">
+                          <label class="">Waktu Regisrasi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18/08/2023 - 16:04 WITA">
+                      </div>
+                        </div>
+																										
+																									</div>
 																							</div>
 
 									</div>
 
 									</div>
+									</div>
+									</div>
+									</div>
+									
 										
 
 
 
-								</div>
-														</div>
-													</div>
 
 													<!--end: Form Wizard Step 1-->
 
 													<!--begin: Form Wizard Step 2-->
-													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
 														<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__form">
-																<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
+
+											<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">MOBIL</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="0.5%" bgcolor="#f7fcff">NO</td>
@@ -512,73 +584,348 @@ function goBack() {
 																								</tr>
 																							</tfoot>
 																						</table>
-															</div>
+						
+                     
+						
+                     
+					  
+                     
+									</div>
+									
+                     
+
+									
+
+									</div>
+
+
+									</div>
+							<!--end:: Portlet-->
+
+
+										</div>
+										
 														</div>
+														<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">MOTOR</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_2">
+																								<thead>
+																								<tr style="text-align:center">
+																								  <td width="0.5%" bgcolor="#f7fcff">NO</td>
+    <td width="3%" bgcolor="#f7fcff">ID NFC<br>KENDARAAN</td>
+    <td width="1.7%" bgcolor="#f7fcff">NO. PLAT<br>KENDARAAN</td>
+    <td width="7%" bgcolor="#f7fcff">NAMA PEMILIK</td>
+    <td width="11%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
+    <td width="7%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
+    <td width="2.5%" bgcolor="#f7fcff">JENIS<br>/ MODEL</td>
+    <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
+    <td width="6%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
+    <td width="3.5%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
+    <td width="5%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
+    <td width="0.7%" bgcolor="#f7fcff">Aksi</td>
+																								</tr>
+																								<thead>
+																									<tbody data-repeater-list="">
+																								<tr data-repeater-item>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" class="form-control form-control-sm" placeholder="scan NFC" /></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="DD 1111 LUU" /></td>
+    <td style="text-align:center">
+      <input type="text" class="form-control form-control-sm" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
+      </div></td>
+    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
+    <td style="text-align:left">
+      <input type="text" class="form-control form-control-sm" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
+      </div></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="2023" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
+    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="006079598" /></td>
+    <td style="text-align:center"><div class="form-group m-form__group">
+												
+												<div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile">-Pilih-</label>
+												</div>
+											</div></td>
+    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
+																								</tr>
+																								
+
+																								<tr data-repeater-item>
+																								  
+																								</tr>
+																							</tbody>
+																							<tfoot>
+																								<tr>
+																									<td colspan="12">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
+																						</table>
+						
+                     
+						
+                     
+					  
+                     
+									</div>
+									
+                     
+
+									
+
+									</div>
+
+
+									</div>
+							<!--end:: Portlet-->
+
+
+										</div>
+										
+														</div>
+													</div>
 													</div>
 
 													<!--end: Form Wizard Step 2-->
 
 													<!--begin: Form Wizard Step 3-->
-													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
 														<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__form">
-														<table class="table table-bordered table-hover table-checkable" id="kt_repeater_2">
+														<div class="row">
+								<div class="col-xl-8">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Transaksi</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_2">
+
+  <tbody><tr style="text-align:center">
+    <td width="1%" bgcolor="#f7fcff">NO</td>
+    <td width="5%" bgcolor="#f7fcff">URAIAN </td>
+    <td width="2%" colspan="2" bgcolor="#f7fcff">JUMLAH KENDARAAN</td>
+    <td width="1%" colspan="2" bgcolor="#f7fcff">VOL</td>
+    <td width="5%" bgcolor="#f7fcff">BIAYA</td>
+    <td width="5%" bgcolor="#f7fcff">JUMLAH</td>
+    <td width="1%" bgcolor="#f7fcff">AKSI</td>
+  </tr>
+  <tr style="text-align:center">
+    <td bgcolor="#f5f5f5">a</td>
+    <td bgcolor="#f5f5f5">b</td>
+    <td colspan="2" bgcolor="#f5f5f5">c</td>
+    <td colspan="2" bgcolor="#f5f5f5">d</td>
+    <td bgcolor="#f5f5f5">e</td>
+    <td bgcolor="#f5f5f5">f</td>
+    <td bgcolor="#f5f5f5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">1</td>
+    <td colspan="8"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biaya Membership Parkir"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align:center">&nbsp;</td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mobil" /></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Unit" /></td>
+    <td><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">1</option>
+                              <option value="HI">2</option>
+                              <option value="HI">3</option>
+                              <option value="HI">4</option>
+                              <option value="HI">5</option>
+                            </select></td>
+    <td><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Hari</option>
+      <option value="AK">Minggu</option>
+      <option value="HI">Bulan</option>
+      <option value="HI">Tahun</option>
+                            </select></td>
+     <td><div class="input-group input-group-sm" >
+														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    <td><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+  </tr>
+  <tr>
+    <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Motor" /></td>
+     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Unit" /></td>
+    <td><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">1</option>
+                              <option value="HI">2</option>
+                              <option value="HI">3</option>
+                              <option value="HI">4</option>
+                              <option value="HI">5</option>
+                            </select></td>
+    <td><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">Hari</option>
+      <option value="AK">Minggu</option>
+      <option value="HI">Bulan</option>
+      <option value="HI">Tahun</option>
+                            </select></td>
+     <td><div class="input-group input-group-sm" >
+														<div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="650.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    <td><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">2</td>
+    <td colspan="5"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biaya Layanan" /></td>
+    <td><div class="input-group input-group-sm" >
+      <div class="input-group-prepend" ><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+      <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.000.000" aria-describedby="basic-addon1">
+      <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+    </div></td>
+    <td><div class="input-group input-group-sm">
+      <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+      <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="7.000.000" aria-describedby="basic-addon1">
+      <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+      </div></td>
+    
+    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon"><i class="fa fa-trash-alt"></i></button></td>
+  </tr>
+  
+  
+  <tr>
+    <td colspan="9" style="text-align:center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align:right">SUB TOTAL BIAYA</td>
+    <td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    <td rowspan="3" style="text-align:center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align:right">PAJAK</td>
+    <td style="text-align:center"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    </tr>
+  
+  <tr>
+    <td colspan="7" style="text-align:right" bgcolor="#feffed"><b>GRAND TOTAL </b></td>
+    <td bgcolor="#feffed"><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="40.550.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+    </tr>
+  <tr>
+    <td colspan="9" style="text-align:center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="9" style="text-align:left" bgcolor="#f7fcff"><b>Terbilang :</b></td>
+  </tr>
+</tbody></table>
+												
+						
+                     
+						
+                     
+					  
+                     
+									</div>
+									
+
+									</div>
+
+
+									</div>
+							<!--end:: Portlet-->
+
+
+										</div>
+										<div class="col-xl-4">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Transaksi</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+
+						<div class="col-lg-6">
+                          <label>ID Transaksi :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000001PS823">
+
+                        </div>
+						
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  
+						
+						  
+
+
+
+
+											</div>
+
+										</div>
+
+									</div>
+<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pembayaran</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												
+						 
+						  
+						
+						  <table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
-																								  <td width="0.5%" bgcolor="#f7fcff">NO</td>
-    <td width="3%" bgcolor="#f7fcff">ID NFC<br>KENDARAAN</td>
-    <td width="1.7%" bgcolor="#f7fcff">NO. PLAT<br>KENDARAAN</td>
-    <td width="7%" bgcolor="#f7fcff">NAMA PEMILIK</td>
-    <td width="11%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
-    <td width="7%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
-    <td width="2.5%" bgcolor="#f7fcff">JENIS<br>/ MODEL</td>
-    <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
-    <td width="6%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
-    <td width="3.5%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
-    <td width="5%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
-    <td width="0.7%" bgcolor="#f7fcff">Aksi</td>
-																								</tr>
+																								  <td bgcolor="#f7fcff">MIDTRANS PAYMENT</td>
+    </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
-																								<tr data-repeater-item>
-																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
-    <td><input type="text" class="form-control form-control-sm" placeholder="scan NFC" /></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="DD 1111 LUU" /></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
-      </div></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
-    <td style="text-align:left">
-      <input type="text" class="form-control form-control-sm" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
-      </div></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MINIBUS" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="2023" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="MHRGK5860JJ807780" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder="006079598" /></td>
-    <td style="text-align:center"><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">-Pilih-</label>
-												</div>
-											</div></td>
-    <td style="text-align:center"><button type="button" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="Hapus"><i class="fa fa-trash-alt"></i></button></td>
-																								</tr>
 																								
-
-																								<tr data-repeater-item>
-																								  
-																								</tr>
 																							</tbody>
 																							<tfoot>
-																								<tr>
-																									<td colspan="12">
-																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
-																									</td>
-																								</tr>
 																							</tfoot>
 																						</table>
-													</div>
+
+
+
+
+											</div>
+
+										</div>
+
+									</div>
+									</div>
+									
+									</div>
+
+											
 													</div>
 													</div>
 
@@ -586,71 +933,118 @@ function goBack() {
 
 													<!--begin: Form Wizard Step 4-->
 													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
-													<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__form">
-														<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
-										<thead style="text-align:center">
-											<tr>
-												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="3%" bgcolor="#f7fcff">ID Asset</th>
-                                                <th width="2%" bgcolor="#f7fcff">QR Code</th>
-                                                <th width="10%" bgcolor="#f7fcff">Nama Barang</th>
-                                                <th width="7%" bgcolor="#f7fcff">Tipe Produk</th>
-                                                <th width="7%" bgcolor="#f7fcff">Kategori Produk</th>
-                                                <th width="7%" bgcolor="#f7fcff">Diserahkan Oleh</th>
-												<th width="7%" bgcolor="#f7fcff">Waktu<br>Penyerahan</th>
-												<th width="1%" bgcolor="#f7fcff">Status Penyerahan</th>
-												<th width="2%" bgcolor="#f7fcff">Aksi</th>
-											</tr>
-										</thead>
-										<tbody>
-
-
-										  <tr>
-												<td style="text-align:center" id="kt_table_1">1</td>
-												<td style="text-align:center;">2/IM-KASBON/III/2019</td>
-                                                <td style="text-align:center;"><i class="fa fa-qrcode"></i></td>
-                                                <td style="text-align:left;">Laptop Asus Core i5</td>
-                                                <td style="text-align:center">Elektronik</td>
-                                                <td style="text-align:center">Laptop</td>
-                                                <td style="text-align:center">&nbsp;</td>
-												<td style="text-align:left">12 Oktober 2019 - 09:00 WITA</td>
-											  <td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui" data-html="true">
-													    <i class="fa flaticon2-check-mark"></i>
-												    </span></td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_detail_asset">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</div>
-																		</li>
-																		<li class="kt-nav__item">
-																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal_serah_terima_asset">
-																				<i class="kt-nav__link-icon fa fa-luggage-cart"></i>
-																				<span class="kt-nav__link-text">Serah Terima Barang</span>
-																			</div>
-																		</li>
-
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-									    </tbody>
-									</table>
+														<div class="kt-invoice-2">
+										<div class="kt-invoice__head">
+											<div class="kt-invoice__container">
+												<div class="kt-invoice__brand">
+													<h1 class="kt-invoice__title">Kwitansi</h1>
+													<div href="#" class="kt-invoice__logo">
+														<a href="#"><img src="../assets/media/company-logos/logo_client_color.png"></a>
+														<span class="kt-invoice__desc">
+															<span>Cecilia Chapman, 711-2880 Nulla St, Mankato</span>
+															<span>Mississippi 96522</span>
+														</span>
 													</div>
+												</div>
+												<div class="kt-invoice__items">
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">DATA</span>
+														<span class="kt-invoice__text">Dec 12, 2017</span>
 													</div>
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">INVOICE NO.</span>
+														<span class="kt-invoice__text">GS 000014</span>
+													</div>
+													<div class="kt-invoice__item">
+														<span class="kt-invoice__subtitle">INVOICE TO.</span>
+														<span class="kt-invoice__text">Iris Watson, P.O. Box 283 8562 Fusce RD.<br>Fredrick Nebraska 20620</span>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__body">
+											<div class="kt-invoice__container">
+												<div class="table-responsive">
+													<table class="table">
+														<thead>
+															<tr>
+																<th>DESCRIPTION</th>
+																<th>HOURS</th>
+																<th>RATE</th>
+																<th>AMOUNT</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>Creative Design</td>
+																<td>80</td>
+																<td>$40.00</td>
+																<td class="kt-font-danger kt-font-lg">$3200.00</td>
+															</tr>
+															<tr>
+																<td>Front-End Development</td>
+																<td>120</td>
+																<td>$40.00</td>
+																<td class="kt-font-danger kt-font-lg">$4800.00</td>
+															</tr>
+															<tr>
+																<td>Back-End Development</td>
+																<td>210</td>
+																<td>$60.00</td>
+																<td class="kt-font-danger kt-font-lg">$12600.00</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__footer">
+											<div class="kt-invoice__container">
+												<div class="table-responsive">
+													<table class="table">
+														<thead>
+															<tr>
+																<th>BANK</th>
+																<th>ACC.NO.</th>
+																<th>DUE DATE</th>
+																<th>TOTAL AMOUNT</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>BARCLAYS UK</td>
+																<td>12345678909</td>
+																<td>Jan 07, 2018</td>
+																<td class="kt-font-danger kt-font-xl kt-font-boldest">20,600.00</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+										</div>
+										<div class="kt-invoice__actions">
+											<div class="kt-invoice__container">
+												<button type="button" class="btn btn-label-brand btn-bold" onclick="window.print();">Download Kwitansi</button>
+												<button type="button" class="btn btn-brand btn-bold" onclick="window.print();">Print Kwitansi</button>
+											</div>
+										</div>
+									</div>
 													</div>
 
 													<!--end: Form Wizard Step 4-->
 
 													<!--begin: Form Actions -->
-													
+													<div class="kt-form__actions">
+														<button class="btn btn-secondary btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-prev">
+															Kembali
+														</button>
+														<button class="btn btn-success btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-submit">
+															Kirim Data
+														</button>
+														<button class="btn btn-brand btn-md btn-tall btn-wide kt-font-bold kt-font-transform-u" data-ktwizard-type="action-next">
+															Selanjutnya
+														</button>
+													</div>
 
 													<!--end: Form Actions -->
 												</form>
