@@ -960,7 +960,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Validator</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Validasi</div><br>
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -998,10 +998,14 @@ function goBack() {
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-4">
+																						<label>ID Validasi :</label>
+																						<input type="text" class="form-control form-control-sm" value="000001VMP823 " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-4">
 																						<label>Waktu Validasi :</label>
 																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-8">
+																					<div class="col-lg-4">
 																						<label>Lokasi Validasi :</label>
 																						<input type="text" class="form-control form-control-sm" value="Inkubator Center Mamajang" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
