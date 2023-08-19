@@ -570,7 +570,7 @@ function goBack() {
                         </div>
 						<div class="col-lg-6">
                           <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Member Silver">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
                         </div>
                         </div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -1029,11 +1029,11 @@ function goBack() {
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-6">
+																					<div class="col-lg-5">
 																						<label>ID Member :</label>
 																						<input type="text" class="form-control form-control-sm" value="000000001" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-6">
+																					<div class="col-lg-7">
 																						<label>Type Member :</label>
 																						<input type="text" class="form-control form-control-sm" value="Corporate - Platinum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>

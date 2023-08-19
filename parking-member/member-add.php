@@ -890,7 +890,7 @@ function goBack() {
 										</div>
 
 									</div>
-<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pembayaran</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">

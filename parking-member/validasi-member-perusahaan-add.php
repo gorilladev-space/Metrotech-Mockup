@@ -570,7 +570,7 @@ function goBack() {
                         </div>
 						<div class="col-lg-6">
                           <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Member Silver">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
                         </div>
                         </div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -706,10 +706,124 @@ function goBack() {
 													<!--end: Form Wizard Step 2-->
 
 													<!--begin: Form Wizard Step 3-->
-													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content">
+													<div class="kt-wizard-v4__content" data-ktwizard-type="step-content" data-ktwizard-state="current">
 														<div class="kt-form__section kt-form__section--first">
-															<div class="kt-wizard-v4__form">
-																<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
+
+											
+										
+										<div class="row">
+										<div class="col-xl-5">
+										
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Validasi</div>
+							<br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+						
+						<div class="col-lg-3">
+                          <label>ID Validasi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                        </div>
+						<div class="col-lg-4">
+                          <label>Waktu Validasi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="19 Agustus 2023 - 13:30 WITA">
+                        </div>
+						<div class="col-lg-5">
+                          <label>Nama Pegawai :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
+                        </div>
+                       
+						
+                        </div>
+						
+                     
+						
+                     
+					  
+                     
+									</div>
+									
+                     
+
+                     
+											 
+                     
+					                         </div>
+					                         </div>
+
+									
+							<!--end:: Portlet-->
+</div>
+										
+										<div class="col-xl-7">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Transaksi</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+						
+						<div class="col-lg-2">
+                          <label>ID Transaksi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                        </div>
+                       
+						<div class="col-lg-3">
+                          <label>Tanggal Transaksi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18 Agustus 2023 - 18:06 WITA">
+                        </div>
+						<div class="col-lg-2">
+                          <label>ID Pembayaran :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PMP823">
+                        </div>
+						<div class="col-lg-3">
+                          <label>Metode Pembayaran :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transfer Bank">
+                        </div>
+						<div class="col-lg-2">
+                          <label>Status Pembayaran :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Terbayar">
+                        </div>
+                        </div>
+						
+                     
+						
+                     
+					  
+                     
+									</div>
+									
+                     
+
+                     
+											 
+                     
+					                         </div>
+					                         </div>
+
+									
+							<!--end:: Portlet-->
+</div>
+										
+					
+									
+										
+
+
+
+								</div>
+								<div class="row">
+										<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kendaraan Member</div><br>
+										<div class="kt-portlet__body">
+																								<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="0.5%" bgcolor="#f7fcff">NO</td>
@@ -758,7 +872,20 @@ function goBack() {
 																							</tbody>
 																							
 																						</table>
-															</div>
+																							</div>
+
+									</div>
+
+									</div>
+										
+										
+					
+									
+										
+
+
+
+								</div>
 														</div>
 													</div>
 

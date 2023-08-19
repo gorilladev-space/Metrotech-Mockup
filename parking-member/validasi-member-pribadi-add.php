@@ -570,7 +570,7 @@ function goBack() {
                         </div>
 						<div class="col-lg-6">
                           <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Member Silver">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pribadi">
                         </div>
                         </div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -704,17 +704,28 @@ function goBack() {
 											
 										
 										<div class="row">
-										<div class="col-xl-4">
+										<div class="col-xl-5">
+										
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Validasi</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 						
-						<div class="col-lg-2">
-                          &nbsp;
+						<div class="col-lg-3">
+                          <label>ID Validasi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                        </div>
+						<div class="col-lg-4">
+                          <label>Waktu Validasi :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="19 Agustus 2023 - 13:30 WITA">
+                        </div>
+						<div class="col-lg-5">
+                          <label>Nama Pegawai :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
                         </div>
                        
 						
@@ -739,7 +750,7 @@ function goBack() {
 							<!--end:: Portlet-->
 </div>
 										
-										<div class="col-xl-8">
+										<div class="col-xl-7">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
