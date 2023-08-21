@@ -162,7 +162,8 @@
 </svg></span><span class="kt-menu__link-text">Laporan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kinerja Mitra</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kinerja Mitra Jukir PLB</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-kinerja-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kinerja Kolektor PLB</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-unpaid-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Belum Bayar</span></a></li>
 											
 
@@ -194,7 +195,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="zona-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="format-nomor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor</span></a></li>
 
 										</ul>
 									</div>
