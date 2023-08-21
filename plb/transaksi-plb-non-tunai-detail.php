@@ -128,7 +128,7 @@ function goBack() {
                         <div class="col-lg-4">
                           <label class="">Metode Pembayaran :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="GoPay">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kartu Kredit">
                       </div>
                         </div>
                         
