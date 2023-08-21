@@ -148,7 +148,7 @@ function goBack() {
 						
 <div class="col-lg-4">
                           <label>ID Mitra :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPTJUVIII23">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
