@@ -87,6 +87,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="mitrakolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Mitra Jukir PLB Anda</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="targetkolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Target Kolektor</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-kolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Customer Anda</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-kolektorplb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Monitoring Setoran</span></a></li>
 											
 											
 											
@@ -125,7 +126,7 @@
 </svg></span><span class="kt-menu__link-text">Transaksi</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="transaksi-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi Non Member</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="transaksi-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Transaksi PLB</span></a></li>
 											
 										</ul>
 									</div>
