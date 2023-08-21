@@ -565,7 +565,7 @@ function goBack() {
 
 						<div class="col-lg-6">
                           <label>ID Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001MP823">
 
                         </div>
 						<div class="col-lg-6">
@@ -709,7 +709,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Transaksi</div>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Validasi</div>
 							<br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">

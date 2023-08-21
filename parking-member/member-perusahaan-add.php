@@ -264,11 +264,11 @@ function goBack() {
 
 
 						<div class="col-lg-6">
-                          <label>Email :</label>
+                          <label><span style="color:#ff0000">*</span> Email :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx"  >
                         </div>
 						<div class="col-lg-3">
-					                           <label>Tlp / HP :</label>
+					                           <label><span style="color:#ff0000">*</span> Tlp / HP :</label>
                           <input type="text" class="form-control form-control-sm" placeholder=""  >
 					                         </div>
 											 <div class="col-lg-3">

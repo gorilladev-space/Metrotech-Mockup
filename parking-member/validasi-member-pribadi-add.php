@@ -565,7 +565,7 @@ function goBack() {
 
 						<div class="col-lg-6">
                           <label>ID Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001MP823">
 
                         </div>
 						<div class="col-lg-6">
@@ -717,7 +717,7 @@ function goBack() {
 						
 						<div class="col-lg-3">
                           <label>ID Validasi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001VMP823">
                         </div>
 						<div class="col-lg-4">
                           <label>Waktu Validasi :</label>
