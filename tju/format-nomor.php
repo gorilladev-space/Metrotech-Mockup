@@ -127,7 +127,7 @@
 											<tr>
 												<td>1</td>
 												<td align="left" valign="left" style="text-align:left">ID Mitra Jukir</td>
-												<td align="left" valign="left" style="text-align:left">000000001</td>
+												<td align="left" valign="left" style="text-align:left">00001MJPTJUVIII23</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>

@@ -109,7 +109,7 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Uraian</th>
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Format Nomor Surat</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Format Nomor</th>
 											  <th width="15%" colspan="4" bgcolor="#f7fcff">Pejabat Pembuat</th>
 											  <th width="7%" colspan="2" bgcolor="#f7fcff">Tanggal</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>

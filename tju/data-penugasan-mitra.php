@@ -143,7 +143,8 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-7">
+					  
+								<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -151,30 +152,27 @@ function goBack() {
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
+																					
 																					<div class="col-lg-6">
-																						<label>QR Code Mitra :</label>
-																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-6">
-																						<label>ID Mitra :</label>
-																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
+																						<label>ID Mitra Jukir :</label>
+																						<input type="text" class="form-control form-control-sm" value="00001MJPTJUVIII23" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					
 																					
 																				</div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-4">
-																						<label>Tanggal Efektif Mitra :</label>
+						<div class="col-lg-6">
+																						<label>Tanggal Efektif:</label>
 																						<input type="text" class="form-control form-control-sm" value="31 Desember 2022" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-						<div class="col-lg-4">
+						<div class="col-lg-3">
 																						<label>Jam Tugas Awal :</label>
-																						<input type="text" class="form-control form-control-sm" value="06:00:00 AM" placeholder="06:00:00 AM" disabled>
+																						<input type="text" class="form-control form-control-sm" value="06:00:00 WITA" placeholder="06:00:00 AM" disabled>
 																					</div>
-																					<div class="col-lg-4">
+																					<div class="col-lg-3">
 																						<label>Jam Tugas Akhir :</label>
-																						<input type="text" class="form-control form-control-sm" value="17:00:00 PM" placeholder="17:00:00 PM" disabled>
+																						<input type="text" class="form-control form-control-sm" value="17:00:00 WITA" placeholder="17:00:00 PM" disabled>
 																					</div>
 						
                         </div>
@@ -214,7 +212,7 @@ function goBack() {
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-5">
+<div class="col-xl-4">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -273,6 +271,44 @@ function goBack() {
 
 
 									</div>
+									<div class="col-xl-2">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">QR Code Mitra Jukir</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-12">
+																						<div>&nbsp;</div>
+														<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/qrcode.png&quot;);"></div>
+
+
+																		</div>
+
+												</div>
+																					
+																					
+																					
+																				</div>
+						
+                   
+                        </div>
+						
+                     
+					  
+									
+
+									
+
+									</div>
+									
+
+
+									</div>
+							<!--end:: Portlet-->
+</div>
 <div class="col-xl-2">
 
 									<!--begin::Portlet-->

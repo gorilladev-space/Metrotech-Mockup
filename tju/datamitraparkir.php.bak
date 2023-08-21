@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Mitra Parkir
+                    Data Mitra Juru Parkir
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -88,7 +88,7 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-2">
-                                <label>ID Mitra :</label>
+                                <label>ID Jukir :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -98,7 +98,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Mitra :</label>
+                                <label>Nama Jukir :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -267,7 +267,7 @@
 											Total
 										</h4>
 										<span class="kt-widget24__desc">
-											Mitra Parkir
+											Mitra Juru Parkir
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -281,10 +281,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Mitra Pria
+											Pria
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Mitra Pria
+											Statistik Mitra Juru Parkir Pria
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -298,10 +298,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Mitra Wanita
+											Wanita
 										</h4>
 										<span class="kt-widget24__desc">
-											Statistik Mitra Wanita
+											Statistik Mitra Juru Parkir Wanita
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
@@ -326,11 +326,11 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra Jukir</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra Jukir</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
+											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra Jukir</th>
 											 
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
 											  
@@ -361,7 +361,7 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>00001MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -413,7 +413,7 @@
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="cetak-id-card-jukir.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak ID Card Jukir</span>
 																			</a>
 																		</li>
@@ -457,7 +457,7 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td>
+												<td style="text-align:center" nowrap>00002MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -553,7 +553,7 @@
 										  <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td>
+												<td style="text-align:center" nowrap>00003MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -647,7 +647,7 @@
 										  <tr>
 												<td id="kt_table_1">4</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td>
+												<td style="text-align:center" nowrap>00004MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -739,7 +739,7 @@
 										  <tr>
 												<td id="kt_table_1">5</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000005</td>
+												<td style="text-align:center" nowrap>00005MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
