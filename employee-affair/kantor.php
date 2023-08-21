@@ -108,8 +108,8 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" bgcolor="#f7fcff">Nama Kantor</th>
-											  <th width="7%" bgcolor="#f7fcff">Alamat Kantor</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama Kantor</th>
+											  <th width="30%" bgcolor="#f7fcff">Alamat Kantor</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>

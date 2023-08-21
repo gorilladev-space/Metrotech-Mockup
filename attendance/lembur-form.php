@@ -350,15 +350,36 @@ function goBack() {
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">2</td>
-																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="HI">000 000 002 - Rizal Asjadad</option>
-                              <option value="HI">000 000 003 - Christofher Rio Aviary</option>
-                              <option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-                              <option value="HI">000 000 005 - Zulfadli Syahrir</option>
-                              <option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-                              <option value="HI">000 000 007 - Sri Suhartini, SE</option>
-                              <option value="HI">000 000 008 - Mahdinar, SE</option>
-                            </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select></td>
 							<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
 													</div></td>
@@ -372,14 +393,36 @@ function goBack() {
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">3</td>
-																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="HI">000 000 003 - Christofher Rio Aviary</option>
-                              <option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-                              <option value="HI">000 000 005 - Zulfadli Syahrir</option>
-                              <option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-                              <option value="HI">000 000 007 - Sri Suhartini, SE</option>
-                              <option value="HI">000 000 008 - Mahdinar, SE</option>
-                            </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select></td>
 							<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
 													</div></td>
@@ -393,13 +436,36 @@ function goBack() {
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">4</td>
-																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-                              <option value="HI">000 000 005 - Zulfadli Syahrir</option>
-                              <option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-                              <option value="HI">000 000 007 - Sri Suhartini, SE</option>
-                              <option value="HI">000 000 008 - Mahdinar, SE</option>
-                            </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select></td>
 							<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direksi"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama"></td>
 													</div></td>
@@ -413,12 +479,36 @@ function goBack() {
 																								</tr>
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">5</td>
-																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="HI">000 000 005 - Zulfadli Syahrir</option>
-                              <option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-                              <option value="HI">000 000 007 - Sri Suhartini, SE</option>
-                              <option value="HI">000 000 008 - Mahdinar, SE</option>
-                            </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select></td>
 							<td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama"></td>
     <td><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Hukum dan Perundang Undangan"></td>
 													</div></td>

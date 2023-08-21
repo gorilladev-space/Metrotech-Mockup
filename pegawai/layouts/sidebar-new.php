@@ -129,7 +129,6 @@
 														<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-sop.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Standar Operasional</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-surat-peringatan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Peringatan</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-surat-keterangan-kerja.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Keterangan Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-surat-keputusan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Keputusan</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pegawai-surat-pengalaman-kerja.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Pengalaman Kerja</span></a></li>
 
 

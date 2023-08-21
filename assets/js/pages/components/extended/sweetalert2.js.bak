@@ -101,7 +101,7 @@ var KTSweetAlert2Demo = function() {
             }).then(function(result) {
                 if (result.value) {
                     swal.fire(
-                        'Deleted!',
+                        'Data Berhasil Dikirim !',
                         '',
                         'success'
                     )

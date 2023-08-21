@@ -172,9 +172,9 @@
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Atasan</th>
-												<th width="1%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="1%" bgcolor="#f7fcff">HR Manager</th>
+											  <th width="1%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
+												<th width="1%" bgcolor="#f7fcff">Kasi<br>Kepegawaian</th>
+												<th width="1%" bgcolor="#f7fcff">Kabag<br>Umum</th>
 												<th width="1%" bgcolor="#f7fcff">Finance</th>
 											</tr>
 										</thead>
@@ -241,7 +241,7 @@
 												<td style="text-align:left; border-right-color:#fff">Rp.</td>
 												<td style="text-align:right;">1.000.000,-</td>
 												<td style="text-align:right; border-right-color:#fff">0</td>
-												<td style="text-align:right">%</td>
+												<td style="text-align:center">%</td>
 												<td style="text-align:right; border-right-color:#fff">10</td>
 												<td style="text-align:center">Bulan</td>
 												<td style="text-align:left; border-right-color:#fff">Rp.</td>

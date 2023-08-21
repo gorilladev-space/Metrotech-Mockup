@@ -102,8 +102,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">Jenis Cuti</th>
-											  <th width="1%" bgcolor="#f7fcff">Quota<br>Tahunan</th>
+											  <th width="40%" bgcolor="#f7fcff">Jenis Cuti</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
@@ -111,7 +110,6 @@
 											<tr>
 												<td width="1%">1</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Alasan Penting</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -140,7 +138,6 @@
 											<tr>
 												<td width="1%">2</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Bersalin</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -169,7 +166,6 @@
 										  <tr>
 												<td width="1%">3</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Besar</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -198,7 +194,6 @@
 										  <tr>
 												<td width="1%">4</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Khusus</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -227,7 +222,6 @@
 										  <tr>
 												<td width="1%">5</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Sakit</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -256,7 +250,6 @@
 										  <tr>
 												<td width="1%">6</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Tahunan</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -285,7 +278,6 @@
 										  <tr>
 												<td width="1%">7</td>
 												<td width="7%" align="left" valign="left" style="text-align:left">Cuti Menikah</td>
-												<td width="1%" align="left" valign="left" style="text-align:center">12</td>
 												
 												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -589,11 +581,7 @@
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
-<div class="col-lg-6">
-														<label>Quota Tahunan :</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
-												</div>
 												
 
 												</div>

@@ -132,7 +132,7 @@ var KTSweetAlert2Demo = function() {
               } else if (result.dismiss === 'cancel') {
                   swal.fire({
                       title: 'Apakah Anda Yakin Melakukan Persetujuan ?',
-                      text: "Silahkan Tanda Tangan",
+                      text: "Silahkan Fingerprint",
                       type: 'success',
                       input:'textarea'
                   })

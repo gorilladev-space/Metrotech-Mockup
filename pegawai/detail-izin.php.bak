@@ -64,6 +64,66 @@ function goBack() {
                       </div>
                       </div>
                     </div>
+					<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                        
+                        <div class="col-lg-4">
+                          <label>Jenis Izin :</label>
+                     <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Izin Terlambat Datang">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tanggal Izin :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/12/2022 - 31/12/2022">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tujuan Izin :</label>
+                          <textarea class="form-control" disabled="disabled" placeholder="Temanin Teman yang punya teman pergi shopping" id="exampleTextarea" rows="4"></textarea>
+                        </div>
+                      </div>
+                      </div>
+                    </div>
+					<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                        
+                        <div class="col-lg-4">
+                          <label>Jenis Izin :</label>
+                     <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Izin Terlambat Datang">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tanggal Izin :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/12/2022 - 31/12/2022">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tujuan Izin :</label>
+                          <textarea class="form-control" disabled="disabled" placeholder="Temanin Teman yang punya teman pergi shopping" id="exampleTextarea" rows="4"></textarea>
+                        </div>
+                      </div>
+                      </div>
+                    </div>
+					<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Izin</div><br>
+										 <div class="kt-portlet__body">
+                      <div class="form-group row">
+                        
+                        <div class="col-lg-4">
+                          <label>Jenis Izin :</label>
+                     <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Izin Terlambat Datang">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tanggal Izin :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/12/2022 - 31/12/2022">
+                        </div>
+                        <div class="col-lg-4">
+                          <label class="">Tujuan Izin :</label>
+                          <textarea class="form-control" disabled="disabled" placeholder="Temanin Teman yang punya teman pergi shopping" id="exampleTextarea" rows="4"></textarea>
+                        </div>
+                      </div>
+                      </div>
+                    </div>
 					
                     </div>
 							<!--end:: Portlet-->
@@ -74,7 +134,7 @@ function goBack() {
 
 								<div class="col-xl-3">
 
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Pejabat Pembuat</div><br>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
@@ -139,7 +199,7 @@ function goBack() {
 								
 								<div class="col-xl-3">
 
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Saldo Izin</div>
 										<div class="kt-portlet__body">
                       <div class="form-group row">
@@ -170,7 +230,7 @@ function goBack() {
                         </div>
                       </div>
                         <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<label><span class="kt-badge kt-badge--danger kt-badge--inline">Riwayat Cuti Tahun ini :</span></label>
+						<label><span class="kt-badge kt-badge--danger kt-badge--inline">Riwayat Izin Tahun ini :</span></label>
                 <!--Begin::Timeline 3 -->
 											<div class="kt-timeline-v2">
 												<div class="kt-timeline-v2__items  kt-padding-top-25 kt-padding-bottom-30">

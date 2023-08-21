@@ -113,9 +113,9 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">Provinsi</th>
-											  <th width="8%" bgcolor="#f7fcff">Kabupaten</th>
-											  <th width="8%" bgcolor="#f7fcff">Kota</th>
+											  <th width="15%" bgcolor="#f7fcff">Provinsi</th>
+											  <th width="15%" bgcolor="#f7fcff">Kabupaten</th>
+											  <th width="15%" bgcolor="#f7fcff">Kota</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>

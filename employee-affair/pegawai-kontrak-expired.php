@@ -294,8 +294,8 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
 											  <th width="14%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Department</th>
+											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
 											  <th width="14%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th colspan="2" bgcolor="#f7fcff">Tanggal</th>
@@ -318,8 +318,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130001K</td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
+												
+												<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td style="text-align:left" nowrap>Direktur Utama</td>
-														<td width="3%" style="text-align:center" nowrap>Direksi</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
@@ -381,8 +382,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130002K</td>
 												<td style="text-align:left" nowrap>Maghfirah Sharifudin Andy Omar S.Psi</td>
-												<td style="text-align:left" nowrap>HR Staff</td>
+												
 														<td width="3%" style="text-align:center" nowrap>HR & GA</td>
+														<td style="text-align:left" nowrap>HR Staff</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Makassar, 18 November 1993</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
@@ -444,8 +446,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130003K</td>
 												<td style="text-align:left" nowrap>Ade Rismawan</td>
-												<td style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
+												
 														<td width="3%" style="text-align:center" nowrap>Teknik</td>
+														<td style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Embalut, 30 Desember 1998</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
@@ -507,8 +510,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130004K</td>
 												<td style="text-align:left" nowrap>Nur Achfiah Budhi Artha, S. ST</td>
-												<td style="text-align:left" nowrap>General Affair Staff</td>
+												
 														<td width="3%" style="text-align:center" nowrap>HR & GA</td>
+														<td style="text-align:left" nowrap>General Affair Staff</td>
 												<td style="text-align:center" nowrap>Sulawesi Barat</td>
 												<td style="text-align:left" nowrap>Makassar, 15 Mei 1996</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>

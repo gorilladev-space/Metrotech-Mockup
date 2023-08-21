@@ -89,15 +89,6 @@
     		                            <span><i class="la la-search"></i></span>
     		                        </span>
     		                    </div>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label>Tanggal Release :</label>
-																		<div class="input-group">
-						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
 								
 						                        </div>
 												<div class="col-lg-3">
@@ -111,12 +102,38 @@
     		                    </div>
 								
 						                        </div>
+												<div class="col-lg-2">
+						                          <label>Tanggal Release :</label>
+																		<div class="input-group">
+						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+								
+						                        </div>
+												<div class="col-lg-2">
+						                          <label>Last Update:</label>
+																		<div class="input-group">
+						                        <input type="text" class="form-control kt_daterangepicker_2" readonly="" placeholder="Select date range">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+								
+						                        </div>
+												
 												
 												<div class="col-lg-2">
 						                          <label class="">Jenis Peraturan :</label>
 						                          <select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Terbaca</option>
-						                              <option value="3">Belum Terbaca</option>
+						                              <option value="2">Administrasi</option>
+						                              <option value="3">Kepegawaian</option>
+						                              <option value="3">Keuangan</option>
+						                              <option value="3">Operasional</option>
+						                              <option value="3">Pengembangan Usaha</option>
+						                              <option value="3">Legal</option>
+						                              <option value="3">Lainnya</option>
 						                            
 
 
@@ -158,142 +175,60 @@
 									<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead style="text-align:center">
 											<tr>
-												<th width="1%" bgcolor="#f7fcff">#</th>
-												<th width="8%" bgcolor="#f7fcff">No Dokumen</th>
-												<th width="8%" bgcolor="#f7fcff">Tahun Release</th>
-												<th width="8%" bgcolor="#f7fcff">Tanggal Release</th>
-												<th width="8%" bgcolor="#f7fcff">Last Update</th>
-												<th width="8%" bgcolor="#f7fcff">Latest Modified</th>
-												<th width="8%" bgcolor="#f7fcff">Jenis Peraturan Perusahaan</th>
-												<th width="20%" bgcolor="#f7fcff">Perihal</th>
-												<th width="3%" bgcolor="#f7fcff">Aksi</th>
+												<th width="1%" rowspan="2" bgcolor="#f7fcff">#</th>
+												<th width="6%" rowspan="2" bgcolor="#f7fcff">No Dokumen</th>
+												<th width="2%" colspan="3" bgcolor="#f7fcff">Dibuat</th>
+												<th width="6%" colspan="2" bgcolor="#f7fcff">Diubah</th>
+												<th width="8%" rowspan="2" bgcolor="#f7fcff">Jenis<br>Peraturan Perusahaan</th>
+												<th width="30%" rowspan="2" bgcolor="#f7fcff">Perihal</th>
+												<th width="3%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 											</tr>
+											<tr>
+											  <th width="1%" bgcolor="#f7fcff">Tahun</th>
+											  <th width="5%" bgcolor="#f7fcff">Tanggal</th>
+											  <th width="1%" bgcolor="#f7fcff">Pejabat</th>
+											  <th width="5%" bgcolor="#f7fcff">Tanggal</th>
+											  <th width="1%" bgcolor="#f7fcff">Pejabat</th>
+							              </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="8%" style="text-align:center">001/IM-HRD/XI/ 2019</td>
-												<td width="8%" style="text-align:center">2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">Surat Peringatan Pertama (SP1)</td>
-												<td style="text-align:center">Terlambat masuk selama 5 (lima) hari berturut-turut tanpa alasan yang sah</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td id="kt_table_1">1</td>
+												<td style="text-align:center">001/IM-HRD/XI/2019</td>
+												<td style="text-align:left">2019</td>
+												<td style="text-align:left">1 November 2019</td>
+												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left">1 November 2019</td>
+												<td style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td style="text-align:left">Kepegawaian</td>
+												<td style="text-align:left">Absensi Kepegawaian</td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
 																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
+																			<a href="pegawai-view-peraturan.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Peringatan</span>
+																			<a href="pegawai-download-peraturan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-file-download"></i>
+																				<span class="kt-nav__link-text">Download Peraturan</span>
 																			</a>
 																		</li>
 																	</ul>
 																</div>
 															</div></td>
 										  </tr>
-											<tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="8%" style="text-align:center">001/IM-HRD/XI/ 2019</td>
-												<td width="8%" style="text-align:center">2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">Surat Peringatan Pertama (SP1)</td>
-												<td style="text-align:center">Terlambat masuk selama 5 (lima) hari berturut-turut tanpa alasan yang sah</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Peringatan</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="8%" style="text-align:center">001/IM-HRD/XI/ 2019</td>
-												<td width="8%" style="text-align:center">2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">Surat Peringatan Pertama (SP1)</td>
-												<td style="text-align:center">Terlambat masuk selama 5 (lima) hari berturut-turut tanpa alasan yang sah</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Peringatan</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td width="1%" id="kt_table_1">1</td>
-												<td width="8%" style="text-align:center">001/IM-HRD/XI/ 2019</td>
-												<td width="8%" style="text-align:center">2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">1 November 2019</td>
-												<td width="8%" style="text-align:center">Surat Peringatan Pertama (SP1)</td>
-												<td style="text-align:center">Terlambat masuk selama 5 (lima) hari berturut-turut tanpa alasan yang sah</td>
-												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hr-cetak-peringatan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-file-invoice"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Peringatan</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
+											
 										</tbody>
 									</table>
 

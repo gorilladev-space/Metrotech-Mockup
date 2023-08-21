@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Kolektor Parkir
+											Data Kolektor Parkir Tepi Jalan Umum
 
 									</h3>
 
@@ -50,6 +50,10 @@
 
 												<!--end::Nav-->
 											</div>
+											 <a href="kolektor-tju-add.php" class="btn btn-info btn-sm">
+                    <i class="fa fa-plus"></i> Tambah Data</button>
+                    <!--<i class="flaticon2-plus"></i>-->
+                </a>
 
 											
 										</div>
@@ -273,8 +277,8 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIP</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Department</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>

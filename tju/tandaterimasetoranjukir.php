@@ -1250,12 +1250,17 @@ function goBack() {
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-4">
+														<label>ID Setoran :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/TJU/PMR/VIII/2023">
+
+												</div>
+												<div class="col-lg-4">
 														<label>ID Mitra Jukir :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000 000 001">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
 
 												</div>
 
-												<div class="col-lg-8">
+												<div class="col-lg-4">
 														<label>Nama Mitra Jukir :</label>
 														<div class="form-group">
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="A. LUTFIA AGUSTINAPUTRI">
@@ -1340,7 +1345,7 @@ function goBack() {
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
 												<div class="col-lg-4">
-														<label class="kt-font-danger">Tanda Tangan Mitra Jukir :</label>
+														<label class="kt-font-danger">Fingerprint Mitra Jukir :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
 														<span class="dropzone-msg-desc">&nbsp;</span>
@@ -1348,7 +1353,7 @@ function goBack() {
 												</div>
 													</div>
 												<div class="col-lg-4">
-														<label>Tanda Tangan Kolektor :</label>
+														<label>Fingerprint Kolektor :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
 														<span class="dropzone-msg-desc">&nbsp;</span>

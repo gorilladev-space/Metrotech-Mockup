@@ -122,18 +122,24 @@ function goBack() {
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="">
                         </div>
-                       <div class="col-lg-3">
+                       <div class="col-lg-2">
                           <label>Gelar Depan :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="Ir">
                         </div>
-						<div class="col-lg-3">
+						<div class="col-lg-2">
                           <label>Gelar Belakang :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="S.Psi">
                         </div>
+						<div class="col-lg-2">
+                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP / SIM :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
+                      </div>
+                      </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" placeholder=""  >
@@ -147,6 +153,7 @@ function goBack() {
 														
 													</select>
                         </div>
+						
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Status :</label>
                          <select class="form-control form-control kt-selectpicker" id="exampleSelects">
@@ -154,6 +161,17 @@ function goBack() {
 														<option>Menikah</option>
 														<option>Janda</option>
 														<option>Duda</option>
+														</select>
+                        </div>
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Agama :</label>
+                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+														<option>Islam</option>
+														<option>Kristen Protestan</option>
+														<option>Kristen Katholik</option>
+														<option>Hindu</option>
+														<option>Budha</option>
+														<option>Konghucu</option>
 														</select>
                         </div>
                         </div>
@@ -193,18 +211,17 @@ function goBack() {
 
 
 						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> Agama :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Islam</option>
-														<option>Kristen Protestan</option>
-														<option>Kristen Katholik</option>
-														<option>Hindu</option>
-														<option>Budha</option>
-														<option>Konghucu</option>
-														</select>
+					                           <label><span style="color:#ff0000">*</span> Email :</label>
+                        <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
 					                         </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
+						<div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> No. Tlp / HP :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
+                      </div>
+                      </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Whatsapp :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
                       </div>
@@ -217,7 +234,7 @@ function goBack() {
 
 
 						<div class="col-lg-6">
-					                           <label>NPWP :</label>
+					                           <label><span style="color:#ff0000">*</span> NPWP :</label>
                          <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
 					                         </div>
 					                         </div>
@@ -226,11 +243,11 @@ function goBack() {
 <div class="form-group row">
 
 						<div class="col-lg-3">
-					                           <label>No. Rekening :</label>
+					                           <label><span style="color:#ff0000">*</span> No. Rekening :</label>
                          <input type="text" class="form-control form-control-sm" placeholder="1520017942547">
 					                         </div>
 						<div class="col-lg-3">
-					                           <label class="">Bank :</label>
+					                           <label class=""><span style="color:#ff0000">*</span> Bank :</label>
                            <select class="form-control form-control kt-selectpicker" id="exampleSelects">
 														<option>Mandiri</option>
 														<option>BNI</option>
@@ -243,7 +260,7 @@ function goBack() {
 														</select>
                       </div>
 						<div class="col-lg-6">
-					                           <label>Nama Pemilik Rekening :</label>
+					                           <label><span style="color:#ff0000">*</span> Nama Pemilik Rekening :</label>
                          <input type="text" class="form-control form-control-sm" placeholder="Isikan Nama Pemilik Rekening">
 					                         </div>
 

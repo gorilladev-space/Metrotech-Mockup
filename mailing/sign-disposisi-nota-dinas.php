@@ -601,22 +601,51 @@
                           <label>No Nota Dinas :</label>
                            <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="034/10.2.2/PERUMDA-PMR/XII/2022">
                         </div>
-                        <div class="col-lg-4">
-                          <label class="">Dari :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum">
-                        </div>
+                       
 						
 						<div class="col-lg-4">
                           <label>Tanggal Nota Dinas :</label>
                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29/12/2022">
                         </div>
                       </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+                       
+                        <div class="col-lg-4">
+                          <label class="">Dari :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
+                        </div>
+						
+						<div class="col-lg-4">
+                          <label>NIP :</label>
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="238 004 032">
+                        </div>
+						<div class="col-lg-4">
+                          <label>Department :</label>
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha dan Kerjasama">
+                        </div>
+                      </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+                       
+                        
+						
+						
+						<div class="col-lg-4">
+                          <label>Bagian :</label>
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kerjasama">
+                        </div>
+						<div class="col-lg-8">
+                          <label>Jabatan :</label>
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha dan Kerjasama">
+                        </div>
+                      </div>
 					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
                         
 						<div class="col-lg-12">
-                          <label>Isi Nota Dinas :</label>
-                       <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="10"></textarea>
+                          <label>Ringkasan Nota Dinas :</label>
+                       <textarea class="form-control" id="exampleTextarea" disabled="disabled" rows="5"></textarea>
                         </div>
                       </div>
 					   

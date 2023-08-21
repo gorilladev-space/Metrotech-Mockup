@@ -136,6 +136,10 @@
 </svg></span><span class="kt-menu__link-text">Administrasi Pegawai</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
+											<li class="kt-menu__item" aria-haspopup="true"><a href="hr-peraturan-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Peraturan Perusahaan</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="hr-peraturan-direksi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Peraturan Direksi</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="hr-standar-operasional.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Standar Operasional</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="hr-sk-direksi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Keputusan Direksi</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="surat-pengangkatan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">SK Pegawai Tetap</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="kontrak-kerja.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kontrak Kerja Pegawai</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="keterangan-kerja.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Surat Keterangan Kerja</span></a></li>
@@ -158,6 +162,7 @@
 											<li class="kt-menu__item" aria-haspopup="true"><a href="kantor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kantor</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="tipe-pegawai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tipe Pegawai</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="pangkat-golongan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Pangkat / Golongan</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="status-pernikahan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Status Pernikahan</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="agama.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Agama</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="department.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Department</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="bagian.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Bagian</span></a></li>
@@ -186,11 +191,6 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="format-nomor-surat.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor Surat</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Kontrak Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Keterangan Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Pengalaman Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Peringatan Kerja</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="#" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Setup Surat Keterangan Penghasilan</span></a></li>
 										</ul>
 									</div>
 								</li>

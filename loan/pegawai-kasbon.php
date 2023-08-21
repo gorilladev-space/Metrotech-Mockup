@@ -176,10 +176,10 @@
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Atasan</th>
-												<th width="1%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="1%" bgcolor="#f7fcff">HR Manager</th>
-												<th width="1%" bgcolor="#f7fcff">Finance</th>
+											  <th width="1%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
+												<th width="1%" bgcolor="#f7fcff">Kasi<br>Kepegawaian</th>
+												<th width="1%" bgcolor="#f7fcff">Kabag<br>Kepegawaian</th>
+												<th width="1%" bgcolor="#f7fcff">Keuangan</th>
 											</tr>
 										</thead>
 										<tbody>

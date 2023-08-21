@@ -134,14 +134,15 @@
 							<div class="col-lg-2">
                                 <label class="">Jabatan :</label>
 								  <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Direksi</option>
-                                      <option value="3">Finance</option>
-                                      <option value="4">SDM & UMUM</option>
-                                      <option value="5">Infrastruktur</option>
-                                      <option value="6">Information Technology</option>
-                                      <option value="7">cuti tahunan</option>
-                                      <option value="12">Creative</option>
-                                      <option value="12" selected="">Commercial & Business Development</option>
+                                      <option value="2">Dewan Pengawas</option>
+									  <optgroup label="Direksi">
+                                      <option value="2" selected="">Direktur Utama</option>
+                                      <option value="2">Direktur Umum</option>
+                                      <option value="2">Direktur Keuangan dan Asset</option>
+                                      <option value="2">Direktur Operasional</option>
+                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
+									  </optgroup>
+                                     
                                   </select>
 
                             </div>
@@ -293,8 +294,9 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
 											  <th width="14%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
+											 
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Department</th>
+											   <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Kantor</th>
 											  <th width="14%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th colspan="2" bgcolor="#f7fcff">Tanggal</th>
@@ -317,8 +319,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130001K</td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah, S.Kom</td>
-												<td style="text-align:left" nowrap>Direktur Utama</td>
+												
 														<td width="3%" style="text-align:center" nowrap>Direksi</td>
+														<td style="text-align:left" nowrap>Direktur Utama</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
@@ -368,8 +371,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130002K</td>
 												<td style="text-align:left" nowrap>Maghfirah Sharifudin Andy Omar S.Psi</td>
-												<td style="text-align:left" nowrap>HR Staff</td>
+												
 														<td width="3%" style="text-align:center" nowrap>HR & GA</td>
+														<td style="text-align:left" nowrap>HR Staff</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Makassar, 18 November 1993</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>
@@ -419,8 +423,9 @@
 													</a></td>
 												<td style="text-align:center" nowrap>9130003K</td>
 												<td style="text-align:left" nowrap>Ade Rismawan</td>
-												<td style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
+												
 														<td width="3%" style="text-align:center" nowrap>Teknik</td>
+														<td style="text-align:left" nowrap>Electrical Engineer Supervisor Assistant</td>
 												<td style="text-align:center" nowrap>Pusat</td>
 												<td style="text-align:left" nowrap>Embalut, 30 Desember 1998</td>
 												<td style="text-align:center" nowrap>24 September 2019</td>

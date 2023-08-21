@@ -49,7 +49,7 @@
 												<!--end::Nav-->
 											</div>
 											<a href="pegawai-kasbon-add.php" class="btn btn-info btn-sm">
-												<i class="fa fa-plus-circle"></i> Tambah Data</button>
+												<i class="fa fa-plus-circle"></i> Buat Kasbon Baru</button>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>
 
@@ -176,9 +176,9 @@
 												<th width="2%" bgcolor="#f7fcff" rowspan="2">Aksi</th>
 											</tr>
 											<tr>
-											  <th width="1%" bgcolor="#f7fcff">Atasan</th>
-												<th width="1%" bgcolor="#f7fcff">HR SPV</th>
-												<th width="1%" bgcolor="#f7fcff">HR Manager</th>
+											  <th width="1%" bgcolor="#f7fcff">Atasan<br>Langsung</th>
+												<th width="1%" bgcolor="#f7fcff">Kasi<br>Kepegawaian</th>
+												<th width="1%" bgcolor="#f7fcff">Kabag<br>Kepegawaian</th>
 												<th width="1%" bgcolor="#f7fcff">Finance</th>
 											</tr>
 										</thead>
