@@ -1251,7 +1251,7 @@ function goBack() {
 													<div class="form-group row">
 												<div class="col-lg-4">
 														<label>ID Setoran :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/TJU/PMR/VIII/2023">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001SJTJU823">
 
 												</div>
 												<div class="col-lg-4">
