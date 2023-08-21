@@ -78,118 +78,137 @@
 													</div>
 
 													<div class="kt-portlet" id = "login_Box_Div" >
-																<div class="kt-portlet__head">
-																	<div class="kt-portlet__head-label">
-																		<h3 class="kt-portlet__head-title">
-																			Filter Data
-																		</h3>
-																	</div>
-																</div>
+				<div class="kt-portlet__head">
+					<div class="kt-portlet__head-label">
+						<h3 class="kt-portlet__head-title">
+							Filter Data
+						</h3>
+					</div>
+				</div>
 
-																<!--begin::Form-->
-																<form class="kt-form">
-																	<div class="kt-portlet__body">
-						                      <div class="form-group row">
-						                        <div class="col-lg-3">
-						                          <label>Nama Pegawai :</label>
-												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
-					 															<optgroup label="Direksi">
-					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
-																					<option value="HI">000 000 002 - Rizal Asjadad</option>
-																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
-																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
-																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
-					 															</optgroup>
-					 															<optgroup label="Umum">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Keuangan dan Asset">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Operasional">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-																				<optgroup label="Pengembangan Usaha dan Kerjasama">
-					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
-																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
-						                        </div>
-						                        
-<div class="col-lg-2">
-						                          <label>Department :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
-                                      <option value="4">Keuangan dan Asset</option>
-                                      <option value="5">Operasional</option>
-                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+				<!--begin::Form-->
+				<form class="kt-form">
+					<div class="kt-portlet__body">
+                        <div class="form-group row">
+						 <div class="col-lg-2">
+                                <label>Nama Customer :</label>
+								
+                                <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+    		                    </div>
+                            <div class="col-lg-2">
+                                <label>Nama Kolektor PLB :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+                           
+							<div class="col-lg-2">
+                                <label>Zona :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
                                   </select>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label>Bagian :</label>
-																		 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Direksi</option>
-                                      <option value="4">Umum dan Kepegawaian</option>
-                                      <option value="5" selected="">Hukum dan Humas</option>
-                                      <option value="6">Keuangan</option>
-                                      <option value="12">Asset</option>
-                                      <option value="12" >Pengelolaan</option>
-                                      <option value="12" >Produksi</option>
-                                      <option value="12" >Pengembangan</option>
-                                      <option value="12" >Kerjasama</option>
+                            </div>
+							<div class="col-lg-1">
+                                <label>Wilayah :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
                                   </select>
-						                        </div>
-												
-												<div class="col-lg-2">
-						                          <label class="">Tanggal :</label>
-						                          <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-						                        </div>
-												<div class="col-lg-1">
-						                          <label>Tipe Pegawai :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Tetap</option>
-						                              <option value="3">Kontrak</option>
-						                              <option value="3">Honor</option>
-
-						                          </select>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label>Kantor :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Pusat</option>
-						                              <option value="3">Cabang Sulawesi Barat</option>
-
-						                          </select>
-						                        </div>
-
-						                      </div>
-
-
-						                      </div>
-																	<div class="kt-portlet__foot text-center">
-																		<div class="kt-form__actions">
-																			<button type="reset" class="btn btn-secondary btn-sm">Reset</button>
-																			<button type="reset" class="btn btn-primary btn-sm"><i class="flaticon-interface-6"></i> Filter</button>
-																		</div>
-																	</div>
-																</form>
-															</div>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Titik Parkir :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							<div class="col-lg-1">
+                                <label>Tahun :</label>
+								
+                                 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">2023</option>
+                                      <option value="2">2022</option>
+                                      <option value="3">2021</option>
+                                      <option value="4">2020</option>
+                                      <option value="5">2019</option>
+                                      <option value="6">2018</option>
+                                      <option value="7">2017</option>
+                                      <option value="8">2016</option>
+                                      <option value="9">2015</option>
+                                      <option value="10">2014</option>
+                                      <option value="11">2013</option>
+                                      <option value="12">2012</option>
+                                  </select>
+    		                    </div>
+							
+								<div class="col-lg-2">
+                                <label>Metode Pembayaran :</label>
+								
+                                 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Manual</option>
+                                      <option value="2">Online</option>
+                                      <option value="3">Belum Bayar</option>
+                                     
+                                  </select>
+    		                    </div>
+							
+							
+                            </div>
+							<br>
+							
+							
+						
+					<div class="kt-portlet__foot text-center">
+						<div class="kt-form__actions">
+							<button type="reset" class="btn btn-outline-brand btn-sm">Reset</button>
+							<button type="reset" class="btn btn-primary btn-sm"><i class="flaticon-interface-6"></i>Filter Data</button>
+						</div>
+					</div>
+					</div>
+				</form>
+				<!--end::Form-->
+			</div>
 
 																<!--end::Form-->
 
