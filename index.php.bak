@@ -413,19 +413,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																<span class="kt-grid-nav__title">Team Reaksi Cepat</span>
 																<span class="kt-grid-nav__desc">Pengawasan Operasional</span>
 															</a>
-															<a href="./parking-gate/index.php" class="kt-grid-nav__item">
-																<span class="kt-grid-nav__icon">
-																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">
-   <defs></defs>
-    <g id="Stockholm-icons-/-Tools-/-Road-Cone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
-        <path d="M14.8520384,9 L15.7780576,12 L8.22196243,12 L9.14797495,9 L14.8520384,9 Z M13.9260192,6 L10.0739875,6 L10.7050601,3.95551581 C10.8804029,3.38745846 11.4054966,3 12,3 C12.5945036,3 13.1195978,3.38745798 13.2949418,3.95551522 L13.9260192,6 Z M16.7040768,15 L17.9387691,19 L6.06126654,19 L7.2959499,15 L16.7040768,15 Z" id="Combined-Shape" fill="#000000"></path>
-        <rect id="Rectangle" fill="#000000" opacity="0.3" x="3" y="20" width="18" height="2" rx="1"></rect>
-    </g>
-</svg> </span>
-																<span class="kt-grid-nav__title">Parking</span>
-																<span class="kt-grid-nav__desc">Gate System</span>
-															</a>
+															
 															
 															<a href="./insidentil/index.php" class="kt-grid-nav__item">
 																<span class="kt-grid-nav__icon">
@@ -449,6 +437,19 @@ License: You must have a valid license purchased only from themeforest(the above
 </svg> </span>
 																<span class="kt-grid-nav__title">Valet</span>
 																<span class="kt-grid-nav__desc">Parking System</span>
+															</a>
+															<a href="./parking-gate/index.php" class="kt-grid-nav__item">
+																<span class="kt-grid-nav__icon">
+																	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon kt-svg-icon--danger kt-svg-icon--lg">
+   <defs></defs>
+    <g id="Stockholm-icons-/-Tools-/-Road-Cone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" x="0" y="0" width="24" height="24"></rect>
+        <path d="M14.8520384,9 L15.7780576,12 L8.22196243,12 L9.14797495,9 L14.8520384,9 Z M13.9260192,6 L10.0739875,6 L10.7050601,3.95551581 C10.8804029,3.38745846 11.4054966,3 12,3 C12.5945036,3 13.1195978,3.38745798 13.2949418,3.95551522 L13.9260192,6 Z M16.7040768,15 L17.9387691,19 L6.06126654,19 L7.2959499,15 L16.7040768,15 Z" id="Combined-Shape" fill="#000000"></path>
+        <rect id="Rectangle" fill="#000000" opacity="0.3" x="3" y="20" width="18" height="2" rx="1"></rect>
+    </g>
+</svg> </span>
+																<span class="kt-grid-nav__title">Parking</span>
+																<span class="kt-grid-nav__desc">Gate System</span>
 															</a>
 															<!--<a href="./employee-affair/index.php" class="kt-grid-nav__item">
 																<span class="kt-grid-nav__icon">
