@@ -75,7 +75,7 @@ function goBack() {
                       <div class="form-group row">
                         <div class="col-lg-4">
                           <label>ID Transaksi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001NMT823">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PNMT823">
                         </div>
 
                         <div class="col-lg-4">
@@ -102,8 +102,18 @@ function goBack() {
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tunai">
                       </div>
                         </div>
-                        <div class="col-lg-4">
-                          <label class="">Nominal Transaksi :</label>
+                        
+                      </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+					  <div class="col-lg-4">
+                          <label class="">ID Pembayaran :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PNMT823">
+                      </div>
+                        </div>
+					  <div class="col-lg-4">
+                          <label class="">Nominal Pembayaran :</label>
                           <div class="form-group">
                         <div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
@@ -112,6 +122,9 @@ function goBack() {
 													</div>
                       </div>
                         </div>
+                       
+                        
+                        
                       </div>
 					  
                       </div>

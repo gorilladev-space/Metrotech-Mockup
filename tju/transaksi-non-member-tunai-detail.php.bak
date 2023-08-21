@@ -19,7 +19,7 @@
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" ddata-placement="left">
-											<a href="mutasi-pegawai.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+											<a href="#" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali</button>
 <script>
 function goBack() {
@@ -75,7 +75,7 @@ function goBack() {
                       <div class="form-group row">
                         <div class="col-lg-4">
                           <label>ID Transaksi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001NMT823">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PNMT823">
                         </div>
 
                         <div class="col-lg-4">
@@ -102,7 +102,17 @@ function goBack() {
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Tunai">
                       </div>
                         </div>
-                        <div class="col-lg-4">
+                        
+                      </div>
+					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					  <div class="form-group row">
+					  <div class="col-lg-4">
+                          <label class="">ID Pembayaran :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PNMT823">
+                      </div>
+                        </div>
+					  <div class="col-lg-4">
                           <label class="">Nominal Transaksi :</label>
                           <div class="form-group">
                         <div class="input-group input-group-sm">
@@ -112,6 +122,9 @@ function goBack() {
 													</div>
                       </div>
                         </div>
+                       
+                        
+                        
                       </div>
 					  
                       </div>
