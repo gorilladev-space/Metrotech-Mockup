@@ -201,94 +201,10 @@
 										  </tr>
 										</thead>
 										<tbody>
-											<tr>
-												<td id="kt_table_1">1</td>
-												<td style="text-align:left" nowrap>Non Member</td>
-												<td style="text-align:center" nowrap>Motor</td>
-												
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Sekali Parkir</span></td>
-												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="10.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-tarif.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="edit-tarif.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td id="kt_table_1">2</td>
-												<td style="text-align:left" nowrap>Non Member</td>
-												<td style="text-align:center" nowrap>Mobil</td>
 											
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>II</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Sekali Parkir</span></td>
-												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="20.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="detail-tarif.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail</span>
-																			</a>
-																		</li>
-																		
-																		<li class="kt-nav__item">
-																			<a href="edit-tarif.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
 										  
 										  <tr>
-												<td id="kt_table_1">3</td>
+												<td id="kt_table_1">1</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -330,7 +246,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">4</td>
+												<td id="kt_table_1">2</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -372,7 +288,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">5</td>
+												<td id="kt_table_1">3</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -414,7 +330,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">6</td>
+												<td id="kt_table_1">4</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -456,7 +372,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">7</td>
+												<td id="kt_table_1">5</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -498,7 +414,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">8</td>
+												<td id="kt_table_1">6</td>
 												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -540,7 +456,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">9</td>
+												<td id="kt_table_1">7</td>
 												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -582,7 +498,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">9</td>
+												<td id="kt_table_1">8</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -708,7 +624,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">10</td>
+												<td id="kt_table_1">11</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</span></td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -750,7 +666,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">10</td>
+												<td id="kt_table_1">12</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</span></td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -792,7 +708,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">5</td>
+												<td id="kt_table_1">13</td>
 												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -834,7 +750,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">5</td>
+												<td id="kt_table_1">14</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -876,7 +792,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">5</td>
+												<td id="kt_table_1">15</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -918,7 +834,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">6</td>
+												<td id="kt_table_1">16</td>
 												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -960,7 +876,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">6</td>
+												<td id="kt_table_1">17</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -1002,7 +918,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">6</td>
+												<td id="kt_table_1">18</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -1044,7 +960,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">7</td>
+												<td id="kt_table_1">19</td>
 												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -1086,7 +1002,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">7</td>
+												<td id="kt_table_1">20</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -1128,7 +1044,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">7</td>
+												<td id="kt_table_1">21</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
@@ -1170,7 +1086,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">8</td>
+												<td id="kt_table_1">22</td>
 												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -1212,7 +1128,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">8</td>
+												<td id="kt_table_1">23</td>
 												<td style="text-align:left" nowrap>Corporate - Gold</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -1254,7 +1170,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">8</td>
+												<td id="kt_table_1">24</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												

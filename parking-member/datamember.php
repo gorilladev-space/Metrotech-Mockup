@@ -317,12 +317,7 @@
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="add-vehicle.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-plus-circle"></i>
-																				<span class="kt-nav__link-text">Tambah Kendaraan</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
