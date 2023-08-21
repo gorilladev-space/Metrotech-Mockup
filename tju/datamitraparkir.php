@@ -1243,7 +1243,7 @@ function goBack() {
 						<div class="form-group row">
                        <div class="col-lg-12">
                           <label>ID Mitra :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPTJUVIII23">
                         </div>
 						
                         </div>
