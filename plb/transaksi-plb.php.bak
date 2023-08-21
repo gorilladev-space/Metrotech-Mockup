@@ -67,6 +67,16 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
+						<div class="col-lg-2">
+                                <label>Nama Customer :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
 						
                            
 							<div class="col-lg-2">
@@ -111,16 +121,7 @@
                                       <option value="15">XV</option>
                                   </select>
                             </div>
-							<div class="col-lg-2">
-                                <label>Titik Parkir :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
+							
 								 <div class="col-lg-2">
                                 <label>ID Transaksi :</label>
     	                      <div class="kt-input-icon kt-input-icon--right">
@@ -141,15 +142,7 @@
 						                      </div>
         					
                             </div>
-							<div class="col-lg-1">
-                                <label>Jenis Kendaraan :</label>
-    	                       <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Mobil</option>
-                                      <option value="2">Motor</option>
-                                     
-                                  </select>
-        					
-                            </div>
+							
 							<div class="col-lg-1">
                                 <label>Status Transaksi :</label>
     	                       <select class="form-control kt-selectpicker" data-live-search="true">
@@ -171,7 +164,7 @@
 							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 							<div class="form-group row">
 						<div class="col-lg-2">
-                                <label>ID Mitra :</label>
+                                <label>ID Kolektor :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -181,7 +174,7 @@
     		                    </div>
     		                    </div>
                            <div class="col-lg-2">
-                                <label>Nama Mitra :</label>
+                                <label>Nama Kolektor :</label>
     	                      <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
         							<span class="kt-input-icon__icon kt-input-icon__icon--right">
@@ -190,6 +183,8 @@
     		                    </div>
         					
                             </div>
+							
+                           
 							
 							
 							
@@ -550,7 +545,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-plb-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
