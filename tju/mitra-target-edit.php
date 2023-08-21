@@ -304,7 +304,7 @@ function goBack() {
 																									<td width="5%" bgcolor="#f7fcff">Jumat</td>
 																									<td width="5%" bgcolor="#f7fcff">Sabtu</td>
 																									<td width="5%" bgcolor="#f7fcff">Minggu</td>
-																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																									<td width="1%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -362,7 +362,7 @@ function goBack() {
 													</div></td>
   
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																										
 																									</td>
 																								</tr>
 																								<tr bgcolor="#feffed" data-repeater-item>
@@ -411,7 +411,7 @@ function goBack() {
 													</div></td>
   
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
 																							</tbody>
