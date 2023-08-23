@@ -1299,11 +1299,7 @@ function goBack() {
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">
 											
 													</div>
-													<div class="col-lg-4">
-														<label>ID Setoran :</label>
-													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000001STJU823">
-											
-													</div>
+													
 													<div class="col-lg-4">
 														<label>Tanggal Setoran :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">

@@ -771,7 +771,7 @@
 													<div class="form-group row">
 													<div class="col-lg-2">
 														<label>ID Kolektor :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0001KTJU823">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000001KI823">
 
 												</div>
 												<div class="col-lg-5">
