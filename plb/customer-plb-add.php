@@ -144,13 +144,10 @@ function goBack() {
 												<div class="form-group row">
 						
 						 <div class="col-lg-6">
-                          <label>ID Customer :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="000000001" disabled>
+                          <label>ID Customer PLB :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="0000001PLB823" disabled>
                         </div>
-						<div class="col-lg-6">
-                          <label>ID Customer :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="000000001" disabled>
-                        </div>
+						
 						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
