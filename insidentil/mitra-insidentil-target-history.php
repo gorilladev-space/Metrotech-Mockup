@@ -184,6 +184,7 @@ function goBack() {
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">ID<br>Target Pendapatan</th>
 											  
 											  <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
@@ -210,7 +211,7 @@ function goBack() {
 											
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">1</td>
-												
+												<td style="text-align:center">00009TPI823</td>
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
@@ -241,7 +242,7 @@ function goBack() {
 										  </tr>
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">2</td>
-												
+												<td style="text-align:center">00001TPI824</td>
 											
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
