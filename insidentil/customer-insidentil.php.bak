@@ -268,7 +268,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer Insidentil</th>
 											  
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer Insidentil</th>
-											  <th colspan="4" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th colspan="4" bgcolor="#f7fcff"> Zonasi Customer Insidentil</th>
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
 											  
 											 
@@ -330,7 +330,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
@@ -392,7 +392,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>

@@ -330,7 +330,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
@@ -392,7 +392,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
@@ -454,7 +454,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>

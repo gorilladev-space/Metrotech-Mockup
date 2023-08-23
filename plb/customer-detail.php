@@ -228,71 +228,86 @@ function goBack() {
 					<div class="col-xl-3">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Badan Usaha</div><br>
-										 <div class="kt-portlet__body">
+										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
-												
-                     <div class="form-group row">
-                      
-						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="Jl. Urip Sumoharjo" disabled>
+												<div class="form-group row">
+
+						<div class="col-lg-12">
+                          <label>Alamat Lengkap :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
+
+                        </div>
+						
+						
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+                       <div class="col-lg-12">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+						  <div class="col-lg-4">
+                          <label>Kode Pos :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="90233">
                         </div>
 						<div class="col-lg-4">
-                          <label>Kode Pos :</label>
-                           <input type="text" class="form-control form-control-sm" placeholder="90000" disabled>
+                          <label>RT :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="003">
                         </div>
+						<div class="col-lg-4">
+                          <label>RW :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="005">
+                        </div>
+                        
+						
 						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						 <div class="form-group row">
-                      
-						<div class="col-lg-8">
-                          <input type="text" class="form-control form-control-sm" placeholder="" disabled>
-                        </div>
-						<div class="col-lg-4">
-                          <button type="button" class="btn btn-sm btn-brand" data-toggle="modal" data-target="#modal_peta">Lihat Peta</button>
-                        </div>
-						
-						
-						
-                        </div>
-						
-						
-					 
-                    
-									 
-					  
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-									<div class="form-group row">
+						<div class="form-group row">
+                        <div class="col-lg-6">
+                          <label class="">Kelurahan :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
+                      </div>
 						<div class="col-lg-6">
-					                           <label>Latitude :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="-6.193125" disabled>
-					                         </div>
-						<div class="col-lg-6">
-                          <label class="">Longitude :</label>
+                          <label class="">Kecamatan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="106.821810" disabled>
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436">
                       </div>
+                        </div>
+
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                        <div class="col-lg-6">
+                          <label class="">Kota :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
                       </div>
-					  
-					  
+						<div class="col-lg-6">
+                          <label class="">No. Handphone :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436">
                       </div>
-					  
-					  
-					
+                        </div>
+
+                        </div>
+
+
+
+
+											</div>
+
+										</div>
+
 									</div>
 									
+
+									
 									</div>
-									
-									
-                    </div>
-					<div class="form-group row">
-					
-					
-                    </div>
-                    </div>
 					<div class="col-xl-3">
 
 									<!--begin::Portlet-->

@@ -145,7 +145,7 @@ function goBack() {
 						
 						 <div class="col-lg-6">
                           <label>ID Customer PLB :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="000000001" disabled>
+                          <input type="text" class="form-control form-control-sm" placeholder="0000001PLB823" disabled>
                         </div>
 						
 						
