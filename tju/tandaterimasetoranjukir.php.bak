@@ -1251,7 +1251,7 @@ function goBack() {
 													<div class="form-group row">
 												<div class="col-lg-4">
 														<label>ID Setoran :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001/TJU/PMR/VIII/2023">
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001SJTJU823">
 
 												</div>
 												<div class="col-lg-4">
@@ -1278,12 +1278,12 @@ function goBack() {
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepulauan Sangkarrang">
 											
 													</div>
-													<div class="col-lg-2">
+													<div class="col-lg-4">
 														<label>Wilayah :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="II">
 											
 													</div>
-													<div class="col-lg-6">
+													<div class="col-lg-4">
 														<label>Titik :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
 											
@@ -1296,6 +1296,11 @@ function goBack() {
 												
 												<div class="col-lg-4">
 														<label>Tanggal Tagihan :</label>
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">
+											
+													</div>
+													<div class="col-lg-4">
+														<label>ID Setoran :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="28/01/2023">
 											
 													</div>

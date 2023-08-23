@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Tanda Terima Setoran Jukir
+                    Tanda Terima Setoran Jukir Insidentil
                 </h3>
 				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
 									<div class="kt-subheader__group" id="kt_subheader_search">
@@ -1239,7 +1239,7 @@ function goBack() {
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">FORM SETORAN MITRA JUKIR</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">FORM SETORAN MITRA JUKIR INSIDENTIL</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -1250,18 +1250,13 @@ function goBack() {
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-4">
-														<label>ID Setoran :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001SJTJU823">
-
-												</div>
-												<div class="col-lg-4">
-														<label>ID Mitra Jukir :</label>
-														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+														<label>ID Mitra Jukir Insidentil :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00005MJPI823">
 
 												</div>
 
-												<div class="col-lg-4">
-														<label>Nama Mitra Jukir :</label>
+												<div class="col-lg-8">
+														<label>Nama Mitra Jukir Insidentil :</label>
 														<div class="form-group">
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="A. LUTFIA AGUSTINAPUTRI">
 												</div>
@@ -1278,12 +1273,12 @@ function goBack() {
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kepulauan Sangkarrang">
 											
 													</div>
-													<div class="col-lg-4">
+													<div class="col-lg-2">
 														<label>Wilayah :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="II">
 											
 													</div>
-													<div class="col-lg-4">
+													<div class="col-lg-6">
 														<label>Titik :</label>
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
 											
@@ -1301,7 +1296,7 @@ function goBack() {
 													</div>
 													<div class="col-lg-4">
 														<label>ID Setoran :</label>
-													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000001STJU823">
+													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001SI823">
 											
 													</div>
 													<div class="col-lg-4">
@@ -1350,7 +1345,7 @@ function goBack() {
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
 												<div class="col-lg-4">
-														<label class="kt-font-danger">Fingerprint Mitra Jukir :</label>
+														<label class="kt-font-danger">Tanda Tangan Mitra Jukir :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
 														<span class="dropzone-msg-desc">&nbsp;</span>
@@ -1358,7 +1353,7 @@ function goBack() {
 												</div>
 													</div>
 												<div class="col-lg-4">
-														<label>Fingerprint Kolektor :</label>
+														<label>Tanda Tangan Kolektor :</label>
 														<div class="dropzone dropzone-default dropzone-brand dz-clickable" id="kt_dropzone_2">
 													<div class="dropzone-msg dz-message needsclick">
 														<span class="dropzone-msg-desc">&nbsp;</span>

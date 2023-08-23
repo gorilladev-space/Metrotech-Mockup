@@ -249,7 +249,6 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
@@ -287,7 +286,6 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>00001MJPI823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -364,7 +362,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>00002MJPI823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -439,7 +436,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>00003MJPI823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -512,7 +508,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>00004MJPI823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
@@ -589,7 +584,6 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">5</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>00005MJPI823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
