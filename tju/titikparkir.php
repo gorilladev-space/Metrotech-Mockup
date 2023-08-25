@@ -240,7 +240,8 @@
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
 											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
 											   <th width="1%" colspan="5" bgcolor="#f7fcff">Kolektor</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">Titik Parkir</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal Dibuat</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Dibuat Oleh</th>
 											 
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
@@ -259,9 +260,6 @@
 											  <th width="10%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Tanggal Dibuat</th>
-											  <th width="2%" bgcolor="#f7fcff">Dibuat Oleh</th>
-											  
 											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
 											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>

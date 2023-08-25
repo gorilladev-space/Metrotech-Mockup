@@ -377,13 +377,8 @@ function goBack() {
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
 																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_7.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												
+																												
 																											</div>
 																										</div>
 																										
@@ -392,21 +387,16 @@ function goBack() {
 																							</div>
 																						</div>
 <div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Paraf Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/finger.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/img/paraf.png&quot;);"></div>
+																												
+																												
 																											</div>
 																										</div>
 																										
@@ -416,7 +406,7 @@ function goBack() {
 																						</div>
 
 									</div>
-<div class="col-xl-2">
+									<div class="col-xl-2">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -428,13 +418,7 @@ function goBack() {
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
 																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/signature.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Ganti Foto">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												
 																											</div>
 																										</div>
 																										
@@ -443,28 +427,34 @@ function goBack() {
 																							</div>
 																						</div>
 																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Recognition</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
+																									<div class="form-group row" style="text-align:left">
 																										<div class="col-lg-12">
-																											<div>&nbsp;</div>
-																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
-																											</div>
-																										</div>
+					                           <label>UID Fingerprint :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
 																										
 																									</div>
 																								</div>
 																							</div>
 																						</div>
+																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:left">
+																										<div class="col-lg-12">
+					                           <label>UID Face :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						
 
 
 									</div>

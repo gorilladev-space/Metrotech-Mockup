@@ -98,7 +98,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Mitra Jukir PLB:</label>
+                                <label>Nama Customer :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -108,47 +108,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label class="">Tanggal Mulai Kerja :</label>
-                                <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-                            </div>
-                            
-							
-                            
-							
-							<div class="col-lg-2">
-                                <label>Jenis Kelamin :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Pria</option>
-                                      <option value="2">Wanita</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>Kolektor :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">HARIS DG. PAWA</option>
-                                      <option value="2">ARMAN</option>
-                                      <option value="3">KASIM DG. BONTO</option>
-                                      <option value="4">A. LUTFIA AGUSTINAPUTRI</option>
-                                      <option value="5">BANI</option>
-                                      
-                                  </select>
-                            </div>
-							
-							
-                            </div>
-							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-							<div class="form-group row">
-                            
-								<div class="col-lg-2">
-                                <label>Zona Kerja :</label>
+                                <label>Zona Customer :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
@@ -190,7 +150,7 @@
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Titik Parkir :</label>
+                                <label>Titik Parkir Customer :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -199,46 +159,23 @@
     		                        </span>
     		                    </div>
     		                    </div>
-								<div class="col-lg-2">
-                                <label>ID Card :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
 							<div class="col-lg-2">
-                                <label>Rompi :</label>
+                                <label>Kolektor :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>BPJSTK :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Aktif</option>
-                                      <option value="2">Belum Aktif</option>
-                                      <option value="2">Non Aktif</option>
+                                      <option value="1" selected="">HARIS DG. PAWA</option>
+                                      <option value="2">ARMAN</option>
+                                      <option value="3">KASIM DG. BONTO</option>
+                                      <option value="4">A. LUTFIA AGUSTINAPUTRI</option>
+                                      <option value="5">BANI</option>
                                       
                                   </select>
                             </div>
 							
-								
-                            
-                           
-							
-							
-							
-                            
-							
-							
 							
                             </div>
+							
 							<br>
 							
 							

@@ -148,7 +148,7 @@ function goBack() {
 						
 <div class="col-lg-4">
                           <label>ID Mitra Insidentil:</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPI823">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -297,6 +297,7 @@ function goBack() {
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="3%" bgcolor="#f7fcff">ID Target<br>Pendapatan Insindentil</td>
 																									<td width="5%" bgcolor="#f7fcff">Senin</td>
 																									<td width="5%" bgcolor="#f7fcff">Selasa</td>
 																									<td width="5%" bgcolor="#f7fcff">Rabu</td>
@@ -317,6 +318,7 @@ function goBack() {
 
 																								<tr data-repeater-item>
 																								  <td style="text-align:center">1</td>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001TPI823"></td>
 																									<td style="text-align:center">
 																										<div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>

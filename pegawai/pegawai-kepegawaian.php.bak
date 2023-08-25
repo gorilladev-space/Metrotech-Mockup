@@ -231,19 +231,19 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-8">
+								<div class="col-xl-5">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+										<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kepegawaian</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-6">
+																					<div class="col-lg-5">
 																						<label>Tipe Pegawai :</label>
 																						<input type="text" class="form-control form-control-sm" value="Pegawai Tetap" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-6">
+																					<div class="col-lg-7">
 																						<label>NIP Pegawai :</label>
 																						<input type="text" class="form-control form-control-sm" value="012311239933" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
@@ -252,11 +252,11 @@ function goBack() {
 																				</div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-5">
 																						<label>Masuk Kerja :</label>
 																						<input type="text" class="form-control form-control-sm" value="28/12/2022" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
-						<div class="col-lg-6">
+						<div class="col-lg-7">
 																						<label>SK Pegawai Tetap / Kontrak :</label>
 																						<input type="text" class="form-control form-control-sm" value="004/20-S.Kep.Dir/PERUMDA-PMR/XI/2022" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
@@ -264,22 +264,22 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-5">
 																						<label>Department : </label>
 																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
-<div class="col-lg-6">
+<div class="col-lg-7">
 																						<label>Bagian :</label>
 																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
 																					</div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-<div class="col-lg-6">
+<div class="col-lg-5">
 																						<label>Pangkat / Golongan :</label>
 																						<input type="text" class="form-control form-control-sm" value="Penata Muda / IV A" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
-						<div class="col-lg-6">
+						<div class="col-lg-7">
 																						<label>Kantor :</label>
 																						<input type="text" class="form-control form-control-sm" value="Pusat" placeholder="= Pilih Tanggal =" id="kt_datepicker_2" disabled>
 																					</div>
@@ -308,7 +308,7 @@ function goBack() {
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-4">
+<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 
@@ -371,6 +371,99 @@ function goBack() {
 									</div>
 																						</div>
 																						
+
+									</div>
+									<div class="col-xl-2">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_7.jpg&quot;);"></div>
+																												
+																												
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Paraf Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/img/paraf.png&quot;);"></div>
+																												
+																												
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+
+									</div>
+									<div class="col-xl-2">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:center">
+																										<div class="col-lg-12">
+																											<div>&nbsp;</div>
+																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/signature.jpg&quot;);"></div>
+																												
+																											</div>
+																										</div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:left">
+																										<div class="col-lg-12">
+					                           <label>UID Fingerprint :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:left">
+																										<div class="col-lg-12">
+					                           <label>UID Face Recognition :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						
+
 
 									</div>
 									</div>

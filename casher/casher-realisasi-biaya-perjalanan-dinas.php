@@ -560,7 +560,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -570,7 +570,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -589,7 +589,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -599,7 +599,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -618,7 +618,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -628,7 +628,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -647,7 +647,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -657,7 +657,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -676,7 +676,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -686,7 +686,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -705,7 +705,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -715,7 +715,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -734,7 +734,7 @@ function goBack() {
       </div></td>
     <td><div class="input-group input-group-sm">
       <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-      <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
       <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
     </div></td>
     <td><div class="input-group input-group-sm">
@@ -744,7 +744,7 @@ function goBack() {
 													</div></td>
     <td><div class="input-group input-group-sm">
       <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-      <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
       <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
     </div></td>
 	</tr>
@@ -763,7 +763,7 @@ function goBack() {
       </div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -773,7 +773,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" class="form-control form-control-sm" placeholder="" aria-describedby="basic-addon1" />
+       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1731,27 +1731,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Utama" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1761,7 +1745,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1772,27 +1756,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Umum" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+   <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1802,7 +1770,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1813,27 +1781,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Operasional" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1843,7 +1795,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1854,27 +1806,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Keuangan" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1884,7 +1820,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1895,27 +1831,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Direktur Pengembangan Usaha & Kerjasama" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1925,7 +1845,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1936,27 +1856,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Bagian Umum" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -1966,7 +1870,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -1977,27 +1881,11 @@ function goBack() {
     <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Kepala Seksi Administrasi Kepegawaian" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -2007,7 +1895,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	 </tr>
@@ -2018,27 +1906,11 @@ function goBack() {
    <td style="text-align:left">
       <input type="text" style="text-align:left" class="form-control form-control-sm" disabled="disabled" placeholder="Staff Keuangan" style="text-align:center">
       </div></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">1</option>
-                              <option value="HI">2</option>
-                              <option value="HI">3</option>
-                              <option value="HI">4</option>
-                              <option value="HI">5</option>
-                              <option value="HI">6</option>
-                            </select></td>
-    <td><select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="AK">Tiket</option>
-                              <option value="AK">Hari</option>
-                              <option value="HI">Ls</option>
-                              <option value="HI">Orang</option>
-                              <option value="HI">Box</option>
-                              <option value="HI">Pieces</option>
-                              <option value="HI">Km</option>
-                              <option value="HI">m</option>
-                            </select></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
+    <td><input type="text" style="text-align:center" class="form-control form-control-sm" disabled="disabled" placeholder="Tiket" /></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="4.550.000" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
      <td><div class="input-group input-group-sm">
@@ -2048,7 +1920,7 @@ function goBack() {
 													</div></td>
      <td><div class="input-group input-group-sm">
        <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-       <input type="text" style="text-align:right" class="form-control form-control-sm" placeholder="0" aria-describedby="basic-addon1" />
+       <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="Auto Complete" aria-describedby="basic-addon1" />
        <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
      </div></td>
 	  </tr>

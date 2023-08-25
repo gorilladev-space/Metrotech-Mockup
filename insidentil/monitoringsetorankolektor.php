@@ -11,7 +11,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Rekap Target Kolektor
+											Data Rekap Target Kolektor Insidentil
 									</h3>
 								</div>
 								<div class="kt-subheader__toolbar">
@@ -310,7 +310,7 @@
 														</thead>
 														<tbody>
 															<tr>
-																<td colspan="35" bgcolor="#feffe2">Kolektor Tepi Jalan Umum</td>
+																<td colspan="35" bgcolor="#feffe2">Kolektor Insidentil</td>
 															</tr>
 															<tr>
 																<td width="1%" align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="000 000 001" data-html="true">

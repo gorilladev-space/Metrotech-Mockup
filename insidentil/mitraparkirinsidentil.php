@@ -934,16 +934,17 @@
 												<div class="form-group row">
 						
 						<div class="col-lg-12">
-                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
+                          <label>ID Mitra Jukir Insidentil :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPI823">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>ID Mitra Insidentil :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
+						<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
                         </div>
+                       
 						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -955,11 +956,16 @@
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-4">
-                          <label><span style="color:#ff0000">*</span> Wil :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
+						<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Wilayah :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bulurokeng">
                         </div>
-						<div class="col-lg-8">
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
@@ -1018,6 +1024,13 @@
                      <div class="form-group row">
 						<div class="col-lg-12">
                           <label class="">Department :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
                         </div>
                         </div>
@@ -1235,16 +1248,17 @@ function goBack() {
 												<div class="form-group row">
 						
 						<div class="col-lg-12">
-                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
+                          <label>ID Mitra Jukir Insidentil :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPI823">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-                       <div class="col-lg-12">
-                          <label>ID Mitra Insidentil :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000000001">
+						<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="HARIS DAENG PAWA">
                         </div>
+                       
 						
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -1256,11 +1270,16 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-4">
-                          <label><span style="color:#ff0000">*</span> Wil :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
+						<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Wilayah :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bulurokeng">
                         </div>
-						<div class="col-lg-8">
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
@@ -1319,6 +1338,13 @@ function goBack() {
                      <div class="form-group row">
 						<div class="col-lg-12">
                           <label class="">Department :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pengembangan Usaha & Kerja Sama">
                         </div>
                         </div>

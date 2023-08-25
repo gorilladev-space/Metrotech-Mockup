@@ -13,7 +13,7 @@
 										</span>
 										&nbsp;
 										&nbsp;
-											Data Kolektor Parkir
+											Data Kolektor Parkir Insidentil
 
 									</h3>
 
@@ -273,8 +273,9 @@
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIK</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">ID Kolektor</th>
+											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Nama Pegawai</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">NIP</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Department</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Bagian</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Jabatan</th>
@@ -299,15 +300,16 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0001KTJU823</td>
 												<td style="text-align:left" nowrap>UMAR MALIK, SE</td>
 												<td style="text-align:left" nowrap>000 000 001</td>
 												<td style="text-align:left" nowrap>Umum</td>
 												<td style="text-align:left" nowrap>Umum dan Kepegawaian</td>
 												<td wstyle="text-align:left" nowrap>Staff Administrasi Kepegawaian</td>
 												<td style="text-align:center" nowrap>Pusat</td>
-												<td style="text-align:center" nowrap>24 September 2019</td>
-												<td style="text-align:center" nowrap>24 September 2020</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
+												<td nowrap style="text-align:center">24 September 2019</td>
+												<td nowrap style="text-align:center">24 September 2020</td>
+												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td nowrap style="text-align:left">Biringkanaya</td>
@@ -347,6 +349,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0002KTJU823</td>
 												<td style="text-align:left" nowrap>LEONY HESTI KILALA</td>
 												<td style="text-align:left" nowrap>000 000 002</td>
 												<td style="text-align:left" nowrap>Umum</td>
@@ -395,6 +398,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0003KTJU823</td>
 												<td style="text-align:left" nowrap>MUSLIMIN</td>
 												<td style="text-align:left" nowrap>000 000 003</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
@@ -444,6 +448,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0004KTJU823</td>
 												<td style="text-align:left" nowrap>HAERUL</td>
 												<td style="text-align:left" nowrap>000 000 004</td>
 												<td style="text-align:left" nowrap>Keuangan dan Asset</td>
@@ -493,6 +498,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_8.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0005KTJU823</td>
 												<td style="text-align:left" nowrap>WIRA YUDHA SAKTI. D</td>
 												<td style="text-align:left" nowrap>000 000 005</td>
 												<td style="text-align:left" nowrap>Operasional</td>
@@ -542,6 +548,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0006KTJU823</td>
 												<td style="text-align:left" nowrap>RUDI RIVAI</td>
 												<td style="text-align:left" nowrap>000 000 006</td>
 												<td style="text-align:left" nowrap>Operasional</td>
@@ -591,6 +598,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_13.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0007KTJU823</td>
 												<td style="text-align:left" nowrap>YUNUS TULAK, S.IP</td>
 												<td style="text-align:left" nowrap>000 000 007</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
@@ -640,6 +648,7 @@
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_6.jpg" alt="image">
 													</a></td>
+												<td style="text-align:left" nowrap>0008KTJU823</td>
 												<td style="text-align:left" nowrap>ANUGRAH. WL</td>
 												<td style="text-align:left" nowrap>000 000 008</td>
 												<td style="text-align:left" nowrap>Pengembangan Usaha dan Kerjasama</td>
@@ -760,7 +769,12 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-6">
+													<div class="col-lg-2">
+														<label>ID Kolektor :</label>
+														<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="0000001KI823">
+
+												</div>
+												<div class="col-lg-5">
 														<label>Zona :</label>
 														<select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
@@ -782,24 +796,22 @@
 
 												</div>
 
-												<div class="col-lg-6">
+												<div class="col-lg-5">
 														<label>Wilayah :</label>
+														
 									<select class="form-control kt-selectpicker" multiple="multiple">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
 														
 													</div>

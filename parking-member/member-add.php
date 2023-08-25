@@ -163,7 +163,7 @@ function goBack() {
 								<div class="col-xl-6">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Diri</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
@@ -257,11 +257,11 @@ function goBack() {
 
 
 						<div class="col-lg-6">
-                          <label>Email :</label>
+                          <label><span style="color:#ff0000">*</span> Email :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx"  >
                         </div>
 						<div class="col-lg-3">
-					                           <label>Tlp / HP :</label>
+					                           <label><span style="color:#ff0000">*</span> Tlp / HP :</label>
                           <input type="text" class="form-control form-control-sm" placeholder=""  >
 					                         </div>
 											 <div class="col-lg-3">
