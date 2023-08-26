@@ -340,7 +340,7 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-primary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -1810,7 +1810,7 @@
 														<label class="kt-font-danger">Tipe Pembayaran :</label>
 														 <select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Virtual Account</option>
-														<option>Qris</option>
+														<option>QRIS</option>
 														<option>Transfer Bank</option>
 														<option>Gopay</option>
 														<option>ShopeePay</option>
