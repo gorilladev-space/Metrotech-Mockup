@@ -154,7 +154,7 @@
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
                                     </a>
 									<ul class="kt-menu__subnav">
-														<li class="kt-menu__item " aria-haspopup="true"><a href="casher-setoran-kolektor-tju.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
+														<li class="kt-menu__item " aria-haspopup="true"><a href="casher-setoran-kolektor-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Setoran Kolektor</span></a></li>
 														
 														
 														

@@ -340,28 +340,28 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -379,7 +379,7 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -387,21 +387,21 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -419,21 +419,21 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -441,7 +441,7 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -459,28 +459,28 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -499,28 +499,28 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -538,28 +538,28 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -577,28 +577,28 @@
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
-																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn kt-badge kt-badge--unified-brand kt-badge--dot kt-badge--xl" data-toggle="kt-tooltip" data-placement="right" data-skin="brand" title="" data-original-title="Titik Parkir Tutup" data-html="true"></button></td>
+																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
 																	<td align="center" valign="middle" style="text-align:center"><button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="modal" data-target="#modal_view_setoran" data-skin="" title="" data-html="true" data-original-title=""><i class="fa fa-hand-holding-usd"></i></button></td>
@@ -608,16 +608,15 @@
 															
 														</tbody>
 													</table>
-
+<br>
 					<label> Keterangan : </label>
-					<div class="kt-section__content kt-section__content--solid mt-3">
-            <span class="kt-badge kt-badge--unified-success kt-badge--xlkt-badge--bold mr-3" data-container="body" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""></span>
-            <span class="kt-badge kt-badge--success kt-badge--xlkt-badge--bold mr-3" data-container="body" data-toggle="kt-popover" data-placement="top" data-content="Sudah Diterima" data-original-title="" title=""></span>
-            <span class="kt-badge kt-badge--danger kt-badge--xlkt-badge--bold mr-3" data-container="body" data-toggle="kt-popover" data-placement="top" data-content="Belum Ada Setoran" data-original-title="" title=""></span>
-            <span class="kt-badge kt-badge--primary kt-badge--xlkt-badge--bold mr-3" data-container="body" data-toggle="kt-popover" data-placement="top" data-content="Setoran Lebih" data-original-title="" title=""></span>
-            <span class="kt-badge kt-badge--warning kt-badge--xlkt-badge--bold mr-3" data-container="body" data-toggle="kt-popover" data-placement="top" data-content="Setoran Kurang" data-original-title="" title=""></span>
+					
+					<button type="button" class="btn btn-outline-success btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Terbayar - Tunai" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button>
+					<button type="button" class="btn btn-outline-info btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Terbayar - Online" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button>
+					<button type="button" class="btn btn-outline-danger btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Belum Terbayar" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button>
+					<button type="button" class="btn btn-secondary btn-sm btn-icon" data-toggle="kt-popover" data-placement="top" data-content="Titik Parkir Tutup" data-original-title="" title=""><i class="fa fa-hand-holding-usd"></i></button>
+            
 			
-          </div>
 
 												</div>
 												 <!-- begin:: pageline -->
@@ -693,7 +692,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">DETAIL SETORAN KAS MASUK - KOLEKTOR TJU</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">DETAIL SETORAN KAS MASUK - KOLEKTOR TJU - TUNAI</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 											<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -726,6 +725,11 @@
 						<div class="col-lg-4">
                           <label><span style="color:#ff0000">*</span> Waktu Transaksi :</label>
                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="23 Agustus 2023 - 18:20 WITA">
+
+                        </div>
+						<div class="col-lg-4">
+                          <label><span style="color:#ff0000">*</span> Tipe Transaksi :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Tunai">
 
                         </div>
 						
@@ -1019,7 +1023,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-danger">DETAIL SETORAN KAS MASUK - KOLEKTOR TJU - LEBIH</h3>
+												<h3 class="kt-portlet__head-title kt-font-danger">DETAIL SETORAN KAS MASUK - KOLEKTOR TJU - NON TUNAI</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 											<a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -1052,6 +1056,11 @@
 						<div class="col-lg-4">
                           <label><span style="color:#ff0000">*</span> Waktu Transaksi :</label>
                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="23 Agustus 2023 - 18:20 WITA">
+
+                        </div>
+						<div class="col-lg-4">
+                          <label><span style="color:#ff0000">*</span> Tipe Transaksi :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Non Tunai">
 
                         </div>
 						
@@ -1110,6 +1119,21 @@
 													</div>
 												</div>
 													</div>
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												<div class="form-group row">
+												
+
+												<div class="col-lg-4">
+														<label>ID Pembayaran :</label>
+														 <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000001PNTPLB823">
+													</div>
+													<div class="col-lg-4">
+														<label class="kt-font-danger">Metode Pembayaran :</label>
+														 <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Virtual Account - BTN">
+													</div>
+												
 
 												</div>
 						
@@ -1699,10 +1723,50 @@
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Kas Masuk</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Kasir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
+                       <div class="col-lg-4">
+					   <label>Nama Kasir</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Nama Kasir">
+
+                        </div>
+						<div class="col-lg-4">
+                          <label>NIP :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000 000 000">
+                        </div>
+						
+						
+						
+						
+                        </div>
+						
+						
+						
+						
+						
+												
+                              
+											</div>
+
+										</div>
+
+									</div>
+									
+
+									
+									</div>
+												<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Kas Masuk</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+											
+												<div class="form-group row">
+												
 
 						<div class="col-lg-4">
                           <label><span style="color:#ff0000">*</span> ID Transaksi :</label>
@@ -1718,20 +1782,59 @@
 						
 						
 						
+						
                         </div>
 						
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-                       <div class="col-lg-4">
-					   <label>Nama Kasir</label>
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Nama Kasir">
-
-                        </div>
-						<div class="col-lg-4">
-                          <label>NIP :</label>
-                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="000 000 000">
-                        </div>
+      												<div class="col-lg-12">
+                                <div class="form-group">
+      													<label>Tipe Transaksi :</label>
+                                <div class="kt-section__content kt-section__content--solid" role="group" aria-label="...">
+      													<button type="button" class="btn btn-secondary btn-square btn-sm col-lg-4" id="hide1">Tunai</button>&nbsp;
+      													
+                                <button type="button" class="btn btn-secondary btn-square btn-sm col-lg-4" id="show">Non Tunai</button>&nbsp;
+      												</div>
+                              	</div>
+      												</div>
+      												</div>
+                              <div class="form-group row tampil">
+                                <div class="col-lg-12">
+								<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                                  <div class="form-group row">
+    													<div class="col-lg-4">
+														<label>ID Pembayaran :</label>
+														<input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Auto Generate">
+													</div>
+													<div class="col-lg-4">
+														<label class="kt-font-danger">Tipe Pembayaran :</label>
+														 <select class="form-control form-control kt-selectpicker" data-live-search="true">
+														<option>Virtual Account</option>
+														<option>QRIS</option>
+														<option>Transfer Bank</option>
+														<option>Gopay</option>
+														<option>ShopeePay</option>
+														
+														</select>
+													</div>
+												<div class="col-lg-4">
+														<label>Upload Bukti :</label>
+														<div class="form-group m-form__group">
+												
+												<div class="custom-file">
+													<input type="file" class="custom-file-input" id="customFile">
+													<label class="custom-file-label" for="customFile">Choose file</label>
+												</div>
+											</div>
+													</div>
+                          </div>
 						
+
+
+
+											</div>
+											</div>
+                       
 						
 						
 						
@@ -1772,11 +1875,9 @@
 													</div>
 
 												</div>
-						
-						
-
-
-
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+												
 											</div>
 
 										</div>
@@ -2013,4 +2114,20 @@
 <script src="../assets/js/pages/crud/file-upload/dropzonejs.js" type="text/javascript"></script>
 <script src="../assets/dist/dropzone/dist/dropzone.js" type="text/javascript"></script>
 <script src="../assets/dist/js/global/integration/plugins/dropzone.init.js" type="text/javascript"></script>
+<script src="../assets/js/pages/components/calendar/calendar-cuti.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/bootstrap-datepicker.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/bootstrap-select.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/select2.js" type="text/javascript"></script>
+<script>
+$("#show").click(function(){
+    $(".tampil").show();
+  });
+  $("#hide1").click(function(){
+      $(".tampil").hide();
+    });
+    $("#hide2").click(function(){
+        $(".tampil").hide();
+      });
+</script>
 <?php require '../layouts/foot.php' ?>
+
