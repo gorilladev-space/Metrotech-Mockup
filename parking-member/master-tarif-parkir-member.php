@@ -214,7 +214,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -298,7 +298,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="18.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="24.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -382,7 +382,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="80.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="104.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -424,7 +424,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="160.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="156.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -457,16 +457,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">7</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</td>
+												<td style="text-align:left" nowrap>Member</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>V</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.500" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.040.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -499,16 +499,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">8</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</td>
-												<td style="text-align:center" nowrap>Motor</td>
+												<td style="text-align:left" nowrap>Member</td>
+												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>V</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.300" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.560.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -541,7 +541,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">9</td>
-												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
 												
@@ -550,7 +550,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="2.200" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.800" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -583,8 +583,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">10</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</span></td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
@@ -592,7 +592,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.700" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -625,8 +625,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">11</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</span></td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
@@ -634,7 +634,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.750" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.600" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -667,7 +667,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">12</td>
-												<td style="text-align:left" nowrap>Corporate - Platinum</span></td>
+												<td style="text-align:left" nowrap>Corporate - Silver</span></td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
@@ -676,7 +676,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.500" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.700" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -709,16 +709,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">13</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</td>
-												<td style="text-align:center" nowrap>Motor</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</span></td>
+												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>III</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
+												<td style="text-align:center" nowrap>V</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="15.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.600" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -751,16 +751,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">14</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</td>
-												<td style="text-align:center" nowrap>Motor</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</span></td>
+												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>III</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
+												<td style="text-align:center" nowrap>V</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Harian</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="14.500" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="5.550" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -793,7 +793,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">15</td>
-												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
 												
@@ -802,7 +802,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="14.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="22.800" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -835,16 +835,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">16</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="30.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="22.200" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -877,16 +877,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">17</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="29.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="21.600" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -919,7 +919,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">18</td>
-												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
@@ -928,7 +928,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="28.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="34.200" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -961,16 +961,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">19</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</td>
-												<td style="text-align:center" nowrap>Motor</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>III</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="65.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="33.600" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1003,16 +1003,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">20</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</td>
-												<td style="text-align:center" nowrap>Motor</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Mobil</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>III</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Mingguan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="62.500" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="33.300" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1045,7 +1045,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">21</td>
-												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
 												<td style="text-align:center" nowrap>Motor</td>
 												
 												
@@ -1054,7 +1054,7 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="60.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="98.800" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1087,16 +1087,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">22</td>
-												<td style="text-align:left" nowrap>Corporate - Silver</td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="130.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="96.200" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1129,16 +1129,16 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">23</td>
-												<td style="text-align:left" nowrap>Corporate - Gold</td>
-												<td style="text-align:center" nowrap>Mobil</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Motor</td>
 												
 												
 												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap>III</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="125.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="93.600" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1171,6 +1171,90 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">24</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
+												<td style="text-align:center" nowrap>Mobil</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="148.200" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">25</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Mobil</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="145.600" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">26</td>
 												<td style="text-align:left" nowrap>Corporate - Platinum</td>
 												<td style="text-align:center" nowrap>Mobil</td>
 												
@@ -1180,7 +1264,259 @@
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Bulanan</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="120.000" aria-describedby="basic-addon1">
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="144.300" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">27</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
+												<td style="text-align:center" nowrap>Motor</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>III</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="988.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">28</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Motor</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>III</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="962.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">29</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Motor</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>III</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="936.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">30</td>
+												<td style="text-align:left" nowrap>Corporate - Silver</td>
+												<td style="text-align:center" nowrap>Mobil</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.482.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">31</td>
+												<td style="text-align:left" nowrap>Corporate - Gold</td>
+												<td style="text-align:center" nowrap>Mobil</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.456.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
+																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
+																	<i class="flaticon-more-1"></i>
+																</a>
+																<div class="dropdown-menu dropdown-menu-right" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-149px, 33px, 0px);">
+																	<ul class="kt-nav">
+																	<li class="kt-nav__item">
+																			<a href="detail-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
+																			</a>
+																		</li>
+																		
+																		<li class="kt-nav__item">
+																			<a href="edit-tarif.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
+																				<span class="kt-nav__link-text">Edit Data</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																		</li>
+																	</ul>
+																</div>
+															</div></td>
+										  </tr>
+										  <tr>
+												<td id="kt_table_1">32</td>
+												<td style="text-align:left" nowrap>Corporate - Platinum</td>
+												<td style="text-align:center" nowrap>Mobil</td>
+												
+												
+												<td style="text-align:center" nowrap>Biringkanaya</td>
+												<td style="text-align:center" nowrap>IV</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tahun</span></td>
+												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.443.000" aria-describedby="basic-addon1">
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -1330,6 +1666,7 @@
                                       <option value="2">Harian</option>
                                       <option value="3">Mingguan</option>
                                       <option value="4">Bulanan</option>
+                                      <option value="4">Tahun</option>
                                      
                                   </select>
 													</div>
