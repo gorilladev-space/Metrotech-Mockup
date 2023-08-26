@@ -86,7 +86,17 @@
 						<div class="col-lg-12">
                           <label class="">User Group :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Super Admin">
+                        <select class="form-control kt-selectpicker" data-live-search="true">
+																							<option value="AK" selected>Super Admin</option>
+																							<option value="HI">Dewan Pengawas</option>
+																							<option value="HI">Sekertaris Dewan Pengawas</option>
+																							<option value="HI">Komite Audit</option>
+																							<option value="HI">Direktur Utama</option>
+																							<option value="HI">Direktur Umum</option>
+																							<option value="HI">Direktur Keuangan dan Asset</option>
+																							<option value="HI">Direktur Operasional</option>
+																							<option value="HI">Direktur Pengembangan Usaha dan Kerjasama</option>
+																						</select>
                       </div>
                         </div>
 						
@@ -97,7 +107,7 @@
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 						<div class="col-lg-12">
-                          <label class="">Multi Select User :</label>
+                          <label class="">Cari Pegawai :</label>
                           <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
@@ -131,6 +141,33 @@
                         </div>
 						
 
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Department :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Nama Department">
+                      </div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Bagian :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bagian">
+                      </div>
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+                          <label class="">Jabatan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jabatan Pegawai">
+                      </div>
+                        </div>
                         </div>
 
                         </div>
