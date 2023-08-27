@@ -81,7 +81,7 @@
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
 						                        <div class="col-lg-3">
-						                          <label>Nama Pegawai :</label>
+						                          <label>Nama Kolektor :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
@@ -115,58 +115,49 @@
 						                        </div>
 						                        
 <div class="col-lg-2">
-						                          <label>Department :</label>
+						                          <label>Zona :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
-                                      <option value="4">Keuangan dan Asset</option>
-                                      <option value="5">Operasional</option>
-                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
                                   </select>
 						                        </div>
 												<div class="col-lg-2">
-						                          <label>Bagian :</label>
+						                          <label>Wilayah :</label>
 																		 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Direksi</option>
-                                      <option value="4">Umum dan Kepegawaian</option>
-                                      <option value="5" selected="">Hukum dan Humas</option>
-                                      <option value="6">Keuangan</option>
-                                      <option value="12">Asset</option>
-                                      <option value="12" >Pengelolaan</option>
-                                      <option value="12" >Produksi</option>
-                                      <option value="12" >Pengembangan</option>
-                                      <option value="12" >Kerjasama</option>
+                                      <option value="1" selected="">I</option>
+                                      <option value="2">II</option>
+                                      <option value="3">III</option>
+                                      <option value="4">IV</option>
+                                      <option value="5">V</option>
+                                      <option value="6">VI</option>
+                                      <option value="7">VII</option>
+                                      <option value="8">VIII</option>
+                                      <option value="9">IX</option>
+                                      <option value="10">X</option>
+                                      <option value="11">XI</option>
+                                      <option value="12">XII</option>
+                                      <option value="13">XIII</option>
+                                      <option value="14">XIV</option>
+                                      <option value="15">XV</option>
                                   </select>
 						                        </div>
 												
-												<div class="col-lg-2">
-						                          <label class="">Tanggal :</label>
-						                          <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="Select date range">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-						                        </div>
-												<div class="col-lg-1">
-						                          <label>Tipe Pegawai :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Tetap</option>
-						                              <option value="3">Kontrak</option>
-						                              <option value="3">Honor</option>
-
-						                          </select>
-						                        </div>
-												<div class="col-lg-2">
-						                          <label>Kantor :</label>
-																		<select class="form-control kt-selectpicker" data-live-search="true">
-						                              <option value="2">Pusat</option>
-						                              <option value="3">Cabang Sulawesi Barat</option>
-
-						                          </select>
-						                        </div>
+												
+												
+												
 
 						                      </div>
 

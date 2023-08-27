@@ -67,18 +67,9 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-						 <div class="col-lg-2">
-                                <label>ID Mitra :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
+						
                             <div class="col-lg-2">
-                                <label>Nama Mitra :</label>
+                                <label>Nama Kolektor :</label>
     	                      <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
         							<span class="kt-input-icon__icon kt-input-icon__icon--right">
@@ -128,6 +119,25 @@
                                       <option value="13">XIII</option>
                                       <option value="14">XIV</option>
                                       <option value="15">XV</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Tanggal Target :</label>
+								
+                               <div class="input-group">
+						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Status Kasir :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Setoran Diterima</option>
+                                      <option value="1">Belum Ada Setoran</option>
+                                      
                                   </select>
                             </div>
 							<div class="col-lg-2">
@@ -331,30 +341,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -405,30 +392,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -479,30 +443,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -553,30 +494,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -627,30 +545,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -701,30 +596,7 @@
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-coins"></i>
-																				<span class="kt-nav__link-text">Penetapan Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-surat-pernyataan.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-print"></i>
-																				<span class="kt-nav__link-text">Cetak Surat Pernyataan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-edit.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Ubah Target Pendapatan</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="mitra-target-history.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-list-ol"></i>
-																				<span class="kt-nav__link-text">History Perubahan Target</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>

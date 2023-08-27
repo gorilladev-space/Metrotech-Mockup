@@ -367,7 +367,7 @@ function goBack() {
 																								</tr>
 																								<tr bgcolor="#feffed" data-repeater-item>
 																								  <td style="text-align:center">Baru</td>
-																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001TPTJU823"></td>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00002TPTJU823"></td>
 																									<td style="text-align:center">
 																										<div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>

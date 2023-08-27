@@ -69,18 +69,24 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-4">
-                                <label>Uraian :</label>
-    	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
-        					
-                            </div>
-							<div class="col-lg-4">
-                                <label>Alamat Kantor :</label>
-    	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
-        					
-                            </div>
+                            <div class="col-lg-3">
+						                          <label class="">Uraian :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
+							<div class="col-lg-3">
+						                          <label class="">Format Nomor :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
                             
 							
 							
@@ -145,7 +151,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -182,7 +188,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -219,7 +225,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -256,7 +262,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -293,7 +299,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -330,7 +336,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -349,7 +355,7 @@
 										  <tr>
 												<td>7</td>
 												<td align="left" valign="left" style="text-align:left">ID Pembayaran Non Member - Tunai</td>
-												<td align="left" valign="left" style="text-align:left">000001PNME823</td>
+												<td align="left" valign="left" style="text-align:left">000001PNMT823</td>
 												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
 														<img src="../assets/media/users/100_16.jpg" alt="image">
 													</a></td>
@@ -367,7 +373,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -404,7 +410,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -684,7 +690,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH KANTOR</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH NOMOR</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -694,13 +700,70 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nama Kantor:</label>
+												<div class="col-lg-6">
+														<label>Uraian :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
-<div class="col-lg-8">
-														<label>Alamat Kantor:</label>
+<div class="col-lg-6">
+														<label>Format Nomor :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
+
+												</div>
+												
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+												
+												
+									<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm">Simpan</button>
+												</div>
+											</div>
+
+
+
+
+									</div>
+
+									</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+							<!--End::Modal 2-->
+							<!--begin::Modal 2-->
+									<div class="modal fade" id="modal_edit" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-info">EDIT NOMOR</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
+													<div class="form-group row">
+												<div class="col-lg-6">
+														<label>Uraian :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="NIP PEGAWAI TETAP" disabled>
+
+												</div>
+<div class="col-lg-6">
+														<label>Format Nomor :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
@@ -784,6 +847,64 @@
 								</li>
 							</ul>
 							</div>
+						</div>
+                    <!-- end:: pageline -->
+
+                </div>
+                    <!-- begin:: pageline -->
+					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					<div class="kt-pagination  kt-pagination--danger">
+						<select class="form-control kt-font-danger" style="width: 60px">
+								<option value="10">10</option>
+								<option value="20">20</option>
+								<option value="30">30</option>
+								<option value="50">50</option>
+								<option value="100">100</option>
+							</select>
+							<span class="pagination__desc">
+								Menampilkan 10 dari 230 Data
+							</span>
+							<div class="kt-pagination__toolbar">
+								<ul class="kt-pagination__links">
+								<li class="kt-pagination__link--first">
+									<a href="#"><i class="fa fa-angle-double-left kt-font-danger"></i></a>
+								</li>
+								<li class="kt-pagination__link--next">
+									<a href="#"><i class="fa fa-angle-left kt-font-danger"></i></a>
+								</li>
+								<li>
+									<a href="#">...</a>
+								</li>
+								<li>
+									<a href="#">29</a>
+								</li>
+								<li class="kt-pagination__link--active">
+									<a href="#">30</a>
+								</li>
+								<li>
+									<a href="#">31</a>
+								</li>
+								<li>
+									<a href="#">32</a>
+								</li>
+								<li>
+									<a href="#">33</a>
+								</li>
+								<li>
+									<a href="#">34</a>
+								</li>
+								<li>
+									<a href="#">...</a>
+								</li>
+								<li class="kt-pagination__link--prev">
+									<a href="#"><i class="fa fa-angle-right kt-font-danger"></i></a>
+								</li>
+								<li class="kt-pagination__link--last">
+									<a href="#"><i class="fa fa-angle-double-right kt-font-danger"></i></a>
+								</li>
+							</ul>
+							</div>
+						</div>
 						</div>
                     <!-- end:: pageline -->
 

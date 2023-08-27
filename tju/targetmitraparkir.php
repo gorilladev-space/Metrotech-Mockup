@@ -174,7 +174,7 @@
 											   <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
 											 
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">

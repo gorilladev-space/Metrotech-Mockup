@@ -142,6 +142,17 @@
         					
                             </div>
 							
+                            <div class="col-lg-2">
+                                <label>Nama Kolektor :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							
 							
                             </div>
 							<br>
@@ -244,7 +255,7 @@
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Dibuat Oleh</th>
 											 
 											 
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>Titik Parkir</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
