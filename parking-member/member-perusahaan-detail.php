@@ -127,7 +127,7 @@ function goBack() {
                 <div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
                     <div class="kt-portlet__body">
                       <div class="row">
-								<div class="col-xl-4">
+								<div class="col-xl-8">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -150,44 +150,47 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Mr.iLu"  >
                       </div>
                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pria"  >
                         </div>
-						
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-						
-						
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Status Pernikahan :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Menikah"  >
                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Agama :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Islam"  >
                         </div>
 						
                         </div>
+						
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 
-<div class="col-lg-6">
+<div class="col-lg-3">
 					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
 					                            <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar"  >
 					                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class=""><span style="color:#ff0000">*</span> Tanggal Kelahiran :</label>
                            <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="22 Januari 1987"  >
 
                         </div>
+						<div class="col-lg-3">
+					                           <label>Tlp / HP :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
+					                         </div>
+											 <div class="col-lg-3">
+					                           <label>Whatsapp :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
+					                         </div>
 						
 						
 						
@@ -203,7 +206,7 @@ function goBack() {
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="xxx@xxx.xxx"  >
                         </div>
 						<div class="col-lg-6">
-					                           <label>Tlp / HP :</label>
+					                           <label>NPWP Pribadi :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
 					                         </div>
 											 
@@ -211,18 +214,7 @@ function goBack() {
 
 									</div>
 									</div>
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label>Whatsapp :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436"  >
-					                         </div>
-					                         </div>
-
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
+									
 									</div>
 
 
@@ -231,7 +223,7 @@ function goBack() {
 									
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-3">
+<div class="col-xl-4">
 
 									<!--begin::Portlet-->
 									
@@ -248,20 +240,7 @@ function goBack() {
                         </div>
 						
                         </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-					  
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas J/9">
-
-                        </div>
 						
-                        </div>
-						
-						
-						  
-
 
 
 
@@ -289,7 +268,12 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
-                       <div class="col-lg-12">
+						   <div class="col-lg-6">
+					  <label>Provinsi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sulawesi Selatan">
+
+                        </div>
+                       <div class="col-lg-6">
 					  <label>Kecamatan :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Borong">
 
@@ -299,28 +283,20 @@ function goBack() {
 						
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 <div class="form-group row">
-                       <div class="col-lg-12">
+                       <div class="col-lg-6">
 					  <label>Kelurahan :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Manggala">
 
                         </div>
-
-
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-                       <div class="col-lg-12">
+						<div class="col-lg-6">
 					  <label>Kota :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
 
                         </div>
-						
 
 
                         </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						
-						  
 
 
 
@@ -335,85 +311,74 @@ function goBack() {
 								</div>
 
                     </div>
-<div class="col-xl-5">
+                    </div>
+					<div class="row">
+<div class="col-xl-12">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Membership</div><br>
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Member</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>ID Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001CP823">
-
-                        </div>
 						
+						<div class="col-lg-1">
+                          <label class="">ID Perusahaan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                      </div>
                         </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-						<div class="col-lg-6">
-                          <label>Nama Perusahaan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="PT. iLugroup Multimedia Indonesia">
+						<div class="col-lg-2">
+                          <label class="">Nama Perusahaan :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="PT. iLugroup Multimedia Indonesia">
+                      </div>
+                        </div>
+						<div class="col-lg-2">
+                          <label class="">ID Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000002MP823">
+                      </div>
+                        </div>
+						<div class="col-lg-1">
+                          <label class="">Tipe Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
+                      </div>
+                        </div>
+						<div class="col-lg-1">
+                          <label class="">Jenis Member :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
+                      </div>
+                        </div>
+						<div class="col-lg-2">
+                          <label class="">Waktu Registrasi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
+                      </div>
                         </div>
 						<div class="col-lg-3">
-                          <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Jenis Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Platinum">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>Username :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="ilugroup">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Total Kendaraan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="3">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>Tanggal Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10 Agustus 2023">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Aktif Hingga :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-					   <label>Tempat Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
-
+                          <label class="">Tempat Registrasi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
+                      </div>
                         </div>
                         </div>
 						
-						  
-
-
-
-
-											</div>
-
-										</div>
-
+									
+									</div>
+									
+									
 									</div>
 
 
-                    </div>
+									</div>
+									
+							<!--end:: Portlet-->
+
+
+										</div>
 
 									</div>
 

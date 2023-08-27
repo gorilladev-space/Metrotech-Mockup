@@ -136,142 +136,7 @@ function goBack() {
 									
 							<!--end:: Portlet-->
 </div>
-
-
-					<div class="col-xl-4">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Membership</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>ID Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Qr Code Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-						<div class="col-lg-6">
-                          <label>Nama Perusahaan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="PT. iLugroup Multimedia Indonesia">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Jenis Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Platinum">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>Username :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="ilugroup">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Total Kendaraan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="3">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>Tanggal Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10 Agustus 2023">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Aktif Hingga :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-					   <label>Tempat Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
-
-                        </div>
-                        </div>
-						
-						  
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-
-
-                    </div>
-					<div class="col-xl-3">
-
-									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Kendaraan</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>&nbsp;</label>
-                         
-																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
-
-
-																		</div>
-																		
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>&nbsp;</label>
-                         
-																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
-
-
-																		</div>
-																		
-
-                        </div>
-						
-                        </div>
-
-
-						
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						 
-
-										</div>
-
-									</div>
-									</div>
-
-
-                    </div>
-
-									</div>
-									<div class="row">
-								
-<div class="col-xl-5">
+<div class="col-xl-4">
 
 									<!--begin::Portlet-->
 									
@@ -325,6 +190,132 @@ function goBack() {
 
 						
                         </div>
+                        </div>
+						
+						
+                     
+					  
+									
+                     
+
+									
+
+									</div>
+																						</div>
+
+                    </div>
+
+
+					
+					<div class="col-xl-3">
+
+									<!--begin::Portlet-->
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Kendaraan</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+
+						<div class="col-lg-6">
+                          <label>&nbsp;</label>
+                         
+																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
+
+
+																		</div>
+																		
+
+                        </div>
+						<div class="col-lg-6">
+                          <label>&nbsp;</label>
+                         
+																		<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
+																			<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>&nbsp;<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/alp.jpg&quot;);"></div>
+
+
+																		</div>
+																		
+
+                        </div>
+						
+                        </div>
+
+
+						
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 
+
+										</div>
+
+									</div>
+									</div>
+
+
+                    </div>
+
+									</div>
+									<div class="row">
+								
+<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+									
+<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Member</div><br>
+																							<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-1">
+                          <label>ID Member :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+
+                        </div>
+						<div class="col-lg-2">
+                          <label>Nama Member :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
+
+                        </div>
+						<div class="col-lg-1">
+                          <label>Tipe Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
+                        </div>
+						<div class="col-lg-1">
+                          <label>Jenis Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
+                        </div>
+						<div class="col-lg-1">
+                          <label>ID Perusahaan :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+
+                        </div>
+						<div class="col-lg-2">
+                          <label>Nama Perusahaan :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="PT. iLugroup Multimedia Indonesia">
+
+                        </div>
+						<div class="col-lg-1">
+                          <label>Tanggal Registrasi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10 Agustus 2023">
+
+                        </div>
+						<div class="col-lg-1">
+                          <label>Aktif Hingga :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
+                        </div>
+						<div class="col-lg-2">
+					   <label>Tempat Registrasi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
+
+                        </div>
+                        </div>
+																					
+																					
+																					
+																				</div>
+						
+                     
+					
                         </div>
 						
 						

@@ -317,6 +317,12 @@
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
@@ -397,6 +403,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
@@ -473,6 +485,12 @@
 																			<a href="ubah-member.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
