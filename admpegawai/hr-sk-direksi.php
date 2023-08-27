@@ -129,7 +129,7 @@
 												
 												
 												<div class="col-lg-2">
-						                          <label class="">Jenis Peraturan :</label>
+						                          <label class="">Kategori :</label>
 						                          <select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Administrasi</option>
 						                              <option value="3">Kepegawaian</option>
@@ -230,7 +230,7 @@
 																		<li class="kt-nav__item">
 																			<a href="hr-download-sk-direksi.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-file-download"></i>
-																				<span class="kt-nav__link-text">Download Peraturan</span>
+																				<span class="kt-nav__link-text">Download SK Direksi</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

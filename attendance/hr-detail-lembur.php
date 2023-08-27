@@ -157,6 +157,15 @@ function goBack() {
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Keterangan</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
+											<div class="form-group row">
+
+						<div class="col-lg-12">
+                          <label>ID Lembur :</label>
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="001OTHRXI2022">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
 
 						<div class="col-lg-12">

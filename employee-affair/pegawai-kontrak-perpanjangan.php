@@ -96,7 +96,7 @@
 								<div class="col-xl-8">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Diri</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
@@ -104,44 +104,59 @@
 						
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini">
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini">
                         </div>
-                       <div class="col-lg-3">
+                       <div class="col-lg-2">
                           <label>Gelar Depan :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="-">
                         </div>
-						<div class="col-lg-3">
+						<div class="col-lg-2">
                           <label>Gelar Belakang :</label>
                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="SE">
                         </div>
+						<div class="col-lg-2">
+                          <label class=""><span style="color:#ff0000">*</span> No. KTP / SIM :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="737112301870002">
+                      </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri"  >
                       </div>
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Wanita">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Wanita">
                         </div>
+						
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Status :</label>
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Single">
+                       <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Single">
+                        </div>
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Agama :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Islam">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 
 <div class="col-lg-6">
-					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
-					                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Watampone">
+					                           <label class=""><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
+					                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9">
 					                         </div>
-						<div class="col-lg-6">
+						
+						<div class="col-lg-3">
+					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
+					                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bone">
+					                         </div>
+						<div class="col-lg-3">
                           <label class=""><span style="color:#ff0000">*</span> Tanggal Kelahiran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="29/05/1973">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="22 Januari 1987">
+                      </div>
 
                         </div>
 
@@ -151,29 +166,65 @@
                      <div class="form-group row">
 
 
-						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> Agama :</label>
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Islam">
-					                         </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
+						<div class="col-lg-1">
+					   <label>Kode Pos</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="90000">
+
+                        </div>
+						<div class="col-lg-1">
+                          <label>RT :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="003">
+                        </div>
+						<div class="col-lg-1">
+                          <label>RW :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="005">
+                        </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Provinsi :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Sulawesi Selatan">
+                      </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> No. Tlp / HP :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="7371122301870002" >
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436" >
+                      </div>
+                      </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Whatsapp :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="082244444436" >
                       </div>
                       </div>
 
 									</div>
+									 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+									<div class="form-group row">
+<div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Kecamatan :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Biringkanaya" >
+                      </div>
+
+						<div class="col-lg-3">
+					                           <label><span style="color:#ff0000">*</span> Kelurahan :</label>
+                      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Bakung" >
+					                         </div>
+						
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
+                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar" >
+                      </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Email :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="xxx@xxx.xxx" >
+                      </div>
+                      </div>
+					  
+
 									</div>
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span> NPWP :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="917345100801000">
-					                         </div>
-					                         </div>
-
+									 
+									
+									
 									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 <div class="form-group row">
 
@@ -183,13 +234,19 @@
 					                         </div>
 						<div class="col-lg-3">
 					                           <label class=""><span style="color:#ff0000">*</span> Bank :</label>
-                           <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="BCA">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="BCA">
                       </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
 					                           <label><span style="color:#ff0000">*</span> Nama Pemilik Rekening :</label>
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sri Suhartini">
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Isikan Nama Pemilik Rekening">
 					                         </div>
+											 <div class="col-lg-3">
+                          <label class="">NPWP Pribadi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="02.821.616.6-805.000" >
+                      </div>
 
+									</div>
 									</div>
 									</div>
 
@@ -200,85 +257,90 @@
 <div class="col-xl-4">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Korespondensi</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-9">
-                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="KOMP. AL-MARHAMAH DEPAG MAKASSAR">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="900000">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                        <div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Makassar">
-                      </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="085234006917">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									
+<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Darurat</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 
-						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="KOMP. AL-MARHAMAH DEPAG MAKASSAR">
+						<div class="col-lg-12">
+                          <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="900000">
-                        </div>
+						
+						
+						
+						
                         </div>
 						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                        <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Kompleks Villa Surya Mas Blok J/9">
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
+						
+						
+						
                         </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       <div class="col-lg-6">
+					   <label>Kode Pos</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="90000">
+
+                        </div>
+						<div class="col-lg-3">
+                          <label>RT :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="003">
+                        </div>
+						<div class="col-lg-3">
+                          <label>RW :</label>
+                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="005">
+                        </div>
+						
+						
+						
+                        </div>
+						
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                         <div class="col-lg-6">
-                          <label class="">Kota :</label>
-                          <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Makassar">
-                      </div>
+                          
+                                <label>Provinsi :</label>
+								
+                               <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Sulawesi Selatan">
+                            </div>
+							<div class="col-lg-6">
+                          
+                                <label>Kecamatan :</label>
+								
+                                <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Biringkanaya">
+                            </div>
+						
+
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
 						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
+                          
+                                <label>Kelurahan :</label>
+								
+                                <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Bakung">
+                            </div>
+                        <div class="col-lg-6">
+                          <label class="">Kota :</label>
+                        <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Makassar">
+                      </div>
+					  
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-6">
+                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="085234006917">
+                        <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="082244444436">
                       </div>
                         </div>
 
@@ -493,14 +555,9 @@
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Upload Foto">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/300_7.jpg&quot;);"></div>
+																												
+																												
 																											</div>
 																										</div>
 																										
@@ -509,21 +566,16 @@
 																							</div>
 																						</div>
 <div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Paraf Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row" style="text-align:center">
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/img/paraf.png&quot;);"></div>
+																												
+																												
 																											</div>
 																										</div>
 																										
@@ -531,10 +583,8 @@
 																								</div>
 																							</div>
 																						</div>
-																						
 
 									</div>
-
 									<div class="col-xl-2">
 
 									<!--begin::Portlet-->
@@ -546,14 +596,8 @@
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Tanda Tangan">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/media/users/signature.jpg&quot;);"></div>
+																												
 																											</div>
 																										</div>
 																										
@@ -562,28 +606,35 @@
 																							</div>
 																						</div>
 																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Recognition</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Pegawai</div><br>
 																							<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
-																									<div class="form-group row" style="text-align:center">
+																									<div class="form-group row" style="text-align:left">
 																										<div class="col-lg-12">
-																											<div>&nbsp;</div>
-																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Scan Fingerprint">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
-																											</div>
-																										</div>
+					                           <label>UID Fingerprint :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
 																										
 																									</div>
 																								</div>
 																							</div>
 																						</div>
+																						<div class="kt-portlet kt-portlet--height-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Face Pegawai</div><br>
+																							<div class="kt-portlet__body">
+																								<div class="kt-portlet__content">
+																									<div class="form-group row" style="text-align:left">
+																										<div class="col-lg-12">
+					                           <label>UID Face :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="123">
+					                         </div>
+																										
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						
+
 
 									</div>
 									</div>

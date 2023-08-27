@@ -152,7 +152,7 @@ function goBack() {
 														<div class="kt-form__section kt-form__section--first">
 
 											<div class="row">
-											<div class="col-xl-4">
+											<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -203,7 +203,7 @@ function goBack() {
 
 
 										</div>
-											<div class="col-xl-4">
+											<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -234,7 +234,15 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						<div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-12">
+                          <label class="">Uraian Dokumen :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="">
+                        </div>
+
+                    </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
                           <label class="">Akses Department :</label>
                          
 											<select class="form-control kt-select2" id="kt_select2_3" name="param" multiple="multiple">
@@ -249,7 +257,10 @@ function goBack() {
 											</select>
 									
                         </div>
-						<div class="col-lg-6">
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
                           <label class="">Akses Bagian :</label>
                          
 											<select class="form-control kt-select2" id="kt_select2_2" name="param" multiple="multiple">
@@ -270,14 +281,7 @@ function goBack() {
 						
                         </div>
 						
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="form-group row">
-						<div class="col-lg-12">
-                          <label class="">Uraian Dokumen :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="">
-                        </div>
 
-                    </div>
 							<!--end:: Portlet-->
 
 
@@ -286,7 +290,7 @@ function goBack() {
 										</div>
 								
 										
-										<div class="col-xl-4">
+										<div class="col-xl-2">
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Upload File</div><br>

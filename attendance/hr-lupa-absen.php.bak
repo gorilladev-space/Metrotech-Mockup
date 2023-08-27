@@ -87,7 +87,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Nama Pegawai :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
@@ -149,11 +149,21 @@
 						                        </div>
 						                      </div>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label>Kantor :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Pusat</option>
 						                              <option value="3">Cabang Sulawesi Barat</option>
+
+						                          </select>
+						                        </div>
+												<div class="col-lg-2">
+						                          <label>Jenis Lupa Absen :</label>
+																		<select class="form-control kt-selectpicker" data-live-search="true">
+						                              <option value="2">Datang</option>
+						                              <option value="3">Pulang</option>
+						                              <option value="3">Lembur Masuk</option>
+						                              <option value="3">Pulang</option>
 
 						                          </select>
 						                        </div>
@@ -500,6 +510,7 @@
 												<td width="8%" style="text-align:center">09:00 WITA</td>
 												<td style="text-align:left">Buru2 datang dan langsung kerja</td>
 											  <td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Tidak Sesuai Prosedur dikarenakan tidak ada perintah lembur<hr>16 Desember 2022" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><div class="kt-widget2__actions">

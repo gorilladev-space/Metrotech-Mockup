@@ -364,15 +364,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="edit-izin.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -422,15 +422,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="edit-izin.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -480,15 +480,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="edit-izin.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -551,15 +551,15 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="edit-izin.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -582,25 +582,13 @@
 											  <td style="text-align:center">12 Oktober 2019<br>09:00 WITA</td>
 											  <td style="text-align:center">12 Oktober 2019<br>12:00 WITA</td>
 											  <td style="text-align:left">Antar Anak Sekolah Hari Pertama </td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak<hr>Lagi Padat Pekerjaan<hr>31 Desember 2018 - 14:30 WITA " data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+													<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-													<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Nama Kabag Terkait<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-														<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Nama Direksi Terkait<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-													<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-info kt_sweetalert_demo_9"></i>
-														</span></td>
-													<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-info kt_sweetalert_demo_9"></i>
-														</span></td>
-														<td width="3%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Telah Terinfokan<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-info kt_sweetalert_demo_9"></i>
-														</span></td>
-													<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
+												<td width="3%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Ditolak" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>

@@ -237,16 +237,11 @@
 																			</a>
 																		</li>
 
+																		
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -289,15 +284,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -340,15 +329,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -391,15 +374,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>

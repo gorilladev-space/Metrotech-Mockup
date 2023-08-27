@@ -145,14 +145,9 @@ License: You must have a valid license purchased only from themeforest(the above
 												<span class="kt-nav__link-text">Lihat Detail</span>
 											</a>
 										</li>
+										
 										<li class="kt-nav__item">
-											<a href="print-lupa-absen.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-print"></i>
-												<span class="kt-nav__link-text">Print</span>
-											</a>
-										</li>
-										<li class="kt-nav__item">
-											<a href="edit-lupa-absen.php" class="kt-nav__link">
+											<a href="edit-mesin-absen.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
@@ -187,13 +182,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="print-lupa-absen.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-print"></i>
-												<span class="kt-nav__link-text">Print</span>
-											</a>
-										</li>
-										<li class="kt-nav__item">
-											<a href="edit-lupa-absen.php" class="kt-nav__link">
+											<a href="edit-mesin-absen.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
@@ -228,13 +217,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="print-lupa-absen.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-print"></i>
-												<span class="kt-nav__link-text">Print</span>
-											</a>
-										</li>
-										<li class="kt-nav__item">
-											<a href="edit-lupa-absen.php" class="kt-nav__link">
+											<a href="edit-mesin-absen.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>
@@ -269,13 +252,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</a>
 										</li>
 										<li class="kt-nav__item">
-											<a href="print-lupa-absen.php" class="kt-nav__link">
-												<i class="kt-nav__link-icon fa flaticon2-print"></i>
-												<span class="kt-nav__link-text">Print</span>
-											</a>
-										</li>
-										<li class="kt-nav__item">
-											<a href="edit-lupa-absen.php" class="kt-nav__link">
+											<a href="edit-mesin-absen.php" class="kt-nav__link">
 												<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 												<span class="kt-nav__link-text">Edit Data</span>
 											</a>

@@ -69,18 +69,24 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-4">
-                                <label>Nama Kantor :</label>
-    	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
-        					
-                            </div>
-							<div class="col-lg-4">
-                                <label>Alamat Kantor :</label>
-    	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
-        					
-                            </div>
+                            <div class="col-lg-3">
+						                          <label class="">Uraian :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
+							<div class="col-lg-3">
+						                          <label class="">Format Nomor Surat :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
                             
 							
 							
@@ -145,13 +151,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -182,13 +188,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -219,13 +225,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -256,13 +262,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -293,13 +299,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -330,13 +336,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -367,13 +373,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -404,13 +410,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -441,13 +447,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -478,13 +484,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -515,13 +521,13 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
@@ -794,7 +800,7 @@
 											<div class="kt-portlet__head">
 											<div class="kt-portlet__head-label">
 												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
-												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH KANTOR</h3>
+												<h3 class="kt-portlet__head-title kt-font-info">FORM TAMBAH NOMOR SURAT</h3>
 											</div>
 											<div class="kt-portlet__head-toolbar">
 												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
@@ -804,13 +810,70 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nama Kantor:</label>
+												<div class="col-lg-6">
+														<label>Uraian :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
-<div class="col-lg-8">
-														<label>Alamat Kantor:</label>
+<div class="col-lg-6">
+														<label>Format Nomor Surat :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
+
+												</div>
+												
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+												
+												
+									<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm">Simpan</button>
+												</div>
+											</div>
+
+
+
+
+									</div>
+
+									</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+							<!--End::Modal 2-->
+							<!--begin::Modal 2-->
+									<div class="modal fade" id="modal_edit" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-info">EDIT NOMOR SURAT</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
+													<div class="form-group row">
+												<div class="col-lg-6">
+														<label>Uraian :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Peraturan Perusahaan" disabled>
+
+												</div>
+<div class="col-lg-6">
+														<label>Format Nomor Surat :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>

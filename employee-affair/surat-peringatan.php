@@ -120,7 +120,7 @@
 					 														</select>
 
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label class="">NIP :</label>
 																			<div class="kt-input-icon kt-input-icon--right">
 																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -162,7 +162,7 @@
 						                        </div>
 												<div class="col-lg-1">
 						                          <label class="">Tipe Pegawai :</label>
-						                          <select class="form-control kt-selectpicker" name="param">
+						                          <select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Tetap</option>
 																							<option value="AK" >Kontrak</option>
 																							<option value="AK" >Honor</option>
@@ -171,9 +171,9 @@
 										
 												
 												
-												<div class="col-lg-1">
+												<div class="col-lg-2">
 						                          <label class="">Kantor :</label>
-						                          <select class="form-control kt-selectpicker" name="param">
+						                          <select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Pusat</option>
 																							<option value="HI">Cabang Sulawesi Barat</option>
 																						</select>

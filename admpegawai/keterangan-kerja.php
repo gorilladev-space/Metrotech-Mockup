@@ -85,8 +85,17 @@
 																	<form class="kt-form">
 																		<div class="kt-portlet__body">
 							                      <div class="form-group row">
+												  <div class="col-lg-2">
+						                          <label class="">ID Permohonan :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 							                        <div class="col-lg-2">
-							                          <label>Nama Pegawai :</label>
+							                          <label>Nama Pemohon :</label>
 													  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
 					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
@@ -120,56 +129,44 @@
 
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Departemen :</label>
-							                           <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2" selected="">Direksi</option>
-                                      <option value="2">Dewan Pengawas</option>
-                                      <option value="3">Umum</option>
-                                      <option value="4">Keuangan dan Asset</option>
-                                      <option value="5">Operasional</option>
-                                      <option value="12" >Pengembangan Usaha dan Kerjasama</option>
-                                  </select>
-							                        </div>
+						                          <label class="">NIP :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
+													<div class="col-lg-2">
+						                          <label class="">No. Surat Keterangan Kerja :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 
-							                        <div class="col-lg-2">
-							                          <label>Jabatan :</label>
-							                          <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="2">Dewan Pengawas</option>
-									  <optgroup label="Direksi">
-                                      <option value="2" selected="">Direktur Utama</option>
-                                      <option value="2">Direktur Umum</option>
-                                      <option value="2">Direktur Keuangan dan Asset</option>
-                                      <option value="2">Direktur Operasional</option>
-                                      <option value="2">Direktur Pengembangan Usaha dan Kerjasama</option>
-									  </optgroup>
-                                     
-                                  </select>
-							                        </div>
+							                        
+													
 													<div class="col-lg-2">
-							                          <label>Jenis Cuti :</label>
-							                      <select class="form-control kt-selectpicker" data-live-search="true" tabindex="-98">
-							                              <option value="2">cuti alasan penting</option>
-							                              <option value="3">cuti bersalin</option>
-							                              <option value="4">cuti besar</option>
-							                              <option value="5">cuti khusus</option>
-							                              <option value="6">cuti sakit</option>
-							                              <option value="7" selected="">cuti tahunan</option>
-							                              <option value="12">menikah</option>
-							                          </select>
-							                        </div>
-													<div class="col-lg-2">
-							                          <label class="">Tanggal :</label>
+							                          <label class="">Tanggal Permohonan :</label>
 							                          <div class="input-group">
-							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="Select date range">
+							                        <input type="text" class="form-control kt_datepicker_2_modal" readonly="" placeholder="- Pilih Tanggal -">
 							                        <div class="input-group-append">
 							                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
 							                        </div>
 							                      </div>
 							                        </div>
 													<div class="col-lg-2">
-							                          <label class="">Keterangan :</label>
-							                          <textarea class="form-control" id="exampleTextarea" rows="1"></textarea>
-							                        </div>
+						                          <label class="">Tujuan Permohonan :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 							                        
 							                      </div>
 							                      
@@ -270,12 +267,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="edit-data-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
@@ -334,12 +326,7 @@
 																			</a>
 																		</li>
 																		
-																		<li class="kt-nav__item">
-																			<a href="edit-data-permohonan-surat-keterangan-bekerja.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>

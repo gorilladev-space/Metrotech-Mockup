@@ -86,6 +86,15 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
+											  <div class="col-lg-2">
+						                          <label class="">ID Lembur :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 						                        <div class="col-lg-2">
 						                          <label>Pemberi Tugas :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
@@ -152,7 +161,7 @@
 
 					 														</select>
     		                    </div>
-								<div class="col-lg-2">
+								<div class="col-lg-1">
 						                          <label>Tipe Pegawai :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Pegawai Tetap</option>
@@ -184,7 +193,7 @@
                                                             								</div>
                                                                                         </div>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label>Status :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Disetujui</option>
