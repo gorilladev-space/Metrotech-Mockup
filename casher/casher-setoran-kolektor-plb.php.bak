@@ -1149,10 +1149,7 @@
 														<label class="kt-font-danger">Metode Pembayaran :</label>
 														 <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Virtual Account - BTN">
 													</div>
-													<div class="col-lg-4">
-														<label class="kt-font-danger">Bukti Pembayaran :</label>
-														 <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Virtual Account - BTN">
-													</div>
+													
 												
 
 												</div>
@@ -1783,7 +1780,12 @@
 
 						<div class="col-lg-4">
                           <label><span style="color:#ff0000">*</span> ID Transaksi :</label>
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001TKMTJU823">
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001TKPLB823">
+
+                        </div>
+						<div class="col-lg-4">
+                          <label><span style="color:#ff0000">*</span> ID Pembayaran :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001PKPLB823">
 
                         </div>
 						<div class="col-lg-4">

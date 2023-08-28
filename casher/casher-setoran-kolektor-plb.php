@@ -1780,7 +1780,12 @@
 
 						<div class="col-lg-4">
                           <label><span style="color:#ff0000">*</span> ID Transaksi :</label>
-                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001TKMTJU823">
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001TKPLB823">
+
+                        </div>
+						<div class="col-lg-4">
+                          <label><span style="color:#ff0000">*</span> ID Pembayaran :</label>
+                         <input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="0000001PKPLB823">
 
                         </div>
 						<div class="col-lg-4">
@@ -1812,10 +1817,7 @@
                                 <div class="col-lg-12">
 								<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                                   <div class="form-group row">
-    													<div class="col-lg-4">
-														<label>ID Pembayaran :</label>
-														<input type="text" class="form-control form-control-sm"  disabled="disabled" placeholder="Auto Generate">
-													</div>
+    													
 													<div class="col-lg-4">
 														<label class="kt-font-danger">Tipe Pembayaran :</label>
 														 <select class="form-control form-control kt-selectpicker" data-live-search="true">

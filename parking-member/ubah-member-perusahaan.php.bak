@@ -475,13 +475,13 @@ function goBack() {
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000002MP823">
                       </div>
                         </div>
-						<div class="col-lg-1">
+						<div class="col-lg-2">
                           <label class="">Tipe Member :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate">
                       </div>
                         </div>
-						<div class="col-lg-1">
+						<div class="col-lg-2">
                           <label class="">Jenis Member :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
