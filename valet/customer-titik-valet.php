@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Customer Valet Parking
+                    Data Titik Valet Parking
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -49,7 +49,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-                <a href="customer-valet-add.php" class="btn btn-info btn-sm">
+                <a href="customer-titik-valet-add.php" class="btn btn-info btn-sm">
                     <i class="fa fa-plus"></i> Tambah Data</button>
                     <!--<i class="flaticon2-plus"></i>-->
                 </a>
@@ -263,24 +263,36 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>Valet</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer Valet</th>
+											  <th width="1%" rowspan="3" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="1%" rowspan="3" bgcolor="#f7fcff">ID<br>
+											  Titik Valet</th>
 											  
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
-											  <th colspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
-                                              <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
+											  <th width="7%" rowspan="3" bgcolor="#f7fcff">Nama Titik Valet</th>
+											  <th colspan="3" rowspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
+                                              <th colspan="8" bgcolor="#f7fcff"> Valet Detail</th>
+											  <th colspan="5" rowspan="2" bgcolor="#f7fcff">Jukir Bertugas</th>
 											  
 											 
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">SKB</th>
-											    <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+											  <th width="2%" rowspan="3" bgcolor="#f7fcff">Tipe<br>Customer</th>
+											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">SKB</th>
+											    <th width="1%" colspan="3" rowspan="2" bgcolor="#f7fcff">Verifikasi</th>
+											  <th width="1%" rowspan="3" bgcolor="#f7fcff">Aksi</th>
+										  </tr>
+											<tr style="text-align:center">
+											  <th colspan="4" bgcolor="#f7fcff">Motor</th>
+											  <th colspan="4" bgcolor="#f7fcff">Mobil</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="8%" bgcolor="#f7fcff">Nama PIC</th>
+											  <th width="1%" bgcolor="#f7fcff">Nama<br>
+											    Customer</th>
+											  <th width="2%" colspan="2" bgcolor="#f7fcff">Blok</th>
+                                               <th colspan="2" bgcolor="#f7fcff">Kapasitas</th>
+                                              <th width="1%" colspan="2" bgcolor="#f7fcff">Blok</th>
+                                              <th width="1%" colspan="2" bgcolor="#f7fcff">Kapasitas</th>
+                                              <th width="8%" bgcolor="#f7fcff">ID Mitra Jukir</th>
+                                              <th width="8%" bgcolor="#f7fcff">Nama Mitra Jukir</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
@@ -295,12 +307,21 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
-												<td style="text-align:left" nowrap>Toko Agung</td>
+												<td style="text-align:center" nowrap>0001TV923</td>
+												<td style="text-align:left" nowrap>Toko Agung Valet</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
-												<td style="text-align:left" nowrap>Bakung</td>
-												<td style="text-align:left" nowrap>Pak Bambang</td>
+												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Toko Agung</td>
+												<td style="text-align:left" nowrap>2</td>
+												<td style="text-align:left" nowrap>Blok</td>
+                                                <td width="1%" nowrap style="text-align:left">10</td>
+                                                <td width="2%" nowrap style="text-align:left">Unit</td>
+                                                <td nowrap="nowrap" style="text-align:left">2</td>
+                                                <td nowrap="nowrap" style="text-align:left">Blok</td>
+                                                <td style="text-align:left" nowrap>5</td>
+												<td style="text-align:left" nowrap>Unit</td>
+												<td style="text-align:left" nowrap>00001MJPTJU823</td>
+												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -355,11 +376,21 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
+												<td style="text-align:center" nowrap>0002TV923</td>
+												<td style="text-align:left" nowrap>Mall Ratu Indah Valet</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
-												<td style="text-align:left" nowrap>Berua</td>
-												<td style="text-align:left" nowrap>Roni Dg Kulle</td>
+												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Mall Ratu Indah</td>
+												<td nowrap style="text-align:left">2</td>
+												<td nowrap style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">12</td>
+                                                <td nowrap style="text-align:left">Unit</td>
+                                                <td nowrap="nowrap" style="text-align:left">2</td>
+                                                <td nowrap="nowrap" style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">10</td>
+												<td nowrap style="text-align:left">Unit</td>
+												<td style="text-align:left" nowrap>00002MJPTJU823</td>
+												<td style="text-align:left" nowrap>ARMAN</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -383,12 +414,17 @@
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
+																		<li class="kt-nav__item">
+																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
 																		
 																		
 																		
 																		<li class="kt-nav__item">
-																			<a href="customer-valet-edit.php" class="kt-nav__link">
+																			<a href="customer-insidentil-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data</span>
 																			</a>
@@ -407,11 +443,21 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td style="text-align:center" nowrap>0003TV923</td>
+												<td style="text-align:left" nowrap>MP Valet Pengayoman</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
-												<td style="text-align:left" nowrap>Masale</td>
-												<td style="text-align:left" nowrap>Daeng Gassing</td>
+												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td nowrap style="text-align:left">2</td>
+												<td nowrap style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">14</td>
+                                                <td nowrap style="text-align:left">Unit</td>
+                                                <td nowrap="nowrap" style="text-align:left">2</td>
+                                                <td nowrap="nowrap" style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">5</td>
+												<td nowrap style="text-align:left">Unit</td>
+												<td style="text-align:left" nowrap>00003MJPTJU823</td>
+												<td style="text-align:left" nowrap>KASIM DG. BONTO</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -435,12 +481,17 @@
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
+																		<li class="kt-nav__item">
+																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
 																		
 																		
 																		
 																		<li class="kt-nav__item">
-																			<a href="customer-valet-edit.php" class="kt-nav__link">
+																			<a href="customer-insidentil-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data</span>
 																			</a>
@@ -459,11 +510,21 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td style="text-align:center" nowrap>0004TV923</td>
+												<td style="text-align:left" nowrap>MP Valet Boulevard</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
-												<td style="text-align:left" nowrap>Pampang</td>
-												<td style="text-align:left" nowrap>Daeng Gassing</td>
+												<td style="text-align:left" nowrap>I</td>
+												<td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td nowrap style="text-align:left">2</td>
+												<td nowrap style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">14</td>
+                                                <td nowrap style="text-align:left">Unit</td>
+                                                <td nowrap="nowrap" style="text-align:left">2</td>
+                                                <td nowrap="nowrap" style="text-align:left">Blok</td>
+                                                <td nowrap style="text-align:left">5</td>
+												<td nowrap style="text-align:left">Unit</td>
+												<td style="text-align:left" nowrap>00004MJPTJU823</td>
+												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
@@ -487,12 +548,17 @@
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
+																		<li class="kt-nav__item">
+																			<a href="kolektor-insidentil-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Kolektor</span>
+																			</a>
+																		</li>
 																		
 																		
 																		
 																		<li class="kt-nav__item">
-																			<a href="customer-valet-edit.php" class="kt-nav__link">
+																			<a href="customer-insidentil-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data</span>
 																			</a>

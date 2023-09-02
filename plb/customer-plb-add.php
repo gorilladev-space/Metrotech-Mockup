@@ -335,12 +335,7 @@ function goBack() {
                                      
                                   </select>
                       </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
-                      </div>
-                        </div>
+						
 
                         </div>
 
