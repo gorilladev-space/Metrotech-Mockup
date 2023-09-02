@@ -100,7 +100,7 @@ function goBack() {
 														Atribut Surat 
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Kesepakatan Bersama
+														Perjanjian Kerja Sama
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -119,7 +119,7 @@ function goBack() {
 														Preview Surat
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Kesepakatan Bersama
+														Perjanjian Kerja Sama
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">

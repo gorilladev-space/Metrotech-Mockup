@@ -273,7 +273,7 @@
 											  
 											 
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">SKB</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff">PKS</th>
 											    <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -296,7 +296,7 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>0001CV923</td>
 												<td style="text-align:left" nowrap>Toko Agung</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Bakung</td>
@@ -351,7 +351,7 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
+												<td style="text-align:center" nowrap>0002CV923</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Berua</td>
 												<td style="text-align:left" nowrap>Roni Dg Kulle</td>
@@ -403,7 +403,7 @@
 										  <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td style="text-align:center" nowrap>0003CV923</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Masale</td>
 												<td style="text-align:left" nowrap>Daeng Gassing</td>
@@ -455,7 +455,7 @@
 										  <tr>
 												<td id="kt_table_1">4</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td style="text-align:center" nowrap>0004CV923</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Pampang</td>
 												<td style="text-align:left" nowrap>Daeng Gassing</td>

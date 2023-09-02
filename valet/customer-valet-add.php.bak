@@ -91,7 +91,7 @@ function goBack() {
 														Atribut Surat 
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Kesepakatan Bersama
+														Perjanjian Kerja Sama
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -110,7 +110,7 @@ function goBack() {
 														Preview Surat
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Kesepakatan Bersama
+														Perjanjian Kerja Sama
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -238,7 +238,7 @@ function goBack() {
                                   </select>
                             </div>
 							<div class="col-lg-4">
-                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
+                          <label class="">Kota :</label>
                         <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Makassar</option>
                                       <option value="2">Maros</option>
@@ -277,7 +277,7 @@ function goBack() {
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 <div class="form-group row">
 						<div class="col-lg-6">
-					                           <label><span style="color:#ff0000">*</span>Zona :</label>
+					                           <label><span style="color:#ff0000">*</span> Zona :</label>
                           <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
                                       <option value="2">Bontoala</option>
@@ -329,7 +329,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Penanggung Jawab</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data PIC</div><br>
 										 <div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												
@@ -337,7 +337,7 @@ function goBack() {
                       
 						
 						<div class="col-lg-3">
-                          <label><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
+                          <label>No. Identitas KTP :</label>
                            <input type="text" class="form-control form-control-sm" placeholder="">
                         </div>
 						<div class="col-lg-3">
@@ -519,6 +519,7 @@ function goBack() {
 
 									</div>
 									</div>
+									</div>
 					
 									
 										
@@ -549,14 +550,14 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail SKB</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail PKS</div><br>
 										 <div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 						
 						 <div class="col-lg-12">
-                          <label>Nomor SKB :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="001/30.SKB-PPLB/PB/I/2023" disabled>
+                          <label>Nomor PKS :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="001/PKS/VP/I/2023" disabled>
                         </div>
 						
 						

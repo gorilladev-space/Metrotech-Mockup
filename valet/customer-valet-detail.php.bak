@@ -100,7 +100,7 @@ function goBack() {
 														Atribut Surat 
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
-														Kesepakatan Bersama
+														Perjanjian Kerja Sama
 													</div>
 												</div>
 												<div class="kt-wizard-v4__nav-number kt-block-center">
@@ -822,7 +822,7 @@ function goBack() {
     <td colspan="12" style="text-align: center"><strong>TENTANG</strong></td>
   </tr>
   <tr>
-    <td colspan="12" style="text-align: center"><strong>PEMBAYARAN PARKIR LANGGANAN BULANAN (PLB)</strong></td>
+    <td colspan="12" style="text-align: center"><strong>VALET PARKING BLOCK SPACE</strong></td>
   </tr>
   <tr>
     <td colspan="12" style="text-align: center"><strong>DALAM WILAYAH KOTA MAKASSAR</strong></td>

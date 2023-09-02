@@ -96,7 +96,7 @@ function goBack() {
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
-														Data
+														Detail Data
 													</div>
 													<div class="kt-wizard-v4__nav-label-desc">
 														Customer Valet
@@ -110,7 +110,7 @@ function goBack() {
 										<div class="kt-wizard-v4__nav-item" data-ktwizard-type="step" data-ktwizard-state="current">
 											<div class="kt-wizard-v4__nav-body">
 												<div class="kt-wizard-v4__nav-icon">
-													<i class="flaticon-medal"></i>
+													<i class="flaticon-map-location"></i>
 												</div>
 												<div class="kt-wizard-v4__nav-label">
 													<div class="kt-wizard-v4__nav-label-title">
@@ -170,7 +170,7 @@ function goBack() {
 										 <div class="kt-portlet__body">
                       <div class="form-group row">
                         <div class="col-lg-4">
-                          <label>No. Handphone :</label>
+                          <label>No. HP Customer :</label>
                           <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
         							<span class="kt-input-icon__icon kt-input-icon__icon--right">
@@ -233,7 +233,7 @@ function goBack() {
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff">QR Code<br /></th>
 											  <th width="1%" bgcolor="#f7fcff">ID Customer<br /></th>
-											  <th width="2%" bgcolor="#f7fcff">Foto</th>
+											  <th width="2%" bgcolor="#f7fcff">Logo</th>
 											  <th width="7%" bgcolor="#f7fcff">Nama Customer</th>
 											  <th width="10%" bgcolor="#f7fcff">Alamat</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br />
@@ -247,10 +247,10 @@ function goBack() {
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>0001CV923</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
+														<img src="../assets/img/project-logos/2.png" alt="image">
 													</a></td>
 												<td style="text-align:left" nowrap>Muhammad Nasrullah</td>
 
@@ -369,24 +369,15 @@ function goBack() {
 						
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Tipe Badan Usaha :</label>
-                           <select class="form-control form-control kt-selectpicker" data-live-search="true">
-														<option>PT</option>
-														<option>CV</option>
-														<option>Koperasi</option>
-														<option>Firma</option>
-														</select>
+                           <input type="text" class="form-control form-control-sm"  placeholder="PT" disabled>
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Tipe Customer :</label>
-                           <select class="form-control form-control kt-selectpicker" data-live-search="true">
-														<option>Silver</option>
-														<option>Gold</option>
-														<option>Platinum</option>
-														</select>
+                          <input type="text" class="form-control form-control-sm"  placeholder="Silver" disabled>
                         </div>
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Nama Badan Usaha :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                          <input type="text" class="form-control form-control-sm"  placeholder="iLugroup Multimedia Indonesia" disabled>
                         </div>
                         </div>
 						
@@ -394,21 +385,21 @@ function goBack() {
 						<div class="form-group row">
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
+                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur" disabled>
 
                         </div>
 						<div class="col-lg-2">
 					   <label>Kode Pos</label>
-                         <input type="text" class="form-control form-control-sm"  placeholder="90000">
+                         <input type="text" class="form-control form-control-sm"  placeholder="90000" disabled>
 
                         </div>
 						<div class="col-lg-2">
                           <label>RT :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="003">
+                          <input type="text" class="form-control form-control-sm"  placeholder="003" disabled>
                         </div>
 						<div class="col-lg-2">
                           <label>RW :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="005">
+                          <input type="text" class="form-control form-control-sm"  placeholder="005" disabled>
                         </div>
 					
 						
@@ -422,50 +413,17 @@ function goBack() {
                           
                                 <label>Kecamatan :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Biringkanaya</option>
-                                      <option value="2">Bontoala</option>
-                                      <option value="3">Kepulauan Sangkarrang</option>
-                                      <option value="4">Makassar</option>
-                                      <option value="5">Mamajang</option>
-                                      <option value="6">Manggala</option>
-                                      <option value="7">Mariso</option>
-                                      <option value="8">Panakkukang</option>
-                                      <option value="9">Rappocini</option>
-                                      <option value="10">Tallo</option>
-                                      <option value="11">Tamalanrea</option>
-                                      <option value="12">Tamalate</option>
-                                      <option value="13">Ujung Pandang</option>
-                                      <option value="14">Ujung Tanah</option>
-                                      <option value="15">Wajo</option>
-                                  </select>
+                                <input type="text" class="form-control form-control-sm"  placeholder="Biringkanaya" disabled>
                             </div>
 						<div class="col-lg-4">
                           
                                 <label>Kelurahan :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Bakung</option>
-                                      <option value="2">Berua</option>
-                                      <option value="3">Bulurokeng</option>
-                                      <option value="4">Daya</option>
-                                      <option value="5">Katimbang</option>
-                                      <option value="6">Laikang</option>
-                                      <option value="7">Paccerakkang</option>
-                                      <option value="8">Pai</option>
-                                      <option value="9">Sudiang</option>
-                                      <option value="10">Sudiang Raya</option>
-                                      <option value="11">Untia</option>
-                                     
-                                  </select>
+                                <input type="text" class="form-control form-control-sm"  placeholder="Bakung" disabled>
                             </div>
 							<div class="col-lg-4">
                           <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                        <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Makassar</option>
-                                      <option value="2">Maros</option>
-                                     
-                                  </select>
+                        <input type="text" class="form-control form-control-sm"  placeholder="Makassar" disabled>
                       </div>
 						
 					
@@ -481,18 +439,18 @@ function goBack() {
 									<div class="form-group row">
 						<div class="col-lg-6">
 					                           <label>Email :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
+                          <input type="text" class="form-control form-control-sm"  placeholder="hubungi@ilugroup.co.id" disabled>
 					                         </div>
 						<div class="col-lg-3">
                           <label class=""><span style="color:#ff0000">*</span> No. Tlp / HP :</label>
 
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                       <input type="text" class="form-control form-control-sm"  placeholder="082244444436" disabled>
 
                       </div>
 					  <div class="col-lg-3">
                           <label class="">Whatsapp :</label>
                          
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                         <input type="text" class="form-control form-control-sm"  placeholder="082244444436" disabled>
                   
                       </div>
                       </div>
@@ -500,41 +458,12 @@ function goBack() {
 <div class="form-group row">
 						<div class="col-lg-6">
 					                           <label><span style="color:#ff0000">*</span>Zona :</label>
-                          <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Biringkanaya</option>
-                                      <option value="2">Bontoala</option>
-                                      <option value="3">Kepulauan Sangkarrang</option>
-                                      <option value="4">Makassar</option>
-                                      <option value="5">Mamajang</option>
-                                      <option value="6">Manggala</option>
-                                      <option value="7">Mariso</option>
-                                      <option value="8">Panakkukang</option>
-                                      <option value="9">Rappocini</option>
-                                      <option value="10">Tallo</option>
-                                      <option value="11">Tamalanrea</option>
-                                      <option value="12">Tamalate</option>
-                                      <option value="13">Ujung Pandang</option>
-                                      <option value="14">Ujung Tanah</option>
-                                      <option value="15">Wajo</option>
-                                  </select>
+                          <input type="text" class="form-control form-control-sm"  placeholder="Biringkanaya" disabled>
 					                         </div>
 						<div class="col-lg-6">
                           <label class=""><span style="color:#ff0000">*</span> Wilayah :</label>
 
-                         <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Bakung</option>
-                                      <option value="2">Berua</option>
-                                      <option value="3">Bulurokeng</option>
-                                      <option value="4">Daya</option>
-                                      <option value="5">Katimbang</option>
-                                      <option value="6">Laikang</option>
-                                      <option value="7">Paccerakkang</option>
-                                      <option value="8">Pai</option>
-                                      <option value="9">Sudiang</option>
-                                      <option value="10">Sudiang Raya</option>
-                                      <option value="11">Untia</option>
-                                     
-                                  </select>
+                         <input type="text" class="form-control form-control-sm"  placeholder="Bakung" disabled>
                             </div>
 
 					  
@@ -560,21 +489,15 @@ function goBack() {
 						
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> No. Identitas KTP :</label>
-                           <input type="text" class="form-control form-control-sm" placeholder="">
+                           <input type="text" class="form-control form-control-sm"  placeholder="737112301870002" disabled>
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jabatan :</label>
-                            <select class="form-control kt-selectpicker" data-live-search="true">
-                              <option value="2">Pimpinan</option>
-                              <option value="3">Direktur Utama</option>
-                              <option value="3">Direktur</option>
-                              <option value="3">Lainnya</option>
-
-                          </select>
+                            <input type="text" class="form-control form-control-sm"  placeholder="Direksi" disabled>
                         </div>
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                          <input type="text" class="form-control form-control-sm"  placeholder="Muhammad Nasrullah, S.Kom" disabled>
                         </div>
                         </div>
 						 
@@ -583,19 +506,19 @@ function goBack() {
                       
 						<div class="col-lg-6">
                           <label><span style="color:#ff0000">*</span> Alamat :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                          <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur" disabled>
                         </div>
 						<div class="col-lg-2">
                           <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                          <input type="text" class="form-control form-control-sm"  placeholder="90233" disabled>
                         </div>
 						<div class="col-lg-2">
 					                           <label>RT :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="003">
+                         <input type="text" class="form-control form-control-sm"  placeholder="003" disabled>
 					                         </div>
 											 <div class="col-lg-2">
 					                           <label>RW :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="005">
+                         <input type="text" class="form-control form-control-sm"  placeholder="005" disabled>
 					                         </div>
 						
 						
@@ -607,50 +530,17 @@ function goBack() {
                           
                                 <label>Kecamatan :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Biringkanaya</option>
-                                      <option value="2">Bontoala</option>
-                                      <option value="3">Kepulauan Sangkarrang</option>
-                                      <option value="4">Makassar</option>
-                                      <option value="5">Mamajang</option>
-                                      <option value="6">Manggala</option>
-                                      <option value="7">Mariso</option>
-                                      <option value="8">Panakkukang</option>
-                                      <option value="9">Rappocini</option>
-                                      <option value="10">Tallo</option>
-                                      <option value="11">Tamalanrea</option>
-                                      <option value="12">Tamalate</option>
-                                      <option value="13">Ujung Pandang</option>
-                                      <option value="14">Ujung Tanah</option>
-                                      <option value="15">Wajo</option>
-                                  </select>
+                                <input type="text" class="form-control form-control-sm"  placeholder="Biringkanaya" disabled>
                             </div>
 						<div class="col-lg-4">
                           
                                 <label>Kelurahan :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Bakung</option>
-                                      <option value="2">Berua</option>
-                                      <option value="3">Bulurokeng</option>
-                                      <option value="4">Daya</option>
-                                      <option value="5">Katimbang</option>
-                                      <option value="6">Laikang</option>
-                                      <option value="7">Paccerakkang</option>
-                                      <option value="8">Pai</option>
-                                      <option value="9">Sudiang</option>
-                                      <option value="10">Sudiang Raya</option>
-                                      <option value="11">Untia</option>
-                                     
-                                  </select>
+                               <input type="text" class="form-control form-control-sm"  placeholder="Bakung" disabled>
                             </div>
 							<div class="col-lg-4">
                           <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                        <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Makassar</option>
-                                      <option value="2">Maros</option>
-                                     
-                                  </select>
+                       <input type="text" class="form-control form-control-sm"  placeholder="Makassar" disabled>
                       </div>
 							
                             </div>
@@ -664,18 +554,18 @@ function goBack() {
 									<div class="form-group row">
 						<div class="col-lg-6">
 					                           <label>Email :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx">
+                         <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx" disabled>
 					                         </div>
 						<div class="col-lg-3">
                           <label class=""><span style="color:#ff0000">*</span> No. Tlp / HP :</label>
 
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                        <input type="text" class="form-control form-control-sm" placeholder="082244444436" disabled>
 
                       </div>
 					  <div class="col-lg-3">
                           <label class="">Whatsapp :</label>
                           
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
+                        <input type="text" class="form-control form-control-sm" placeholder="082244444436" disabled>
           
                       </div>
                       </div>
@@ -718,14 +608,9 @@ function goBack() {
 																										<div class="col-lg-12">
 																											<div>&nbsp;</div>
 																											<div class="kt-avatar kt-avatar--outline kt-avatar--circle-" id="kt_user_edit_avatar">
-																												<div class="kt-avatar__holder" style="background-image: url(&quot;http://keenthemes.com/metronic/preview/default/custom/user/../assets/media/users/300_20.jpg&quot;);"></div>
-																												<label class="kt-avatar__upload" data-toggle="kt-tooltip" title="" data-original-title="Upload Foto">
-																													<i class="fa fa-pen"></i>
-																													<input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg">
-																												</label>
-																												<span class="kt-avatar__cancel" data-toggle="kt-tooltip" title="" data-original-title="Batal">
-																													<i class="fa fa-times"></i>
-																												</span>
+																												<div class="kt-avatar__holder" style="background-image: url(&quot;../assets/img/project-logos/2.png&quot;);"></div>
+																												
+																												
 																											</div>
 																										</div>
 																										
@@ -740,7 +625,6 @@ function goBack() {
 							
 
 
-								</div>
 														</div>
 													</div>
 
@@ -752,166 +636,55 @@ function goBack() {
 
 											
 										
-										<div class="row">
-										<div class="col-xl-5">
 										
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Validasi</div>
-							<br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-						
-						<div class="col-lg-3">
-                          <label>ID Validasi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001VMP823">
-                        </div>
-						<div class="col-lg-4">
-                          <label>Waktu Validasi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="19 Agustus 2023 - 13:30 WITA">
-                        </div>
-						<div class="col-lg-5">
-                          <label>Nama Pegawai :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
-                        </div>
-                       
-						
-                        </div>
-						
-                     
-						
-                     
-					  
-                     
-									</div>
-									
-                     
-
-                     
-											 
-                     
-					                         </div>
-					                         </div>
-
-									
-							<!--end:: Portlet-->
-</div>
-										
-										<div class="col-xl-7">
-
-									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Transaksi</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-						
-						<div class="col-lg-2">
-                          <label>ID Transaksi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PS823">
-                        </div>
-                       
-						<div class="col-lg-3">
-                          <label>Tanggal Transaksi :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18 Agustus 2023 - 18:06 WITA">
-                        </div>
-						<div class="col-lg-2">
-                          <label>ID Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000001PMP823">
-                        </div>
-						<div class="col-lg-3">
-                          <label>Metode Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Transfer Bank">
-                        </div>
-						<div class="col-lg-2">
-                          <label>Status Pembayaran :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Terbayar">
-                        </div>
-                        </div>
-						
-                     
-						
-                     
-					  
-                     
-									</div>
-									
-                     
-
-                     
-											 
-                     
-					                         </div>
-					                         </div>
-
-									
-							<!--end:: Portlet-->
-</div>
-										
-					
-									
-										
-
-
-
-								</div>
 								<div class="row">
 										<div class="col-xl-12">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Kendaraan Member</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Titik Valet</div><br>
 										<div class="kt-portlet__body">
 																								<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
-																								  <td width="0.5%" bgcolor="#f7fcff">NO</td>
-    <td width="3%" bgcolor="#f7fcff">ID NFC<br>KENDARAAN</td>
-    <td width="1.7%" bgcolor="#f7fcff">NO. PLAT<br>KENDARAAN</td>
-    <td width="7%" bgcolor="#f7fcff">NAMA PEMILIK</td>
-    <td width="11%" bgcolor="#f7fcff">ALAMAT PEMILIK</td>
-    <td width="7%" bgcolor="#f7fcff">MERK<br>/ TYPE</td>
-    <td width="2.5%" bgcolor="#f7fcff">JENIS<br>/ MODEL</td>
-    <td width="1%" bgcolor="#f7fcff">TAHUN<br>PEMBUATAN</td>
-    <td width="6%" bgcolor="#f7fcff">NOMOR<br>RANGKA</td>
-    <td width="3.5%" bgcolor="#f7fcff">NOMOR<br>MESIN</td>
-    <td width="5%" bgcolor="#f7fcff">FOTO<br>KENDARAAN</td>
-																								</tr>
+																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">No</td>
+																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">ID Titik Valet</td>
+																								  <td width="15%" rowspan="2" bgcolor="#f7fcff">Nama Titik Valet</td>
+																								  <td colspan="4" bgcolor="#f7fcff">Motor</td>
+																								  <td colspan="4" bgcolor="#f7fcff">Mobil</td>
+																								  </tr>
+																								<tr style="text-align:center">
+																								  <td colspan="2" bgcolor="#f7fcff">Jumlah Blok</td>
+																								  <td colspan="2" bgcolor="#f7fcff">Daya Tampung</td>
+																								  <td colspan="2" bgcolor="#f7fcff">Jumlah Blok</td>
+																								  <td colspan="2" bgcolor="#f7fcff">Daya Tampung</td>
+																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
 																								<tr data-repeater-item>
-																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="1" /></td>
-    <td><input type="text" class="form-control form-control-sm" placeholder="scan NFC" /></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="DD 1111 CIE" /></td>
-    <td style="text-align:center">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom" style="text-align:left">
-      </div></td>
-    <td style="text-align:left"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="VILLA SURYA MAS J/9 MKS RT 006 RW 003 BORONG" /></td>
-    <td style="text-align:left">
-      <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="INNOVA ZENIX Q MODELISTA" style="text-align:left">
-      </div></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="MINIBUS" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="2023" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="MHRGK5860JJ807780" /></td>
-    <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="006079598" /></td>
-    <td style="text-align:center"><div class="form-group m-form__group">
-												
-												<div class="custom-file">
-													<input type="file" class="custom-file-input" id="customFile">
-													<label class="custom-file-label" for="customFile">-Pilih-</label>
-												</div>
-											</div></td>
-    
-																								</tr>
-																								
+																								  <td valign="top" style="text-align:center">1</td>
+																								  <td style="text-align:center">0001TV923</td>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder=""></td>
 
-																								<tr data-repeater-item>
 																								  
-																								</tr>
-																							</tbody>
+																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2" /></td>
+																								  <td width="1%" style="text-align:center">Blok</td>
+																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2" /></td>
+																								  <td width="1%" style="text-align:center">Unit</td>
+																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
+																								  <td width="1%" style="text-align:center">Blok</td>
+																									<td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
+																									<td width="1%" style="text-align:center">Unit</td>
+																									</tr>
+																									
 																							
+																						    <tfoot>
+																								<tr>
+																									<td colspan="12">
+																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
+																									</td>
+																								</tr>
+																							</tfoot>
 																						</table>
 																							</div>
 
