@@ -268,12 +268,10 @@
 											  Titik Valet</th>
 											  
 											  <th width="7%" rowspan="3" bgcolor="#f7fcff">Nama Titik Valet</th>
-											  <th colspan="3" rowspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th colspan="4" rowspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
                                               <th colspan="8" bgcolor="#f7fcff"> Valet Detail</th>
 											  <th colspan="4" rowspan="2" bgcolor="#f7fcff">Jukir Bertugas</th>
 											  
-											 
-											  <th width="2%" rowspan="3" bgcolor="#f7fcff">Tipe<br>Customer</th>
 											  <th width="1%" colspan="2" rowspan="2" bgcolor="#f7fcff">Titik Valet</th>
 											    <th width="1%" colspan="3" rowspan="2" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="3" bgcolor="#f7fcff">Aksi</th>
@@ -287,6 +285,7 @@
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="1%" bgcolor="#f7fcff">Nama<br>
 											    Customer</th>
+											  <th width="1%" bgcolor="#f7fcff">Tipe</th>
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Blok</th>
                                                <th colspan="2" bgcolor="#f7fcff">Kapasitas</th>
                                               <th width="1%" colspan="2" bgcolor="#f7fcff">Blok</th>
@@ -312,6 +311,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Bakung</td>
 												<td style="text-align:left" nowrap>Toko Agung</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:left" nowrap>2</td>
 												<td style="text-align:left" nowrap>Blok</td>
                                                 <td width="1%" nowrap style="text-align:left">10</td>
@@ -325,7 +325,6 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Silver</span></td>
 												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
@@ -380,6 +379,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Berua</td>
 												<td style="text-align:left" nowrap>Mall Ratu Indah</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td nowrap style="text-align:left">2</td>
 												<td nowrap style="text-align:left">Blok</td>
                                                 <td nowrap style="text-align:left">12</td>
@@ -393,7 +393,6 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
@@ -446,6 +445,7 @@
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Masale</td>
 												<td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td nowrap style="text-align:left">2</td>
 												<td nowrap style="text-align:left">Blok</td>
                                                 <td nowrap style="text-align:left">14</td>
@@ -459,7 +459,6 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												
-												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
@@ -512,6 +511,7 @@
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Pampang</td>
 												<td style="text-align:left" nowrap>Mall Panakkukang</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td nowrap style="text-align:left">2</td>
 												<td nowrap style="text-align:left">Blok</td>
                                                 <td nowrap style="text-align:left">14</td>
@@ -525,7 +525,6 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												
-												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
 												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
 												
