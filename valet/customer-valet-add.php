@@ -628,7 +628,7 @@ function goBack() {
 									</div>
 									
                     </div>
-					<div class="col-xl-5">
+					<div class="col-xl-6">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -646,6 +646,7 @@ function goBack() {
 																								  <td width="1%" bgcolor="#f7fcff">Lantai</td>
 																									<td width="1%" bgcolor="#f7fcff">Jumlah<br>Blok</td>
 																									<td width="1%" bgcolor="#f7fcff">Daya<br>Tampung</td>
+																									<td width="1%" bgcolor="#f7fcff" style="text-align:center">Kode<br>Blok</td>
 																									
 																									<td width="1%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
 																								</tr>
@@ -664,6 +665,7 @@ function goBack() {
                             </select></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder=""></td>
 																									
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
@@ -682,6 +684,7 @@ function goBack() {
                             </select></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
+																									<td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder=""></td>
 																									
 																									<td style="text-align:center">
 																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
@@ -694,7 +697,7 @@ function goBack() {
 																							</tbody>
 																							<tfoot>
 																								<tr>
-																									<td colspan="7">
+																									<td colspan="8">
 																										<button type="button" class="btn btn-success btn-sm float-right" href="javascript:;" data-repeater-create=""> <i class="fa fa-plus"></i> Tambah Data</button>
 																									</td>
 																								</tr>
@@ -712,7 +715,7 @@ function goBack() {
 
 								</div>
 								
-								<div class="col-xl-4">
+								<div class="col-xl-3">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">

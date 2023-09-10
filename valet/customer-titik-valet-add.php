@@ -638,7 +638,7 @@ function goBack() {
 										
 										
 								<div class="row">
-										<div class="col-xl-12">
+										<div class="col-xl-4">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -647,17 +647,9 @@ function goBack() {
 																								<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
-																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">No</td>
-																								  <td width="1%" rowspan="2" bgcolor="#f7fcff">ID Titik Valet</td>
-																								  <td width="15%" rowspan="2" bgcolor="#f7fcff">Nama Titik Valet</td>
-																								  <td colspan="4" bgcolor="#f7fcff">Motor</td>
-																								  <td colspan="4" bgcolor="#f7fcff">Mobil</td>
-																								  </tr>
-																								<tr style="text-align:center">
-																								  <td colspan="2" bgcolor="#f7fcff">Jumlah Blok</td>
-																								  <td colspan="2" bgcolor="#f7fcff">Daya Tampung</td>
-																								  <td colspan="2" bgcolor="#f7fcff">Jumlah Blok</td>
-																								  <td colspan="2" bgcolor="#f7fcff">Daya Tampung</td>
+																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="1%" bgcolor="#f7fcff">ID Titik Valet</td>
+																								  <td width="15%" bgcolor="#f7fcff">Nama Titik Valet</td>
 																								  </tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -665,17 +657,7 @@ function goBack() {
 																								  <td valign="top" style="text-align:center">1</td>
 																								  <td style="text-align:center">0001TV923</td>
 																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" placeholder=""></td>
-
-																								  
-																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2" /></td>
-																								  <td width="1%" style="text-align:center">Blok</td>
-																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2" /></td>
-																								  <td width="1%" style="text-align:center">Unit</td>
-																								  <td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
-																								  <td width="1%" style="text-align:center">Blok</td>
-																									<td width="1%" style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
-																									<td width="1%" style="text-align:center">Unit</td>
-																									</tr>
+																								  </tr>
 																									
 																							
 																						</table>

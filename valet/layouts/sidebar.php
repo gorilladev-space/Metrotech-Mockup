@@ -84,6 +84,7 @@
 										<ul class="kt-menu__subnav">
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-valet-parking.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Data Customer</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="customer-titik-valet.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Titik Valet Customer</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="kapasitas-produksi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kapasitas Produksi</span></a></li>
 											<li class="kt-menu__item" aria-haspopup="true"><a href="complaint-customer-valet-parking.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Laporan Customer</span></a></li>
 											
 
