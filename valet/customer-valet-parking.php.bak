@@ -171,7 +171,7 @@
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Silver</option>
                                       <option value="2">Gold</option>
-                                      <option value="3">3</option>
+                                      <option value="3">Platinum</option>
                                      
                                   </select>
                             </div>
@@ -210,21 +210,20 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>Valet</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer Valet</th>
-											  
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
-											  <th colspan="2" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th colspan="5" bgcolor="#f7fcff">Customer Valet</th>
 											  <th colspan="3" bgcolor="#f7fcff">Detail Valet</th>
                                               <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
                                               <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">PKS</th>
+											  <th width="1%" colspan="2" bgcolor="#f7fcff">Perjanjian Kerja Sama</th>
 											    <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
+											  <th width="1%" bgcolor="#f7fcff">QR Code</th>
+											  <th width="1%" bgcolor="#f7fcff">ID</th>
+											  <th width="7%" bgcolor="#f7fcff">Nama</th>
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
-											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="2%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="1%" bgcolor="#f7fcff">Total<br>Lantai</th>
 											  <th width="1%" bgcolor="#f7fcff">Total<br>Blok</th>
 											  <th width="1%" bgcolor="#f7fcff">Total<br>Kapasitas<br />Kendaraan</th>
@@ -242,7 +241,7 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td id="kt_table_1">1</td>
+												<td id="kt_table_1" style="text-align:right">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>0001CV923</td>
 												<td style="text-align:left" nowrap>Toko Agung</td>
@@ -300,7 +299,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">2</td>
+												<td id="kt_table_1" style="text-align:right">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>0002CV923</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
@@ -355,7 +354,7 @@
 															</div></td>
 										  </tr>
 										  <tr>
-												<td id="kt_table_1">3</td>
+												<td id="kt_table_1" style="text-align:right">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>0003CV923</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>

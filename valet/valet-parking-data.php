@@ -24,7 +24,7 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Customer Valet Parking
+                    Data Valet Parking
                 </h3>
             </div>
             <div class="kt-subheader__toolbar">
@@ -210,60 +210,53 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th colspan="5" bgcolor="#f7fcff">Customer Valet</th>
-											  <th colspan="3" bgcolor="#f7fcff">Detail Valet</th>
-                                              <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
-                                              <th width="2%" rowspan="2" bgcolor="#f7fcff">Tipe<br>Customer</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">Perjanjian Kerja Sama</th>
-											    <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+											  <th width="5%" colspan="7" bgcolor="#f7fcff" id="kt_table_2">Detail Reservasi</th>
+											  <th colspan="6" bgcolor="#f7fcff" id="kt_table_2">Member</th>
+											  <th colspan="4" bgcolor="#f7fcff">Customer Valet</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br />Reservasi</th>
+                                              <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff">QR Code</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">ID</th>
+											  <th width="5%" bgcolor="#f7fcff" id="kt_table_2">Tanggal</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Waktu Masuk</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Waktu Keluar</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Lantai</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Blok</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Nomor</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">ID</th>
+											  <th width="8%" bgcolor="#f7fcff" id="kt_table_2">Nama</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Tipe Member</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Jenis Member</th>
+											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">Jenis Kendaraan</th>
+											  <th width="2%" bgcolor="#f7fcff" id="kt_table_2">Plat Kendaraan</th>
 											  <th width="1%" bgcolor="#f7fcff">ID</th>
 											  <th width="7%" bgcolor="#f7fcff">Nama</th>
 											  <th width="3%" bgcolor="#f7fcff">Zona</th>
 											  <th width="3%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="1%" bgcolor="#f7fcff">Total<br>Lantai</th>
-											  <th width="1%" bgcolor="#f7fcff">Total<br>Blok</th>
-											  <th width="1%" bgcolor="#f7fcff">Total<br>Kapasitas<br />Kendaraan</th>
-											  <th width="8%" bgcolor="#f7fcff">Nama PIC</th>
-											  <th width="1%" bgcolor="#f7fcff">Email</th>
-											  <th width="1%" bgcolor="#f7fcff">HP</th>
-											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											
-											  <th width="1%" bgcolor="#f7fcff">Dibuat</th>
-											  <th width="1%" bgcolor="#f7fcff">Diubah</th>
-											  <th width="1%" bgcolor="#f7fcff">Kabag Pengelolaan</th>
-											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>
-											  <th width="1%" bgcolor="#f7fcff">Direktur Utama</th>
-								          </tr>
+										  </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1" style="text-align:right">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
+												<td id="kt_table_1" style="text-align:center">0003RSV923</td>
+												<td id="kt_table_1" style="text-align:center">10 September 2023</td>
+												<td id="kt_table_1" style="text-align:center">12:00</td>
+												<td id="kt_table_1" style="text-align:center">14:00</td>
+												<td id="kt_table_1" style="text-align:right">1</td>
+												<td id="kt_table_1" style="text-align:center">A</td>
+												<td id="kt_table_1" style="text-align:right">001</td>
+												<td id="kt_table_1" style="text-align:center">000001MP823</td>
+												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td id="kt_table_1" style="text-align:center">Mobil</td>
+												<td id="kt_table_1" style="text-align:center">DD 1111 LU</td>
 												<td style="text-align:center" nowrap>0001CV923</td>
 												<td style="text-align:left" nowrap>Toko Agung</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Bakung</td>
-												<td nowrap style="text-align:right">3</td>
-												<td nowrap style="text-align:right">6</td>
-												<td nowrap style="text-align:right">15</td>
-												<td style="text-align:left" nowrap>Pak Bambang</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Silver</span></td>
-												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
-												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
-												
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Disetujui<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Selesai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -271,15 +264,23 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="member-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="customer-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
-																		
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="customer-valet-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
@@ -300,25 +301,23 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
+												<td id="kt_table_1" style="text-align:center">0002RSV923</td>
+												<td id="kt_table_1" style="text-align:center">10 September 2023</td>
+												<td id="kt_table_1" style="text-align:center">12:00</td>
+												<td id="kt_table_1" style="text-align:center">14:00</td>
+												<td id="kt_table_1" style="text-align:right">2</td>
+												<td id="kt_table_1" style="text-align:center">C</td>
+												<td id="kt_table_1" style="text-align:right">001</td>
+												<td id="kt_table_1" style="text-align:center">000002MP823</td>
+												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td id="kt_table_1" style="text-align:center">Mobil</td>
+												<td id="kt_table_1" style="text-align:center">DD 1 LU</td>
 												<td style="text-align:center" nowrap>0002CV923</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Berua</td>
-												<td nowrap style="text-align:right">2</td>
-												<td nowrap style="text-align:right">4</td>
-												<td nowrap style="text-align:right">10</td>
-												<td style="text-align:left" nowrap>Roni Dg Kulle</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
-												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
-												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
-												
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--info kt-badge--md kt-badge--inline">Progress</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -326,15 +325,23 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="member-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="customer-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
-																		
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="customer-valet-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
@@ -355,25 +362,23 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1" style="text-align:right">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
+												<td id="kt_table_1" style="text-align:center">0001RSV923</td>
+												<td id="kt_table_1" style="text-align:center">10 September 2023</td>
+												<td id="kt_table_1" style="text-align:center">12:00</td>
+												<td id="kt_table_1" style="text-align:center">14:00</td>
+												<td id="kt_table_1" style="text-align:right">1</td>
+												<td id="kt_table_1" style="text-align:center">B</td>
+												<td id="kt_table_1" style="text-align:right">002</td>
+												<td id="kt_table_1" style="text-align:center">000002MP823</td>
+												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
+												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
+												<td id="kt_table_1" style="text-align:center">Motor</td>
+												<td id="kt_table_1" style="text-align:center">DD 4444 ILA</td>
 												<td style="text-align:center" nowrap>0003CV923</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Masale</td>
-												<td nowrap style="text-align:right">1</td>
-												<td nowrap style="text-align:right">2</td>
-												<td nowrap style="text-align:right">5</td>
-												<td style="text-align:left" nowrap>Daeng Gassing</td>
-												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
-												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												
-												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
-												<td style="text-align:center" nowrap>24/01/2023<br>06:00:00 WITA</td>
-												<td style="text-align:center" nowrap>25/01/2023<br>06:00:00 WITA</td>
-												
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-warning btn-sm btn-icon kt_sweetalert_demo_setuju" data-toggle="kt-tooltip" data-skin="brand" title="Menunggu Persetujuan" data-html="true"><i class="fa fa-clock"></i></button></td>
+												<td nowrap style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Pending Jukir</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -381,15 +386,23 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
+																			<a href="member-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="customer-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
 																		</li>
-																		
-																		
-																		
-																		
+																		<li class="kt-nav__item">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																			</a>
+																		</li>
 																		<li class="kt-nav__item">
 																			<a href="customer-valet-edit.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
