@@ -194,6 +194,14 @@ function goBack() {
 																						<label>Titik Parkir :</label>
 																						<input type="text" class="form-control form-control-sm" value="Coto Nusantara" placeholder="Coto Nusantara" disabled>
 																					</div>
+																					<div class="col-lg-2">
+																						<label>ID Customer :</label>
+																						<input type="text" class="form-control form-control-sm" placeholder="0001VPS923" disabled>
+																					</div>
+																					<div class="col-lg-4">
+																						<label>Nama Customer Valet :</label>
+																						<input type="text" class="form-control form-control-sm" placeholder="Mall Ratu Indah Valet" disabled>
+																					</div>
 																					</div>
 
                    
@@ -203,18 +211,8 @@ function goBack() {
 					  
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						 <div class="form-group row">
-						<div class="col-lg-2">
-																						<label>ID Customer :</label>
-																						<input type="text" class="form-control form-control-sm" placeholder="0001VPS923" disabled>
-																					</div>
-																					<div class="col-lg-4">
-																						<label>Nama Customer Valet :</label>
-																						<input type="text" class="form-control form-control-sm" placeholder="Mall Ratu Indah Valet" disabled>
-																					</div>
-																					<div class="col-lg-6">
-																						<label>Titik Valet :</label>
-																						<input type="text" class="form-control form-control-sm" placeholder="Mall Ratu Indah Valet" disabled>
-																					</div>
+						
+																					
 
 						
                         </div>

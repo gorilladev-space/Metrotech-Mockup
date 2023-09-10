@@ -211,10 +211,7 @@ function goBack() {
 																						<label>Nama Customer Valet :</label>
 																						<input type="text" class="form-control form-control-sm" placeholder="Mall Ratu Indah Valet" disabled>
 																					</div>
-																					<div class="col-lg-4">
-																						<label>Titik Valet :</label>
-																						<input type="text" class="form-control form-control-sm" placeholder="Mall Ratu Indah Valet" disabled>
-																					</div>
+																					
 
 						
                         </div>

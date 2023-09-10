@@ -105,19 +105,6 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label class="">Tanggal Mulai Kerja :</label>
-                                <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
-						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
-						                        </div>
-						                      </div>
-                            </div>
-                            
-							
-                            
-							
-							<div class="col-lg-2">
                                 <label>Jenis Kelamin :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -138,6 +125,32 @@
                                       
                                   </select>
                             </div>
+								<div class="col-lg-2">
+                                <label>ID Customer Valet :</label>
+								
+                                <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+    		                    </div>
+								<div class="col-lg-2">
+                                <label>Nama Customer Valet :</label>
+								
+                                <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+    		                    </div>
+                            
+							
+                            
+							
+							
+							
 							
 							
                             </div>
@@ -339,7 +352,7 @@
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Atribut Kerja</th>
 											    <th width="7%" rowspan="2" bgcolor="#f7fcff">Kolektor</th>
-											    <th colspan="3" bgcolor="#feffed">Data Customer Valet</th>
+											    <th colspan="2" bgcolor="#feffed">Data Customer Valet</th>
 										      <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
@@ -352,9 +365,8 @@
 											  <th width="1%" bgcolor="#f7fcff">Rompi</th>
 											  <th width="1%" bgcolor="#f7fcff">BPJSTK</th>
 											  <th width="1%" bgcolor="#feffed">ID</th>
-											  <th width="1%" bgcolor="#feffed">Nama</th>
-											  <th width="1%" bgcolor="#feffed">Titik Valet</th>
-					                      </tr>
+											  <th width="1%" bgcolor="#feffed">Nama Customer</th>
+										  </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -391,7 +403,6 @@
 														</span></td>
 														<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
 														<td nowrap="nowrap" style="text-align:left">0001VPS923</td>
-														<td nowrap="nowrap" style="text-align:left">Toko Agung</td>
 														<td nowrap="nowrap" style="text-align:left">Toko Agung</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -471,7 +482,6 @@
 														<td style="text-align:left" nowrap>ARMAN</td>
 														<td nowrap="nowrap" style="text-align:left">0002VPS923</td>
 														<td nowrap="nowrap" style="text-align:left">Mall Ratu Indah</td>
-														<td nowrap="nowrap" style="text-align:left">Mall Ratu Indah</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -548,7 +558,6 @@
 														<td style="text-align:left" nowrap>KASIM DG. BONTO</td>
 														<td nowrap="nowrap" style="text-align:left">0003VPS923</td>
 														<td nowrap="nowrap" style="text-align:left">Mall Panakkukang</td>
-														<td nowrap="nowrap" style="text-align:left">MP Pengayoman</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -623,7 +632,6 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap="nowrap" style="text-align:left">0004VPS923</td>
 												<td nowrap="nowrap" style="text-align:left">Mall Panakkukang</td>
-												<td nowrap="nowrap" style="text-align:left">MP Boulevard</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -702,7 +710,6 @@
 														<td style="text-align:left" nowrap>BANI</td>
 														<td nowrap="nowrap" style="text-align:left">0005VPS923</td>
 														<td nowrap="nowrap" style="text-align:left">Mall Panakkukang</td>
-														<td nowrap="nowrap" style="text-align:left">MP Adyaksa</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -858,22 +865,13 @@
 
 												</div>
 
-												<div class="col-lg-2">
+												<div class="col-lg-6">
 														<label>ID :</label>
 														
 									<input type="text" class="form-control form-control-sm" placeholder="0001VPS923" disabled>
 														
 													</div>
-													<div class="col-lg-4">
-														<label>Titik Valet :</label>
-														
-									<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">MP Valet Pengayoman</option>
-                                      <option value="2">MP Valet Boulevard</option>
-                                      
-                                  </select>
-														
-													</div>
+													
 
 												</div>
 												<br>
