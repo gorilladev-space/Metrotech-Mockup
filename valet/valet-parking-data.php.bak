@@ -309,7 +309,7 @@
 												<td id="kt_table_1" style="text-align:center">C</td>
 												<td id="kt_table_1" style="text-align:right">001</td>
 												<td id="kt_table_1" style="text-align:center">000002MP823</td>
-												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:left">Sri Widya Ningsih, SE</td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td id="kt_table_1" style="text-align:center">Mobil</td>
@@ -370,7 +370,7 @@
 												<td id="kt_table_1" style="text-align:center">B</td>
 												<td id="kt_table_1" style="text-align:right">002</td>
 												<td id="kt_table_1" style="text-align:center">000002MP823</td>
-												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:left">Annisa Aila Bellvania</td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td id="kt_table_1" style="text-align:center">Motor</td>
@@ -386,7 +386,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-valet-detail.php" class="kt-nav__link">
+																			<a href="member-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Member</span>
 																			</a>
@@ -398,7 +398,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="customer-valet-detail.php" class="kt-nav__link">
+																			<a href="mitra-valet-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
 																			</a>

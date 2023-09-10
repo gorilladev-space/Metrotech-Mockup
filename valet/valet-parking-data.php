@@ -309,7 +309,7 @@
 												<td id="kt_table_1" style="text-align:center">C</td>
 												<td id="kt_table_1" style="text-align:right">001</td>
 												<td id="kt_table_1" style="text-align:center">000002MP823</td>
-												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:left">Sri Widya Ningsih, SE</td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td id="kt_table_1" style="text-align:center">Mobil</td>
@@ -369,8 +369,8 @@
 												<td id="kt_table_1" style="text-align:right">1</td>
 												<td id="kt_table_1" style="text-align:center">B</td>
 												<td id="kt_table_1" style="text-align:right">002</td>
-												<td id="kt_table_1" style="text-align:center">000002MP823</td>
-												<td id="kt_table_1" style="text-align:left">Muhammad Nasrullah</td>
+												<td id="kt_table_1" style="text-align:center">000003MP823</td>
+												<td id="kt_table_1" style="text-align:left">Annisa Aila Bellvania</td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td id="kt_table_1" style="text-align:center"><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
 												<td id="kt_table_1" style="text-align:center">Motor</td>
