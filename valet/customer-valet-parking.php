@@ -279,9 +279,9 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="1%" bgcolor="#f7fcff">Lantai</th>
-											  <th width="1%" bgcolor="#f7fcff">Blok</th>
-											  <th width="3%" bgcolor="#f7fcff">Daya Tampung<br />Kendaraan</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Lantai</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Blok</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Kapasitas<br />Kendaraan</th>
 											  <th width="8%" bgcolor="#f7fcff">Nama PIC</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>

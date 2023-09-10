@@ -279,9 +279,9 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="1%" bgcolor="#f7fcff">Lantai</th>
-											  <th width="1%" bgcolor="#f7fcff">Blok</th>
-											  <th width="3%" bgcolor="#f7fcff">Daya Tampung<br />Kendaraan</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Lantai</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Blok</th>
+											  <th width="1%" bgcolor="#f7fcff">Total<br>Tampung<br />Kendaraan</th>
 											  <th width="8%" bgcolor="#f7fcff">Nama PIC</th>
 											  <th width="1%" bgcolor="#f7fcff">Email</th>
 											  <th width="1%" bgcolor="#f7fcff">HP</th>
@@ -359,9 +359,9 @@
 												<td style="text-align:center" nowrap>0002CV923</td><td style="text-align:left" nowrap>Mall Ratu Indah</td>
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:left" nowrap>Berua</td>
-												<td nowrap style="text-align:right">3</td>
-												<td nowrap style="text-align:right">6</td>
-												<td nowrap style="text-align:right">15</td>
+												<td nowrap style="text-align:right">2</td>
+												<td nowrap style="text-align:right">4</td>
+												<td nowrap style="text-align:right">10</td>
 												<td style="text-align:left" nowrap>Roni Dg Kulle</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -414,9 +414,9 @@
 												<td style="text-align:center" nowrap>0003CV923</td><td style="text-align:left" nowrap>Mall Panakkukang</td>
 												<td style="text-align:left" nowrap>Panakkukang</td>
 												<td style="text-align:left" nowrap>Masale</td>
-												<td nowrap style="text-align:right">3</td>
-												<td nowrap style="text-align:right">6</td>
-												<td nowrap style="text-align:right">15</td>
+												<td nowrap style="text-align:right">1</td>
+												<td nowrap style="text-align:right">2</td>
+												<td nowrap style="text-align:right">5</td>
 												<td style="text-align:left" nowrap>Daeng Gassing</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
