@@ -643,6 +643,7 @@ function goBack() {
 																								<tr style="text-align:center">
 																								  <td width="1%" bgcolor="#f7fcff">No</td>
 																								  <td width="3%" bgcolor="#f7fcff">Jenis<br>Kendaraan</td>
+																								  <td width="1%" bgcolor="#f7fcff">Lantai</td>
 																									<td width="1%" bgcolor="#f7fcff">Jumlah<br>Blok</td>
 																									<td width="1%" bgcolor="#f7fcff">Daya<br>Tampung</td>
 																									
@@ -656,11 +657,16 @@ function goBack() {
                               <option value="AK">Roda 2</option>
                               <option value="AK">Roda 4</option>
                             </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">1</option>
+                              <option value="AK" selected>2</option>
+                              <option value="AK" selected>3</option>
+                            </select></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
 																								<tr data-repeater-item>
@@ -669,11 +675,16 @@ function goBack() {
                               <option value="AK">Roda 2</option>
                               <option value="AK" selected>Roda 4</option>
                             </select></td>
+																									<td style="text-align:center"><select class="form-control kt-selectpicker" data-live-search="true">
+                              <option value="AK">1</option>
+                              <option value="AK" selected>2</option>
+                              <option value="AK" selected>3</option>
+                            </select></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									<td style="text-align:center"><input id="kt_touchspin_4" type="text" class="form-control form-control-sm bootstrap-touchspin-vertical-btn" value="" name="demo1" placeholder="2"></td>
 																									
 																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Edit"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
+																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="default" title="" data-html="true" data-original-title="Hapus"><i class="fa flaticon2-trash"></i></a>
 																									</td>
 																								</tr>
 																								

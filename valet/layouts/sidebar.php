@@ -158,6 +158,8 @@
 												<li class="kt-menu__item" aria-haspopup="true"><a href="wilayah-valet.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Wilayah</span></a></li>
 												<li class="kt-menu__item" aria-haspopup="true"><a href="titik-valet.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Titik Valet</span></a></li>
 												<li class="kt-menu__item" aria-haspopup="true"><a href="tipecustomervalet.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tipe Customer</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="lantai.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Lantai Gedung</span></a></li>
+												<li class="kt-menu__item" aria-haspopup="true"><a href="kendaraan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jenis Kendaraan</span></a></li>
 											</ul>
 									</div>
 								</li>
