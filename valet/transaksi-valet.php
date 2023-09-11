@@ -282,10 +282,10 @@
 								<div class="kt-widget24__details">
 									<div class="kt-widget24__info">
 										<h4 class="kt-widget24__title">
-											Total
+											Total 
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Transaksi
+											Data Transaksi Valet
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-brand">
@@ -302,7 +302,7 @@
 											Tunai
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Transaksi Tunai
+											Data Transaksi Valet Tunai
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-success">
@@ -319,7 +319,7 @@
 											Non Tunai
 										</h4>
 										<span class="kt-widget24__desc">
-											Data Transaksi Non Tunai
+											Data Transaksi Valet Non Tunai
 										</span>
 									</div>
 									<span class="kt-widget24__stats kt-font-danger">
