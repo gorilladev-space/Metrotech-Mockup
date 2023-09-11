@@ -205,20 +205,26 @@
                             </div>
 							<div class="col-lg-1">
                                 <label>Jam Awal Valet :</label>
-    	                       <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Mobil</option>
-                                      <option value="2">Motor</option>
-                                     
-                                  </select>
+    	                      <div class="input-group timepicker">
+												<div class="input-group-prepend">
+													<span class="input-group-text">
+														<i class="la la-clock-o"></i>
+													</span>
+												</div>
+												<input class="form-control m-input" id="kt_timepicker_3" readonly placeholder="Select time" type="text" />
+											</div>
         					
                             </div>
 							<div class="col-lg-1">
                                 <label>Jam Akhir Valet :</label>
-    	                       <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Tunai</option>
-                                      <option value="2">Non Tunai</option>
-                                     
-                                  </select>
+    	                       <div class="input-group timepicker">
+												<div class="input-group-prepend">
+													<span class="input-group-text">
+														<i class="la la-clock-o"></i>
+													</span>
+												</div>
+												<input class="form-control m-input" id="kt_timepicker_3" readonly placeholder="Select time" type="text" />
+											</div>
         					
                             </div>
 							<div class="col-lg-1">
