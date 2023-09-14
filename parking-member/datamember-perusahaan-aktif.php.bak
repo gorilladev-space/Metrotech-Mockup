@@ -350,11 +350,7 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td nowrap="nowrap" style="text-align:center">003DD516A51351</td>
-												<td style="text-align:center" nowrap><span style="text-align:center">Motor</span></td>
-												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
+												
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000002</td>
@@ -370,6 +366,11 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
+												<td nowrap="nowrap" style="text-align:center">003DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Motor</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
 											<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 															<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																<i class="flaticon-more-1"></i>
@@ -412,11 +413,7 @@
 
 <tr>
 												<td id="kt_table_1">3</td>
-												<td nowrap="nowrap" style="text-align:center">004DD516A51351</td>
-												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
-												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
-												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
+												
 												
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
 												<td style="text-align:center" nowrap>000000003</td>
@@ -432,6 +429,11 @@
 												<td nowrap="nowrap" style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:left" nowrap>PT. iLugroup Multimedia Indonesia</td>
+												<td nowrap="nowrap" style="text-align:center">004DD516A51351</td>
+												<td style="text-align:center" nowrap><span style="text-align:center">Mobil</span></td>
+												<td nowrap="nowrap" style="text-align:center">24 September 2008</td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Corporate</span></td>
+												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
 	  <td style="text-align:center" nowrap><div class="kt-widget2__actions">
 						<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 							<i class="flaticon-more-1"></i>

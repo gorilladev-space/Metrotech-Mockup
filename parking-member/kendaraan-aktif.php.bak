@@ -275,12 +275,12 @@
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
 											  <th width="2%" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi Member</th>
-											  <th bgcolor="#feffed">NFC Kendaraan</th>
-											  <th bgcolor="#feffed">Jenis<br />
+											  <th width="2%" bgcolor="#feffed">NFC Kendaraan</th>
+											  <th width="2%" bgcolor="#feffed">Jenis<br />
 											    Kendaraan</th>
-											  <th bgcolor="#feffed">Tanggal Expired</th>
-											  <th bgcolor="#feffed">Tipe Member</th>
-											  <th bgcolor="#feffed">Jenis Member</th>
+											  <th width="2%" bgcolor="#feffed">Tanggal Expired</th>
+											  <th width="2%" bgcolor="#feffed">Tipe Member</th>
+											  <th width="2%" bgcolor="#feffed">Jenis Member</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 										</thead>
