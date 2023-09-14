@@ -84,57 +84,146 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-2">
-                                <label>ID Member :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
-								<div class="col-lg-2">
-                                <label>Nama Lengkap :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
-								<div class="col-lg-2">
-                                <label>No. Hp :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
-								<div class="col-lg-2">
-                                <label class="">Tanggal Registrasi :</label>
+						<div class="col-lg-2">
+                                <label class="">Tanggal Setoran :</label>
                                 <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="-- Pilih Tanggal --">
 						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                          <span class="input-group-text"><i class="la la-calendar"></i></span>
 						                        </div>
 						                      </div>
                             </div>
+                            
+								<div class="col-lg-2">
+                                <label>Nama Kolektor :</label>
+								
+                                <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+    		                    </div>
+								<div class="col-lg-2">
+                                <label>Zona :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Wilayah :</label>
+								
+                                 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
+                                  </select>
+                            </div>
+							<div class="col-lg-2">
+                                <label>Nama Kasir :</label>
+								
+                                <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
+    		                    </div>
+								
+								
                             
 							
                             
 							
 							
 							<div class="col-lg-1">
-                                <label>Tipe Member :</label>
+                                <label>Tipe Transaksi :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Silver</option>
-                                      <option value="2">Gold</option>
-                                      <option value="2">Platinum</option>
+                                      <option value="1" selected="">Tunai</option>
+                                      <option value="2">Non Tunai</option>
+                                                                           
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>Status :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sesuai</option>
+                                      <option value="2">Kurang Setor</option>
+                                      <option value="2">Lebih Setor</option>
                                                                            
                                   </select>
                             </div>
@@ -158,69 +247,7 @@
 			</div>
             <!--begin::End-->
 
-			<!--begin:: Widgets/Stats-->
-			<div class="kt-portlet">
-				<div class="kt-portlet__body  kt-portlet__body--fit">
-					<div class="row row-no-padding row-col-separator-lg">
-						<div class="col-md-12 col-lg-6 col-xl-3">
-							<div class="kt-widget24">
-								<div class="kt-widget24__details">
-									<div class="kt-widget24__info">
-										<h4 class="kt-widget24__title">
-											Total
-										</h4>
-										<span class="kt-widget24__desc">
-											Member Parkir
-										</span>
-									</div>
-									<span class="kt-widget24__stats kt-font-brand">
-										40
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-lg-6 col-xl-3">
-							<div class="kt-widget24">
-								<div class="kt-widget24__details">
-									<div class="kt-widget24__info">
-										<h4 class="kt-widget24__title">
-											Member Motor
-										</h4>
-										<span class="kt-widget24__desc">
-											Statistik Member Motor
-										</span>
-									</div>
-									<span class="kt-widget24__stats kt-font-success">
-										30
-									</span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-lg-6 col-xl-3">
-							<div class="kt-widget24">
-								<div class="kt-widget24__details">
-									<div class="kt-widget24__info">
-										<h4 class="kt-widget24__title">
-											Member Mobil
-										</h4>
-										<span class="kt-widget24__desc">
-											Statistik Member Mobil
-										</span>
-									</div>
-									<span class="kt-widget24__stats kt-font-danger">
-										10
-									</span>
-								</div>
-
-							</div>
-						</div>
-						<div class="col-md-12 col-lg-6 col-xl-3">
-							
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--end:: Widgets/Stats-->
+			
 
 			<div class="kt-portlet kt-portlet--mobile ">
 				<div class="kt-portlet__body">
@@ -232,26 +259,24 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Tanggal<br /></th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Waktu</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Tipe</th>
-											  <th colspan="4" bgcolor="#f7fcff" id="kt_table_2">Kolektor</th>
-											  <th colspan="2" bgcolor="#f7fcff">Kasir</th>
+											  <th colspan="3" bgcolor="#f7fcff" id="kt_table_2">Kolektor</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Kasir</th>
 											  <th colspan="3" bgcolor="#f7fcff">Pembayaran</th>
-											  <th width="8%" colspan="3" bgcolor="#feffed">Setoran</th>
+											  <th width="8%" colspan="4" bgcolor="#feffed">Setoran</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff">ID</th>
-											  <th width="1%" bgcolor="#f7fcff">Nama</th>
-											  <th width="1%" bgcolor="#f7fcff">Zona</th>
-											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="1%" bgcolor="#f7fcff">ID</th>
-											  <th width="3%" bgcolor="#f7fcff">Nama</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama</th>
+											  <th width="5%" bgcolor="#f7fcff">Zona</th>
+											  <th width="5%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="1%" bgcolor="#f7fcff">ID</th>
 											  <th width="1%" bgcolor="#f7fcff">Metode</th>
 											  <th width="1%" bgcolor="#f7fcff">Provider</th>
 											  <th width="8%" bgcolor="#feffed">Target Setoran</th>
 											  <th width="8%" bgcolor="#feffed">Nominal Setoran</th>
 											  <th width="8%" bgcolor="#feffed">Selisih Setoran</th>
-										  </tr>
+											  <th width="1%" bgcolor="#feffed">Status</th>
+									      </tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -259,36 +284,35 @@
 												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
 												<td nowrap="nowrap" style="text-align:center">18:20:00</td>
 												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tunai</span></td>
-												<td nowrap="nowrap" style="text-align:center">0001KTJU823</td>
 												<td nowrap="nowrap" style="text-align:left">Umar Malik, SE</td>
 												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
 												<td nowrap="nowrap" style="text-align:center">Bakung</td>
-												<td nowrap="nowrap" style="text-align:center">000 000 000</td>
 												<td nowrap="nowrap" style="text-align:center">Nama Kasir</td>
 												<td nowrap="nowrap" style="text-align:center">0003PTTJU823</td>
 												<td nowrap="nowrap" style="text-align:center">Cash</td>
 												<td nowrap="nowrap" style="text-align:center">-</td>
 												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
 												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.000.000" aria-describedby="basic-addon1" />
 												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 												  </div>
 												  </div>
 												  </div></td>
 												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
 												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.000.000" aria-describedby="basic-addon1" />
 												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 												  </div>
 												  </div>
 												  </div></td>
 												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
 												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="0" aria-describedby="basic-addon1" />
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.000.000" aria-describedby="basic-addon1" />
 												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 												  </div>
 												  </div>
 												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Setor</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -296,9 +320,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="casher-detail-transaksi-member.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail Transaksi</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
@@ -324,11 +348,9 @@
 												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
 												<td nowrap="nowrap" style="text-align:center">18:20:00</td>
 												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Non Tunai</span></td>
-												<td nowrap="nowrap" style="text-align:center">0002KTJU823</td>
 												<td nowrap="nowrap" style="text-align:left">Leony Hesti Kilala</td>
 												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
 												<td nowrap="nowrap" style="text-align:center">Bakung</td>
-												<td nowrap="nowrap" style="text-align:center">Online</td>
 												<td nowrap="nowrap" style="text-align:center">Online</td>
 												<td nowrap="nowrap" style="text-align:center">0002PNTTJU823</td>
 												<td nowrap="nowrap" style="text-align:center">Bank Transfer</td>
@@ -354,6 +376,7 @@
 												  </div>
 												  </div>
 												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sesuai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -361,9 +384,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="casher-detail-transaksi-member.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail Transaksi</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
@@ -390,11 +413,9 @@
 												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
 												<td nowrap="nowrap" style="text-align:center">18:21:00</td>
 												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Non Tunai</span></td>
-												<td nowrap="nowrap" style="text-align:center">0003KTJU823</td>
 												<td nowrap="nowrap" style="text-align:left">Muslimin</td>
 												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
 												<td nowrap="nowrap" style="text-align:center">Bakung</td>
-												<td nowrap="nowrap" style="text-align:center">Online</td>
 												<td nowrap="nowrap" style="text-align:center">Online</td>
 												<td nowrap="nowrap" style="text-align:center">0001PNTTJU823</td>
 												<td nowrap="nowrap" style="text-align:center">GoPay</td>
@@ -420,6 +441,7 @@
 												  </div>
 												  </div>
 												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sesuai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -427,9 +449,9 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="casher-detail-transaksi-member.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Detail Transaksi</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
