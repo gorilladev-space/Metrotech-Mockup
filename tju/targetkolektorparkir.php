@@ -131,7 +131,17 @@
 						                        </div>
 						                      </div>
                             </div>
-							<div class="col-lg-2">
+							<div class="col-lg-1">
+                                <label>Status Target :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sesuai Target</option>
+                                      <option value="1">Belum Ada Setoran</option>
+                                      <option value="1">Setoran Kurang</option>
+                                      
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
                                 <label>Status Kasir :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">

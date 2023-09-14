@@ -24,19 +24,9 @@
             <div class="kt-subheader__main">
                 <h3 class="kt-subheader__title">
                     <span class="kt-portlet__head-icon"><i class="kt-font-brand flaticon2-list-1"></i></span>&nbsp;&nbsp;
-                    Data Mitra Juru Parkir Anda
+                    Rekap Pembayaran Estimasi Perjalanan Dinas
                 </h3>
-				<span class="kt-subheader__separator kt-subheader__separator--v"></span>
-									<div class="kt-subheader__group" id="kt_subheader_search">
-										<span class="kt-subheader__desc" id="kt_subheader_total" style="color:#ff0000">
-											YUNUS TULAK, S.IP [ Nama Kolektor ]</span>
-										<form class="kt-margin-l-20" id="kt_subheader_search_form">
-
-										</form>
-									</div>
-
-
-								</div>
+            </div>
             <div class="kt-subheader__toolbar">
                 <button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
                 <a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -94,33 +84,52 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-2">
-                                <label>ID Mitra :</label>
+						<div class="col-lg-2">
+                                <label class="">Tanggal Setoran :</label>
+                                <div class="input-group">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="-- Pilih Tanggal --">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar"></i></span>
+						                        </div>
+						                      </div>
+                            </div>
+                            
+								<div class="col-lg-2">
+                                <label>Nama Kolektor :</label>
 								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
+                                <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Mitra :</label>
-								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-    		                    </div>
-								
-                            
-							
-                            
-							
-							<div class="col-lg-2">
-                                <label>Zona Kerja :</label>
+                                <label>Zona :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
@@ -143,7 +152,7 @@
 							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Bakung</option>
                                       <option value="2">Berua</option>
                                       <option value="3">Bulurokeng</option>
@@ -159,19 +168,68 @@
                                   </select>
                             </div>
 							<div class="col-lg-2">
-                                <label>Titik Parkir :</label>
+                                <label>Nama Kasir :</label>
 								
-                                <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
+                                <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
     		                    </div>
-    		                    </div>
+								
+								
+                            
+							
+                            
+							
+							
+							<div class="col-lg-1">
+                                <label>Tipe Transaksi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Tunai</option>
+                                      <option value="2">Non Tunai</option>
+                                                                           
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>Status :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sesuai</option>
+                                      <option value="2">Kurang Setor</option>
+                                      <option value="2">Lebih Setor</option>
+                                                                           
+                                  </select>
+                            </div>
 							
 							
                             </div>
-							
 							
 							<br>
 							
@@ -198,79 +256,63 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
-											  
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
-											 
-											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
-											  
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Jam Kerja</th>
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Atribut Kerja</th>
-											  <th width="1%" colspan="14" bgcolor="#feffed">Target Pendapatan</th>
-										      <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Tanggal<br /></th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Waktu</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">Tipe</th>
+											  <th colspan="3" bgcolor="#f7fcff" id="kt_table_2">Kolektor</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Kasir</th>
+											  <th colspan="3" bgcolor="#f7fcff">Pembayaran</th>
+											  <th width="8%" colspan="4" bgcolor="#feffed">Setoran</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
 											<tr style="text-align:center">
-											  <th width="2%" bgcolor="#f7fcff">Zona</th>
-											  <th width="2%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="2%" bgcolor="#f7fcff">Titik Parkir</th>
-											  <th bgcolor="#f7fcff">Awal</th>
-											  <th bgcolor="#f7fcff">Akhir</th>
-											  <th width="1%" bgcolor="#f7fcff">ID Card</th>
-											  <th width="1%" bgcolor="#f7fcff">Rompi</th>
-											  <th width="1%" bgcolor="#f7fcff">BPJSTK</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Selasa</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Rabu</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Kamis</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Jumat</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Sabtu</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Minggu</th>
-										  </tr>
+											  <th width="5%" bgcolor="#f7fcff">Nama</th>
+											  <th width="5%" bgcolor="#f7fcff">Zona</th>
+											  <th width="5%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="1%" bgcolor="#f7fcff">ID</th>
+											  <th width="1%" bgcolor="#f7fcff">Metode</th>
+											  <th width="1%" bgcolor="#f7fcff">Provider</th>
+											  <th width="8%" bgcolor="#feffed">Target Setoran</th>
+											  <th width="8%" bgcolor="#feffed">Nominal Setoran</th>
+											  <th width="8%" bgcolor="#feffed">Selisih Setoran</th>
+											  <th width="1%" bgcolor="#feffed">Status</th>
+									      </tr>
 										</thead>
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_1.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>HARIS DG. PAWA</td>
-												
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-												
-												<td nowrap style="text-align:center">06:00:00</td>
-												<td nowrap style="text-align:center">12:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-barcode"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-user-tie"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
+												<td nowrap="nowrap" style="text-align:center">18:20:00</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Tunai</span></td>
+												<td nowrap="nowrap" style="text-align:left">Umar Malik, SE</td>
+												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
+												<td nowrap="nowrap" style="text-align:center">Bakung</td>
+												<td nowrap="nowrap" style="text-align:center">Nama Kasir</td>
+												<td nowrap="nowrap" style="text-align:center">0003PTTJU823</td>
+												<td nowrap="nowrap" style="text-align:center">Cash</td>
+												<td nowrap="nowrap" style="text-align:center">-</td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.000.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="3.000.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="1.000.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Kurang Setor</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -278,12 +320,24 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
+																		
+																		
+																		
+																		
+																		
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
 																		
 																	</ul>
 																</div>
@@ -291,45 +345,38 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_3.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>ARMAN</td>
-											
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>II</td>
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-													
-												<td nowrap style="text-align:center">06:00:00</td>
-												<td nowrap style="text-align:center">12:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-barcode"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-user-tie"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
+												<td nowrap="nowrap" style="text-align:center">18:20:00</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Non Tunai</span></td>
+												<td nowrap="nowrap" style="text-align:left">Leony Hesti Kilala</td>
+												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
+												<td nowrap="nowrap" style="text-align:center">Bakung</td>
+												<td nowrap="nowrap" style="text-align:center">Online</td>
+												<td nowrap="nowrap" style="text-align:center">0002PNTTJU823</td>
+												<td nowrap="nowrap" style="text-align:center">Bank Transfer</td>
+												<td nowrap="nowrap" style="text-align:center">Bank Central Asia</td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="0" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sesuai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -337,56 +384,64 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
 																		</li>
 																		
+																		
+																		
+																		
+																		
+																		
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
+																		</li>
 																		
 																	</ul>
 																</div>
 															</div></td>
 										  </tr>
-										  <tr>
+
+<tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_5.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>KASIM DG. BONTO</td>
-												
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>III</td>
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-												
-												<td nowrap style="text-align:center">06:00:00</td>
-												<td nowrap style="text-align:center">12:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true">
-															<i class="fa fa-barcode"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
+												<td nowrap="nowrap" style="text-align:center">23 Agustus 2023<br /></td>
+												<td nowrap="nowrap" style="text-align:center">18:21:00</td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Non Tunai</span></td>
+												<td nowrap="nowrap" style="text-align:left">Muslimin</td>
+												<td nowrap="nowrap" style="text-align:center">Biringkanaya</td>
+												<td nowrap="nowrap" style="text-align:center">Bakung</td>
+												<td nowrap="nowrap" style="text-align:center">Online</td>
+												<td nowrap="nowrap" style="text-align:center">0001PNTTJU823</td>
+												<td nowrap="nowrap" style="text-align:center">GoPay</td>
+												<td nowrap="nowrap" style="text-align:center">-</td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="4.550.000" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><div class="input-group input-group-sm">
+												  <div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+												  <input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="0" aria-describedby="basic-addon1" />
+												  <div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+												  </div>
+												  </div>
+												  </div></td>
+												<td nowrap="nowrap" style="text-align:center"><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Sesuai</span></td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
@@ -394,148 +449,29 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
+																			<a href="casher-rekap-setoran-kolektor-tju.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
+																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
+																		</li>
+																		
+																		
+																		
+																		
+																		
+																		
+																		<li class="kt-nav__item">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
+																			</a>
+																			
 																		</li>
 																		
 																	</ul>
 																</div>
 															</div></td>
 										  </tr>
-										  <tr>
-												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_7.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
-												
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>IV</td>
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-												
-												<td nowrap style="text-align:center">06:00:00</td>
-												<td nowrap style="text-align:center">12:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-barcode"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Belum Diserahkan" data-html="true"><i class="fa fa-user-tie"></i></button></td>
-												<td width="1%" style="text-align:center" nowrap><button type="button" class="btn btn-danger btn-sm btn-icon" data-toggle="kt-tooltip" data-skin="brand" title="Tidak Aktif" data-html="true"><i class="fa flaticon2-delete"></i></button></td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
-																			</a>
-																		</li>
-																		
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td id="kt_table_1">5</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000005</td>
-												
-												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
-														<img src="../assets/media/users/100_9.jpg" alt="image">
-													</a></td>
-
-												<td style="text-align:left" nowrap>BANI</td>
-												
-												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>V</td>
-												<td style="text-align:center" nowrap>Coto Nusantara</td>
-												
-												<td nowrap style="text-align:center">06:00:00</td>
-												<td nowrap style="text-align:center">12:00:00</td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-barcode"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Diserahkan<hr>Muhammad Nasrullah, S.Kom<br>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa fa-user-tie"></i>
-														</span></td>
-												<td width="1%" style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--rounded" data-toggle="kt-tooltip" data-skin="brand" title="Aktif<hr>31 Desember 2018 - 14:30 WITA" data-html="true">
-															<i class="fa flaticon2-check-mark"></i>
-														</span></td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td style="text-align:right" nowrap>25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
-												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	<li class="kt-nav__item">
-																			<a href="mitra-detail.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-eye"></i>
-																				<span class="kt-nav__link-text">Lihat Profil Jukir</span>
-																			</a>
-																		</li>
-																		
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr bgcolor="#feffed";>
-										    <td colspan="13" id="kt_table_3" style="text-align:center" bgcolor="#feffed"><strong>Total Target</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td nowrap="nowrap" style="text-align:left; border-right: 1px solid #fff"><strong>Rp.</strong></td>
-										    <td nowrap="nowrap" style="text-align:right"><strong>125.000,-</strong></td>
-										    <td style="text-align:center" nowrap>&nbsp;</td>
-									      </tr>
 									    </tbody>
 									</table>
                     <!--end: Datatable -->
@@ -867,16 +803,22 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												
@@ -1162,16 +1104,22 @@ function goBack() {
 </script>
 												<!--<i class="flaticon2-plus"></i>-->
 											</a>&nbsp;
-									
+									<a href="#" class="btn btn-label-primary btn-sm">
+															<span>
+																<i class="fa fa-print"></i>
+																<span>Print ID Card</span>
+															</span>
+														</a>
 												
 													<div class="btn-group">
-				<button type="button" class="btn btn-brand">
-					<i class="la la-check"></i>
+				<button type="button" class="btn btn-sm btn-success">
+					<i class="fa fa-check-circle"></i>
 					<span class="kt-hidden-mobile">Simpan</span>
 				</button>
 				
 				
 			</div>
+			
 												</div>
 											</div>
 												

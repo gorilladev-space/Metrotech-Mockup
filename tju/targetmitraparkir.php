@@ -77,16 +77,7 @@
     		                        </span>
     		                    </div>
     		                    </div>
-                            <div class="col-lg-2">
-                                <label>Nama Mitra :</label>
-    	                      <div class="kt-input-icon kt-input-icon--right">
-        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
-        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
-    		                            <span><i class="la la-search"></i></span>
-    		                        </span>
-    		                    </div>
-        					
-                            </div>
+                            
                            
 							<div class="col-lg-2">
                                 <label>Zona Kerja :</label>
@@ -109,7 +100,36 @@
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-1">
+							
+							
+								<div class="col-lg-2">
+                                <label class="">Periode Target :</label>
+                                <div class="input-group">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="== Pilih Tanggal ==">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar"></i></span>
+						                        </div>
+						                      </div>
+                            </div>
+							
+							
+                            </div>
+							<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+							<div class="form-group row">
+						
+                            <div class="col-lg-2">
+                                <label>Nama Mitra :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+                           
+							
+							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -137,6 +157,15 @@
     		                        </span>
     		                    </div>
     		                    </div>
+								<div class="col-lg-2">
+                                <label class="">Tanggal Penetapan :</label>
+                                <div class="input-group">
+						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <div class="input-group-append">
+						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                        </div>
+						                      </div>
+                            </div>
 							
 							
                             </div>

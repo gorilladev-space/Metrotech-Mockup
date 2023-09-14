@@ -94,21 +94,18 @@
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
                             </div>
 							<div class="col-lg-2">
@@ -132,7 +129,7 @@
         					
                             </div>
 							<div class="col-lg-2">
-                                <label>Tanggal Transaksi :</label>
+                                <label>Periode Transaksi :</label>
     	                     <div class="input-group">
 						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
 						                        <div class="input-group-append">
@@ -329,7 +326,7 @@
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">001NMT823</td>
+												<td nowrap style="text-align:center">001TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 17:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -374,7 +371,7 @@
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">002NMT823</td>
+												<td nowrap style="text-align:center">002TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 16:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -421,7 +418,7 @@
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">001NME823</td>
+												<td nowrap style="text-align:center">001TNME823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 15:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -467,7 +464,7 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">003NMT823</td>
+												<td nowrap style="text-align:center">003TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 14:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -514,7 +511,7 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">004NMT823</td>
+												<td nowrap style="text-align:center">004TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 13:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
