@@ -129,6 +129,34 @@
                                       
                                   </select>
                             </div>
+							<div class="col-lg-1">
+                                <label>ID Card :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sudah</option>
+                                      <option value="2">Belum</option>
+                                      
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>Rompi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sudah</option>
+                                      <option value="2">Belum</option>
+                                      
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>BPJSTK :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Aktif</option>
+                                      <option value="2">Belum Aktif</option>
+                                      <option value="2">Non Aktif</option>
+                                      
+                                  </select>
+                            </div>
 							<div class="col-lg-2">
                                 <label>Kolektor :</label>
 								
@@ -218,34 +246,7 @@
     		                        </span>
     		                    </div>
     		                    </div>
-								<div class="col-lg-1">
-                                <label>ID Card :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-1">
-                                <label>Rompi :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-1">
-                                <label>BPJSTK :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Aktif</option>
-                                      <option value="2">Belum Aktif</option>
-                                      <option value="2">Non Aktif</option>
-                                      
-                                  </select>
-                            </div>
 							
 								
                             
@@ -1089,7 +1090,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1129,7 +1130,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1403,7 +1404,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">

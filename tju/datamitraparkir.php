@@ -1090,7 +1090,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1130,7 +1130,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1404,7 +1404,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1444,7 +1444,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">

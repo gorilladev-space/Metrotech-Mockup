@@ -127,7 +127,7 @@ function goBack() {
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-1">
+							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">

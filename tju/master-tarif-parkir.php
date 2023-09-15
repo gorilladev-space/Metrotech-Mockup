@@ -118,22 +118,19 @@
 								<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                                 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
                             </div>
                             
@@ -192,9 +189,9 @@
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
 											  <th width="30%" bgcolor="#f7fcff">Nama Tarif</th>
-											  <th width="10%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
+											  <th width="5%" bgcolor="#f7fcff">Jenis<br>Kendaraan</th>
 											  <th width="8%" bgcolor="#f7fcff">Zona</th>
-											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
+											  <th width="8%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="7%" bgcolor="#f7fcff">Type Tarif</th>
 											  <th width="10%" bgcolor="#f7fcff">Nominal</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
@@ -207,8 +204,8 @@
 												<td style="text-align:center" nowrap>Motor</td>
 												
 												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>I</td>
+												<td style="text-align:center" nowrap>Keseluruhan</td>
+												<td style="text-align:center" nowrap>Keseluruhan</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Sekali Parkir</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
@@ -250,8 +247,8 @@
 												<td style="text-align:center" nowrap>Mobil</td>
 											
 												
-												<td style="text-align:center" nowrap>Biringkanaya</td>
-												<td style="text-align:center" nowrap>II</td>
+												<td style="text-align:center" nowrap>Keseluruhan</td>
+												<td style="text-align:center" nowrap>Keseluruhan</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Sekali Parkir</span></td>
 												<td style="text-align:center" nowrap><div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
@@ -383,14 +380,16 @@
 													<input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
 												</div>
 													</div>
+													<div class="col-lg-4">
+														<label>Nama Tarif :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Masukkan Nama Tarif">
+													</div>
+													
 
 												</div>
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
-												<div class="col-lg-4">
-														<label>Nama Tarif :</label>
-														<input type="text" class="form-control form-control-sm" placeholder="Masukkan Nama Tarif">
-													</div>
+												
 
 												<div class="col-lg-4">
 														<label class="kt-font-danger">Jenis Kendaraan :</label>
@@ -411,13 +410,39 @@
                                      
                                   </select>
 													</div>
+													<div class="col-lg-4">
+														<label class="kt-font-danger">Nominal Tarif :</label>
+														<div class="form-group">
+													<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right"  class="form-control form-control-sm" placeholder="10.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div>
+												</div>
+													</div>
 													
 												
 
 												</div>
 												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 												<div class="form-group row">
-												<div class="col-lg-4">
+												
+      												<div class="col-lg-12">
+                                <div class="form-group">
+      													<label>Tarif Berlaku Untuk :</label>
+                                <div class="kt-section__content kt-section__content--solid" role="group" aria-label="...">
+      													<button type="button" class="btn btn-secondary btn-square btn-sm col-lg-4" id="hide1">Seluruh Zona</button>&nbsp;
+      													
+                                <button type="button" class="btn btn-secondary btn-square btn-sm col-lg-4" id="show">Sebagian Wilayah</button>&nbsp;
+      												</div>
+                              	</div>
+      												</div>
+      												</div>
+                              <div class="form-group row tampil">
+                                <div class="col-lg-12">
+								<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                                  <div class="form-group row">
+    													<div class="col-lg-4">
 														<label class="kt-font-danger">Zona :</label>
 														 <select class="form-control kt-selectpicker" data-live-search="true">
                                       <option value="1" selected="">Biringkanaya</option>
@@ -437,40 +462,32 @@
                                       <option value="15">Wajo</option>
                                   </select>
 													</div>
-												<div class="col-lg-4">
+													<div class="col-lg-4">
 														<label class="kt-font-danger">Wilayah :</label>
-														<select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+														 <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
 													</div>
-													
-												<div class="col-lg-4">
-														<label class="kt-font-danger">Nominal Tarif :</label>
-														<div class="form-group">
-													<div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input type="text" style="text-align:right"  class="form-control form-control-sm" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div>
-												</div>
-													</div>
+												
+                          </div>
+						
 
-												</div>
-												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+
+
+											</div>
+											</div>
+											
 									<div class="kt-portlet__foot kt-align-right">
 												<div class="">
 
@@ -792,4 +809,23 @@ function goBack() {
     </div>
 
 <?php require '../layouts/footer.php' ?>
+<script src="../assets/js/pages/components/extended/sweetalert2.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/file-upload/dropzonejs.js" type="text/javascript"></script>
+<script src="../assets/dist/dropzone/dist/dropzone.js" type="text/javascript"></script>
+<script src="../assets/dist/js/global/integration/plugins/dropzone.init.js" type="text/javascript"></script>
+<script src="../assets/js/pages/components/calendar/calendar-cuti.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/bootstrap-datepicker.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/bootstrap-select.js" type="text/javascript"></script>
+<script src="../assets/js/pages/crud/forms/widgets/select2.js" type="text/javascript"></script>
+<script>
+$("#show").click(function(){
+    $(".tampil").show();
+  });
+  $("#hide1").click(function(){
+      $(".tampil").hide();
+    });
+    $("#hide2").click(function(){
+        $(".tampil").hide();
+      });
+</script>
 <?php require '../layouts/foot.php' ?>

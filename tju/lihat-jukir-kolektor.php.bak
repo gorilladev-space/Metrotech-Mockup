@@ -1033,7 +1033,7 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="I">
                         </div>
 						<div class="col-lg-8">
-                          <label><span style="color:#ff0000">*</span> Titik :</label>
+                          <label><span style="color:#ff0000">*</span> Titik Parkir :</label>
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Coto Nusantara">
                         </div>
                         </div>
