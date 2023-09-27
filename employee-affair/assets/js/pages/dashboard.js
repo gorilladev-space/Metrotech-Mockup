@@ -104,12 +104,12 @@ var KTDashboard = function() {
         }
 
         var chartData = {
-            labels: ["Label 1", "Label 2", "Label 3", "Label 4", "Label 5", "Label 6", "Label 7", "Label 8", "Label 9", "Label 10", "Label 11", "Label 12", "Label 13", "Label 14", "Label 15", "Label 16"],
+            labels: ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember",],
             datasets: [{
                 //label: 'Dataset 1',
                 backgroundColor: KTApp.getStateColor('success'),
                 data: [
-                    15, 20, 25, 30, 25, 20, 15, 20, 25, 30, 25, 20, 15, 10, 15, 20
+                    1, 0, 25, 30, 25, 20, 15, 20, 25, 30, 25, 20, 15, 10, 15, 20
                 ]
             }, {
                 //label: 'Dataset 2',
@@ -243,10 +243,10 @@ var KTDashboard = function() {
             type: 'line',
             data: {
                 labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December",
-                    "January", "February", "March", "April"
+                    
                 ],
                 datasets: [{
-                    label: "Sales Stats",
+                    label: "Pegawai Pensiun",
                     borderColor: KTApp.getStateColor('brand'),
                     borderWidth: 2,
                     //pointBackgroundColor: KTApp.getStateColor('brand'),
@@ -256,11 +256,11 @@ var KTDashboard = function() {
                     pointHoverBackgroundColor: KTApp.getStateColor('danger'),
                     pointHoverBorderColor: Chart.helpers.color(KTApp.getStateColor('danger')).alpha(0.2).rgbString(),
                     data: [
-                        10, 20, 16,
-                        18, 12, 40,
-                        35, 30, 33,
-                        34, 45, 40,
-                        60, 55, 70,
+                        1, 0, 0,
+                        2, 0, 0,
+                        3, 0, 0,
+                        4, 0, 0,
+                        0, 0, 0,
                         65, 75, 62
                     ]
                 }]
@@ -651,22 +651,29 @@ var KTDashboard = function() {
         Morris.Donut({
             element: 'kt_chart_revenue_change',
             data: [{
-                    label: "New York",
-                    value: 10
+                    label: "Pegawai Tetap",
+                    value: 40
                 },
                 {
-                    label: "London",
-                    value: 7
+                    label: "Calon Pegawai",
+                    value: 8
                 },
                 {
-                    label: "Paris",
-                    value: 20
+                    label: "Pegawai Kontrak",
+                    value: 90
+                },
+				{
+                    label: "Pegawai Honor",
+                    value: 2
                 }
             ],
             colors: [
                 KTApp.getStateColor('success'),
-                KTApp.getStateColor('danger'),
-                KTApp.getStateColor('brand')
+				KTApp.getStateColor('brand'),
+				KTApp.getStateColor('danger'),
+				 KTApp.getStateColor('warning')
+                
+                
             ],
         });
     }
@@ -883,9 +890,9 @@ var KTDashboard = function() {
         var config = {
             type: 'line',
             data: {
-                labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October"],
+                labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "Desember"],
                 datasets: [{
-                    label: "Bandwidth Stats",
+                    label: "Pegawai Pensiun",
                     backgroundColor: gradient,
                     borderColor: KTApp.getStateColor('success'),
 
@@ -896,7 +903,7 @@ var KTDashboard = function() {
 
                     //fill: 'start',
                     data: [
-                        10, 14, 12, 16, 9, 11, 13, 9, 13, 15
+                        0, 1, 0, 1, 2, 0, 3, 0, 0, 1, 2, 1
                     ]
                 }]
             },
