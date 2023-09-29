@@ -79,7 +79,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Nama Pegawai Resign :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
@@ -112,6 +112,15 @@
 
 					 														</select>
 						                        </div>
+												<div class="col-lg-2">
+						                          <label class="">NIP :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
 						                       <div class="col-lg-2">
 						                          <label class="">Departemen :</label>
 						                          <select class="form-control kt-selectpicker" data-live-search="true">
@@ -138,14 +147,14 @@
                                   </select>
 						                        </div>
 												<div class="col-lg-2">
-						                          <label class="">NIK :</label>
-																			<div class="kt-input-icon kt-input-icon--right">
-																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
-																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
-																							 <span><i class="la la-search"></i></span>
-																					 </span>
-																			 </div>
+						                          <label class="">Kantor :</label>
+						                          <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="2" selected="">Pusat</option>
+                                      <option value="2">Cabang</option>
+                                      
+                                  </select>
 						                        </div>
+												
 												<div class="col-lg-2">
 						                          <label class="">Tanggal Resign :</label>
 																			<div class="input-group">
@@ -233,15 +242,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -285,15 +288,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -341,15 +338,9 @@
 																		</li>
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -396,15 +387,9 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
-																				<span class="kt-nav__link-text">Edit Data</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>

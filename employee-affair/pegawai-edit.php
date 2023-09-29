@@ -1390,34 +1390,86 @@
 
 <div class="row s-h" id="login" style="display:none">
 	<div class="col-lg-12">
-		<div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
-			<div class="kt-portlet__body">
-				<div class="row">
-					<div class="col-xl-12">
-						<!--begin::Portlet-->
-						<div class="kt-portlet kt-portlet--height-fluid-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-portlet__body">
-								<div class="kt-section kt-section--first">
-									<div class="kt-section__body">
-										<div class="alert alert-solid-danger alert-bold fade show kt-margin-t-20 kt-margin-b-40" role="alert">
-											<div class="alert-icon"><i class="fa fa-exclamation-triangle"></i></div>
-											<div class="alert-text">Configure user passwords to expire periodically. Users will need warning that their passwords are going to expire, <br>or they might inadvertently get locked out of the system!</div>
-											<div class="alert-close">
-												<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-													<span aria-hidden="true"><i class="la la-close"></i></span>
-												</button>
+					<div class="kt-portlet kt-portlet--height-fluid-full" id="kt_page_portlet">
+						<div class="kt-portlet__body">
+							<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Ubah Password</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+																					<div class="col-lg-4">
+																						<label>Password Lama :</label>
+																						<div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Password Lama Anda">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-unlock-alt"></i>
+														</span>
+													</span>
+												</div>
+																					</div>
+																					<div class="col-lg-4">
+																						<label>Password Baru:</label>
+																						<div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Password Baru Anda">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-unlock-alt"></i>
+														</span>
+													</span>
+												</div>
+																						
+																					</div>
+																					<div class="col-lg-4">
+																						<label>Konfirmasi Password Baru:</label>
+																						<div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Lagi Password Baru Anda">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-unlock-alt"></i>
+														</span>
+													</span>
+												</div>
+																						
+																					</div>
+																					</div>
+																					
+																					
+																					
+																					<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm">Kirim</button>
+												</div>
 											</div>
-										</div>
-										<a href="#" class="btn btn-label-google"><i class="flaticon2-refresh-arrow"></i> Reset </a>
+						
+                     
+					  
+									
+                     
+
+									
+
 									</div>
-								</div>
+									
+
+
+									</div>
+							<!--end:: Portlet-->
+</div>
+
+									
+
+									
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-	</div>
+</div>
 </div>
 
 

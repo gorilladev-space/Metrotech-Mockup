@@ -152,7 +152,7 @@ function goBack() {
 														<div class="kt-form__section kt-form__section--first">
 
 											<div class="row">
-											<div class="col-xl-4">
+											<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -203,7 +203,7 @@ function goBack() {
 
 
 										</div>
-											<div class="col-xl-4">
+											<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -216,7 +216,7 @@ function goBack() {
 
                         </div>
 						 <div class="col-lg-6">
-                          <label>Kategori Peraturan :</label>
+                          <label>Kategori Peraturan Direksi :</label>
 						  <select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Administrasi</option>
 						                              <option value="3">Kepegawaian</option>
@@ -286,7 +286,7 @@ function goBack() {
 										</div>
 								
 										
-										<div class="col-xl-4">
+										<div class="col-xl-2">
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Upload File</div><br>

@@ -72,10 +72,26 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-4">
-                                <label>Department :</label>
+                            <div class="col-lg-2">
+                                <label>User Group :</label>
     	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
+        							<div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							<div class="col-lg-2">
+                                <label>User Group :</label>
+    	                       
+        							<div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
         					
                             </div>
 							
@@ -106,8 +122,8 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="8%" bgcolor="#f7fcff">User Group</th>
-											  <th width="8%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="20%" bgcolor="#f7fcff">User Group</th>
+											  <th width="20%" bgcolor="#f7fcff">Jabatan</th>
 											 
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>

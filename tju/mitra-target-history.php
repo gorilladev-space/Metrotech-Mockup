@@ -18,6 +18,14 @@
 			</div>
 		</div>
             <div class="kt-subheader__toolbar">
+				<a href="#" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
+												<i class="flaticon-reply"></i> Kembali
+                        <script>
+function goBack() {
+  window.history.back();
+}
+</script>
+											</a>
 				
                 <button type="button" class="btn btn-label-danger btn-sm" id = "buttonLogin" onclick = "displayLoginBox()"><i class="flaticon-interface-6"></i> Filter Data</button>
                 <a href="#" class="btn btn-label-success btn-sm" data-toggle="dropdown">
@@ -27,6 +35,7 @@
                 <div class="dropdown-menu dropdown-menu-fit dropdown-menu-md dropdown-menu-right">
                     <!--begin::Nav-->
                     <ul class="kt-nav">
+					
                         <li class="kt-nav__item">
                             <a href="#" class="kt-nav__link">
                                 <i class="kt-nav__link-icon fa fa-file-pdf"></i><span class="kt-nav__link-text">PDF</span>
@@ -40,14 +49,7 @@
                     </ul>
                     <!--end::Nav-->
                 </div>
-				<a href="#" class="btn btn-label btn-sm" data-toggle="dropdown" onclick="goBack()">
-												<i class="flaticon-reply"></i> Kembali
-                        <script>
-function goBack() {
-  window.history.back();
-}
-</script>
-											</a>
+				
                 
             </div>
         </div>
@@ -125,7 +127,7 @@ function goBack() {
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-1">
+							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -186,7 +188,7 @@ function goBack() {
 											  <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
 											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
 											 
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 										  </tr>
 											<tr style="text-align:center">
 											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>

@@ -173,17 +173,17 @@ function goBack() {
                           <label><span style="color:#ff0000">*</span> Nama Lengkap :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="">
                         </div>
-                       <div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Identitas KTP / SIM :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="7371122301870002" >
-                      </div>
-                      </div>
+                      
 						
+						<div class="col-lg-6">
+                          <label class=""><span style="color:#ff0000">*</span> No. KTP / SIM :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="737112301870002">
+                      </div>
+					 
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Nama Panggilan :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" placeholder=""  >
@@ -191,29 +191,42 @@ function goBack() {
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jenis Kelamin :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                         <select class="form-control kt-selectpicker" data-live-search="true">
 														<option>Pria</option>
 														<option>Wanita</option>
 														
 													</select>
                         </div>
+						
 						<div class="col-lg-3">
-                          <label><span style="color:#ff0000">*</span> Status Pernikahan :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                          <label><span style="color:#ff0000">*</span> Status :</label>
+                        <select class="form-control kt-selectpicker" data-live-search="true">
 														<option>Single</option>
 														<option>Menikah</option>
 														<option>Janda</option>
 														<option>Duda</option>
 														</select>
                         </div>
-						
+						<div class="col-lg-3">
+                          <label><span style="color:#ff0000">*</span> Agama :</label>
+                         <select class="form-control kt-selectpicker" data-live-search="true">
+														<option>Islam</option>
+														<option>Kristen Protestan</option>
+														<option>Kristen Katholik</option>
+														<option>Hindu</option>
+														<option>Budha</option>
+														<option>Konghucu</option>
+														</select>
+                        </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
                      <div class="form-group row">
 
-<div class="col-lg-6">
+
+						
+						<div class="col-lg-3">
 					                           <label class=""><span style="color:#ff0000">*</span> Tempat Kelahiran :</label>
-					                           <select class="form-control kt-select2 form-control-sm" id="kt_select2_2_validate" name="param">
+					                         <select class="form-control kt-selectpicker" data-live-search="true">
 					 															<optgroup label="Sulawesi Selatan">
 					 																<option value="AK">Maros</option>
 					 																<option value="AK" selected>Makassar</option>
@@ -237,81 +250,49 @@ function goBack() {
 
                         </div>
 						<div class="col-lg-3">
-                          <label><span style="color:#ff0000">*</span> Agama :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Islam</option>
-														<option>Kristen Protestan</option>
-														<option>Kristen Katholik</option>
-														<option>Hindu</option>
-														<option>Budha</option>
-														<option>Konghucu</option>
-														</select>
-					                         </div>
-						
-						
+                          <label class=""><span style="color:#ff0000">*</span> No. Tlp / HP :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="082244444436" >
+                      </div>
+                      </div>
+					  <div class="col-lg-3">
+                          <label class=""><span style="color:#ff0000">*</span> Whatsapp :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="082244444436" >
+                      </div>
+                      </div>
 
 
                       </div>
-					  <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
+					 
+									 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+									<div class="form-group row">
 
-
-						<div class="col-lg-6">
-                          <label><span style="color:#ff0000">*</span> Email :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx"  >
-                        </div>
-						<div class="col-lg-3">
-					                           <label><span style="color:#ff0000">*</span> Tlp / HP :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder=""  >
-					                         </div>
-											 <div class="col-lg-3">
-					                           <label>Whatsapp :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder=""  >
-					                         </div>
-						
-
-									</div>
-									</div>
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-
-
-						<div class="col-lg-6">
-					                           <label>NPWP :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="917345100801000">
-					                         </div>
-					                         </div>
-
-									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-3">
-					                           <label>No. Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="1520017942547">
-					                         </div>
-						<div class="col-lg-3">
-					                           <label class="">Bank :</label>
-                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Mandiri</option>
-														<option>BNI</option>
-														<option>BRI</option>
-														<option>BTN</option>
-														<option>Bukopin</option>
-														<option>Mega</option>
-														<option>BCA</option>
-														
-														</select>
+					  <div class="col-lg-6">
+                          <label class=""><span style="color:#ff0000">*</span> Email :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="xxx@xxx.xxx" >
                       </div>
-						<div class="col-lg-6">
-					                           <label>Nama Pemilik Rekening :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Isikan Nama Pemilik Rekening">
-					                         </div>
+                      </div>
+					  <div class="col-lg-6">
+                          <label class="">NPWP Pribadi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" placeholder="02.821.616.6-805.000" >
+                      </div>
+                      </div>
+					  
 
 									</div>
+									 
+									
+									</div>
+									
+									
 									</div>
 
 
 									</div>
+									
 							<!--end:: Portlet-->
 
 
@@ -319,103 +300,124 @@ function goBack() {
 										<div class="col-xl-4">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Korespondensi</div><br>
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
 
-						<div class="col-lg-9">
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
                          <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
 
                         </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm"  placeholder="90233">
+						
+						
+						
+						
                         </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm"  placeholder="Kompleks Villa Surya Mas Blok J/9">
+						
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       <div class="col-lg-6">
+					   <label>Kode Pos</label>
+                         <input type="text" class="form-control form-control-sm"  placeholder="90000">
 
                         </div>
+						<div class="col-lg-3">
+                          <label>RT :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="003">
                         </div>
+						<div class="col-lg-3">
+                          <label>RW :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="005">
+                        </div>
+						
+						
+						
+                        </div>
+						
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						  <div class="form-group row">
                         <div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> Kota :</label>
-                         <select class="form-control kt-select2 form-control-sm" id="kt_select2_1_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
+                          
+                                <label>Provinsi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-6">
+                          
+                                <label>Kecamatan :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+						
 
-					 														</select>
-                      </div>
-						<div class="col-lg-6">
-                          <label class=""><span style="color:#ff0000">*</span> No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm"  placeholder="082244444436">
-                      </div>
-                        </div>
-
-                        </div>
-
-
-
-
-											</div>
-
-										</div>
-
-									</div>
-<div class="kt-portlet kt-portlet--height-fluid-half kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Darurat</div><br>
-										<div class="kt-portlet__body">
-											<div class="kt-portlet__content">
-												<div class="form-group row">
-
-						<div class="col-lg-9">
-                          <label>Alamat Lengkap :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="Jl. Toddopuli Raya Timur">
-
-                        </div>
-						<div class="col-lg-3">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="90233">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-                         <input type="text" class="form-control form-control-sm" placeholder="Kompleks Villa Surya Mas Blok J/9">
-
-                        </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
+						<div class="form-group row">
+						<div class="col-lg-6">
+                          
+                                <label>Kelurahan :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
+                                  </select>
+                            </div>
                         <div class="col-lg-6">
                           <label class="">Kota :</label>
-                          <select class="form-control kt-select2 form-control-sm" id="kt_select2_3_validate" name="param">
-					 															<optgroup label="Sulawesi Selatan">
-					 																<option value="AK">Maros</option>
-					 																<option value="AK" selected>Makassar</option>
-					 																
-					 															</optgroup>
-
-					 														</select>
+                        <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Makassar</option>
+                                      <option value="2">Maros</option>
+                                     
+                                  </select>
                       </div>
-						<div class="col-lg-6">
-                          <label class="">No. Handphone :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="082244444436">
-                      </div>
+					  
                         </div>
-
-                        </div>
+						
 
 
 
@@ -425,12 +427,14 @@ function goBack() {
 										</div>
 
 									</div>
+									
+
 									</div>
 									<div class="col-xl-2">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-full kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Membership</div><br>
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Foto Member</div><br>
 										<div class="kt-portlet__body">
 																								<div class="kt-portlet__content">
 																									<div class="form-group row">
@@ -450,54 +454,73 @@ function goBack() {
 																										</div>
 																										<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 																										
-																										<div class="form-group row">
-																										<div class="col-lg-12">
+																										
+																								</div>
+																								
+																							</div>
+
+									</div>
+									
+
+									</div>
+									</div>
+									<div class="row">
+								<div class="col-xl-12">
+
+									<!--begin::Portlet-->
+										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Member</div><br>
+										<div class="kt-portlet__body">
+											<div class="kt-portlet__content">
+												<div class="form-group row">
+						
+						<div class="col-lg-2">
                           <label class="">ID Member :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000002MP823">
                       </div>
                         </div>
-						
-																								</div>
-																								</div>
-																								<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-																								<div class="form-group row">
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="col-lg-12">
+						<div class="col-lg-2">
                           <label class="">Tipe Member :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pribadi">
                       </div>
                         </div>
-																										
-																									</div>
-																									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-																								<div class="form-group row">
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="col-lg-12">
+						<div class="col-lg-2">
                           <label class="">Jenis Member :</label>
                           <div class="form-group">
                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
                       </div>
                         </div>
-																										
-																									</div>
-																									<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-																								<div class="form-group row">
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						<div class="col-lg-12">
-                          <label class="">Waktu Regisrasi :</label>
+						<div class="col-lg-3">
+                          <label class="">Waktu Registrasi :</label>
                           <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="18/08/2023 - 16:04 WITA">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Desember 2019 - 15:00 WITA">
                       </div>
                         </div>
-																										
-																									</div>
-																							</div>
-
+						<div class="col-lg-3">
+                          <label class="">Tempat Registrasi :</label>
+                          <div class="form-group">
+                        <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
+                      </div>
+                        </div>
+                        </div>
+						
+									
+									</div>
+									
+									
 									</div>
 
+
 									</div>
+									
+							<!--end:: Portlet-->
+
+
+										</div>
+										
+									
 									</div>
 									</div>
 									</div>

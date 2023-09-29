@@ -90,25 +90,22 @@
                                       <option value="15">Wajo</option>
                                   </select>
                             </div>
-							<div class="col-lg-1">
+							<div class="col-lg-2">
                                 <label>Wilayah :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                               <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
                             </div>
 							<div class="col-lg-2">
@@ -133,6 +130,17 @@
     		                    </div>
                             <div class="col-lg-2">
                                 <label>Nama Mitra :</label>
+    	                      <div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							
+                            <div class="col-lg-2">
+                                <label>Nama Kolektor :</label>
     	                      <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
         							<span class="kt-input-icon__icon kt-input-icon__icon--right">
@@ -240,10 +248,11 @@
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
 											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
 											   <th width="1%" colspan="5" bgcolor="#f7fcff">Kolektor</th>
-											  <th width="1%" colspan="2" bgcolor="#f7fcff">Titik Parkir</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal Dibuat</th>
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Dibuat Oleh</th>
 											 
 											 
-											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
+											  <th width="1%" colspan="3" bgcolor="#f7fcff">Verifikasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>Titik Parkir</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -259,9 +268,6 @@
 											  <th width="10%" bgcolor="#f7fcff">Nama Pegawai</th>
 											  <th width="1%" bgcolor="#f7fcff">Hp</th>
 											  <th width="1%" bgcolor="#f7fcff">WA</th>
-											  <th width="2%" bgcolor="#f7fcff">Tanggal Dibuat</th>
-											  <th width="2%" bgcolor="#f7fcff">Dibuat Oleh</th>
-											  
 											  <th width="1%" bgcolor="#f7fcff">Kepala Seksi TJU</th>
 											  <th width="1%" bgcolor="#f7fcff">Kepala Bagian Pengelolaan</th>
 											  <th width="1%" bgcolor="#f7fcff">Direktur Operasional</th>

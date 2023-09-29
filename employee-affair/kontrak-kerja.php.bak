@@ -80,7 +80,25 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+											  <div class="col-lg-2">
+						                          <label class="">No. SK Pegawai :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
+												<div class="col-lg-2">
+						                          <label class="">No. Perjanjian :</label>
+																			<div class="kt-input-icon kt-input-icon--right">
+																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
+																 <span class="kt-input-icon__icon kt-input-icon__icon--right">
+																							 <span><i class="la la-search"></i></span>
+																					 </span>
+																			 </div>
+						                        </div>
+						                        <div class="col-lg-2">
 						                          <label>Nama Pegawai :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
@@ -140,7 +158,7 @@
                                      
                                   </select>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label class="">NIP :</label>
 																			<div class="kt-input-icon kt-input-icon--right">
 																 <input type="text" class="form-control form-control-sm" placeholder="Search..." id="generalSearch">
@@ -232,24 +250,36 @@
 																	
 																	
 <li class="kt-nav__item">
-																			<a href="hr-perjanjian-kontrak-add.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon flaticon-file-2"></i>
-																				<span class="kt-nav__link-text">Buat Perjanjian Kontrak</span>
+																			<a href="hr-view-perjanjian-kontrak.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-eye"></i>
+																				<span class="kt-nav__link-text">Lihat Perjanjian Kontrak</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-view-perjanjian-kontrak-approve.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Pegawai Kontrak</span>
 																			</a>
 																		</li>
 																		
 																		
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
+																			<a href="edit-perjanjian-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -288,21 +318,33 @@
 																				<span class="kt-nav__link-text">Lihat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-view-perjanjian-kontrak-approve.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Pegawai Kontrak</span>
+																			</a>
+																		</li>
 																	
 
 																		
 																		
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
+																			<a href="edit-perjanjian-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -344,21 +386,33 @@
 																				<span class="kt-nav__link-text">Lihat Perjanjian Kontrak</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-view-perjanjian-kontrak-approve.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="hr-cetak-sk-kontrak-pegawai.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-print"></i>
+																				<span class="kt-nav__link-text">Cetak SK Pegawai Kontrak</span>
+																			</a>
+																		</li>
 																	
 
 																		
 																		
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
+																			<a href="edit-perjanjian-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>
@@ -402,7 +456,7 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hr-view-perjanjian-kontrak.php" class="kt-nav__link">
+																			<a href="hr-view-perjanjian-kontrak-approve.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-print"></i>
 																				<span class="kt-nav__link-text">Cetak Perjanjian Kontrak</span>
 																			</a>
@@ -419,15 +473,15 @@
 																		
 
 																		<li class="kt-nav__item">
-																			<a href="edit-pensiun.php" class="kt-nav__link">
+																			<a href="edit-perjanjian-kontrak.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa flaticon-edit-1"></i>
 																				<span class="kt-nav__link-text">Edit Data</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="hapus-pensiun.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa flaticon2-trash"></i>
-																				<span class="kt-nav__link-text">Hapus Data</span>
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
+																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
+																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
 																		</li>
 																	</ul>

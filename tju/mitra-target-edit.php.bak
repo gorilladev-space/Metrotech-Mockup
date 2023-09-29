@@ -297,7 +297,7 @@ function goBack() {
 																								<thead>
 																								<tr style="text-align:center">
 																								  <td width="1%" bgcolor="#f7fcff">#</td>
-																								  <td width="3%" bgcolor="#f7fcff">ID<br>Target Pendapatan</td>
+																								  <td width="2%" bgcolor="#f7fcff">ID<br>Target Pendapatan</td>
 																									<td width="5%" bgcolor="#f7fcff">Senin</td>
 																									<td width="5%" bgcolor="#f7fcff">Selasa</td>
 																									<td width="5%" bgcolor="#f7fcff">Rabu</td>

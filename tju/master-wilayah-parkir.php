@@ -108,6 +108,7 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="40%" bgcolor="#f7fcff">Zona</th>
 											  <th width="40%" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
@@ -116,6 +117,7 @@
 											<tr>
 												<td>1</td>
 												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Bakung</td>
 												
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
@@ -144,7 +146,8 @@
 										  </tr>
 											<tr>
 												<td>2</td>
-												<td align="left" valign="left" style="text-align:left">Bontoala</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Berua</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -172,7 +175,8 @@
 										  </tr>
 										  <tr>
 												<td>3</td>
-												<td align="left" valign="left" style="text-align:left">Kepulauan Sangkarrang</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Bulurokeng</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -200,7 +204,8 @@
 										  </tr>
 										  <tr>
 												<td>4</td>
-												<td align="left" valign="left" style="text-align:left">Makassar</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Daya</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -228,7 +233,8 @@
 										  </tr>
 										  <tr>
 												<td>5</td>
-												<td align="left" valign="left" style="text-align:left">Mamajang</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Katimbang</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -256,7 +262,8 @@
 										  </tr>
 										  <tr>
 												<td>6</td>
-												<td align="left" valign="left" style="text-align:left">Manggala</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Laikang</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -284,7 +291,8 @@
 										  </tr>
 										  <tr>
 												<td>7</td>
-												<td align="left" valign="left" style="text-align:left">Mariso</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Paccerakkang</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -312,7 +320,8 @@
 										  </tr>
 										  <tr>
 												<td>8</td>
-												<td align="left" valign="left" style="text-align:left">Panakkukang</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Pai</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -340,7 +349,8 @@
 										  </tr>
 										  <tr>
 												<td>9</td>
-												<td align="left" valign="left" style="text-align:left">Rappocini</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Sudiang</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -368,7 +378,8 @@
 										  </tr>
 										  <tr>
 												<td>10</td>
-												<td align="left" valign="left" style="text-align:left">Tallo</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Sudiang Raya</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -396,119 +407,8 @@
 										  </tr>
 										  <tr>
 												<td>11</td>
-												<td align="left" valign="left" style="text-align:left">Tamalanrea</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td>12</td>
-												<td align="left" valign="left" style="text-align:left">Tamalate</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td>13</td>
-												<td align="left" valign="left" style="text-align:left">Ujung Pandang</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td>14</td>
-												<td align="left" valign="left" style="text-align:left">Ujung Tanah</td>
-												
-												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
-																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
-																	<i class="flaticon-more-1"></i>
-																</a>
-																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
-																	<ul class="kt-nav">
-																	
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
-																				<span class="kt-nav__link-text">Edit</span>
-																			</a>
-																		</li>
-																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
-																				<span class="kt-nav__link-text">Hapus</span>
-																			</a>
-																		</li>
-																		
-																	</ul>
-																</div>
-															</div></td>
-										  </tr>
-										  <tr>
-												<td>15</td>
-												<td align="left" valign="left" style="text-align:left">Wajo</td>
+												<td align="left" valign="left" style="text-align:left">Biringkanaya</td>
+												<td align="left" valign="left" style="text-align:left">Untia</td>
 												
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -809,7 +709,28 @@
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
 												<div class="col-lg-6">
-														<label>Nama Zona :</label>
+														<label>Pilih Zona :</label>
+														<select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+
+												</div>
+												<div class="col-lg-6">
+														<label>Nama Wilayah :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>

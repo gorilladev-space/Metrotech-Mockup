@@ -129,7 +129,7 @@
 												
 												
 												<div class="col-lg-2">
-						                          <label class="">Jenis Peraturan :</label>
+						                          <label class="">Kategori :</label>
 						                          <select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Administrasi</option>
 						                              <option value="3">Kepegawaian</option>

@@ -252,16 +252,7 @@ function goBack() {
                         </div>
 						
                         </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-					  
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Kompleks Villa Surya Mas J/9">
-
-                        </div>
-                        </div>
-						
+						 
 						  
 
 
@@ -271,22 +262,9 @@ function goBack() {
 
 
 										</div>
+
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-
-						  <div class="form-group row">
-                       <div class="col-lg-6">
-					  <label>Kelurahan :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Borong">
-
-                        </div>
-<div class="col-lg-6">
-					  <label>Kecamatan :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Manggala">
-
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
+						   <div class="form-group row">
                        <div class="col-lg-3">
 					  <label>RT :</label>
                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="003">
@@ -303,6 +281,41 @@ function goBack() {
 
                         </div>
                         </div>
+                       <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						   <div class="form-group row">
+<div class="col-lg-12">
+					  <label>Provinsi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Sulawesi Selatan">
+
+                        </div>
+                        </div>
+						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+						<div class="col-lg-12">
+					  <label>Kecamatan :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Manggala">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+						  <div class="col-lg-12">
+					  <label>Kelurahan :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Borong">
+
+                        </div>
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                       <div class="form-group row">
+<div class="col-lg-12">
+					  <label>Kota :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Makassar">
+
+                        </div>
+						
+                        </div>
+<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+
 						
 						  
 
@@ -363,11 +376,7 @@ function goBack() {
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						 <div class="form-group row">
-						<div class="col-lg-6">
-                          <label>Kode Pos :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="90233" disabled>
-                        </div>
-						<div class="col-lg-3">
+						 <div class="col-lg-3">
                           <label>RT :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="3" disabled>
                         </div>
@@ -375,6 +384,30 @@ function goBack() {
                           <label>RW :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="5" disabled>
                         </div>
+						<div class="col-lg-6">
+                          <label>Kode Pos :</label>
+                          <input type="text" class="form-control form-control-sm" placeholder="90233" disabled>
+                        </div>
+						
+						
+						
+						
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
+                      
+						<div class="col-lg-6">
+					                           <label>Provinsi :</label>
+                         <input type="text" class="form-control form-control-sm" placeholder="Sulawesi Selatan" disabled>
+					                         </div>
+						<div class="col-lg-6">
+                          <label class="">Kecamatan :</label>
+                          <div class="form-group">
+                       <input type="text" class="form-control form-control-sm" placeholder="Manggala" disabled>
+                      </div>
+                      </div>
+						
+						
 						
 						
 						
@@ -387,9 +420,9 @@ function goBack() {
                          <input type="text" class="form-control form-control-sm" placeholder="Borong" disabled>
 					                         </div>
 						<div class="col-lg-6">
-                          <label class="">Kecamatan :</label>
+                          <label class="">Kota :</label>
                           <div class="form-group">
-                       <input type="text" class="form-control form-control-sm" placeholder="Manggala" disabled>
+                       <input type="text" class="form-control form-control-sm" placeholder="Makassar" disabled>
                       </div>
                       </div>
 						

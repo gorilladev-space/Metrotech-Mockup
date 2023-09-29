@@ -19,7 +19,7 @@
 								</div>
 								<div class="kt-subheader__toolbar">
 									<div class="dropdown dropdown-inline" ddata-placement="left">
-											<a href="mutasi-pegawai.php" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
+											<a href="#" class="btn btn-label-primary btn-sm" data-toggle="dropdown" onclick="goBack()">
 												<i class="flaticon-reply"></i> Kembali</button>
 													<script>
 													function goBack() {
@@ -33,41 +33,13 @@
 
 										</div>
 										<div class="btn-group">
-													<button type="button" class="btn btn-brand">
-														<i class="la la-check"></i>
-														<span class="kt-hidden-mobile">Save</span>
-													</button>
-													<button type="button" class="btn btn-brand dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-													</button>
-													<div class="dropdown-menu dropdown-menu-right">
-														<ul class="kt-nav">
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-reload"></i>
-																	<span class="kt-nav__link-text">Save & continue</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-power"></i>
-																	<span class="kt-nav__link-text">Save & exit</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-edit-interface-symbol-of-pencil-tool"></i>
-																	<span class="kt-nav__link-text">Save & edit</span>
-																</a>
-															</li>
-															<li class="kt-nav__item">
-																<a href="#" class="kt-nav__link">
-																	<i class="kt-nav__link-icon flaticon2-add-1"></i>
-																	<span class="kt-nav__link-text">Save & add new</span>
-																</a>
-															</li>
-														</ul>
-													</div>
-												</div>
+				<button type="button" class="btn btn-brand">
+					<i class="la la-check"></i>
+					<span class="kt-hidden-mobile">Simpan</span>
+				</button>
+				
+				
+			</div>
 										</div>
 										</div>
 						</div>
@@ -101,32 +73,52 @@
 											<div class="kt-portlet__content">
 
                      <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label>Nama Mesin :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
+                          <div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Nama Mesin Absen">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-tablet"></i>
+														</span>
+													</span>
+												</div>
                         </div>
-                       <div class="col-lg-6">
+                       <div class="col-lg-3">
                           <label class="">IP :</label>
-                          <div class="form-group">
-														<input type="text" class="form-control form-control-sm" placeholder="">
-                      </div>
+                          <div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan IP Mesin Absen">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-server"></i>
+														</span>
+													</span>
+												</div>
                         </div>
-                        </div>
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Lokasi :</label>
-                          <div class="form-group">
-														<input type="text" class="form-control form-control-sm" placeholder="">
-                      </div>
+                          <div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Lokasi Mesin Absen">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-home"></i>
+														</span>
+													</span>
+												</div>
                         </div>
-						<div class="col-lg-6">
+						<div class="col-lg-3">
                           <label class="">Port :</label>
-                          <div class="form-group">
-														<input type="text" class="form-control form-control-sm" placeholder="">
-                      </div>
+                          <div class="kt-input-icon kt-input-icon--right">
+													<input type="text" class="form-control form-control-sm kt-input" placeholder="Masukkan Port Mesin Absen">
+													<span class="kt-input-icon__icon kt-input-icon__icon--right">
+														<span>
+															<i class="la la-share-alt-square"></i>
+														</span>
+													</span>
+												</div>
                         </div>
                         </div>
+						
                         </div>
 
                         </div>

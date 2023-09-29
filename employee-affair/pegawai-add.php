@@ -584,7 +584,7 @@
                      <div class="form-group row">
 						<div class="col-lg-6">
 																						<label>Department :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+																						<select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Direksi</option>
 														<option>Dewan Pengawas</option>
 														<option>Umum</option>
@@ -596,7 +596,7 @@
 																					</div>
 <div class="col-lg-6">
 																						<label>Bagian :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+																						<select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Umum dan Kepegawaian</option>
 														<option>Hukum dan Humas</option>
 														<option>Keuangan</option>
@@ -623,7 +623,7 @@
 																					</div>
 						<div class="col-lg-6">
 																						<label>Kantor :</label>
-																						<select class="form-control form-control kt-selectpicker" id="exampleSelects">
+																						<select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Pusat</option>
 														<option>Cabang</option>
 													
@@ -886,7 +886,7 @@
 											<tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Suami</option>
 																							<option value="HI">Istri</option>
 																							<option value="HI">Anak</option>
@@ -894,7 +894,7 @@
 																					</div></td>
 												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Pria</option>
 																							<option value="HI">Wanita</option>
 																						</select>
@@ -910,7 +910,7 @@
 																							</div>
 																						</div></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -935,7 +935,7 @@
 											<tr>
 												<td style="text-align:center" id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Suami</option>
 																							<option value="HI">Istri</option>
 																							<option value="HI">Anak</option>
@@ -943,7 +943,7 @@
 																					</div></td>
 												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Pria</option>
 																							<option value="HI">Wanita</option>
 																						</select>
@@ -959,7 +959,7 @@
 																							</div>
 																						</div></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -983,7 +983,7 @@
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Suami</option>
 																							<option value="HI">Istri</option>
 																							<option value="HI">Anak</option>
@@ -991,7 +991,7 @@
 																					</div></td>
 												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Pria</option>
 																							<option value="HI">Wanita</option>
 																						</select>
@@ -1007,7 +1007,7 @@
 																							</div>
 																						</div></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -1031,7 +1031,7 @@
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">4</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Suami</option>
 																							<option value="HI">Istri</option>
 																							<option value="HI">Anak</option>
@@ -1039,7 +1039,7 @@
 																					</div></td>
 												<td style="text-align:left" nowrap><input type="text" class="form-control form-control-sm" placeholder="Isikan Data Anda"></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>Pria</option>
 																							<option value="HI">Wanita</option>
 																						</select>
@@ -1055,7 +1055,7 @@
 																							</div>
 																						</div></td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -1134,7 +1134,7 @@
 											<tr>
 												<td style="text-align:center" id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -1179,7 +1179,7 @@
 											<tr>
 												<td style="text-align:center" id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -1224,7 +1224,7 @@
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>
@@ -1269,7 +1269,7 @@
 										  <tr>
 												<td style="text-align:center" id="kt_table_1">4</td>
 												<td style="text-align:center" nowrap><div class="form-group">
-																						<select class="form-control kt-selectpicker" name="param">
+																						<select class="form-control kt-selectpicker" data-live-search="true">
 																							<option value="AK" selected>S3</option>
 																							<option value="HI">S2</option>
 																							<option value="HI">S1</option>

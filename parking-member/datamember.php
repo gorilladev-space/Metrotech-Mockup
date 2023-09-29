@@ -120,9 +120,9 @@
 								<div class="col-lg-2">
                                 <label class="">Tanggal Registrasi :</label>
                                 <div class="input-group">
-						                        <input type="text" class="form-control form-control-sm kt_datepicker_2_modal" readonly="" placeholder="= Pilih Tanggal =">
+						                        <input type="text" class="form-control form-control-sm kt_daterangepicker_2" readonly="" placeholder="-- Pilih Tanggal --">
 						                        <div class="input-group-append">
-						                          <span class="input-group-text"><i class="la la-calendar-check-o"></i></span>
+						                          <span class="input-group-text"><i class="la la-calendar"></i></span>
 						                        </div>
 						                      </div>
                             </div>
@@ -317,6 +317,12 @@
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
+																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
+																			</a>
+																		</li>
 																		
 																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
@@ -397,6 +403,12 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
 																				<span class="kt-nav__link-text">Cetak Kartu Member</span>
@@ -473,6 +485,12 @@
 																			<a href="ubah-member.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-edit"></i>
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
+																			</a>
+																		</li>
+																		<li class="kt-nav__item">
+																			<a href="ubah-kendaraan.php" class="kt-nav__link">
+																				<i class="kt-nav__link-icon fa fa-car"></i>
+																				<span class="kt-nav__link-text">Ubah Data Kendaraan</span>
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">

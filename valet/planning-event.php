@@ -27,7 +27,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										</span>
 										&nbsp;
 										&nbsp;
-											Agenda Perusahaan
+											Agenda Valet
 
 									</h3>
 								

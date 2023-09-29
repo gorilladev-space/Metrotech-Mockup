@@ -136,75 +136,81 @@ function goBack() {
 									
 							<!--end:: Portlet-->
 </div>
-
-
-					<div class="col-xl-4">
+<div class="col-xl-4">
 
 									<!--begin::Portlet-->
-									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Data Membership</div><br>
-										<div class="kt-portlet__body">
+									
+<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Validator</div><br>
+																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
+																					<div class="col-lg-6">
+																						<label>Nama Pegawai :</label>
+																						<input type="text" class="form-control form-control-sm" value="Muhammad Nasrullah, S.Kom" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-6">
+																						<label>NIP :</label>
+																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					</div>
+																						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+																					<div class="form-group row">
+																					<div class="col-lg-6">
+																						<label>Department :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-6">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					
+																					
+																					
+																				</div>
+						
+                     
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+                     <div class="form-group row">
+						
+																					
+																					<div class="col-lg-8">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
 
-						<div class="col-lg-6">
-                          <label>ID Member :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Tipe Member :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Corporate Silver - gold - platinum">
-                        </div>
-                        </div>
+																					</div>
 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
+                     <div class="form-group row">
+						<div class="col-lg-4">
+																						<label>Waktu Validasi :</label>
+																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-8">
+																						<label>Lokasi Validasi :</label>
+																						<input type="text" class="form-control form-control-sm" value="Inkubator Center Mamajang" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
 
-						<div class="col-lg-6">
-                          <label>Username :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="ilugroup">
 
-                        </div>
-						<div class="col-lg-6">
-                          <label>Total Kendaraan :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="3">
-                        </div>
-                        </div>
-						 <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-<div class="form-group row">
-
-						<div class="col-lg-6">
-                          <label>Tanggal Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10 Agustus 2023">
-
-                        </div>
-						<div class="col-lg-6">
-                          <label>Aktif Hingga :</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
-                        </div>
-                        </div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						  <div class="form-group row">
-                       <div class="col-lg-12">
-					   <label>Tempat Registrasi :</label>
-                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
-
+						
                         </div>
                         </div>
 						
-						  
+						
+                     
+					  
+									
+                     
 
-
-
-
-											</div>
-
-										</div>
+									
 
 									</div>
-
+																						</div>
 
                     </div>
+
+
+					
 					<div class="col-xl-3">
 
 									<!--begin::Portlet-->
@@ -255,60 +261,59 @@ function goBack() {
 									</div>
 									<div class="row">
 								
-<div class="col-xl-6">
+<div class="col-xl-12">
 
 									<!--begin::Portlet-->
 									
 <div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Validator</div><br>
+																							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Detail Member</div><br>
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-4">
-																						<label>Nama Pegawai :</label>
-																						<input type="text" class="form-control form-control-sm" value="Muhammad Nasrullah, S.Kom" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-4">
-																						<label>NIP :</label>
-																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-4">
-																						<label>Department :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
+																					<div class="col-lg-1">
+                          <label>ID Member :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+
+                        </div>
+						<div class="col-lg-2">
+                          <label>Nama Member :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Muhammad Nasrullah, S.Kom">
+
+                        </div>
+						<div class="col-lg-1">
+                          <label>Tipe Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Pribadi">
+                        </div>
+						<div class="col-lg-1">
+                          <label>Jenis Member :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Silver">
+                        </div>
+						<div class="col-lg-1">
+                          <label>Total Kendaraan :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="3">
+                        </div>
+						<div class="col-lg-2">
+                          <label>Tanggal Registrasi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="10 Agustus 2023">
+
+                        </div>
+						<div class="col-lg-2">
+                          <label>Tanggal Expired :</label>
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="31 Agustus 2023">
+                        </div>
+						<div class="col-lg-2">
+					   <label>Tempat Registrasi :</label>
+                         <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="Perumda Parkir Makassar Raya atau Online">
+
+                        </div>
+                        </div>
 																					
 																					
 																					
 																				</div>
 						
                      
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						
-																					<div class="col-lg-4">
-																						<label>Bagian :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-8">
-																						<label>Jabatan :</label>
-																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-																					</div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-4">
-																						<label>Waktu Validasi :</label>
-																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-8">
-																						<label>Lokasi Validasi :</label>
-																						<input type="text" class="form-control form-control-sm" value="Inkubator Center Mamajang" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-
-						
-                        </div>
+					
                         </div>
 						
 						
@@ -323,7 +328,9 @@ function goBack() {
 																						</div>
 
                     </div>
-<div class="col-xl-6">
+					<div class="row">
+								
+<div class="col-xl-12">
 
 									<!--begin::Portlet-->
 									
@@ -332,51 +339,40 @@ function goBack() {
 																							<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
-																					<div class="col-lg-4">
+																					<div class="col-lg-2">
 																						<label>Suspend By :</label>
 																						<input type="text" class="form-control form-control-sm" value="Muhammad Nasrullah, S.Kom" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-4">
+																					<div class="col-lg-1">
 																						<label>NIP :</label>
 																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
-																					<div class="col-lg-4">
-																						<label>Department :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					
+						<div class="col-lg-2">
+																						<label>Bagian :</label>
+																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
+																					<div class="col-lg-2">
+																						<label>Jabatan :</label>
+																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						<div class="col-lg-2">
+																						<label>Waktu Suspend :</label>
+																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-3">
+																						<label>Keterangan Suspend :</label>
+																						<input type="text" class="form-control form-control-sm" value="Duplikat" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+						
+                        </div>
 																					
 																					
 																					
 																				</div>
 						
                      
-						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						
-																					<div class="col-lg-4">
-																						<label>Bagian :</label>
-																						<input type="text" class="form-control form-control-sm" value="Umum dan Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-8">
-																						<label>Jabatan :</label>
-																					<input type="text" class="form-control form-control-sm" value="Kepala Seksi Administrasi Kepegawaian" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-																					</div>
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-                     <div class="form-group row">
-						<div class="col-lg-4">
-																						<label>Waktu Suspend :</label>
-																						<input type="text" class="form-control form-control-sm" value="11 Agustus 2023 / 10:30:00 WITA " placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-																					<div class="col-lg-8">
-																						<label>Keterangan Suspend :</label>
-																						<input type="text" class="form-control form-control-sm" value="Inkubator Center Mamajang" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
-																					</div>
-
-
-						
-                        </div>
+					
                         </div>
 						
 						
@@ -391,7 +387,6 @@ function goBack() {
 																						</div>
 
                     </div>
-									</div>
 
 							<!--end:: Portlet-->
 

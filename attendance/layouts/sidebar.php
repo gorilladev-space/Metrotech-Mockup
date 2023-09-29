@@ -102,6 +102,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
+														<li class="kt-menu__item " aria-haspopup="true"><a href="format-id.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Format Nomor</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="hr-setup-mesin-absensi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Mesin Absen</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="hr-setup-jam-kerja.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Jam Kerja</span></a></li>
 														<li class="kt-menu__item " aria-haspopup="true"><a href="hr-setup-kalender-libur.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Kalender Libur</span></a></li>

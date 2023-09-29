@@ -87,7 +87,7 @@
 																<form class="kt-form">
 																	<div class="kt-portlet__body">
 						                      <div class="form-group row">
-						                        <div class="col-lg-3">
+						                        <div class="col-lg-2">
 						                          <label>Nama Pegawai :</label>
 												  <select class="form-control kt-selectpicker form-control" data-live-search="true">
 					 															<optgroup label="Direksi">
@@ -149,11 +149,21 @@
 						                        </div>
 						                      </div>
 						                        </div>
-												<div class="col-lg-2">
+												<div class="col-lg-1">
 						                          <label>Kantor :</label>
 																		<select class="form-control kt-selectpicker" data-live-search="true">
 						                              <option value="2">Pusat</option>
 						                              <option value="3">Cabang Sulawesi Barat</option>
+
+						                          </select>
+						                        </div>
+												<div class="col-lg-2">
+						                          <label>Jenis Lupa Absen :</label>
+																		<select class="form-control kt-selectpicker" data-live-search="true">
+						                              <option value="2">Datang</option>
+						                              <option value="3">Pulang</option>
+						                              <option value="3">Lembur Masuk</option>
+						                              <option value="3">Lembur Keluar</option>
 
 						                          </select>
 						                        </div>

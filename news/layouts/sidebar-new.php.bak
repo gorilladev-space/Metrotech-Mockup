@@ -65,8 +65,12 @@
 </svg></span><span class="kt-menu__link-text">Berita</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-data-pengunjung.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Perusahaan</span></a></li>
-											<li class="kt-menu__item" aria-haspopup="true"><a href="laporan-grafik-pengunjung" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Divisi</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Perusahaan</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-divisi.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Divisi</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-member.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Member</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-mitra-jukir.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Mitra Jukir</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-customer-plb.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Customer PLB</span></a></li>
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-kolektor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Berita Kolektor</span></a></li>
 											
 
 										</ul>
@@ -82,7 +86,7 @@
 </svg></span><span class="kt-menu__link-text">Master Data</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 											<ul class="kt-menu__subnav">
-												
+											<li class="kt-menu__item" aria-haspopup="true"><a href="berita-perusahaan.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Kategori Berita</span></a></li>	
 												
 											</ul>
 									</div>
@@ -96,7 +100,7 @@
 </svg></span><span class="kt-menu__link-text">Pengaturan</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 										<ul class="kt-menu__subnav">
-
+										<li class="kt-menu__item" aria-haspopup="true"><a href="format-nomor.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Format Nomor</span></a></li>
 										</ul>
 									</div>
 								</li>

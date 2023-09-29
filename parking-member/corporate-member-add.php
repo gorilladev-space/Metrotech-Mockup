@@ -86,7 +86,7 @@
                           <label>QR Code :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="000000001" disabled>
                         </div>
-						<div class="col-lg-3">
+						<div class="col-lg-6">
                           <label>Tanggal Registrasi :</label>
                           <input type="text" class="form-control form-control-sm" placeholder="Auto Date" disabled>
                         </div>
@@ -101,7 +101,7 @@
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Tipe :</label>
-                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                           <select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>PT</option>
 														<option>CV</option>
 														<option>Koperasi</option>
@@ -110,7 +110,7 @@
                         </div>
 						<div class="col-lg-3">
                           <label><span style="color:#ff0000">*</span> Jenis Member :</label>
-                           <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                           <select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Silver</option>
 														<option>Gold</option>
 														<option>Platinum</option>
@@ -182,88 +182,136 @@
 								<div class="col-xl-3">
 
 									<!--begin::Portlet-->
-										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
+									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
 							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Alamat Badan Usaha</div><br>
-										 <div class="kt-portlet__body">
+										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
-												
-                     <div class="form-group row">
-                      
-						<div class="col-lg-8">
+												<div class="form-group row">
+
+						<div class="col-lg-12">
                           <label><span style="color:#ff0000">*</span> Alamat Lengkap :</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
-                        </div>
-						<div class="col-lg-4">
-                          <label>Kode Pos :</label>
-                           <input type="text" class="form-control form-control-sm" placeholder="">
+                         <input type="text" class="form-control form-control-sm"  placeholder="Jl. Toddopuli Raya Timur">
+
                         </div>
 						
+						
+						
+						
+                        </div>
+						
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						<div class="form-group row">
+                       <div class="col-lg-6">
+					   <label>Kode Pos</label>
+                         <input type="text" class="form-control form-control-sm"  placeholder="90000">
+
+                        </div>
+						<div class="col-lg-3">
+                          <label>RT :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="003">
+                        </div>
+						<div class="col-lg-3">
+                          <label>RW :</label>
+                          <input type="text" class="form-control form-control-sm"  placeholder="005">
+                        </div>
+						
+						
+						
+                        </div>
+						
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						  <div class="form-group row">
+                        <div class="col-lg-6">
+                          
+                                <label>Provinsi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-6">
+                          
+                                <label>Kecamatan :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+						
+
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-						 <div class="form-group row">
-                      
-						<div class="col-lg-8">
-						<label class="">&nbsp;</label>
-                          <input type="text" class="form-control form-control-sm" placeholder="">
-                        </div>
-						<div class="col-lg-2">
-					                           <label>RT :</label>
-                         <input type="text" class="form-control form-control-sm" placeholder="">
-					                         </div>
-						<div class="col-lg-2">
-                          <label class="">RW :</label>
-                          <div class="form-group">
-                        <input type="text" class="form-control form-control-sm" placeholder="" >
-                      </div>
-                      </div>
-						
-						
-						
-						
-                        </div>
-						
-						
-					 
-                    
-									 
-					  
-<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
-									<div class="form-group row">
+						<div class="form-group row">
 						<div class="col-lg-6">
-					                           <label>Kelurahan :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Borong</option>
-														</select>
-					                         </div>
-						<div class="col-lg-6">
-                          <label class="">Kecamatan :</label>
-                          <div class="form-group">
-                        <select class="form-control form-control kt-selectpicker" id="exampleSelects">
-														<option>Manggala</option>
-														</select>
+                          
+                                <label>Kelurahan :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
+                                  </select>
+                            </div>
+                        <div class="col-lg-6">
+                          <label class="">Kota :</label>
+                        <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Makassar</option>
+                                      <option value="2">Maros</option>
+                                     
+                                  </select>
                       </div>
-                      </div>
 					  
-					  
-                      </div>
-					  
-					  
-					
+                        </div>
+						
+
+
+
+
+											</div>
+
+										</div>
+
 									</div>
 									
-									
-					  
-					  
-					
+
 									</div>
-									
-									
-                    </div>
-					<div class="form-group row">
-					
-					
-                    </div>
-                    </div>
 								<div class="col-xl-4">
 
 									<!--begin::Portlet-->
@@ -330,17 +378,66 @@
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
 						 <div class="form-group row">
+                        <div class="col-lg-6">
+                          
+                                <label>Provinsi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+							<div class="col-lg-6">
+                          
+                                <label>Kecamatan :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Biringkanaya</option>
+                                      <option value="2">Bontoala</option>
+                                      <option value="3">Kepulauan Sangkarrang</option>
+                                      <option value="4">Makassar</option>
+                                      <option value="5">Mamajang</option>
+                                      <option value="6">Manggala</option>
+                                      <option value="7">Mariso</option>
+                                      <option value="8">Panakkukang</option>
+                                      <option value="9">Rappocini</option>
+                                      <option value="10">Tallo</option>
+                                      <option value="11">Tamalanrea</option>
+                                      <option value="12">Tamalate</option>
+                                      <option value="13">Ujung Pandang</option>
+                                      <option value="14">Ujung Tanah</option>
+                                      <option value="15">Wajo</option>
+                                  </select>
+                            </div>
+						
+
+                        </div>
+						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+						 <div class="form-group row">
                       
 						<div class="col-lg-6">
 					                           <label>Kelurahan :</label>
-                         <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                         <select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Borong</option>
 														</select>
 					                         </div>
 						<div class="col-lg-6">
                           <label class="">Kecamatan :</label>
                           <div class="form-group">
-                        <select class="form-control form-control kt-selectpicker" id="exampleSelects">
+                        <select class="form-control form-control kt-selectpicker" data-live-search="true">
 														<option>Manggala</option>
 														</select>
                       </div>

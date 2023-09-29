@@ -102,18 +102,37 @@
 					<table class="table table-responsive table-striped- table-bordered table-hover table-checkable" id="kt_table_1">
 										<thead>
 											<tr style="text-align:center">
-											  <th width="1%" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="10%" bgcolor="#f7fcff">Format Nomor</th>
-											  <th width="1%" bgcolor="#f7fcff">Aksi</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Uraian</th>
+											  <th width="5%" rowspan="2" bgcolor="#f7fcff">Format Penomoran</th>
+											  <th width="7%" colspan="4" bgcolor="#f7fcff">Pejabat Pembuat</th>
+											  <th width="7%" colspan="2" bgcolor="#f7fcff">Tanggal</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
 										  </tr>
+											<tr style="text-align:center">
+											  <th width="1%" bgcolor="#f7fcff">Foto</th>
+											  <th width="5%" bgcolor="#f7fcff">Nama</th>
+											  <th width="2%" bgcolor="#f7fcff">NIP</th>
+											  <th width="7%" bgcolor="#f7fcff">Jabatan</th>
+											  <th width="3%" bgcolor="#f7fcff">Dibuat</th>
+											  <th width="3%" bgcolor="#f7fcff">Diubah</th>
+							              </tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td width="0.5%">1</td>
-												<td width="1%" align="left" valign="left" style="text-align:left">001/TASK/PMR/XII/2023</td>
+												<td>1</td>
+												<td align="left" valign="left" style="text-align:left">ID Tasking</td>
+												<td align="left" valign="left" style="text-align:left">005/TASK/PMR/XII/2022</td>
+												<td align="center" valign="center" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" data-toggle="kt-tooltip" data-skin="brand" title="" data-original-title="Sri Suhartini, SE<hr>Kepala Seksi Administrasi Kepegawaian" data-html="true">
+														<img src="../assets/media/users/100_16.jpg" alt="image">
+													</a></td>
+												<td align="left" valign="left" style="text-align:left">Muhammad Nasrullah, S.Kom</td>
+												<td align="left" valign="left" style="text-align:left">238 004 032</td>
+												<td align="left" valign="left" style="text-align:left">Kepala Seksi Administrasi Kepegawaian</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
+												<td align="center" valign="center" style="text-align:center">13 Agustus 2023</td>
 												
-												
-												<td width="1%" style="text-align:center" nowrap><div class="kt-widget2__actions">
+												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
 																	<i class="flaticon-more-1"></i>
 																</a>
@@ -121,7 +140,7 @@
 																	<ul class="kt-nav">
 																	
 																		<li class="kt-nav__item">
-																			<a href="#" class="kt-nav__link">
+																			<a class="kt-nav__link" data-toggle="modal" data-target="#modal_edit">
 																				<i class="kt-nav__link-icon fa fa-user-edit"></i>
 																				<span class="kt-nav__link-text">Edit</span>
 																			</a>
@@ -412,12 +431,74 @@
 											<div class="tab-content">
 												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
 													<div class="form-group row">
-												<div class="col-lg-12">
-														<label>Format Nomor:</label>
+												<div class="col-lg-6">
+														<label>Uraian :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
+
+												</div>
+												<div class="col-lg-6">
+														<label>Format Nomor :</label>
 														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
 
 												</div>
 
+												
+
+												</div>
+												<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+												
+												
+												
+									<div class="kt-portlet__foot kt-align-right">
+												<div class="">
+
+													<button type="reset" class="btn btn-brand btn-sm">Simpan</button>
+												</div>
+											</div>
+
+
+
+
+									</div>
+
+									</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+								</div>
+							<!--End::Modal 2-->
+							<!--begin::Modal 2-->
+									<div class="modal fade" id="modal_edit" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+									<div class="modal-content">
+
+										<div class="modal-body">
+											<div class="kt-portlet kt-portlet--mobile ">
+											<div class="kt-portlet__head">
+											<div class="kt-portlet__head-label">
+												<span class="kt-portlet__head-icon"><i class="flaticon2-list-1"></i></span>
+												<h3 class="kt-portlet__head-title kt-font-info">EDIT NOMOR</h3>
+											</div>
+											<div class="kt-portlet__head-toolbar">
+												<button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">X</button>
+											</div>
+										</div>
+										<div class="kt-portlet__body">
+											<div class="tab-content">
+												<div class="tab-pane active" id="kt_tabs_7_1" role="tabpanel">
+													<div class="form-group row">
+												<div class="col-lg-6">
+														<label>Uraian :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Surat Perintah Perjalanan Dinas" disabled>
+
+												</div>
+<div class="col-lg-6">
+														<label>Format Nomor :</label>
+														<input type="text" class="form-control form-control-sm" placeholder="Isikan Data">
+
+												</div>
 												
 
 												</div>

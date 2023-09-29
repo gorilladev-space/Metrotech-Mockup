@@ -72,10 +72,26 @@
 				<form class="kt-form">
 					<div class="kt-portlet__body">
                         <div class="form-group row">
-                            <div class="col-lg-4">
-                                <label>Department :</label>
+                            <div class="col-lg-2">
+                                <label>User Group :</label>
     	                       
-        							<input type="text" class="form-control form-control-sm" placeholder="">
+        							<div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
+        					
+                            </div>
+							<div class="col-lg-2">
+                                <label>Jabatan :</label>
+    	                       
+        							<div class="kt-input-icon kt-input-icon--right">
+        							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
+        							<span class="kt-input-icon__icon kt-input-icon__icon--right">
+    		                            <span><i class="la la-search"></i></span>
+    		                        </span>
+    		                    </div>
         					
                             </div>
 							

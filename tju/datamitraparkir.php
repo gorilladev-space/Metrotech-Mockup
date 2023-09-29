@@ -120,7 +120,7 @@
 							
                             
 							
-							<div class="col-lg-2">
+							<div class="col-lg-1">
                                 <label>Jenis Kelamin :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
@@ -129,17 +129,67 @@
                                       
                                   </select>
                             </div>
+							<div class="col-lg-1">
+                                <label>ID Card :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sudah</option>
+                                      <option value="2">Belum</option>
+                                      
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>Rompi :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Sudah</option>
+                                      <option value="2">Belum</option>
+                                      
+                                  </select>
+                            </div>
+							<div class="col-lg-1">
+                                <label>BPJSTK :</label>
+								
+                                <select class="form-control kt-selectpicker" data-live-search="true">
+                                      <option value="1" selected="">Aktif</option>
+                                      <option value="2">Belum Aktif</option>
+                                      <option value="2">Non Aktif</option>
+                                      
+                                  </select>
+                            </div>
 							<div class="col-lg-2">
                                 <label>Kolektor :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">HARIS DG. PAWA</option>
-                                      <option value="2">ARMAN</option>
-                                      <option value="3">KASIM DG. BONTO</option>
-                                      <option value="4">A. LUTFIA AGUSTINAPUTRI</option>
-                                      <option value="5">BANI</option>
-                                      
-                                  </select>
+                              <select class="form-control kt-selectpicker form-control" data-live-search="true">
+					 															<optgroup label="Direksi">
+					 																<option value="AK"selected >000 000 001 - Yulianti Tomu, SE</option>
+																					<option value="HI">000 000 002 - Rizal Asjadad</option>
+																					<option value="HI">000 000 003 - Christofher Rio Aviary</option>
+																					<option value="HI">000 000 004 - Mu’amar Nor Amin</option>
+																					<option value="HI">000 000 005 - Zulfadli Syahrir</option>
+					 															</optgroup>
+					 															<optgroup label="Umum">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Keuangan dan Asset">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Operasional">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+																				<optgroup label="Pengembangan Usaha dan Kerjasama">
+					 																<option value="HI">000 000 006 - Ir. Asrarudin Mamonto, MM</option>
+																					<option value="HI">000 000 007 - Sri Suhartini, SE</option>
+					 																
+					 															</optgroup>
+
+					 														</select>
                             </div>
 							
 							
@@ -196,34 +246,7 @@
     		                        </span>
     		                    </div>
     		                    </div>
-								<div class="col-lg-2">
-                                <label>ID Card :</label>
 								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>Rompi :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Sudah</option>
-                                      <option value="2">Belum</option>
-                                      
-                                  </select>
-                            </div>
-							<div class="col-lg-2">
-                                <label>BPJSTK :</label>
-								
-                                <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">Aktif</option>
-                                      <option value="2">Belum Aktif</option>
-                                      <option value="2">Non Aktif</option>
-                                      
-                                  </select>
-                            </div>
 							
 								
                             
@@ -1067,7 +1090,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1107,7 +1130,7 @@
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1381,7 +1404,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Mitra Jukir</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Mitra Jukir</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">
@@ -1421,7 +1444,7 @@ function goBack() {
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
-							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Tanda Tangan Anda</div><br>
+							<div class="kt-ribbon__target" style="top: 2px; right: -2px;">Fingerprint Anda</div><br>
 										<div class="kt-portlet__body">
 											<div class="kt-portlet__content">
 												<div class="form-group row">

@@ -50,6 +50,10 @@
 
 												<!--end::Nav-->
 											</div>
+											<a href="petugas-pos-komersil-add.php" class="btn btn-info btn-sm">
+                    <i class="fa fa-plus"></i> Tambah Data</button>
+                    <!--<i class="flaticon2-plus"></i>-->
+                </a>
 
 											
 										</div>
@@ -332,7 +336,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -376,7 +380,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -420,7 +424,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -464,7 +468,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -508,7 +512,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -552,7 +556,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -596,7 +600,7 @@
 																	<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 
@@ -640,7 +644,7 @@
 																<li class="kt-nav__item">
 																			<div class="kt-nav__link" data-toggle="modal" data-target="#modal-zona-pos">
 																				<i class="kt-nav__link-icon fa fa-archway"></"></i>
-																				<span class="kt-nav__link-text">Tentukan Pos Bertugas</span>
+																				<span class="kt-nav__link-text">Ubah Pos Bertugas</span>
 																			</div>
 																		</li>
 

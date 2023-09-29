@@ -340,11 +340,11 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
@@ -400,10 +400,11 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
@@ -459,10 +460,11 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
@@ -518,10 +520,11 @@
 																			</a>
 																		</li>
 																		<li class="kt-nav__item">
-																			<a href="pegawai-hapus.php" class="kt-nav__link">
+																			<a href="#" class="kt-nav__link" id="kt_sweetalert_demo_9">
 																				<i class="kt-nav__link-icon fa fa-trash-alt"></i>
 																				<span class="kt-nav__link-text">Hapus</span>
 																			</a>
+																			
 																		</li>
 																		<li class="kt-nav__item">
 																			<a href="hr-pegawai-log.php" class="kt-nav__link">
