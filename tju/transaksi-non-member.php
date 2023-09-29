@@ -320,7 +320,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
-												<td align="center" valign="middle" style="text-align:center">000000001</td>
+												<td align="center" valign="middle" style="text-align:center">00001MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -329,7 +329,7 @@
 												<td style="text-align:left" nowrap>HARIS DAENG PAWA</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">001NMT823</td>
+												<td nowrap style="text-align:center">001TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 17:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -345,7 +345,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -365,7 +365,7 @@
 												<td style="text-align:left" nowrap>Bontoala</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Segar Buah</td>
-												<td align="center" valign="middle" style="text-align:center">000000002</td>
+												<td align="center" valign="middle" style="text-align:center">00002MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -374,7 +374,7 @@
 												<td style="text-align:left" nowrap>ARMAN</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">002NMT823</td>
+												<td nowrap style="text-align:center">002TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 16:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -390,7 +390,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -412,7 +412,7 @@
 												<td style="text-align:left" nowrap>Kepulauan Sangkarrang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
-												<td align="center" valign="middle" style="text-align:center">000000003</td>
+												<td align="center" valign="middle" style="text-align:center">00003MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -421,7 +421,7 @@
 												<td style="text-align:left" nowrap>KASIM DAENG BONTO</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">001NME823</td>
+												<td nowrap style="text-align:center">001TNME823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 15:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -437,7 +437,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -458,7 +458,7 @@
 												<td style="text-align:left" nowrap>Makassar</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Aroma</td>
-												<td align="center" valign="middle" style="text-align:center">000000004</td>
+												<td align="center" valign="middle" style="text-align:center">00004MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -467,7 +467,7 @@
 												<td style="text-align:left" nowrap>A. LUTFIA AGUSTINAPUTRI</td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td nowrap style="text-align:center"><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">003NMT823</td>
+												<td nowrap style="text-align:center">003TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 14:00:00 WITA</td>
 												<td nowrap style="text-align:center">Motor</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -483,7 +483,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -505,7 +505,7 @@
 												<td style="text-align:left" nowrap>Mamajang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Jangkar Mas</td>
-												<td align="center" valign="middle" style="text-align:center">000000005</td>
+												<td align="center" valign="middle" style="text-align:center">00005MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
@@ -514,7 +514,7 @@
 												<td style="text-align:left" nowrap>BANI</td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
 												<td style="text-align:left" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fab fa-whatsapp"></i></button></td>
-												<td nowrap style="text-align:center">004NMT823</td>
+												<td nowrap style="text-align:center">004TNMT823</td>
 												<td nowrap style="text-align:left">17 Agustus 2023 - 13:00:00 WITA</td>
 												<td nowrap style="text-align:center">Mobil</td>
 												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
@@ -530,7 +530,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>

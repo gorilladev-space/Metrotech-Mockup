@@ -911,6 +911,61 @@
           </div>
 
 												</div>
+												 <!-- begin:: pageline -->
+					<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
+					<div class="kt-pagination  kt-pagination--danger">
+						<select class="form-control kt-font-danger" style="width: 60px">
+								<option value="10">10</option>
+								<option value="20">20</option>
+								<option value="30">30</option>
+								<option value="50">50</option>
+								<option value="100">100</option>
+							</select>
+							<span class="pagination__desc">
+								Menampilkan 10 dari 230 Data
+							</span>
+							<div class="kt-pagination__toolbar">
+								<ul class="kt-pagination__links">
+								<li class="kt-pagination__link--first">
+									<a href="#"><i class="fa fa-angle-double-left kt-font-danger"></i></a>
+								</li>
+								<li class="kt-pagination__link--next">
+									<a href="#"><i class="fa fa-angle-left kt-font-danger"></i></a>
+								</li>
+								<li>
+									<a href="#">...</a>
+								</li>
+								<li>
+									<a href="#">29</a>
+								</li>
+								<li class="kt-pagination__link--active">
+									<a href="#">30</a>
+								</li>
+								<li>
+									<a href="#">31</a>
+								</li>
+								<li>
+									<a href="#">32</a>
+								</li>
+								<li>
+									<a href="#">33</a>
+								</li>
+								<li>
+									<a href="#">34</a>
+								</li>
+								<li>
+									<a href="#">...</a>
+								</li>
+								<li class="kt-pagination__link--prev">
+									<a href="#"><i class="fa fa-angle-right kt-font-danger"></i></a>
+								</li>
+								<li class="kt-pagination__link--last">
+									<a href="#"><i class="fa fa-angle-double-right kt-font-danger"></i></a>
+								</li>
+							</ul>
+							</div>
+						</div>
+                    <!-- end:: pageline -->
 											</div>
                     </div>
 

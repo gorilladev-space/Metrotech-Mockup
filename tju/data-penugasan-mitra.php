@@ -118,7 +118,7 @@ function goBack() {
 																<span class="kt-widget__desc">
 																	Data Penugasan
 																</span>
-																</spandiv>
+																</span>
 														</a>
 														
 
@@ -144,7 +144,7 @@ function goBack() {
                     <div class="kt-portlet__body">
                       <div class="row">
 					  
-								<div class="col-xl-6">
+								<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 										<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -212,7 +212,7 @@ function goBack() {
 									</div>
 							<!--end:: Portlet-->
 </div>
-<div class="col-xl-4">
+<div class="col-xl-5">
 
 									<!--begin::Portlet-->
 									<div class="kt-portlet kt-portlet--height-fluid kt-portlet__head kt-ribbon kt-ribbon--right kt-ribbon--danger">
@@ -226,9 +226,13 @@ function goBack() {
 																					</div>
 																					
 																					
-						<div class="col-lg-6">
+						<div class="col-lg-3">
 																						<label>NIP :</label>
 																						<input type="text" class="form-control form-control-sm" value="238 004 032" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
+																					</div>
+																					<div class="col-lg-3">
+																						<label>ID Kolektor :</label>
+																						<input type="text" class="form-control form-control-sm" value="0001KTJU823" placeholder="31 Desember 2022" id="kt_datepicker_2" disabled>
 																					</div>
 						
 						

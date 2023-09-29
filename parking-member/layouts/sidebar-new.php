@@ -150,6 +150,7 @@
 </svg></span><span class="kt-menu__link-text">Master Data</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 									<div class="kt-menu__submenu "><span class="kt-menu__arrow"></span>
 											<ul class="kt-menu__subnav">
+												<li class="kt-menu__item" aria-haspopup="true"><a href="master-tarif-parkir-member.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tarif Member</span></a></li>
 												<li class="kt-menu__item" aria-haspopup="true"><a href="master-tipe-member.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Tipe Member</span></a></li>
 												<li class="kt-menu__item" aria-haspopup="true"><a href="master-jenis-member.php" class="kt-menu__link "><i class="kt-menu__link-bullet kt-menu__link-bullet--line"><span></span></i><span class="kt-menu__link-text">Jenis Member</span></a></li>
 												

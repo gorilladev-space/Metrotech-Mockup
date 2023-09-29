@@ -88,7 +88,7 @@
 					<div class="kt-portlet__body">
                         <div class="form-group row">
                             <div class="col-lg-2">
-                                <label>ID Customer PLB :</label>
+                                <label>ID Customer Insidentil :</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -98,7 +98,7 @@
     		                    </div>
     		                    </div>
 								<div class="col-lg-2">
-                                <label>Nama Mitra Jukir PLB:</label>
+                                <label>Nama Mitra Jukir Insidentil:</label>
 								
                                 <div class="kt-input-icon kt-input-icon--right">
         							<input type="text" class="form-control form-control-sm" placeholder="Pencarian..." id="generalSearch">
@@ -264,11 +264,11 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>PLB</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer PLB</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Customer<br>Insidentil</th>
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Customer Insidentil</th>
 											  
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer</th>
-											  <th colspan="4" bgcolor="#f7fcff"> Zonasi Customer</th>
+											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Customer Insidentil</th>
+											  <th colspan="4" bgcolor="#f7fcff"> Zonasi Customer Insidentil</th>
 											  <th colspan="4" bgcolor="#f7fcff">Korespondensi</th>
 											  
 											 
@@ -330,7 +330,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
@@ -392,7 +392,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>
@@ -454,7 +454,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="customer-detail.php" class="kt-nav__link">
+																			<a href="customer-insidentil-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Profil Customer</span>
 																			</a>

@@ -235,7 +235,7 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code<br>Member</th>
 											  <th width="1%" bgcolor="#f7fcff" rowspan="2">ID<br>Member</th>
 											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
 											 
@@ -268,7 +268,7 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000001MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -317,12 +317,7 @@
 																				<span class="kt-nav__link-text">Ubah Data Member</span>
 																			</a>
 																		</li>
-																		<li class="kt-nav__item">
-																			<a href="add-vehicle.php" class="kt-nav__link">
-																				<i class="kt-nav__link-icon fa fa-plus-circle"></i>
-																				<span class="kt-nav__link-text">Tambah Kendaraan</span>
-																			</a>
-																		</li>
+																		
 																		<li class="kt-nav__item">
 																			<a href="cetak-member-card.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-address-card"></i>
@@ -352,7 +347,7 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000002MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -431,7 +426,7 @@
 <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000003MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">

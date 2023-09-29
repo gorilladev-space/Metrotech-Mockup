@@ -113,21 +113,18 @@
                                 <label>Wilayah :</label>
 								
                                 <select class="form-control kt-selectpicker" data-live-search="true">
-                                      <option value="1" selected="">I</option>
-                                      <option value="2">II</option>
-                                      <option value="3">III</option>
-                                      <option value="4">IV</option>
-                                      <option value="5">V</option>
-                                      <option value="6">VI</option>
-                                      <option value="7">VII</option>
-                                      <option value="8">VIII</option>
-                                      <option value="9">IX</option>
-                                      <option value="10">X</option>
-                                      <option value="11">XI</option>
-                                      <option value="12">XII</option>
-                                      <option value="13">XIII</option>
-                                      <option value="14">XIV</option>
-                                      <option value="15">XV</option>
+                                      <option value="1" selected="">Bakung</option>
+                                      <option value="2">Berua</option>
+                                      <option value="3">Bulurokeng</option>
+                                      <option value="4">Daya</option>
+                                      <option value="5">Katimbang</option>
+                                      <option value="6">Laikang</option>
+                                      <option value="7">Paccerakkang</option>
+                                      <option value="8">Pai</option>
+                                      <option value="9">Sudiang</option>
+                                      <option value="10">Sudiang Raya</option>
+                                      <option value="11">Untia</option>
+                                     
                                   </select>
                             </div>
 							<div class="col-lg-2">
@@ -174,8 +171,9 @@
 											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
+											  <th width="1%" rowspan="2" bgcolor="#feffed">ID Target Pendapatan</th>
 											   <th colspan="14" bgcolor="#feffed">Target Pendapatan</th>
-											  <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
+										      <th width="2%" colspan="2" bgcolor="#f7fcff">Penetapan<br>Target Pendapatan</th>
 											 
 											  <th width="1%" colspan="3" bgcolor="#f7fcff">Disposisi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -183,8 +181,8 @@
 											<tr style="text-align:center">
 											  <th width="2%" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" bgcolor="#f7fcff">Wilayah</th>
-											  <th width="3%" bgcolor="#f7fcff">Titik</th>
-											  <th width="1%" colspan="2" bgcolor="#feffed">Senin</th>
+											  <th width="3%" bgcolor="#f7fcff">Titik Parkir</th>
+											  <th colspan="2" bgcolor="#feffed">Senin</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Selasa</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Rabu</th>
 											  <th width="1%" colspan="2" bgcolor="#feffed">Kamis</th>
@@ -213,6 +211,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>00001TPTJU823</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
@@ -296,6 +295,7 @@
 												<td style="text-align:left" nowrap>Bontoala</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Segar Buah</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>00001TPTJU823</td>
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
@@ -378,6 +378,7 @@
 												<td style="text-align:left" nowrap>Kepulauan Sangkarrang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>00001TPTJU823</td>
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
@@ -460,6 +461,7 @@
 												<td style="text-align:left" nowrap>Makassar</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Aroma</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>00001TPTJU823</td>
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>
@@ -548,6 +550,7 @@
 												<td style="text-align:left" nowrap>Mamajang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Jangkar Mas</td>
+												<td style="text-align:left; border-right: 1px solid #fff" nowrap>00001TPTJU823</td>
 												
 												<td style="text-align:left; border-right: 1px solid #fff" nowrap>Rp.</td>
 												<td nowrap="nowrap" style="text-align:right">25.000,-</td>

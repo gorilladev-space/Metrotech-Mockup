@@ -235,11 +235,13 @@
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">QR Code<br>Member</th>
 											  <th width="1%" bgcolor="#f7fcff" rowspan="2">ID<br>Member</th>
 											  
-											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Foto</th>
+											  <th width="3%" rowspan="2" bgcolor="#f7fcff">Foto</th>
 											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Lengkap</th>
 											  <th width="4%" rowspan="2" bgcolor="#f7fcff">Username</th>
 											 
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Alamat Member</th>
+											  
+											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tempat Tanggal Lahir</th>
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Tanggal<br>
 											    Registrasi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Email</th>
@@ -249,7 +251,6 @@
 											  <th width="1%" colspan="4" bgcolor="#feffed">Total Kendaraan</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Tipe Member</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Jenis Member</th>
-											  <th width="10%" rowspan="2" bgcolor="#feffed">Saldo Member</th>
 											  <th width="1%" rowspan="2" bgcolor="#feffed">Poin Member</th>
 											 
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Aksi</th>
@@ -267,7 +268,7 @@
 											<tr>
 												<td id="kt_table_1">1</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000001MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -277,6 +278,8 @@
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
+												
+												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -289,11 +292,6 @@
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--primary kt-badge--md kt-badge--inline">Silver</span></td>
-												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
 												<td style="text-align:right" nowrap>100</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -354,7 +352,7 @@
 										  <tr>
 												<td id="kt_table_1">2</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000002MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -364,6 +362,8 @@
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
+												
+												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -376,11 +376,6 @@
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--warning kt-badge--md kt-badge--inline">Gold</span></td>
-												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
 												<td style="text-align:right" nowrap>500</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">
@@ -436,7 +431,7 @@
 <tr>
 												<td id="kt_table_1">3</td>
 												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												<td style="text-align:center" nowrap>000003MP823</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -446,6 +441,8 @@
 												<td style="text-align:left" nowrap>iluchie</td>
 												
 												<td style="text-align:left" nowrap>Jl. Toddopuli Raya Timur Kompleks Villa Surya Mas J/9</td>
+												
+												<td style="text-align:left" nowrap>Makassar, 22 Januari 1987</td>
 												<td style="text-align:center" nowrap>24 September 2008</td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="dirut@ilugroup.co.id"><i class="flaticon2-send"></i></button></td>
 												<td style="text-align:center" nowrap><button type="button" class="btn btn-facebook btn-icon btn-sm" data-toggle="kt-tooltip" data-skin="brand" title="" data-html="true" data-original-title="082244444436"><i class="fa fa-phone-square"></i></button></td>
@@ -458,11 +455,6 @@
 												<td nowrap="nowrap" style="text-align:center">3</td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--success kt-badge--md kt-badge--inline">Pribadi</span></td>
 												<td style="text-align:center" nowrap><span class="kt-badge kt-badge--danger kt-badge--md kt-badge--inline">Platinum</span></td>
-												<td nowrap style="text-align:left"><div class="input-group input-group-sm">
-														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
-														<input style="text-align:right" type="text" class="form-control form-control-sm" disabled="disabled" placeholder="500.000" aria-describedby="basic-addon1">
-														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
-													</div></td>
 												<td style="text-align:right" nowrap>1.000</td>
 												<td style="text-align:center" nowrap><div class="kt-widget2__actions">
 																<a href="#" class="btn btn-clean btn-sm btn-icon btn-icon-md" data-toggle="dropdown">

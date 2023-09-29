@@ -148,7 +148,7 @@ function goBack() {
 						
 <div class="col-lg-4">
                           <label>ID Mitra Insidentil:</label>
-                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="000000001">
+                          <input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001MJPI823">
                         </div>
                         </div>
 						<div class="kt-separator kt-separator--border-dashed kt-separator--space-lg kt-separator--portlet-fit"></div>
@@ -296,7 +296,8 @@ function goBack() {
 												<table class="table table-bordered table-hover table-checkable" id="kt_repeater_1">
 																								<thead>
 																								<tr style="text-align:center">
-																								  <td width="1%" bgcolor="#f7fcff">No</td>
+																								  <td width="1%" bgcolor="#f7fcff">#</td>
+																								  <td width="2%" bgcolor="#f7fcff">ID<br>Target Pendapatan</td>
 																									<td width="5%" bgcolor="#f7fcff">Senin</td>
 																									<td width="5%" bgcolor="#f7fcff">Selasa</td>
 																									<td width="5%" bgcolor="#f7fcff">Rabu</td>
@@ -304,7 +305,7 @@ function goBack() {
 																									<td width="5%" bgcolor="#f7fcff">Jumat</td>
 																									<td width="5%" bgcolor="#f7fcff">Sabtu</td>
 																									<td width="5%" bgcolor="#f7fcff">Minggu</td>
-																									<td width="2%" bgcolor="#f7fcff" style="text-align:center">Aksi</td>
+																									
 																								</tr>
 																								<thead>
 																									<tbody data-repeater-list="">
@@ -317,7 +318,56 @@ function goBack() {
 																								
 
 																								<tr data-repeater-item>
-																								  <td style="text-align:center">1</td>
+																								  <td style="text-align:center">Lama</td>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001TPI823"></td>
+																									<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+																									<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+													<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+													<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+													<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+													<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+													<td style="text-align:center">
+																										<div class="input-group input-group-sm">
+														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
+														<input type="text" style="text-align:right" class="form-control form-control-sm" disabled="disabled" placeholder="25.000" aria-describedby="basic-addon1">
+														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
+													</div></td>
+  
+																									
+																								</tr>
+																								<tr bgcolor="#feffed" data-repeater-item>
+																								  <td style="text-align:center">Baru</td>
+																								  <td style="text-align:center"><input type="text" class="form-control form-control-sm" disabled="disabled" placeholder="00001TPI824"></td>
 																									<td style="text-align:center">
 																										<div class="input-group input-group-sm">
 														<div class="input-group-prepend"><span class="input-group-text input-group-sm" id="basic-addon1">Rp.</span></div>
@@ -361,9 +411,7 @@ function goBack() {
 														<div class="input-group-append"><span class="input-group-text input-group-sm" id="basic-addon1">,-</span></div>
 													</div></td>
   
-																									<td style="text-align:center">
-																										<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa fa-edit"></i></a>&nbsp;<a href="javascript:;" data-repeater-delete="" class="btn btn-outline-hover-danger btn-sm btn-icon" data-toggle="dropdown"><i class="fa flaticon2-trash"></i></a>
-																									</td>
+																									
 																								</tr>
 																							</tbody>
 																							

@@ -249,11 +249,11 @@
 										<thead>
 											<tr style="text-align:center">
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff" id="kt_table_2">#</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Qrcode<br>Mitra</th>
-											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID Mitra</th>
+											 
+											  <th width="1%" rowspan="2" bgcolor="#f7fcff">ID<br>Mitra Jukir</th>
 											  
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Foto</th>
-											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra</th>
+											  <th width="7%" rowspan="2" bgcolor="#f7fcff">Nama Mitra Jukir</th>
 											 
 											  <th colspan="3" bgcolor="#f7fcff">Area Bertugas</th>
 											  
@@ -287,8 +287,8 @@
 										<tbody>
 											<tr>
 												<td id="kt_table_1">1</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000001</td>
+												
+												<td style="text-align:center" nowrap>00001MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -364,8 +364,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">2</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000002</td>
+												
+												<td style="text-align:center" nowrap>00002MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -439,8 +439,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">3</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000003</td>
+												
+												<td style="text-align:center" nowrap>00003MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -512,8 +512,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">4</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000004</td>
+												
+												<td style="text-align:center" nowrap>00004MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -589,8 +589,8 @@
 										  </tr>
 										  <tr>
 												<td id="kt_table_1">5</td>
-												<td style="text-align:center" nowrap><img src="../assets/img/qrcode.jpg" width="30" height="30"></td>
-												<td style="text-align:center" nowrap>000000005</td>
+												
+												<td style="text-align:center" nowrap>00005MJPTJUVIII23</td>
 												
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">

@@ -291,7 +291,7 @@
 											  <th width="2%" rowspan="2" bgcolor="#f7fcff">Zona</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Wilayah</th>
 											  <th width="10%" rowspan="2" bgcolor="#f7fcff">Titik Parkir</th>
-											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir</th>
+											   <th colspan="6" bgcolor="#f7fcff">Mitra Jukir Bertugas</th>
 											   <th width="1%" colspan="4" bgcolor="#feffed">Detail Transaksi</th>
 											  <th width="1%" rowspan="2" bgcolor="#f7fcff">Status<br>
 											  Transaksi</th>
@@ -320,7 +320,7 @@
 												<td style="text-align:left" nowrap>Biringkanaya</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Ayam Goreng Sulawesi</td>
-												<td align="center" valign="middle" style="text-align:center">000000001</td>
+												<td align="center" valign="middle" style="text-align:center">00001MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_1.jpg" alt="image">
@@ -345,7 +345,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -365,7 +365,7 @@
 												<td style="text-align:left" nowrap>Bontoala</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Segar Buah</td>
-												<td align="center" valign="middle" style="text-align:center">000000002</td>
+												<td align="center" valign="middle" style="text-align:center">00002MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_3.jpg" alt="image">
@@ -390,7 +390,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -412,7 +412,7 @@
 												<td style="text-align:left" nowrap>Kepulauan Sangkarrang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Kroket Sulawesi</td>
-												<td align="center" valign="middle" style="text-align:center">000000003</td>
+												<td align="center" valign="middle" style="text-align:center">00003MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_5.jpg" alt="image">
@@ -437,7 +437,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-non-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -458,7 +458,7 @@
 												<td style="text-align:left" nowrap>Makassar</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Toko Aroma</td>
-												<td align="center" valign="middle" style="text-align:center">000000004</td>
+												<td align="center" valign="middle" style="text-align:center">00004MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_7.jpg" alt="image">
@@ -483,7 +483,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
@@ -505,7 +505,7 @@
 												<td style="text-align:left" nowrap>Mamajang</td>
 												<td style="text-align:center" nowrap>I</td>
 												<td style="text-align:left" nowrap>Jangkar Mas</td>
-												<td align="center" valign="middle" style="text-align:center">000000005</td>
+												<td align="center" valign="middle" style="text-align:center">00005MJPTJUVIII23</td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--rounded" ><img src="../assets/img/qrcode.jpg" alt="image" /></a></td>
 												<td align="center" valign="middle" style="text-align:center"><a href="#" class="kt-media kt-media--sm kt-media--circle" >
 														<img src="../assets/media/users/100_9.jpg" alt="image">
@@ -530,7 +530,7 @@
 																<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right">
 																	<ul class="kt-nav">
 																	<li class="kt-nav__item">
-																			<a href="transaksi-non-tunai-detail.php" class="kt-nav__link">
+																			<a href="transaksi-non-member-tunai-detail.php" class="kt-nav__link">
 																				<i class="kt-nav__link-icon fa fa-eye"></i>
 																				<span class="kt-nav__link-text">Lihat Detail</span>
 																			</a>
